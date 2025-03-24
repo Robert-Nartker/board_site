@@ -1,0 +1,475 @@
+# tactiq.io free youtube transcript
+# Unlock Business Growth with AI | Geoff Woods Reveals Secret to Leveraging AI for Business
+# https://www.youtube.com/watch/9dnAgnihfNU
+
+00:00:00.000 Geoff Woods: So, this year I resigned. I knew I would start a company about at the  
+00:00:03.640 intersection of AI and leadership. I knew I would write a book about it. And so,  
+00:00:08.320 I just started interviewing executives. Two hundred conversations in, it became abundantly  
+00:00:14.600 clear. 100% of leaders know AI is the future. 100% of the people I interviewed said they would adopt  
+00:00:20.320 it. Less than 5% had done anything. And it was simply because they didn't know where to start.
+00:00:26.720 And so, I wrote the book, The AI-Driven Leader, to help leaders understand what  
+00:00:30.840 is the simple path to start using AI at their level that will bring value because me showing  
+00:00:36.960 you how to write a better email is not business value. But your ability to think strategically,  
+00:00:43.160 that's the difference between growing your business or going  
+00:00:45.600 out of business. And using AI as a thought partner is a powerful tool.
+00:00:59.920 Justin Donald: What's up, Geoff? Good to have you on the show.
+00:01:04.467 Geoff Woods: Thanks for having me.
+00:01:05.625 Justin Donald: Well, it's good. Actually,  
+00:01:06.360 I should say it's good to have you back on the show. It's rare that I have someone come  
+00:01:10.400 back for a repeat episode but what's going on in your world, your story,  
+00:01:14.760 your career trajectory, it all warrants just a revisit on all the cool stuff you've been up to.
+00:01:23.067 Geoff Woods: I appreciate that. It's been a wild journey.
+00:01:25.545 Justin Donald: Yeah. It sure has. So, last we spoke, you were crushing it. And by the way,  
+00:01:30.480 for everyone else, Geoff and I are actually friends, and so we speak a lot. So, when I say,  
+00:01:34.360 "Last we spoke,” what I'm saying is the last time our audience has heard from him. He was  
+00:01:41.280 the Vice President of The ONE Thing and doing some big things there at that company. And so,  
+00:01:46.480 it was a big transition away from that. And so, I would love to hear what led to you  
+00:01:53.960 deciding to move on and how you transitioned because you moved on bigger and better.  
+00:02:00.280 And I think at first you were really concerned, were you going to find something bigger or  
+00:02:05.840 better or did you just settle? But you found just an amazing landing spot.
+00:02:12.307 Geoff Woods: Yeah. I think a lot of people who start a company, you start a company hoping that  
+00:02:16.240 you can build this up and it can either provide the kind of security long term or that you can  
+00:02:20.960 have an exit. I had the opportunity to exit the business and sell my equity back to my partners,  
+00:02:28.440 and I wasn't 100% clear on what the next chapter was going to be. In my heart,  
+00:02:34.520 I felt like something great would come from it. I wasn't 100% clear on what it was but  
+00:02:40.000 it was also the right time to move on. And I remember this was actually probably one of  
+00:02:45.120 the lowest moments in my life, Justin. I've heard plenty of people talk about how they  
+00:02:48.800 exit the business, and then they hit this low point because they don't know who they are.
+00:02:52.640 But I experienced this because for the longest time, I mean, ever since I was a kid,  
+00:02:57.920 I was bullied as a child. Success kind of became my way, it was my coping mechanism. I used to  
+00:03:04.720 think if I was successful then you would respect me or like me. The problem was when I started to  
+00:03:09.840 build this company and it's a fairly well-known book and brand, it fed all the parts of my inner  
+00:03:15.920 child that had never healed, and I made the mistake of attaching my identity to being the  
+00:03:22.200 face of The ONE Thing, rather than aligning my identity with what I did. And the moment  
+00:03:27.360 I was no longer the face of The ONE Thing, I realized I didn't know who I was, actually.
+00:03:31.640 And that began a six-month journey of inner discovery and honestly, a lot of healing.  
+00:03:38.440 And I just felt that something good would come. And I got a call from a guy named Naveen Jindal,  
+00:03:43.360 who's the Chairman of Jindal Steel & Power. I had been coaching him for several years,  
+00:03:47.640 him and his executive team, Giant steel company out of India. If anybody's familiar with UT  
+00:03:52.640 Dallas’ Business School, his name is on it. He called me when he found out I left and said, "Hey,  
+00:03:57.680 would you come in-house?” And I said, "Maybe. What's the job?” And he said, "You tell me.”
+00:04:02.940 Justin Donald: That’s fun.
+00:04:05.187 Geoff Woods: Yeah. That was fun. So, blank canvas. Long story short,  
+00:04:08.640 I stepped in as their Global Chief Growth Officer. They operate like a family office. They have a  
+00:04:13.080 whole bunch of companies. One is listed, which is Jindal Steel & Power, a bunch of private. My  
+00:04:18.000 job was to work really closely with the Jindal family to understand the vision for the future,  
+00:04:22.120 and then work closely with the executive teams of every operating company to drive growth. And  
+00:04:28.360 wild ride because in just a few short years, we took Jindal Steel from 750 million to 12 billion.
+00:04:35.025 Justin Donald: Yeah. That's huge. That is massive. You know, it's funny. I remember when you had kind  
+00:04:41.600 of like this self-image, this ego crisis, which, by the way, this is super common. We see this all  
+00:04:52.400 the time in our community. We see this with people that sell their business or move on or  
+00:04:56.320 have a breakup with their partners or whatever it is. We see it all the time. And it is so common  
+00:05:02.920 that people will hitch their ego and identity onto being the founder of this company or the C-suite  
+00:05:10.480 of this company. Totally normal. Not that it's good. Not that it's healthy, but it's very common.
+00:05:17.280 But I remember having a conversation with you, having gone through something similar myself,  
+00:05:21.920 and telling you right now, you may feel like you're at a crossroads and this is a crisis.  
+00:05:27.280 But in time, this is the best thing that ever happened. It's the best decision that  
+00:05:32.880 was ever made. Like, this is going to define you and/or redefine you in a way that's going  
+00:05:38.560 to be pretty powerful. And you did amazing things with Jindal and I've got to imagine  
+00:05:46.360 that there are a lot of pros to working there. I think it was probably really tough on the  
+00:05:51.000 family to have to travel to India once a quarter for an extended time, right?
+00:05:57.227 Geoff Woods: Yeah, absolutely. I mean, at first, it didn't seem that bad but I was traveling for  
+00:06:02.280 three weeks every quarter and I would hit India, the Middle East, and Africa in a three-week  
+00:06:07.200 sprint. But what I realize is two weeks leading up to the trip, my wife is nervous and it took  
+00:06:13.440 two weeks after the trip to reintegrate. So, all of a sudden you realize there's a material portion  
+00:06:18.600 of every quarter that my family dynamic was being thrown off, and that's what was not sustainable.
+00:06:25.265 Justin Donald: Yeah. You know, it's tough. And I remember at one point you  
+00:06:27.960 guys even had considered moving for this opportunity, moving to London.
+00:06:32.427 Geoff Woods: Yeah. They were going to move us there. We were all in but then  
+00:06:34.440 they pulled the plug last minute and said, "Just kidding. Stay in the US.”
+00:06:38.505 Justin Donald: Hey, blessing in disguise because it would be a way easier transition  
+00:06:43.560 here in the US already than to be transitioning back home from London.
+00:06:47.507 Geoff Woods: Absolutely. Absolutely.
+00:06:48.880 Justin Donald: So, ultimately, you have basically a client from when you were doing coaching and  
+00:06:55.440 consulting with The ONE Thing who was so impressed with you and your skill set and your ability to  
+00:07:01.960 problem solve, but also see the big picture. He brings you on. You're in-house with his  
+00:07:06.400 company. You work there for close to a couple of years, I think. And by the way, I think it'd be  
+00:07:15.600 fun to even just share with people like this isn't just some normal family. Like, this is  
+00:07:20.400 a family that was crushing the game of life, the game of business, the game of everything.
+00:07:26.720 You had your own quarters when you stayed there. You had your own person that waited  
+00:07:33.120 on you hand and foot. You drank the best wine. You ate the best meals. You had food prepared  
+00:07:39.960 at each meal for you if you weren't eating out. I mean, you had a pretty exciting and  
+00:07:46.960 cush experience. Not to take away from the fact that I know you worked hard,  
+00:07:52.760 right? I know that you earned it, but the perks seem to be pretty incredible.
+00:07:59.440 Geoff Woods: My very first trip out there, I mean, you imagine how billionaires live.  
+00:08:05.520 And when I would fly out there, I would stay at Naveen’s house,  
+00:08:09.160 which is outside of the Prime Minister's house, the second largest house in Delhi,  
+00:08:14.000 a full-blown compound. I remember a few days in, waking up, I mean, I had a personal trainer there,  
+00:08:20.200 private chef, personal driver, laundry done every day. We flew private everywhere. I remember after  
+00:08:26.440 a few days thinking to myself, "This is what it feels like to have everything.”  
+00:08:31.240 That doesn't matter because the truth is, as great as it was, my family wasn't there to  
+00:08:37.919 share it with me. And I was very aware of how appreciative I was for the experience and yet  
+00:08:45.000 how fast the novelty can wear off and how quickly you can normalize a certain standard of living.
+00:08:51.345 Justin Donald: Yeah. And by the way, that's the danger because sometimes it's those experiences,  
+00:08:56.520 if you're not careful, that can own you, right? So, when your possessions own you,  
+00:09:01.760 your money owns you. So, I can see that. I can see the grip. I can see the allure. But yeah,  
+00:09:08.840 it's not as much fun when you don't have your friends and family there. I mean, it was fun for  
+00:09:14.520 me getting some really cool pictures of bottles of wine that you were having. You would always share  
+00:09:18.360 these epic bottles because I love good wine. But, yeah, I mean, if you're not sharing it with the  
+00:09:24.320 people you care about the most and you get to do this all the time, then it becomes less exciting.
+00:09:31.387 Geoff Woods: Yeah.
+00:09:33.185 Justin Donald: But I still think you should have brought home some of those really nice  
+00:09:35.520 bottles and we could be toasting to one of those right now on this podcast, Geoff.
+00:09:40.027 Geoff Woods: He wasn't parting ways with those.
+00:09:43.385 Justin Donald: Well, I love it. He had a fun collection. Now,  
+00:09:46.880 talk me through. Share with everyone what you actually did with Jindal.
+00:09:54.427 Geoff Woods: Yeah. So, my job was to drive growth. And like I said, there was a ton of companies. One  
+00:10:00.480 was listed Jindal Steel. The others are private. My realization was they all operated as their own  
+00:10:05.920 entity. But I saw an opportunity to play a bigger game at a Jindal group level. And so,  
+00:10:12.760 I asked the question, "What are the processes or things that we would need to focus on across  
+00:10:18.520 every operating company that needed to live at a group level that we could solidify,  
+00:10:25.480 but then allow some personalization to drive through each entity?” And I came up  
+00:10:29.560 with four drivers of growth: strategy, execution, people, and technology.
+00:10:35.520 Strategy is the long-term competitive advantage you're building through the  
+00:10:38.480 actions you're taking in the short term. Execution is what is your strategic plan? Are  
+00:10:42.960 you actually focusing on what matters most? Are you reprioritizing throughout the year? People,  
+00:10:47.720 your strategic plan changes, but do the job descriptions of your people. How do  
+00:10:51.240 we make sure that the people that we have are constantly aligned and rowing in the  
+00:10:54.720 right direction? And then technology, how are we harnessing technology to better help our  
+00:10:59.320 people achieve their goals or create better efficiency? And while, I mean,  
+00:11:03.960 we had a ton of growth just by focusing on the first three: strategy, execution, and people.
+00:11:09.360 November or December of 2022, I had pulled together the executive teams from every company  
+00:11:14.880 around the world into Delhi for a CEO offsite to talk about the future leader in the Jindal world.  
+00:11:21.160 I wanted to create real alignment around what that future leader would look like. In the morning of  
+00:11:26.880 the offsite, a guy leans over to me and says, "Hey, have you heard of ChatGPT yet?” And I said,  
+00:11:33.000 "No.” And he showed me and he walked me through a use case. And I watched it start to generate  
+00:11:38.240 text in mind-blowing speed. And, Justin, this brought me back to my senior year of college.  
+00:11:43.800 I was doing an internship with a startup tech company. Right before graduation,  
+00:11:47.840 I sat down with the CEO and I asked him, "What job should I get after school?”
+00:11:52.560 And he looks at me and he says, “Geoff, you are asking the wrong question. You should be asking,  
+00:12:00.880 ‘What are the skills that I can master that are so valuable they will serve me no matter  
+00:12:05.880 where I go? And what are the jobs that will help me develop those skills?’” Best career  
+00:12:10.720 advice I've ever been given. When I saw AI for the first time, I saw the next skill. And so,  
+00:12:17.280 I just made a personal commitment to start learning how to harness this and figure out  
+00:12:21.360 where might it be able to bring value. And after going down the rabbit hole pretty deep,  
+00:12:26.200 I sat down with the chairman and said, "This is the future.” And he said, “I agree.” I said,  
+00:12:30.960 “I think we need to drive this in all the companies.” He said, “I agree.”
+00:12:33.760 I said, "Well, you're the chairman of the board. You need to own this at the board level for it to  
+00:12:37.080 happen.” And he looked at me again and said, "Why don't you do it for me?” So, overnight,  
+00:12:42.480 I'm finding myself going, "Okay. We have 100,000 people across the world. What does it look like to  
+00:12:48.200 drive AI systematically through an organization of this size?” I partner with Google. So,  
+00:12:54.320 every quarter I'm flying to Delhi. I'm living at their headquarters. I'm looking at use cases,  
+00:12:57.840 I'm tuning models. And after doing that for a little bit, I realized that I was playing way  
+00:13:03.000 too small because I saw the impact this could make but doing this inside one business was limiting.
+00:13:09.560 And so, this year I resigned. I knew I would start a company about at the intersection of  
+00:13:15.000 AI and leadership. I knew I would write a book about it. I had no idea what either would be  
+00:13:20.400 about. And so, I just started interviewing executives. Two hundred conversations in,  
+00:13:27.040 one-on-one conversations, it became abundantly clear. 100% of leaders know AI is the future.  
+00:13:33.160 100% of the people I interviewed said they would adopt it. Less than  
+00:13:36.520 5% had done anything. And it was simply because they didn't know where to start.
+00:13:41.840 And so, I wrote the book, The AI-Driven Leader, to help leaders understand what  
+00:13:46.000 is the simple path to start using AI at their level that will bring value because me showing  
+00:13:52.120 you how to write a better email is not business value. But your ability to think strategically,  
+00:13:58.360 that's the difference between growing your business or going out of business. And  
+00:14:01.720 using AI as a thought partner is a powerful tool. That's what the whole thing's about.
+00:14:06.945 Justin Donald: Oh, that's well said. Well, it's actually interesting because I remember when you  
+00:14:10.760 were figuring out after The ONE Thing what you were going to do, and we even talked about having  
+00:14:14.560 you work with me at the Lifestyle Investor and help build out a bunch of the stuff that we were  
+00:14:19.480 doing there. There is ample opportunity. But I also knew some of the things that you had kind  
+00:14:26.520 of cook in some of the options. And I still think that you and the moves that you made,  
+00:14:33.760 like this was right, and it all worked out. But I can't help but think how much fun it would have  
+00:14:39.840 been to build something together and even to like get into the weeds on all the AI stuff,  
+00:14:45.440 which you and I will do anyway. And we're actually big proponents of AI.
+00:14:49.000 In Lifestyle Investor, we have adopted all sorts of AI competencies and enhancements,  
+00:14:57.000 and we've built out a bunch of things just for Lifestyle Investors. So, for inward facing,  
+00:15:02.920 we have our own like Justin AI for everything we've ever done that is only available to the  
+00:15:08.280 masterminds, like 600-plus hours of content. We have an outward-facing Justin AI that lives on  
+00:15:14.200 the website for anything external that has ever been done, from book to speeches to  
+00:15:20.440 podcasts. And that's just the start of it. We have several other iterations. We got a  
+00:15:26.280 due diligence AI that we're in the process of building out. And so, we're huge fans,  
+00:15:31.240 and you and I, we're going to geek out on this for years and years and years. I just know it.
+00:15:35.960 But what I would love to do is just talk for a moment. And by the way, I still feel like  
+00:15:40.120 we're scratching the surface. Like, we've actually been pretty innovative. We've been pretty quick to  
+00:15:44.880 adopt on a lot of things. And there are several other areas that we use AI as well. But I still  
+00:15:52.400 know we're scratching the surface of what's possible with it and where we're ultimately  
+00:15:56.800 going to go. So, my question for you is, what does it look like for other executives running their  
+00:16:04.160 businesses and the way that they can or should or at least could consider incorporating AI?
+00:16:12.627 Geoff Woods: Sure. So, I think the first thing you have to understand is that AI is a tool to  
+00:16:17.960 help you achieve your goals. Its adoption is not your overall goal. And this is really important  
+00:16:26.080 to understand because one of the holes that I saw in the market, which really compelled me to write  
+00:16:30.520 the book, The AI-Driven Leader, and launch AI Leadership as a company, I saw all the authorities  
+00:16:35.800 in the space were tech companies pushing AI as a solution, looking for a problem. That's backwards.  
+00:16:44.240 Your goal is to drive the growth of your business. You then have your people and your technology  
+00:16:49.840 as tools to help you achieve your goal. But you have to think strategy first, technology second.
+00:16:55.720 If somebody asks me, "How do I use AI?” I'll say to them,  
+00:16:59.680 "You're asking the wrong question. You should be showing me the competitive advantage you're  
+00:17:05.280 trying to build in the long term. Show me the strategic plan you plan on executing in the short  
+00:17:09.880 term. Tell me the challenges that you are having in executing your plan in alignment with your  
+00:17:15.000 vision and the competitive advantage. And then let me talk to you about how you can better align your  
+00:17:19.319 teams and your technology to help you get more done in less time.” So, that's the first thing.
+00:17:26.079 There's really only three use cases for AI. One, put it in the hands of your people,  
+00:17:30.600 make them more productive. Two, weave it into your operations to make them more efficient. Three,  
+00:17:36.400 put it in your products or services to deliver more value to customers. The mistake I see is  
+00:17:40.960 a lot of companies are running toward how do we create a disruptive product for customers when  
+00:17:45.320 they don't have a high level of AI readiness, where they're trying to streamline their  
+00:17:49.040 operations before the executives who are even making the calls have a level of intelligence  
+00:17:55.200 to understand what's even possible or where they should start, which is why, for me,  
+00:18:00.200 I don't care where your company is. I think you start by putting it in the hands of your people to  
+00:18:04.760 make them more productive. And my recommendation is you start with executives because if they  
+00:18:09.640 can develop a high level of AI literacy and understand this, it will make them better leaders.
+00:18:14.465 Justin Donald: I love that. And I can't remember who I was talking to about this.  
+00:18:17.600 Maybe it'll come back to me, but someone I was talking to has a company and they weren't sure  
+00:18:22.800 exactly how to like get AI going. And they just said to all of their employees, "Hey,  
+00:18:28.440 you now have a budget. You're able to spend X amount per month or per year. Trial and error.  
+00:18:35.880 Have fun. Try some tools out. See what works.” And I just thought that was brilliant. And a  
+00:18:41.280 bunch of their people came up with awesome stuff that have revolutionized the company.
+00:18:46.387 Geoff Woods: I love that. And the only thing I would do to enhance that is to say, one,  
+00:18:50.840 that's a fantastic start. What would make that even better is if the executives said,  
+00:18:56.160 "Hey, you have a budget, I want you to come up with these disruptive use cases that you think  
+00:19:01.480 could add value to the company. Let me show you what I've done.” Because if the leader can be  
+00:19:08.080 a practice leader of the technology, they can better lead their people through the adoption  
+00:19:15.400 curve and help them navigate the challenges that they're going to have. Because, one,  
+00:19:19.200 there's just a challenge of learning how to adopt it. Two, there's a true  
+00:19:23.160 mindset challenge here because there are so many fears and potential risks around AI that again,  
+00:19:29.280 as a leader, you have to be really intelligent and articulate about this to lead the transformation.
+00:19:35.385 Justin Donald: Now, what about with so we've talked a little bit about entrepreneurs and  
+00:19:39.640 businesses, but what about for investors and family offices? Because we work with  
+00:19:44.080 a lot of them. And I'd be curious to see just what some of your use cases are,  
+00:19:50.120 what you're seeing transpire in these financial arenas.
+00:19:54.587 Geoff Woods: I've got two. And both of these happened within the last 30 days. One,  
+00:19:59.040 I sat down with a fund. They do commercial real estate. So, they syndicate and then they go and  
+00:20:04.840 they acquire commercial real estate. They help raise the NOI and they either hold it or then  
+00:20:10.600 they sell it off. I asked them, I literally sat down with the executive team and I said,  
+00:20:16.880 "We need to start with developing a level of AI literacy at your level and the place  
+00:20:22.040 I want to start is with strategic thinking and decision-making because that's the use  
+00:20:26.680 case that if you can do this better, it takes your business to a whole new level. I'm not  
+00:20:30.360 going to show you how you create content or write social media posts or write a better  
+00:20:34.760 email. I'm going to show you how to think more strategically at an executive level.”
+00:20:39.120 And they said, "Well, we have our new investment memorandum for the fund we're  
+00:20:43.640 about to raise.” I said, “Great. Show it to me.” They pulled it up. It was 66 pages. And I said,  
+00:20:49.600 "What was your process to make sure that this would achieve the stated goal of fully subscribing  
+00:20:57.160 the fund?” And they walked me through it and I said, "Well, how do you know that your investor  
+00:21:01.960 is going to actually like what's in here or if there are potential landmines or gaps in  
+00:21:07.680 here that need to be filled?” They looked at me and said, “I really don't know.” I said,  
+00:21:11.800 "Great. Watch this.” And I opened up AI, I took their subscription document, and I loaded it into  
+00:21:18.240 my model, which has all the privacy provisions in place so I felt good putting it in there.
+00:21:22.880 And I said, “I want you to act as our most discerning investor.” And then I looked at them  
+00:21:28.920 and said, "Describe this person in vivid detail.” And they told me the age, the level of education,  
+00:21:37.240 likely a former Fortune 500 CEO or startup founder who's had a very successful exit. They  
+00:21:43.720 care about X, Y, and Z. These are the types of risks they're looking to mitigate. So,  
+00:21:47.320 I just described that person in vivid detail and then I said, "Your task is to review this document  
+00:21:54.640 and then tell me what you like about it, what you don't like about it, the top questions that need  
+00:21:59.960 to be answered, and the top changes we could make to the document so that when you would see this,  
+00:22:04.640 you would invest.” And I sent the prompt. Now, think about, Justin, how long it would have taken  
+00:22:13.040 the team to have gone through the 66-page document and answer those four questions?
+00:22:19.305 Justin Donald: Oh yeah, I mean our best case probably, though, more like days.
+00:22:24.947 Geoff Woods: If not weeks, because then they got all the other things and all the other  
+00:22:27.600 appointments that are on their calendar. It was generating an answer in one second.
+00:22:32.145 Justin Donald: Wow.
+00:22:32.423 Geoff Woods: And it fully read the entire document and was already answering my prompt within one  
+00:22:39.080 second. And I just scrolled and watched the executive team's eyes get big as they looked  
+00:22:44.640 at this because it called out very specific things around the way you've described this structure or  
+00:22:49.800 the fees doesn't actually make sense. Here's how I would restate this so that it would be more clear  
+00:22:55.840 to me as your ideal investor. In less than five minutes, we had credible, valuable feedback that  
+00:23:02.880 helped them make the document better. That's one use case. Let me give you another one.
+00:23:08.120 Lone Ranger, who were both investors in, I sat down with them for one call and just  
+00:23:14.960 kind of gave them a very high level of, here's AI, here's how you talk to it. Here are some  
+00:23:19.080 potential use cases. Nick and Zach took that use case, and they looked at one of  
+00:23:24.200 their people who when they get budgets to come in for a flip. So, these guys,  
+00:23:28.760 they raise money and they… Would you say it's hard money lending for fix and flips?
+00:23:33.534 Justin Donald: Yeah. Hard money lending fund, yeah, for fix and flips. Same with family homes.
+00:23:36.840 Geoff Woods: So, when a person doing a flip wants to borrow money from them,  
+00:23:39.600 they have to send a budget of what’s required, but they know by the zip code how much a flip  
+00:23:45.280 should cost. And this one guy’s job is to manually review every single budget by zip code and say,  
+00:23:53.160 “Did they price it too low and they don’t know what they’re talking about? Are they pricing it  
+00:23:56.920 too high? And maybe they’re trying to skim some money off the top.” I showed them how  
+00:24:01.680 they could use AI to do 90% of that work. They literally, in two weeks, freed up 90% of that  
+00:24:08.360 guy’s job and moved him to a higher impact priority. They saved $60,000 in two weeks.
+00:24:15.265 Justin Donald: Wow. Yeah, that’s incredible. I love that. Yeah,  
+00:24:20.080 there’s going to be a lot of use cases in the world of investing,  
+00:24:23.520 in the world of finance. We’re using AI on our real estate side of things, in the real estate  
+00:24:31.240 business. We’ve used AI now to create invoices. We’ve used AI for billing. We’ve used AI for bill  
+00:24:41.040 payment. And there’s a number of other iterations of things like that, that we’ve been able to do,  
+00:24:48.520 even for keeping track of hours. I mean, there’s just so many use cases. And I read an article,  
+00:24:58.040 a JPMorgan article, here recently that just– it was a new article they put out that just walked  
+00:25:05.960 through kind of the positions that AI is likely to replace. And it’s actually, more likely to  
+00:25:13.200 replace white-collar positions than blue-collar positions, which I thought was fascinating.
+00:25:19.387 Geoff Woods: So, I went into this because I knew fear of job loss was one of the biggest concerns.  
+00:25:25.000 So, I went back in history, because I thought, we’ve been here before. This is not the first  
+00:25:28.840 major technological disruption. In 1902, John D. Rockefeller is running Standard Oil Company,  
+00:25:35.960 largest company in the world, wealthiest man in history. Factories are booming.  
+00:25:41.840 And with that comes the need for industrial workers, but he realizes there’s a problem.
+00:25:46.800 Our education system at the time was producing thinkers, and he went on record, saying,  
+00:25:53.040 “We do not need a nation of thinkers. We need a nation of workers.” So,  
+00:25:56.520 he started the General Education Board, seated it with $1 million,  
+00:26:00.200 which is $37 million today, with one sole purpose, to reshape the public education  
+00:26:06.800 system so that people would learn the skills and the processes to succeed in an industrial era.
+00:26:15.160 Here’s the challenge, that is still our education system today. And my realization  
+00:26:20.400 is prior to the assembly line, products were made by craftsmen. There was a lot of pride.  
+00:26:25.800 You owned it from start to finish. There was creativity. There was strategic thinking.  
+00:26:30.720 There was problem solving. But the moment the assembly line came in, we actually had to set  
+00:26:34.920 aside the very strengths that make us human. Our ability to think strategically, to solve problems,  
+00:26:40.520 to be creative, to be collaborative, to communicate, to really learn to show up on time,  
+00:26:45.640 take directions from management, do a task consistently, and make limited mistakes.  
+00:26:50.920 And if you do a good job, you will climb the ladder, and one day, you can be happy.
+00:26:56.160 AI is going, technology does not take people’s jobs. It changes the skills that are valued and  
+00:27:04.560 the processes that are followed. AI will change the skills that are valued of white-collar  
+00:27:12.120 workers. It will change the processes that we follow as white-collar workers. This is a good  
+00:27:17.960 thing, I believe, because most of people’s time is spent in meetings and triaging low  
+00:27:23.400 value tasks. But I believe this can free us up with the right leadership to a world where we  
+00:27:30.480 actually invest most of our time, harnessing our strengths, focused on the most important  
+00:27:35.040 priorities of our role, aligned with the goals of the company, and then supercharged with AI.
+00:27:39.705 Justin Donald: So, let me ask you this. And this is going to be potentially tough  
+00:27:43.440 to answer because it’s going to be broad, but I also think that with your knowledge of AI,  
+00:27:49.080 you should have some good solid answers. And I know it’s better to understand the  
+00:27:53.680 company and assess where you want to go, just like you said before. But for  
+00:27:58.240 someone listening that has not implemented AI, or maybe they just started using a few things,  
+00:28:04.640 maybe they’re using Perplexity, maybe they’re using ChatGPT, what are a few  
+00:28:10.040 things that you would recommend they start doing now that can have massive impact?
+00:28:17.027 Geoff Woods: So, here’s what you need to realize. AI will enhance you, it will not replace you,  
+00:28:22.640 but those who become AI driven, those are the ones that will have the jobs of the future. So,  
+00:28:28.720 you need to understand that this train has left the station. If you’ve kind of been on the  
+00:28:33.200 sidelines on developing this as a skill, I’m going to very powerfully encourage you to get off the  
+00:28:38.080 sidelines and start learning this. And I’m going to show you how right now. Justin, you’re married.
+00:28:43.745 Justin Donald: Yes.
+00:28:43.947 Geoff Woods: How important is communication in your relationship with Jennifer?
+00:28:46.905 Justin Donald: It is the most important thing.
+00:28:49.347 Geoff Woods: And what’s the quality of your  
+00:28:50.760 relationship like when you do not communicate well with Jennifer?
+00:28:54.265 Justin Donald: It falls apart really fast. It creates a lot of friction.
+00:28:58.040 Geoff Woods: It’s the same thing with AI. Most people don’t know how to communicate with AI. So,  
+00:29:03.920 when they try to use it and they get a bad or an average response, they think to themselves,  
+00:29:08.800 this is a waste of time. It’s not. It’s just that you have not yet learned how to communicate  
+00:29:13.640 with AI. So, think of your communication or a prompt as like ingredients to a recipe. I  
+00:29:20.040 will share some of my most commonly used ingredients in communicating with AI.
+00:29:24.960 One, you should always describe the task. I’m amazed at how many people I will watch write a  
+00:29:31.600 prompt for AI and not clearly tell it what they want it to do. You must clearly describe the  
+00:29:36.880 task. I even go as far as to say your task is to, insert the answer, context. AI is a  
+00:29:44.960 processing powerhouse and it just predicts the next word. It does not have your intelligence.  
+00:29:49.560 It does not have your experience. You must give it context, which is why with that investor example,  
+00:29:55.400 I described the customer in vivid detail because with that, it can process to accomplish the task.
+00:30:03.720 Third is assigning a persona. Just like in The Matrix, Keanu Reeves did not know kung  
+00:30:08.280 fu until they pushed the button, harnessed a bunch of data, and Keanu Reeves knew kung fu,  
+00:30:13.000 same thing here. This is actually a huge deal because you have expertise in your area. This  
+00:30:18.280 becomes an equalizer because I’m not a CFO, but I can ask AI to act as a CFO in accomplishing  
+00:30:25.880 a very specific task with the context that I give it, and it will harness data around  
+00:30:30.880 what a CFO might know and accomplish my task for me, or I can ask it to act as my ideal investor,  
+00:30:38.240 or I can ask it to act as a board member, an aggressive board member. You assign the persona,  
+00:30:44.960 it will behave that way. So, give the task, give context, assign the persona.
+00:30:50.680 And then my favorite ingredient of all, and this is different from what anybody else may  
+00:30:54.880 have told you, is asking AI to interview you. When it comes to strategic thinking,  
+00:31:02.280 we’re not always great at communicating everything that’s in our head. So, I love saying, “Hey, AI,  
+00:31:08.000 here’s the task I need you to solve. For context, here’s what you need to know. I want you to adopt  
+00:31:12.920 the persona of being this person. Interview me by asking one question at a time,” because otherwise,  
+00:31:19.520 they’ll ask you 5 or 10 questions at once. “And when you have enough information,  
+00:31:24.040 do the task.” You’ll be blown away at what it looks like.
+00:31:27.920 So, let me help structure this for you. I want you to think of something this week that you could use  
+00:31:34.360 a strategic thought partner on, something that you just need to think through, and you will literally  
+00:31:39.240 say, “I want you to act as my strategic thinking partner.” You just assign the persona. For  
+00:31:45.400 context, tell it everything it knows. “Your job is to interview me by asking one question at a time.  
+00:31:52.240 And when you have enough information, complete this task.” Do that, that will blow your mind.
+00:32:00.545 Justin Donald: I love it. Yeah, so much opportunity out there. I mean,  
+00:32:05.080 I was listening to a podcast with Sam Altman, and he said that he wonders how long it’s going  
+00:32:14.120 to take. He said this is inevitable, but he wonders how long it’s going to  
+00:32:18.400 take for the first one-person billion-dollar company, which now can exist because of AI.
+00:32:26.267 Geoff Woods: I fully believe it.
+00:32:27.570 Justin Donald: And I thought, wow,  
+00:32:28.280 that is mind boggling. My brain had not gone there, and it just opened up my eyes to the  
+00:32:35.040 possibilities of what’s going to come here in the coming years and decades.
+00:32:40.267 Geoff Woods: People can’t truly appreciate how game changing this  
+00:32:44.360 is until they experience it. Justin, think about every book you’ve ever read,  
+00:32:50.920 which I know how many books you read a year and all the lessons you’ve learned in school combined,  
+00:32:56.600 what percentage of all that knowledge do you think you can recall like that?
+00:33:01.585 Justin Donald: Oh, I mean, probably 1%. Maybe, if I’m lucky, a little more.
+00:33:06.587 Geoff Woods: Right. Now, that’s just based on the data you’ve been trained on. Now,  
+00:33:11.360 let’s compare it to AI. I told you, it’s a processing powerhouse. AI has been trained on 15  
+00:33:17.880 trillion tokens. A token is a unit of measure. So, if I said, here’s a paragraph of text and here’s  
+00:33:23.880 an image which is more data, you couldn’t answer that unless you had a universal unit of measure.  
+00:33:28.480 That’s what a token is. To put that into terms you would understand, that’s 200 million books  
+00:33:35.840 worth of data. The AI has been trained on, that it can recall all of it, 100% of it, on the spot.
+00:33:46.440 So, now, imagine saying, okay, it’s tough to read the label when you’re inside the box. I’m in the  
+00:33:53.040 box with my own experience, the data that I have access to that I can even recall, I’m going to now  
+00:33:58.600 have– I’m going to be the thought leader, but AI is going to be my thought partner, and I’m going  
+00:34:02.800 to harness its processing power to accomplish a specific task. That’s where the real synergy is.
+00:34:10.945 Justin Donald: Well, I love it. I love the boom that is happening right now with AI. I actually  
+00:34:15.840 find it kind of comical though, because AI has been around for a long time. I’ve been  
+00:34:19.719 investing in AI for about a decade. So, a lot of people are like, well, AI just came out. No,  
+00:34:26.960 it did not just come out. It’s been out for a long time, but I also think...
+00:34:29.507 Geoff Woods: Machine learning has been around since the 60s.
+00:34:32.099 Justin Donald: Yeah, totally. But I also think that we’re going to see really soon and we’re  
+00:34:37.159 starting to see already who these outlier companies are. And so, for me, I just want to  
+00:34:41.760 be investing in as many of the top 10 that are out there. So, I’ve been doing my homework to figure  
+00:34:49.520 out who I want to invest in. And I’ve invested in, Cohere, Anthropic, OpenAI, Perplexity. Like,  
+00:34:56.040 to me, those are your four kind of leaders. There are going to be others that emerge. But  
+00:35:01.480 I’ve got to imagine, one of those companies, if not all of them or if not the majority of them,  
+00:35:06.520 are going to be monstrous in the long haul. I mean, they’re already multi-billion-dollar  
+00:35:11.760 companies, but I think that AI is one of those revolutionary game changing,  
+00:35:20.520 like re-establishment type of scenarios where people, like, whatever your life was, it can  
+00:35:27.800 be way different by not only the utilization, but also the investment in, like, this technology can  
+00:35:35.160 transform someone’s life from being a pauper to being incredibly wealthy. And it’s neat.
+00:35:44.360 There are very few things out there that I think are going to do that. I think Blockchain is  
+00:35:48.440 another one. I think Bitcoin is another one. But there’s not a lot of things, throw AI in there.  
+00:35:56.000 There’s a few other things, areas. I mean, I’m pretty bullish on industrial port towns,  
+00:36:04.240 border towns, onshoring. There’s going to be a lot of ways to be able to create wealth.
+00:36:10.960 And the largest wealth transfer in the history of the world is going  
+00:36:13.440 to happen over the next 20 years. And it’s already starting from baby boomers  
+00:36:17.960 to millennials. And you think about what millennials do, how they spend their time,  
+00:36:23.320 what they do for recreation. And now, you add in the fact that they’re way more technology  
+00:36:27.920 savvy than most other people and they’re adopting AI at a level of speed that is  
+00:36:33.280 much different, much faster, much more impressive than the older generations.
+00:36:38.987 Geoff Woods: And this is why, for me, technology is not what makes the difference. It’s the leaders  
+00:36:46.560 who harness it. My realization, though, Justin, was that most of the leaders at the helm of  
+00:36:51.960 these companies are not literate. You don’t have to be an assassin when it comes to AI.  
+00:36:58.160 But having a foundational level of knowledge of what it is, and you being a practice leader of it  
+00:37:04.240 so that you can at least speak intelligently about it, you need to have that to lead all  
+00:37:10.080 these people in your organization that can really harness it and embrace it.
+00:37:14.080 I’ll give you one example of how disruptive I think this can be. Medtronic, giant medical  
+00:37:19.080 device company, I was working with them. Grady Davis was the VP of their marketing division,  
+00:37:24.840 and when he and I sat down, he had been playing with ChatGPT for marketing purposes. But when  
+00:37:29.680 I asked him about using it for strategic thinking, he looked at me. He goes, “Well,  
+00:37:33.160 what would that even look like?” And so, I said, “Great, give me your biggest problem  
+00:37:37.200 that you are trying to solve.” He said, “Oh, I could do that.” We have been tasked with  
+00:37:41.480 finding every US adult that had a heart murmur as a kid, but between them moving,  
+00:37:48.120 changing their names when they get married, and oh, by the way, this thing called HIPAA,  
+00:37:54.320 it’s not only trying to find a needle in the haystack. The haystack is constantly moving.
+00:37:59.040 And I went, “Holy smokes, that’s a big problem. What have you done?” They said, “We took five of  
+00:38:04.200 our best people and we put them on this team for two months. They focused on it full time,  
+00:38:10.160 and despite all the roadblocks that they had, they finally came back last week with five  
+00:38:15.240 potential solutions.” “Oh, wow, that’s amazing. Can I show you something?” He said “Sure.” So,  
+00:38:20.920 I showed my screen and I wrote a very strategic prompt. And I hit enter  
+00:38:28.160 and instantly, AI went, brrr, and gave five potential solutions.
+00:38:33.720 And I watched Grady’s face as his eyes just got huge. And he looks at me. He goes, “Geoff,  
+00:38:39.400 these are really good answers. I want to compare this to what my team came up with, and let’s meet  
+00:38:43.680 again.” Two weeks later, we hop on Zoom. He’s got his chief of staff with him this time,  
+00:38:48.120 and he goes, “This is crazy. You generated the exact same answer. A team of five took hundreds of  
+00:38:56.400 hours to do, but you’ve literally collapsed that amount of work into two minutes.” Now, I want to  
+00:39:01.960 be really clear, this is a talented team that had faced insurmountable odds and got the job done.  
+00:39:09.560 And if you do it the old way of working where we are relying on our human processing power,  
+00:39:15.600 that took two months. But Grady’s realization was, “Holy smokes, if we can harness AI’s processing  
+00:39:21.760 power with our context and our thought leadership, we could have gotten, what took us two months, we  
+00:39:27.480 could have been there in two minutes. What might we have accomplished over the next two months?”
+00:39:32.025 Justin Donald: That’s right. Yeah, that’s incredible. I love it. I mean,  
+00:39:36.160 the opportunities are endless. I get excited thinking about it. I get excited just hanging  
+00:39:40.120 out with people, brainstorming and ideating on all these different strategies or possibilities. So,  
+00:39:48.000 this is so fun. Where can people learn more about you, Geoff, and more about The AI-Driven Leader?
+00:39:55.320 Geoff Woods: So, the book is up. It is The AI-Driven Leader: Harnessing AI to Make Faster,  
+00:39:59.400 Smarter Decisions. It publishes on September 19th, and it’s on Amazon, and it’ll be in all  
+00:40:04.840 forms – hardcover, e-book, and audio. And the website is AILeadership.com. And that’s where  
+00:40:11.640 you can learn more about how we actually work with leaders to help their companies become AI driven.
+00:40:15.825 Justin Donald: I love it. Well, this was an absolute blast. Had a  
+00:40:19.600 fun time talking to you about all the cool stuff you’re up to. And I just feel like,  
+00:40:24.880 you wanted to have major impact on the world. You’re doing that,  
+00:40:28.400 my friend. You really are. And I love this new move that you’re making where you’re saying, “Hey,  
+00:40:33.560 I was doing this for this multibillion-dollar company, and I want to get all this information  
+00:40:39.520 out to the world.” So, thanks for sharing. Thanks for spending the time with our community.
+00:40:44.080 And I just like to close every podcast episode we do with a question for our audience. That question  
+00:40:50.520 is the same every time, but I’m going to ask it every time because it’s that important. What is  
+00:40:56.000 one step that you can take today to move towards financial freedom and move towards the life that  
+00:41:01.040 you truly desire, one that’s on your terms, so a life that is by design, not default? Ironically,  
+00:41:09.880 I actually wonder what it would look like if you prompted AI with that question.
+00:41:15.507 Geoff Woods: Can I give you the prompt?
+00:41:16.865 Justin Donald: Yes.
+00:41:17.480 Geoff Woods: And again, any AI tool, it could be ChatGPT, Gemini,  
+00:41:21.680 Perplexity, Claude, you can go to it and say, “Here’s what I do currently,  
+00:41:28.680 professionally. Here’s how I feel about my job. I like it, I don’t like it. I wish I  
+00:41:34.840 had more financial freedom. I would like you to interview me as my strategic thinking partner  
+00:41:41.640 by asking one question at a time to help me think through the one step that I can take  
+00:41:49.920 to help me move toward a life that is on my terms and is by design and not by default.”
+00:41:57.240 Justin Donald: That is powerful.
+00:41:59.067 Geoff Woods: Watch what will happen there.
+00:42:01.465 Justin Donald: I love it. Yeah, thank you for that prompt. And I just want to encourage  
+00:42:05.160 everyone to pick one thing. Maybe this is that one thing, but pick one thing and tribute to your  
+00:42:12.040 old company that you’re going to do to move towards financial freedom. One piece of AI,  
+00:42:19.760 one piece of advice that Geoff said. So, thanks so much for joining us,  
+00:42:23.120 Geoff. This was awesome. And I’ll look forward to catching up with you soon.
+00:42:26.267 Geoff Woods: Thanks, Justin.

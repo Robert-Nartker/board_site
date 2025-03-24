@@ -1,0 +1,1403 @@
+# tactiq.io free youtube transcript
+# An economic outlook, BOI news and reflections from Barry Melancon – Dec. 19
+# https://www.youtube.com/watch/9O4Xf6V4bDQ
+
+00:00:00.000 FEMALE_1: Welcome to theAICPA Town Hall Series,
+00:00:03.380 your resource for thelatest news and updates
+00:00:05.840 on pressing issues facingthe accounting profession.
+00:00:11.509 Erik Asgeirsson:Good afternoon and
+00:00:13.930 welcome to the AICPA Town Hall.
+00:00:16.430 Today is Thursday,December 19, most likely,
+00:00:21.450 the final town hall of theyear and I'd like to bring up
+00:00:25.290 Barry Melancon and LisaSimpson. Hi, Barry.
+00:00:31.604 Barry Melancon: Hi, it's greatto be with you and all of
+00:00:33.550 the town hall participants.
+00:00:35.790 It's close to theholidays, happy holidays,
+00:00:38.070 and a lot of stuff
+00:00:39.370 happening as we get tothe end of the year.
+00:00:41.329 Lisa Simpson: Erik,I love your hedge.
+00:00:43.070 What's possibly the lasttown hall of the year.
+00:00:46.830 We always get ahedge around here.
+00:00:48.644 Erik Asgeirsson: It's a hedge.That's right. If there's
+00:00:52.740 some late breakingnews and we have
+00:00:54.260 to do a special recordingof a town hall,
+00:00:56.600 we will get that out toyou, like we have done,
+00:00:58.740 Lisa, in past years.
+00:01:01.460 But, Barry and Lisa,there is a ton going on.
+00:01:04.890 We had a Fed meeting this week.
+00:01:06.620 You got the stock marketgoing up and down.
+00:01:09.650 We've got a major governmentfunding bill influx.
+00:01:14.660 We've got the BOI updates,
+00:01:17.640 lot of year end activities.
+00:01:19.490 It's going to be a power hourand one slide that we've
+00:01:23.360 shown many timesis this flywheel,
+00:01:27.420 which really represents whatwe try to do on a town hall.
+00:01:31.015 We take in thetimely information.
+00:01:33.300 We do our best job to give you
+00:01:35.160 real time interpretation of it,
+00:01:37.520 and we talk about strategiesand capabilities.
+00:01:40.370 Barry, this is going to be like
+00:01:41.580 many other past town halls and
+00:01:44.255 the town hall community isalready noting that as CEO,
+00:01:48.640 this will be yourfinal town hall.
+00:01:50.915 At the conclusion oftoday's town hall,
+00:01:53.200 we're going to have
+00:01:53.680 some reflective commentsrelated to that.
+00:01:55.884 Barry Melancon: Thankyou on that, Erik, but
+00:01:57.430 the flywheel is connected,
+00:01:58.810 and all the topicsthat you just related,
+00:02:00.790 two of them arereally connected and
+00:02:03.120 that's the continuingresolution,
+00:02:05.990 the government funding, and BOI,
+00:02:07.870 which is really goingto consume a lot
+00:02:09.870 of our town halltoday and it's sort
+00:02:12.090 of fitting for thelast one to have one
+00:02:13.970 that's really complex andreally tied together,
+00:02:16.250 and we'll be able to helpeverybody unpack that.
+00:02:19.728 Erik Asgeirsson: Excellent.Let's review the agenda.
+00:02:24.740 We're going to kick thingsoff with Marci Rossell,
+00:02:28.100 who's well known to
+00:02:29.280 the town hall communitywith an economic forecast,
+00:02:32.200 a little reflection on 2024and a little outlook to 2025.
+00:02:37.240 Then we've got plenty to discuss
+00:02:39.420 in the DC and profession update,
+00:02:41.680 technical updates,and then we'll have
+00:02:43.440 open form and closing remarks.
+00:02:46.980 With that, let'sbring Marci Rossell
+00:02:51.525 up and get into theeconomic outlook.
+00:02:56.250 A little bit ofbackground on Marci.
+00:02:59.790 I think most of you know her.
+00:03:01.480 She's an economic forecaster,
+00:03:04.450 former chief economist for CNBC,
+00:03:06.650 co-host of Squawk Box.
+00:03:08.550 This is the Squawk Box forthe profession, Marci,
+00:03:11.030 and these are thetopics that you're
+00:03:13.610 going to be reviewingwith us today
+00:03:15.040 so it's great to have you.
+00:03:16.409 Marci Rossell: Well,thank you so much, Erik.
+00:03:18.370 It's a pleasure tobe here. I always
+00:03:20.130 enjoy being herewith the community.
+00:03:21.690 As you pointed out,
+00:03:23.170 it's been a big news day,
+00:03:26.010 a big news week,
+00:03:28.210 but it's also beena big year and
+00:03:30.010 so I want to talk aboutsome of that today.
+00:03:32.369 Erik Asgeirsson: Well, great.
+00:03:33.290 What Barry and Iare going to let
+00:03:34.470 you do is do
+00:03:36.390 this 2024 year in the review,
+00:03:40.190 and then Barry and Iare going to come back
+00:03:42.050 and have some dialogue with you.
+00:03:44.960 Marci Rossell: I love it.Well, let's get started.
+00:03:50.750 As you can see, Ijust put together
+00:03:53.820 a really quick chart to give us
+00:03:55.980 some numbers and some ways of
+00:03:58.220 thinking and framing what
+00:03:59.920 happened last year sothat we can all get on
+00:04:02.540 the same page whenwe talk about where
+00:04:04.800 is the economy headed next year?
+00:04:07.720 Because I'm sure everyone here
+00:04:09.660 is aware that theFederal Reserve
+00:04:11.900 met this week andhas basically said,
+00:04:17.505 we're going to lower rates by 25
+00:04:19.300 basis points at their meeting.
+00:04:21.160 But then they started to usesome very different language
+00:04:24.940 around where they think theworld is headed next year.
+00:04:29.180 They talked about a realshift in monetary policy in
+00:04:32.985 2025 and so I want to talkabout why that might be,
+00:04:37.260 but I can't do thatuntil we talk about
+00:04:39.640 the world as it hasbeen because one of
+00:04:42.340 the things when you thinkabout federal reserve policy
+00:04:44.400 or any policy is
+00:04:46.260 that it is reacting to thedata as it is right now.
+00:04:51.495 Financial markets,however, take into
+00:04:54.150 account what's going tohappen in the future.
+00:04:57.085 One of the themesof my discussion
+00:04:59.470 today is that theFederal Reserve tends to
+00:05:01.770 be backward looking yet
+00:05:04.710 stock market tends tobe forward looking.
+00:05:07.365 We're going to talkabout that backward
+00:05:09.150 looking Federal Reservepoint of view first,
+00:05:11.610 where we can see, first of all,
+00:05:13.470 that US GDP grew last yearby over a trillion dollars.
+00:05:18.350 It was a very strongyear for GDP.
+00:05:20.690 We got a revision to thethird quarter GDP numbers,
+00:05:24.410 and it looks as if GDP growth
+00:05:26.690 actually picked upas the year went on.
+00:05:29.830 The economy was growingfaster and faster
+00:05:32.250 as we moved throughthe year 2024,
+00:05:35.300 so that by the time weget to the end of 2024,
+00:05:38.900 the estimates for US GDP
+00:05:42.300 right now that are comingfrom the Atlanta Fed,
+00:05:44.960 which is estimating GDPfor the fourth quarter.
+00:05:47.860 There's a wonderfulindicator called GDP
+00:05:50.120 now that comes from the FederalReserve Bank of Atlanta,
+00:05:54.080 and it's suggesting that
+00:05:55.980 fourth quarter GDP willalso come in at above 3%.
+00:06:00.210 The US economy is currentlygrowing at over 3%,
+00:06:03.980 which is above trend.
+00:06:05.720 Most economists wouldexpect about 2.5% rate
+00:06:08.860 of growth for theUS to be the norm,
+00:06:12.160 what you wouldexpect the baseline.
+00:06:14.575 Everybody's got theirbaseline blood pressure.
+00:06:17.100 This is baseline growth forUS GDP and the first thing
+00:06:21.700 we need to note isthat the economy right
+00:06:23.800 now is growingfaster than trend.
+00:06:26.515 This is relevant for
+00:06:27.540 the Federal Reserve'spolicy decision
+00:06:29.500 because number 1,
+00:06:31.330 the economy is clearlynot in recession.
+00:06:33.180 It's in expansion, andyou could argue it's even
+00:06:36.140 growing beyond capacityright now. That's the first.
+00:06:40.425 The unemployment rate, however,
+00:06:42.310 deteriorated over the year.
+00:06:44.210 At the beginning of the year,
+00:06:45.230 the unemployment rate was 3.7%.
+00:06:47.590 It finished the year at 4.2%.
+00:06:50.595 I chose red and green because
+00:06:52.670 they are traditionalholiday colors.
+00:06:55.150 If it's green, itmeans it improved from
+00:06:57.790 an economic point of viewand if the number is red,
+00:07:00.750 it means it deteriorated froman economic point of view.
+00:07:03.920 You can see, by the redand the green that we
+00:07:06.830 had a mixed year when it came
+00:07:08.550 to all the important indicators.
+00:07:10.525 Now, in terms of inflation,
+00:07:12.070 the other thing thatthe Federal Reserve
+00:07:13.730 looks at very closely,
+00:07:15.170 it started at the year at 3.1%.
+00:07:18.190 It is now sitting at 2.6%.
+00:07:20.904 Now, this is an improvement
+00:07:22.860 on the inflation point,
+00:07:24.180 but I want to note a few things
+00:07:26.655 about that inflation number.
+00:07:28.545 First off, everyone was
+00:07:30.780 expecting this tobe the year when
+00:07:33.225 the inflation rate came all
+00:07:35.670 the way down to theFed's target of 2%.
+00:07:39.045 We're not there, yet.
+00:07:41.085 The Federal Reserveis looking for
+00:07:42.930 a 2% inflation rate tocall inflation beaten.
+00:07:47.085 We are not seeingthat number, yet.
+00:07:49.440 The other thing that Iwant you guys to note
+00:07:51.540 about that numberwhen you pick through
+00:07:53.685 the Bureau of LaborStatistics inflation
+00:07:56.610 report the latest CPI numbers,
+00:08:00.510 what you will see is
+00:08:02.160 that service inflation is
+00:08:05.460 running at a much faster clip
+00:08:07.530 right now than goods inflation.
+00:08:09.870 If you break inflation down into
+00:08:12.090 the things that weredriving it during COVID,
+00:08:14.595 the price of used cars,
+00:08:16.365 the price of refrigerators,
+00:08:18.810 the price of hard goods,
+00:08:20.400 that's what drove theCOVID era inflation.
+00:08:23.490 Those things have come down.
+00:08:25.845 The price of used cars actually
+00:08:27.720 declined about 3.5% last year.
+00:08:31.185 But if you look atservice inflation,
+00:08:35.335 inflation that's related to
+00:08:36.860 services has actually picked up,
+00:08:39.230 and it's runningbetween 3% and 4%
+00:08:41.659 depending on thecategory you look at.
+00:08:43.505 Now, that's going to berelevant when we come
+00:08:45.320 to talking about things like
+00:08:47.255 policy next year that could have
+00:08:49.580 an impact on labormarkets and wages.
+00:08:52.525 The inflation picture, while it
+00:08:54.600 improved over thecourse of the year,
+00:08:56.670 it didn't improve as muchas everyone was expecting,
+00:09:01.545 particularly, theFederal Reserve.
+00:09:03.180 That's important to knowwhen we start thinking
+00:09:05.430 about where the worldis headed next year.
+00:09:08.025 Now, the fiscal situation which
+00:09:11.085 is on everyone's mindgiven the news today,
+00:09:14.460 the deficit as a percentage of
+00:09:18.120 GDP which is how I alwaysquote those numbers,
+00:09:21.870 it deteriorated over thecourse of the year so that
+00:09:24.750 the budget deficitis running 6.4%.
+00:09:28.155 It got a little bit worseas the year went on.
+00:09:30.195 Most economists believethat in the US,
+00:09:32.385 the deficit that issustainable is 5%.
+00:09:36.870 Anything more than 5% isreally not sustainable.
+00:09:39.990 Now, again, to put this intointernational perspective,
+00:09:43.545 right now Brazil is dealing
+00:09:45.990 with a blossoming debt crisis,
+00:09:49.110 and they are running
+00:09:50.970 a deficit as a percentageof GDP at 10%.
+00:09:55.230 Just to give you a sense ofwhat's a sustainable number,
+00:09:58.980 what's a problematic number,
+00:10:00.390 which I would argue in the US,
+00:10:01.470 we have problematic numbers and
+00:10:02.910 a crisis numberin Brazil of 10%,
+00:10:06.015 just to put it allinto perspective.
+00:10:07.635 Now, based on everythingwe've seen in the economy,
+00:10:11.220 the Federal Reserve hasbeen lowering rates,
+00:10:14.400 2024 will go down in
+00:10:16.050 the history books as theyear the Fed cut rates.
+00:10:18.735 This chart right heredoes not reflect
+00:10:21.045 the cut of thispast week to 4.5%,
+00:10:25.335 but it's been a yearwhere the Fed cut rates
+00:10:27.390 basically 100 basis points.
+00:10:30.240 When it comes tonext year, though,
+00:10:32.475 it's clear from the way that
+00:10:33.720 the stock market,the bond market,
+00:10:35.700 and the Federal Reserve
+00:10:38.730 is actually being prettyforthcoming and saying,
+00:10:41.310 it might not be anotheryear of major rate cuts,
+00:10:44.370 but we'll get to thatin just a minute.
+00:10:45.975 Now, as interestrates have gone down,
+00:10:49.635 mortgage rates haveactually gone up.
+00:10:51.840 This is a sticking pointfor any of my friends out
+00:10:55.140 there who havebusinesses that are
+00:10:56.610 related to housing markets.
+00:10:58.515 It's been a toughyear for housing.
+00:11:00.615 Existing home salesstayed basically
+00:11:03.120 flat at a pretty low ratefor the entire year.
+00:11:06.900 The reason for that,
+00:11:08.205 I believe, are these sticky,
+00:11:09.930 high mortgage rates which are
+00:11:11.880 not only discouragingnew buyers,
+00:11:13.980 but they're alsolocking people into
+00:11:16.350 those old mortgages at
+00:11:19.050 three and four or lessthan 5% which means we've
+00:11:22.980 got a real inventoryproblem that's
+00:11:24.960 sticking around inthe housing market.
+00:11:27.255 Now, to wrap this up,
+00:11:29.625 one of the brightest points for
+00:11:31.530 2024 was the behaviorof the stock market.
+00:11:35.220 Markets ralliedbig time in 2024,
+00:11:38.760 double digit, over 20%
+00:11:40.710 returns for US stocks overthe course of the year,
+00:11:43.470 so that we are now sittingat an S&P 500 that is
+00:11:47.775 over 1,000 points higher
+00:11:49.680 today than it was whenthe year started.
+00:11:53.040 Now, a big portionof that rally in
+00:11:55.920 the S&P 500 came post election.
+00:11:59.625 You may know fromthe headlines that
+00:12:01.830 stock markets sawtheir strongest rally
+00:12:05.250 historically ever in the wake
+00:12:07.650 of the Novemberelections in the US.
+00:12:10.995 This gets us to myoutlook for 2025.
+00:12:15.125 Now, I'm probably not tellingyou anything you don't know
+00:12:18.500 already becausewe've had lots of
+00:12:20.690 campaign rhetoric overthe last few months,
+00:12:23.360 and everyone understands that
+00:12:25.460 the incomingadministration really
+00:12:27.440 has four main pillars totheir economic program.
+00:12:32.165 The first two are taxcuts and deregulation,
+00:12:36.080 and the second twoare tariffs and
+00:12:39.530 escalated deportations ofundocumented immigrants.
+00:12:44.105 Those are the four elements
+00:12:46.935 of the new administration'seconomic policy.
+00:12:50.070 Now, at this point,
+00:12:51.480 we have no way to
+00:12:53.490 technically forecastwhat's going to happen,
+00:12:56.940 at least, from amodel perspective.
+00:13:00.285 But I do believe thatin times like these,
+00:13:03.150 financial markets are giving
+00:13:05.730 you the bestinformation right now,
+00:13:07.860 the best forecast ofhow these policies are
+00:13:11.640 likely to affect theeconomy in 2025.
+00:13:15.915 As I said before,
+00:13:17.325 the S&P 500 saw
+00:13:18.885 its strongest postelection rally
+00:13:21.840 in November the weekafter the election.
+00:13:24.960 The reason for that is
+00:13:27.510 most likely that marketsare anticipating
+00:13:30.225 pretty big tax cuts in 2025
+00:13:32.865 and a lot ofderegulation in 2025.
+00:13:36.660 These are thingsthat are well within
+00:13:38.850 the president'sability to control,
+00:13:41.925 particularly when Congress is
+00:13:44.415 basically from the sameparty as the president.
+00:13:47.475 We're likely to seeand something I know
+00:13:49.110 you guys are going totalk about a lot today,
+00:13:51.030 the tax cuts from2017 basically be
+00:13:54.810 extended beyond 2025 whenthey were set to expire.
+00:13:58.830 This is good forcorporate profitability,
+00:14:00.975 this is good foreconomic growth,
+00:14:03.180 and markets areresponding to that
+00:14:06.150 with a rally in stock prices.
+00:14:09.375 But the bond market also hassomething to say about that,
+00:14:13.560 and we focus a loton the stock market.
+00:14:15.870 But if you look atinterest rates,
+00:14:18.150 particularly on the10 Year Treasury,
+00:14:21.240 the 10 Year Treasury is sittingat about 4.5% right now.
+00:14:25.995 That's the highest ratewe've seen in seven months,
+00:14:29.220 and the yield curve hassteepened dramatically.
+00:14:32.640 This is all suggesting that
+00:14:35.565 other portions of theagenda, basically,
+00:14:39.195 tariffs and enhanceddeportations
+00:14:42.910 are likely to drive someinflation next year,
+00:14:45.830 which means you won'tget as many rate cuts as
+00:14:49.170 folks were expectingsix months ago say.
+00:14:53.415 Not a big move in bond market.
+00:14:56.590 It's not the same movement in
+00:14:57.970 bond markets that yousaw in the stock market.
+00:15:00.815 There's not comparingapples to oranges.
+00:15:03.990 I would say the stockmarket rally was stronger.
+00:15:06.320 But the bond market again,
+00:15:08.310 is having somethingto say about this,
+00:15:10.570 and it's expecting those things
+00:15:12.510 to basically push up inflation,
+00:15:14.705 particularly as I pointedout, service inflation.
+00:15:18.825 If you shrink the laborforce at this point at all,
+00:15:23.170 that's likely to put someupward pressure on wages,
+00:15:26.470 and that upward pressure onwages is going to feed into
+00:15:29.850 that service inflationthat we've seen beat
+00:15:32.810 a little bit sticky inthe second half of 2024.
+00:15:37.940 2024 the year of rate cuts.
+00:15:41.220 2025, probably, a year
+00:15:44.350 where some are even
+00:15:45.870 imagining that youcould see rate hikes.
+00:15:48.270 There's a little bit in
+00:15:49.570 some corners of themarket that are
+00:15:51.610 suggesting that youmight actually get
+00:15:53.210 rate hikes a year from now.
+00:15:55.350 But I just wantto be very clear.
+00:15:57.515 I don't really believe one
+00:15:59.190 bit that it makesany sense right
+00:16:01.110 now to be forecasting eightmonths into the future.
+00:16:05.190 I think the best youcan do is forecast into
+00:16:08.210 the next maybe eight daysat a time like this.
+00:16:12.024 Erik Asgeirsson: Well,Marci that was fantastic.
+00:16:15.740 A lot of questions coming in.
+00:16:18.390 Barry, I'll bringyou in in a moment.
+00:16:20.480 But just two areas,
+00:16:22.685 related to the inflation.
+00:16:24.620 You made a couple ofcomments on this,
+00:16:27.400 but a lot of the listeners feel
+00:16:30.000 that the inflationthey're seeing,
+00:16:32.720 their clients are seeingis much higher than 2.6%.
+00:16:38.270 Then the other a lot ofcomments coming in related to
+00:16:42.955 mortgage rates and that
+00:16:45.520 they have ticked uprecently not down.
+00:16:48.520 Maybe they're followingthe bond market.
+00:16:51.255 Also, today just sawit just came out about
+00:16:54.610 the home sales in
+00:16:56.110 November highest annualgain since 2021.
+00:16:58.840 Maybe those twomain street points,
+00:17:01.720 one on inflation and
+00:17:04.815 this number says andwhat some people
+00:17:06.910 are experiencing and secondly,
+00:17:08.410 related to mortgage rates.
+00:17:10.368 Marci Rossell: Well, myguess, like I said earlier,
+00:17:13.234 service inflation is a lotstronger than goods inflation.
+00:17:16.704 Remember that aninflation number
+00:17:18.430 that I'm going to quotehere is going to be
+00:17:20.329 an average of a whole bunchof different numbers.
+00:17:24.349 One of the things thatwe are seeing right now
+00:17:26.450 is great dispersionin the numbers.
+00:17:28.745 Remember I said, usedcars prices are down.
+00:17:31.680 But auto insurancecosts are up 12%.
+00:17:36.615 Some things go down,some things go up.
+00:17:39.230 The average isrunning at about 2.5,
+00:17:42.030 depending on how you measure it.
+00:17:43.630 But if you're relatedto the service sector,
+00:17:45.890 you're seeing wage-basedpressure on prices,
+00:17:48.970 and it is very real.
+00:17:50.760 For those of you whoare responding to that,
+00:17:53.985 it depends on thesector that you're in.
+00:17:56.290 It is absolutely true that
+00:17:58.330 the things that were drivinginflation back during
+00:18:00.770 the COVID era arevery different than
+00:18:03.430 the things that aredriving inflation today.
+00:18:07.400 As far as home sales go,
+00:18:09.810 remember that thosemonth to month numbers
+00:18:11.950 are very volatile.
+00:18:19.100 Basically, don't usemonth to month numbers.
+00:18:22.050 I use year to year because we
+00:18:23.370 want to take alittle bit more of
+00:18:24.890 that long-termperspective when it
+00:18:27.770 comes to where we thinkthe future is going to be.
+00:18:32.039 Erik Asgeirsson: Well, Barry,
+00:18:34.940 comment on the AICPA's
+00:18:38.100 recent quarterlyeconomic outlook survey.
+00:18:40.770 This came out before
+00:18:41.850 just the recentvolatility in the market.
+00:18:45.720 But even with that volatility,
+00:18:47.310 the optimism outthere with CFOs,
+00:18:49.350 with CEOs is extremely high.
+00:18:52.000 This was a big jump from Q3'24 to the current quarter.
+00:18:57.294 Barry Melancon: Marci,
+00:18:57.970 you might mind tocomment on this,
+00:18:59.170 but as Erik said,
+00:19:01.960 for those of you inpublic practice,
+00:19:03.940 this is your clients,
+00:19:04.750 for those of you whowork in corporations,
+00:19:06.970 this is the CFO type of
+00:19:09.670 index here of whatpeople really think.
+00:19:12.940 Obviously, going into 2025,
+00:19:16.015 if you just look atthe up and down,
+00:19:17.830 we talked about since reallyfourth quarter of 2021,
+00:19:21.220 just things were going up anddown on a seesaw fashion,
+00:19:24.415 and pretty much this isa spike as it relates
+00:19:27.040 to in the businesscommunity, the positives.
+00:19:30.055 I don't know if you haveany comment on that,
+00:19:33.160 but I would say, the other side
+00:19:35.200 of it is just ingeneral, talking to,
+00:19:37.510 I think people inour profession,
+00:19:39.040 the budget deficit issue,
+00:19:40.915 you made the pointabout in between
+00:19:43.480 the crisis mode and what's
+00:19:44.980 deemed to be thesustainability mode.
+00:19:47.260 I think there's a lot ofjust worry about that,
+00:19:50.920 and maybe not in Washington,
+00:19:52.210 DC, but a lot of other places
+00:19:54.040 because particularly withrising interest rates,
+00:19:57.415 it's a really difficult spot,
+00:20:00.025 and there's just no end
+00:20:02.530 in sight of tryingto get that under
+00:20:04.720 any balanced notion or
+00:20:07.960 anything that gets usinto a rational level.
+00:20:10.750 Really, it has beenon a trajectory that
+00:20:13.450 is bringing us into 6% range,
+00:20:15.835 and it's likely to go higher,
+00:20:17.875 particularly if you haveanything that happens in
+00:20:20.260 the economy like we just did
+00:20:21.610 that slows down anytype of growth.
+00:20:23.994 Marci Rossell: Well, Barry,
+00:20:25.360 I do think that's areally good point,
+00:20:26.980 but I will tell youwhat I have told
+00:20:28.840 folks for my entire career,
+00:20:30.955 and I will tell youthat career is,
+00:20:33.670 I know I look likeI'm 25, but I'm not.
+00:20:36.820 [LAUGHTER] I've beendoing this for a while,
+00:20:39.235 and folks have beenconcerned about
+00:20:40.870 the deficit for areally long time.
+00:20:42.745 I'm going to reiterate whatI say every single time.
+00:20:46.285 I don't worry about it until
+00:20:48.070 financial marketsworry about it.
+00:20:49.975 I agree with you completely that
+00:20:52.120 6.5% it's definitely above
+00:20:55.750 what we would considerto be sustainable.
+00:20:58.315 As interest rates creep up,
+00:21:00.760 this is what will ultimately put
+00:21:02.890 pressure on policymakers todo something about this.
+00:21:06.175 The last time that we saw
+00:21:08.275 real improvement inthe fiscal situation
+00:21:14.590 in the US was in 1996.
+00:21:17.335 That was the last time wehad a balanced budget.
+00:21:19.600 It can be done if financialmarkets put enough pressure,
+00:21:24.505 and that pressure only
+00:21:25.780 comes through higherinterest rates.
+00:21:27.340 We've seen them creep up,
+00:21:28.660 but in '96,
+00:21:30.580 long-term rates were at 7%.
+00:21:33.025 They were really biting.
+00:21:34.675 I just don't know that4.5% is enough to
+00:21:37.420 really get the bite thatwill get the real action.
+00:21:40.479 Barry Melancon: I getthe interest rate point.
+00:21:42.085 I will just say this too,
+00:21:43.180 and I think all of thelisteners need to understand.
+00:21:45.340 When you talk about deficitin the context of this,
+00:21:48.415 even back to 1996,
+00:21:50.350 that's on a cash basis.
+00:21:52.060 They're awful lot.
+00:21:53.680 We look at businesses,
+00:21:54.760 we look at their total picture.
+00:21:56.020 We look at their totalfinancial situation,
+00:21:58.000 not just their cash situation.
+00:22:00.265 When we talk aboutdeficits here,
+00:22:02.260 we're talking aboutdebt to a large degree,
+00:22:04.930 which is a cash basis.
+00:22:06.310 If we actually lookat the obligations of
+00:22:08.290 the United States thatextend out into the future,
+00:22:11.050 things like SocialSecurity, Medicare,
+00:22:13.600 Medicaid, things of that nature,
+00:22:15.730 those types of things add
+00:22:18.085 way higher percentagefrom our debt.
+00:22:21.475 There are countries that deal
+00:22:23.440 with it on an accrual basis,
+00:22:25.105 but the United Statesis not one of those.
+00:22:27.505 Even some of the countriesin the Middle East today,
+00:22:29.350 for instance, theyare switching to
+00:22:30.370 accrual basis, looks at this.
+00:22:31.990 New Zealand has been on theleading edge of that process.
+00:22:34.810 We distort that number inthe United States by how we
+00:22:39.310 actually capture and forget
+00:22:41.590 about all those promisesthat are made out there.
+00:22:44.094 Marci Rossell: Well,I agree. I think
+00:22:45.550 that's a reallygood point to make.
+00:22:47.035 But I also want to tellyou something else.
+00:22:48.835 I've actually goneback and look,
+00:22:50.590 and we're incredibly rotten
+00:22:53.095 at forecasting future deficits.
+00:22:55.285 One of the things that I'venoticed over and over again,
+00:22:58.510 if you go back and we find
+00:23:00.160 some charts thatgo back to 2010,
+00:23:02.545 and find some thatgo back to 2000,
+00:23:04.870 and some that go back to 1995,
+00:23:06.955 it's remarkable howdifficult it is to
+00:23:09.805 actually forecastdeficits going forward.
+00:23:13.570 We do a terrible job of it.
+00:23:15.175 I don't even know if it actuallycan be really well done.
+00:23:18.009 Barry Melancon: I think thegood news here, though,
+00:23:19.480 is that from a businessleader perspective,
+00:23:21.370 CFOs, there's a lot ofoptimism, and, of course,
+00:23:24.640 I know you wouldagree with this to
+00:23:26.440 a large degree to optimism in
+00:23:28.180 the business environment is
+00:23:31.435 a pretty good thing to happen
+00:23:33.040 from an overalleconomic perspective.
+00:23:35.304 Marci Rossell: Well, it'sone of those things.
+00:23:37.840 It does matter,but I always say,
+00:23:40.465 I don't reallycare how you feel.
+00:23:42.385 I want to see whatyou're going to do.
+00:23:44.154 Barry Melancon:Yeah, that's true.
+00:23:45.489 Erik Asgeirsson: Well, Marci,
+00:23:47.320 this has been fantastic.
+00:23:49.090 The incoming Treasury Secretary,
+00:23:51.100 you and I were talking aboutthis before today's session.
+00:23:54.265 He's focused on, hewants 3% growth,
+00:23:57.025 and he'd like to bringthe deficit down to 3%.
+00:24:00.580 He's got the 3, 3, 3,
+00:24:02.320 and the third thingis he wants to
+00:24:04.135 increase the oil productionhere in the United States.
+00:24:07.870 It's going to beinteresting year ahead.
+00:24:10.480 We look forward to havingyou back on 2025 Town Hall.
+00:24:16.120 Thank you very muchfor today's insights.
+00:24:18.444 Marci Rossell: Thank you.
+00:24:19.419 Barry Melancon:Thank you, Marci.
+00:24:23.039 Erik Asgeirsson: We'regoing to bring Lisa up.
+00:24:26.365 Lisa, as you've seen,
+00:24:28.210 a lot of people are happyto see the bicycle is back.
+00:24:31.030 [LAUGHTER] Even though they
+00:24:33.640 can't really see thefull bicycle today.
+00:24:36.490 But let's get right into this,
+00:24:40.030 Barry, this is the news story.
+00:24:44.005 Everyone thought 24 hours ago,
+00:24:47.850 Speaker Johnson had aclear path forward,
+00:24:51.775 but things have changed.
+00:24:53.814 Barry Melancon: Well, let'sstart at the macro level,
+00:24:55.855 and let's just rememberwhen we had a switch
+00:24:58.360 from Speaker McCarthyto Speaker Johnson,
+00:25:01.180 what was the catalyst on that?
+00:25:02.545 The catalyst on that wasbasically a funding bill.
+00:25:07.180 That was an omnibus typeof piece of legislation.
+00:25:11.695 It was bipartisan, and it caused
+00:25:14.515 a pretty significant pushback
+00:25:17.035 in the HouseRepublican majority.
+00:25:20.440 What we've had todayand there's going to be
+00:25:22.900 a direct tie we'regoing to cover
+00:25:24.100 here in a moment with BOI.
+00:25:25.855 But as we look at the movingparts as it relates to
+00:25:28.990 money and to funding, really,
+00:25:32.320 there was a bipartisandeal that has
+00:25:36.760 been demolishedwith the feedback
+00:25:40.840 of the incoming administration.
+00:25:43.765 Particularly, that bill was
+00:25:45.445 about obviously the debt limit,
+00:25:48.325 disaster aid, and the farm bill.
+00:25:50.410 The debt limit furtherinto the future than
+00:25:52.660 March is what the administration
+00:25:54.160 wants, the incomingadministration,
+00:25:55.750 something like a two years
+00:25:57.250 to not have something to have to
+00:25:58.450 be fought over during thatfirst two-year period of time.
+00:26:02.065 Clearly, certainlyin the Senate,
+00:26:04.825 the issues of disaster aidand farm aid is something
+00:26:09.850 that is probably notgoing to get through
+00:26:12.115 the Senate if that billdoes not contain that.
+00:26:15.325 But basically, theother side to this
+00:26:17.695 is if we bring itdown one element,
+00:26:19.750 as it relates specifically to
+00:26:21.040 the wheelhouse ofour profession,
+00:26:23.230 our team and withthe help of others,
+00:26:26.020 but our team has led the way in
+00:26:28.165 getting into the dealthat was struck,
+00:26:31.255 some very specific BOIlegislation that would
+00:26:35.350 have legally extended theentire reporting process
+00:26:39.400 to BOI for a year.
+00:26:41.455 Now, that's a prettyeasy thing to get
+00:26:43.390 into a bill like thisbecause actually,
+00:26:45.430 there's no economic partto the element of that.
+00:26:49.525 But because things beyond
+00:26:50.920 our control haveblown that bill up,
+00:26:53.995 then the whole BOI thing,
+00:26:55.360 and we'll go into it in a little
+00:26:56.410 bit more detail in a second,
+00:26:57.820 is now maybe a lotmore nebulous.
+00:27:01.270 But I do think it's
+00:27:02.560 incredible to believethat the issue that we
+00:27:04.450 have such a major concernabout how it gets implemented.
+00:27:07.990 In some cases,people have concerns
+00:27:09.490 about why it'sbeing implemented.
+00:27:11.935 That was part of this dealthat was in existence until
+00:27:15.850 about this time yesterday
+00:27:17.380 when it started toreally blow up.
+00:27:20.970 I mentioned some help,and I want to call out
+00:27:23.590 the state societies have been
+00:27:24.730 very helpful in this process.
+00:27:26.380 NFIB, the small business group,
+00:27:29.455 something calledthe ESCOP Group.
+00:27:31.360 They were veryhelpful, but our team
+00:27:33.130 really led the way to get into
+00:27:35.020 Congress to get BOIaddressed at that level.
+00:27:38.845 But the politics really point to
+00:27:41.410 today that we're going to have
+00:27:42.850 some very interestingactivities.
+00:27:45.175 There are a lot of peoplepredicting a shutdown.
+00:27:47.410 There are a lot ofpeople predicting
+00:27:48.925 a very significant unease
+00:27:50.605 in the House of Representatives.
+00:27:52.225 There's certainly wordingout there that would
+00:27:54.340 indicate that the bipartisanaspect where this was
+00:27:56.890 going to be bothparticularly in the House of
+00:27:59.290 Democrat and Republican bill,
+00:28:01.960 that support fromthe Democratic side
+00:28:04.720 feels like it's prettymuch gone in the House.
+00:28:07.735 You know there's a very,
+00:28:09.475 very narrow Republican majority.
+00:28:11.995 Can something be craftedthat gets it through
+00:28:15.070 the House with allRepublicans voting for it?
+00:28:19.000 Then if that looks likesomething that doesn't
+00:28:21.640 address disaster aid and farm,
+00:28:25.120 it's highly unlikely it gets
+00:28:26.860 through the Senate, which is,
+00:28:28.630 of course, not a house
+00:28:30.400 that is controlled bythe Republicans today.
+00:28:32.440 It's a very complicated web.
+00:28:34.519 Erik Asgeirsson: Barry,a lot of factors
+00:28:36.720 there related to
+00:28:38.880 the government funding plus bill
+00:28:41.970 and what happens and if thereis a government shutdown,
+00:28:44.970 we can maybe talka little bit more
+00:28:46.680 about that during open forum.
+00:28:48.600 But just here at avery high level,
+00:28:50.580 you dug into thelegislative process
+00:28:54.180 and what this continuingresolution bill
+00:28:56.880 would do with thisone-year delay.
+00:28:58.670 There's two other big factors
+00:29:00.310 here that we've been
+00:29:01.900 talking about in the pastcouple of town halls,
+00:29:03.910 the legal landscape,the court ruling,
+00:29:06.235 stay in the BOI wasunconstitutional,
+00:29:08.590 the one that NFIB led.
+00:29:10.690 Then the third item here,
+00:29:13.135 the impact of the newadministration or
+00:29:16.600 even the impact right now of
+00:29:18.250 what the currentadministration will do,
+00:29:20.110 and there's beena lot of advocacy
+00:29:21.310 with the current administration,
+00:29:23.110 but a change inTreasury leadership in
+00:29:26.320 the White House obviously could
+00:29:28.600 impact one and two, as well.
+00:29:32.379 Barry Melancon: Let's peel
+00:29:34.270 back these threelayers a little bit,
+00:29:36.460 and Lisa is going to jumpin to talk about some of
+00:29:38.950 the details of how BOIworks in this environment.
+00:29:41.680 But first off, yes,
+00:29:42.970 there is a courtruling that has said,
+00:29:45.700 basically, enforcement
+00:29:48.025 to this process isunconstitutional.
+00:29:50.920 When you have acourt ruling such
+00:29:52.990 as that and it's being appealed,
+00:29:54.715 that could go awayliterally overnight.
+00:29:58.090 We felt like, and I
+00:30:00.430 think others in Washingtonfelt like something
+00:30:02.110 more permanent was absolutely
+00:30:03.760 important and that's what caused
+00:30:06.100 us to really work on
+00:30:07.510 drafting legislationthat as I just said,
+00:30:10.270 has been part of the
+00:30:11.695 continuing resolutionto fund the government
+00:30:14.020 for a one year delay forentities created prior to 124,
+00:30:19.720 a one year delay fromthe applicability.
+00:30:22.015 Push everythingback one year and
+00:30:24.055 also I think very importantto know in this language,
+00:30:27.775 we were able to craft into
+00:30:30.040 that language, making it clear,
+00:30:32.170 which we have said,it's pretty clear,
+00:30:33.940 but some peoplestill are nervous
+00:30:35.410 about the unauthorizedpractice of law,
+00:30:37.420 but we have made it clear that
+00:30:39.040 doing work in this space as
+00:30:40.600 a profession for BOI compliance
+00:30:43.420 would not be the unauthorizedpractice of law.
+00:30:46.060 That's the language that24 hours ago was in
+00:30:49.570 this continuing resolutionthat has now been blown up,
+00:30:53.470 not because of this,
+00:30:54.970 but because of all theseother politics that
+00:30:57.340 are moving aroundfrom that standpoint.
+00:30:59.740 Then the regulatory environmentis also complicated.
+00:31:03.520 FinCEN is a part of Treasury.
+00:31:05.650 Our team has been workingwith Treasury to say,
+00:31:07.600 you have a court order outthere that says this at
+00:31:10.900 least from an enforcementperspective is held up.
+00:31:14.905 One of the arguments that wehave made is they need to
+00:31:17.470 be clear that ifthat were reversed,
+00:31:19.840 there'd be a window ofopportunity, not an immediate,
+00:31:22.570 but a window of opportunity
+00:31:24.505 for people to comply from that.
+00:31:26.065 We have not gotten that out of
+00:31:27.370 FinCEN and it is possible with
+00:31:29.770 a new administrationthat they could
+00:31:32.080 decide not to appealthe court decision.
+00:31:34.780 That's theoretically possible,or they could make it
+00:31:37.810 clear if we don'tget the legislation,
+00:31:43.510 if something would happen
+00:31:44.530 with the courtdecision that's out
+00:31:45.790 there and the injunctionwas overturned,
+00:31:48.385 that there would bean orderly process
+00:31:51.130 with a window of opportunityfor people to comply.
+00:31:54.999 Lisa Simpson: Barry,
+00:31:55.810 thanks for bringingthat up because that's
+00:31:57.130 really importantto our audience.
+00:31:58.840 I know this uncertainty
+00:32:01.360 and this watching theclock and getting closer
+00:32:03.610 and closer to a January 1 date
+00:32:07.300 is weighing on a lot of minds,
+00:32:10.645 so I do just want toreiterate what Barry said.
+00:32:13.480 We're working reallyhard to try to
+00:32:16.060 push Benson to giveus that orderly
+00:32:19.000 transition guarantee if theinjunction is lifted prior to
+00:32:22.480 January 1 or whenever
+00:32:24.325 if it is lifted atsome other point.
+00:32:27.115 Just know that we'reon the case with that.
+00:32:28.840 Our team continues to
+00:32:30.250 work really hard onthat aspect of it.
+00:32:32.529 Barry Melancon: Lisa froma practical standpoint,
+00:32:34.675 and I'm not makingthe prediction,
+00:32:36.805 but I think if the court order
+00:32:39.010 stays in placethrough December 31,
+00:32:41.935 the likelihood ofsome clarity on
+00:32:44.140 a window of opportunityto become in compliance,
+00:32:46.540 should it become reversedis probably much higher.
+00:32:50.770 I think there's a bitof a hesitancy in
+00:32:52.510 the short run right nowbecause technically
+00:32:55.000 the statutory elements of
+00:32:56.650 the requirement basicallyfall to December 31.
+00:33:00.070 Just a little nuance there.
+00:33:01.554 Lisa Simpson: That's correct.
+00:33:03.445 From a legal landscapeperspective,
+00:33:06.760 we talked through some of
+00:33:07.930 the details on lastweek's town hall.
+00:33:11.020 If you didn't join us forsome reason for that one,
+00:33:14.110 then go back andrevisit that segment.
+00:33:17.140 But I'm going to callout what's changed
+00:33:19.540 since our town halleight days ago,
+00:33:22.210 I believe it wasnine days ago and
+00:33:25.120 the big change since thenis that on December 13,
+00:33:29.425 the Department of Justicefiled an emergency motion
+00:33:32.905 to try to get theinjunction lifted.
+00:33:38.110 I've given you a littleexcerpt of their language.
+00:33:41.890 This is just onecomponent of it,
+00:33:43.600 but they are claiming that
+00:33:45.640 the injunction will inflict
+00:33:49.210 irreparable injuryagainst the government.
+00:33:52.315 Just interesting readingif you're bored over
+00:33:54.760 the next couple of weeks and are
+00:33:56.710 looking for something to maybehelp you get some sleep,
+00:33:59.065 start with that one, but Ithought it was interesting.
+00:34:01.795 What is also interestingabout this is that DOJ
+00:34:05.890 has requested a rulingby December 27th.
+00:34:10.525 That's not much time.
+00:34:11.844 All the information wasdue yesterday, I believe,
+00:34:15.264 and so we should expect to
+00:34:17.784 see something onthat ruling soon.
+00:34:20.364 Meanwhile, there areother cases that are
+00:34:24.540 going through the legal system
+00:34:26.850 that say BOI is constitutional.
+00:34:29.370 You've got a veryfluid legal landscape
+00:34:33.530 that we will continueto track for you,
+00:34:35.875 acknowledging that we'rereally close to January 1.
+00:34:38.768 Barry Melancon: Nowlet's bring back
+00:34:40.074 into what you just said, Lisa,
+00:34:41.875 the political aspect of what'shappening on Capitol Hill,
+00:34:46.090 and let's just makeit this point.
+00:34:48.010 Let's say there's an impasse,
+00:34:50.409 and let's say thegovernment gets shut down.
+00:34:53.455 We know from history thatthe length of time when
+00:34:57.100 the government is typically shut
+00:34:58.600 down is generally pretty short.
+00:35:01.030 Let's assume for a second,
+00:35:02.875 we have a shutdown,
+00:35:04.180 and then let's assumethere's a deal,
+00:35:06.985 although members of Congress
+00:35:08.380 want to go homefor the holidays.
+00:35:10.090 There's a little bit of thatpressure out there as well.
+00:35:13.975 But let's assume there's adeal before December 31,
+00:35:17.290 your December 27 date on
+00:35:19.270 the appeal that's beenrequested by the government.
+00:35:21.955 Let's assume there'sa deal before
+00:35:23.650 December 31 and there
+00:35:25.930 is some funding bill thatgets through Congress.
+00:35:28.765 Then I think it's fair,
+00:35:30.070 and I'm sure people are writing
+00:35:31.120 in right now and it says, well,
+00:35:32.185 if there's a skinny downcontinuing resolution,
+00:35:35.650 which is what the incomingTrump administration wants,
+00:35:38.920 will BOI stay into it?
+00:35:40.930 The good news about BOI in
+00:35:42.790 that process is it doesn'thave a fiscal note to it.
+00:35:46.390 It's not a cost to
+00:35:47.770 the government in acontinuing resolution.
+00:35:51.370 That increases theodds no matter what
+00:35:54.550 gets negotiated betweenthe incoming president,
+00:35:57.580 the House, and the Senate,
+00:35:58.600 as it relates tocontinuing resolution,
+00:36:00.490 it increases our odds to get
+00:36:03.040 the BOI one-year extension
+00:36:04.945 into what ultimatelygets passed.
+00:36:08.230 I think at this point, you could
+00:36:09.640 be pretty confident betting.
+00:36:11.245 It's going to be a continuingresolution that gets
+00:36:14.110 passed that's goingto be much narrower.
+00:36:17.725 But if anything is in it,
+00:36:19.645 other than just purecontinuing resolution
+00:36:22.300 to fund the government,
+00:36:23.575 BOI remains pretty high on
+00:36:25.750 the likelihood stage because it
+00:36:27.640 does not actually havea funding issue too.
+00:36:30.294 Lisa Simpson: Let's raisethat likelihood even
+00:36:32.620 more by reaching outto our members of
+00:36:34.900 Congress to talk about howimportant that one-year delay
+00:36:38.710 is for this community and for
+00:36:40.780 the small businesses thatare subject to this.
+00:36:43.135 We're not againstanti-laundering legislation.
+00:36:46.090 This is a law thatis on the books.
+00:36:50.170 We are simply asking for
+00:36:51.820 that one-year delay tohelp increase awareness of
+00:36:55.810 the filing requirementto get through
+00:36:59.050 the chaos of theselegal challenges
+00:37:01.450 that are, again, very fluid.
+00:37:03.100 I'm just going tokeep using that word.
+00:37:04.645 Get out your Bingo card,
+00:37:06.775 and that help us create
+00:37:09.430 some clarity that we'vebeen trying to get into
+00:37:12.640 the legislation around CPAs
+00:37:15.640 providing the service totheir small business clients.
+00:37:18.325 Your voice, as we've talkedabout on prior Town Halls,
+00:37:21.715 is so impactful when it
+00:37:24.040 comes to gettinglegislative action.
+00:37:27.280 We're asking everyonein this community to
+00:37:30.760 reach out to theirlegislators today and we've
+00:37:33.670 given you links to whereyou can find out who
+00:37:36.550 your congressional delegation is
+00:37:38.890 for both the Houseand the Senate.
+00:37:41.170 Again, I do wantto give the shout
+00:37:42.520 out to the statesocieties who've
+00:37:43.810 been so helpfulthroughout this process.
+00:37:46.554 Barry Melancon: I totallyagree with that and
+00:37:47.860 I mentioned it before.
+00:37:49.210 Just to add onething because, Lisa,
+00:37:51.295 you mentioned the moneylaundering element to this.
+00:37:55.195 We are a profession that has
+00:37:57.460 a clear track recordthat we are part of
+00:38:00.505 a mechanism globallythat certainly does
+00:38:03.820 not support illegal moneylaundering type of activities.
+00:38:07.390 But the one year,
+00:38:09.130 by putting it off ayear gives a lot of
+00:38:12.070 what is not aboutanti-money laundering,
+00:38:15.610 but about the practicalimplication for
+00:38:18.250 30+ million small businessesLisa mentioned them,
+00:38:21.745 the time limits when there's
+00:38:24.340 an update that needs to take
+00:38:25.690 place and things of that nature.
+00:38:27.280 All of that can be much more
+00:38:28.840 rationally deliveredinto the marketplace,
+00:38:31.630 and the one year really buys
+00:38:33.070 the time to work with, frankly,
+00:38:35.290 a different administrationand a different treasury to
+00:38:38.080 try to get that into arational set of solutions.
+00:38:41.649 Lisa Simpson: Speakingof timelines,
+00:38:43.450 we wanted to give you a look of
+00:38:46.150 if we are successful in getting
+00:38:49.345 this legislativedelay that was in
+00:38:52.390 the draft legislation that
+00:38:54.140 we thought had a goodchance to yesterday.
+00:38:56.700 This is what the reportingdeadlines would look like.
+00:39:00.605 The legislativedelay would impact
+00:39:04.120 those entities who were inexistence prior to January 1.
+00:39:08.050 They would not be required tofile until January 1, 2026.
+00:39:12.325 The existing timelines
+00:39:15.700 that FinCEN has given us
+00:39:16.930 through theirimplementation regulations
+00:39:19.465 would stay in existence.
+00:39:21.340 If an entity wascreated in 2024,
+00:39:24.100 they've got 90 daysafter the creation to
+00:39:26.740 get their initial BOI report in.
+00:39:29.515 If they're created in 2025,
+00:39:31.870 so that goes into effect.
+00:39:32.890 January 1, 2025, there'sa 30 day requirement.
+00:39:37.120 Corrections, updatedfilings have
+00:39:39.640 a 30 day requirementas well with
+00:39:42.460 a big wrapper abig huge asterisk
+00:39:45.130 that says we do havethis ongoing litigation.
+00:39:47.890 We do have thisnational injunction
+00:39:50.035 on enforcement right now.
+00:39:52.420 All of that comes into play.
+00:39:54.985 Our team continuesto advocate that
+00:39:57.820 the 30 day timeline is
+00:39:59.560 not realistic asBarry just mentioned,
+00:40:01.705 so we're pushing for thaton both a legislative
+00:40:04.705 and a regulatory perspective,
+00:40:08.455 and we'll continueto do that as well.
+00:40:11.649 Barry Melancon: Those of youabout BOI, just real quick,
+00:40:15.085 Erik I believe that
+00:40:17.890 the CPA profession as thetrusted advisor and to
+00:40:20.290 small business isabsolutely critical.
+00:40:23.095 I think everybodyknows my position,
+00:40:24.940 CPAs ought to be between
+00:40:27.700 their clients and
+00:40:28.750 the regulatory compliancein this space.
+00:40:30.610 I know some firms are notdoing this work and a lot are.
+00:40:34.795 This is a very confusing aspect.
+00:40:37.795 Continue to refer to this.
+00:40:40.360 Erik and talked about in thebeginning and Lisa about
+00:40:43.870 the necessity possiblyof an updated town hall.
+00:40:47.335 It would probably be arounda continuing resolution
+00:40:50.140 and what ultimately gets inthere as it relates to BOI.
+00:40:53.634 Erik Asgeirsson: Lotsof questions coming in
+00:40:55.720 and also just comments.
+00:40:57.580 One saying, why can't weget the reporting deadline
+00:41:01.000 for entities created in2024 or 2025 and later.
+00:41:06.280 That is something,
+00:41:08.365 we've advocated for things.
+00:41:10.030 You try to get the bestpossible deal you can.
+00:41:13.210 That's what this reflects.
+00:41:16.285 There's also lots of comments on
+00:41:18.100 just having BOI repealed.
+00:41:19.945 People when they're sayingthey're going to write in and
+00:41:22.090 not just ask for delay,
+00:41:24.160 but just to have thisrequirement repealed.
+00:41:29.164 Barry Melancon: That's notgoing to happen though.
+00:41:31.410 You have to be legislatively
+00:41:34.410 savvy and get to theart of the doable.
+00:41:37.575 I'm famous for saying
+00:41:38.670 the pursuit of perfectionis the enemy of progress.
+00:41:42.195 What you just described Erik
+00:41:44.280 those people that arewriting in are saying,
+00:41:46.230 that might be in
+00:41:47.370 some people's mindsperfection a complete repeal.
+00:41:50.775 You have to deal withthe context of how
+00:41:53.340 the federal governmentis operating in
+00:41:56.590 a world of multinationalsand as it relates
+00:41:59.395 to really the issue ofanti money laundering,
+00:42:02.530 that's a globalinitiative of which
+00:42:04.810 the United States isexpected to participate,
+00:42:08.125 certainly like many othercountries in the world,
+00:42:10.540 most other countries in theworld are participating.
+00:42:12.924 Erik Asgeirsson: Well, atleast the other question
+00:42:14.920 is so what do I do?
+00:42:16.630 Then after this slide, we'llmove into technical updates.
+00:42:20.289 Lisa Simpson: ButI'll go through
+00:42:21.250 the technical updatesfairly quickly.
+00:42:23.020 But for this one,
+00:42:24.400 again if you joinedus last week on
+00:42:26.200 the town hall we had a
+00:42:28.120 so now what arethe best practices
+00:42:30.040 that are being recommended?
+00:42:31.990 Now we've got now what part
+00:42:34.150 D. The guidance is basicallystill very similar.
+00:42:39.310 It is you've got to continue to
+00:42:41.230 talk with your clientsabout the injunction,
+00:42:44.185 about FinCEN's appeal, andthen the emergency motion.
+00:42:49.405 You've got to put theonus on the client to
+00:42:52.300 decide if they want to proceed
+00:42:53.620 and submit their BOI reports,
+00:42:55.210 if you're going to help themwith that and be prepared.
+00:42:58.960 Consider gathering thatinformation, having it ready,
+00:43:02.440 especially if your clientsare telling you about
+00:43:04.510 new entities that they'regetting ready to form,
+00:43:06.910 or if they formed somethingin the last few months,
+00:43:10.660 get all of that informationbecause the fluid situation
+00:43:15.535 of the injunction possibly being
+00:43:17.560 lifted or gettinga one year delay.
+00:43:20.485 We don't know right now what
+00:43:21.910 the end result is going to be.
+00:43:23.620 Just staying attuned to that and
+00:43:25.210 notifying all of your clients.
+00:43:27.250 We have our AICPABOI resource section
+00:43:30.850 that I want to makesure you're aware of.
+00:43:32.800 We've opened that up toall of our AICPA members,
+00:43:35.680 and we have risk alerts that
+00:43:38.965 the AICPA member Insuranceprogram has put out for us,
+00:43:43.015 and that was includedin last week's news.
+00:43:45.910 I'll make sure thatwe've got a link
+00:43:47.200 in the newsletter as well.
+00:43:50.249 Erik Asgeirsson: Well,
+00:43:51.415 we got an open form andsuppose you've seen
+00:43:53.350 some breaking newshere that there's
+00:43:56.050 something justannounced that maybe
+00:43:58.015 a deal has been reached.
+00:44:01.285 Maybe we'll getmore information on
+00:44:03.460 that as Lisa does thetechnical update section.
+00:44:06.699 Lisa Simpson: Let'sskip through the
+00:44:08.230 technical updatesfairly quickly.
+00:44:10.015 But I want to let youfirst know that we do have
+00:44:13.390 some recent disaster relieflegislation that was
+00:44:15.460 enacted a couple of a week ago.
+00:44:19.495 This one basicallycloses the gap.
+00:44:22.180 This is somethingwe've been advocating
+00:44:23.530 for for quite some time.
+00:44:25.105 It provides relief to somespecial types of disasters,
+00:44:30.720 including qualifiedwildlife disasters
+00:44:33.870 and the victims of
+00:44:35.850 the East Palestine trainderailment that occurred.
+00:44:38.555 Some time ago. You've got
+00:44:41.020 the details there onwhat that relief offers.
+00:44:43.630 Then moving throughthis fairly quickly,
+00:44:46.480 we've got some newregulations on
+00:44:49.045 tax credits that were a part of
+00:44:51.820 the InflationReduction Act of 2022.
+00:44:55.150 Fairly nuance won'tapply to everyone,
+00:44:58.720 but just wantedto make sure that
+00:44:59.890 you have those available.
+00:45:01.675 Again looking at our tax updates
+00:45:04.945 we have let's seewhat we have next.
+00:45:09.085 Digital asset basis tracking.
+00:45:11.590 This is going to bereally important
+00:45:13.030 because as of January 1,
+00:45:16.345 taxpayers are required to switch
+00:45:19.135 the basis that they'reusing to track
+00:45:21.970 their digital asset basis toeither a global allocation
+00:45:25.165 or specific ID if that
+00:45:26.590 isn't what theywere already using.
+00:45:28.600 I've got a great taxadvisor article for you.
+00:45:31.555 We have some FAQs that we've
+00:45:34.135 released around thischange in basis tracking.
+00:45:37.960 You've got both theQR code and the link,
+00:45:41.035 and that's always a reminder
+00:45:43.750 to download the slides so that
+00:45:45.790 you've got those livelinks available to
+00:45:47.740 you after the town hall today.
+00:45:51.570 I wanted to quickly mentionwe talked last week
+00:45:55.630 about the change in the1099-K reporting threshold,
+00:45:59.170 bringing this back toyour attention because we
+00:46:01.390 went through thingsfairly quickly last week.
+00:46:03.610 You've got anotherchance to check out
+00:46:05.410 that 1099-K snapshot resource
+00:46:08.200 that we've prepared for you.
+00:46:10.345 As we approach, what for
+00:46:13.840 some will hopefully be alittle bit of a holiday break.
+00:46:17.575 I wanted to give yousome things to think
+00:46:19.780 about building intoyour repertoire
+00:46:22.705 or your library of howto Stay Up To Date
+00:46:26.005 in a fast changing environmentover the next few months.
+00:46:30.025 I wanted to callyour attention to
+00:46:31.990 our always popular taxsection OdysyPodcast,
+00:46:35.350 and we've got some of
+00:46:36.880 the most recent episodeslisted on the next slide.
+00:46:41.100 We also have ourtax compliance kit,
+00:46:44.245 which is a great resource formembers of the tax section.
+00:46:48.640 We've got engagementletters in there.
+00:46:50.170 We already have some of
+00:46:51.910 our tax returnchecklists available,
+00:46:53.800 and then we'll be getting
+00:46:55.510 those client organizersand practice
+00:46:57.040 guides out veryquickly, as well.
+00:46:59.020 Tax section memberstake a look at that.
+00:47:00.850 If you're not a member,you can look at
+00:47:03.310 the resources thatare in there to see
+00:47:05.200 if that's a goodinvestment for you.
+00:47:07.720 As you know my passionis practice management,
+00:47:10.690 so I've compiled some of
+00:47:12.460 my practice managementresource recommendations to
+00:47:16.015 either catch up onyour reading or
+00:47:17.320 your podcasts overthe next few weeks.
+00:47:20.755 In addition to thetax section podcasts,
+00:47:23.290 we've got some others on
+00:47:24.820 our transforming businessmodel evolution.
+00:47:28.945 Erik if we can thenext slide quickly.
+00:47:32.559 Erik Asgeirsson:Sorry. There you go.
+00:47:34.884 Lisa Simpson: Therewe go. Along with
+00:47:36.820 some other great articles,
+00:47:38.050 we've got anupcoming reimagining
+00:47:39.460 your tax practice series onusing AI and automation.
+00:47:43.075 I think that'll bereally interesting.
+00:47:44.785 Then some good tips foryou as you think about how
+00:47:47.080 to get ready for busy season,
+00:47:49.330 whether it's audit tax or,
+00:47:52.750 wrapping up your end for
+00:47:54.310 your client accountingservices clients.
+00:47:59.090 Erik these are someinsights from you.
+00:48:02.429 Erik Asgeirsson: Insights fromthe digital CPA community
+00:48:05.895 what we're talking
+00:48:07.770 about what we learned
+00:48:09.735 at the digital CPAevent, the power of AI,
+00:48:12.945 how it's helping, move
+00:48:14.940 the CAS area and theadvisory services,
+00:48:18.165 as well as the taxand audit area,
+00:48:20.415 helping them with a lot
+00:48:21.810 of providing businessinsights and
+00:48:23.880 other reflections relatedto their clients business.
+00:48:28.710 Then there was a lot about
+00:48:30.915 driving audittransformation there.
+00:48:33.105 Definitely worth a look.
+00:48:34.770 Also, the CAS area,
+00:48:37.680 what one of the fastestgrowing areas of the practice.
+00:48:41.850 Lisa you're saying if you want
+00:48:43.830 some more reading overthe holiday break,
+00:48:45.750 here's a greatbenchmark survey report
+00:48:50.280 which is about 40 pages long.
+00:48:52.215 We talked about in
+00:48:53.010 the last town hallthat really gives you
+00:48:54.420 some good insights on
+00:48:55.920 the best practices relatedto running a cast practice.
+00:48:58.845 Also informationrelated to audit
+00:49:01.290 firm branding and AI here.
+00:49:03.810 Lots of resource materials.
+00:49:06.165 With that we'reright on time here.
+00:49:08.130 As we said, we want to havea little bit more time
+00:49:10.500 here at the end.
+00:49:11.850 Haven't seen Barry. I don'tknow if you've seen anything.
+00:49:14.250 [LAUGHTER] On thebreaking news there,
+00:49:17.055 but there couldbe breaking news,
+00:49:19.140 and then it still has to getacross the finish line too.
+00:49:22.844 Barry Melancon: Wellthere is breaking news.
+00:49:24.960 The House Republicans aresaying they have a deal.
+00:49:26.865 It's not clear whether that'sa bipartisan deal or not,
+00:49:29.130 which would probably make
+00:49:29.865 a difference on what'sactually in it.
+00:49:31.440 It's also pretty much
+00:49:33.585 clear that it's notnecessarily including
+00:49:35.580 the Senate at this point tothe point that I just made
+00:49:37.650 about disasterrelief and Form Aid.
+00:49:40.470 I think that will be unpacked.
+00:49:42.750 Whether BOI is in it,
+00:49:43.995 we would not knowat this moment.
+00:49:46.305 But when you listento the news tonight,
+00:49:48.825 I think the keything to listen for
+00:49:50.745 is how narrow this deal is.
+00:49:53.175 If it's what's called aclean continuing resolution,
+00:49:57.135 all it's doing is funding thegovernment for some period
+00:50:00.300 of time and essentiallymeaning nothing else is in it.
+00:50:03.510 Obviously that would mean BOImight probably not in it.
+00:50:06.465 If it's just skinny
+00:50:08.910 down then there's probably
+00:50:10.380 a reasonably good chancethat BOI is in it.
+00:50:12.855 That's the way I would give you
+00:50:14.730 a scorecard to think about
+00:50:15.840 it as you watchthe evening news.
+00:50:18.009 Erik Asgeirsson:Well said Barry if
+00:50:20.630 we need to we will come
+00:50:21.710 back with a futuretown hall update,
+00:50:24.770 and we also will update
+00:50:26.360 the town hall communityvia the newsletter.
+00:50:28.520 Lisa I've been looking.
+00:50:29.930 We got lots of questionsthat have come in.
+00:50:32.105 Is there anytechnical question we
+00:50:35.270 want to raise rightnow during open forum?
+00:50:38.529 Lisa Simpson: I tooka quick glance and I
+00:50:40.230 saw a BOI question thatjumped out at me which
+00:50:42.810 is can you continue to
+00:50:44.700 voluntarily file BOIreports right now?
+00:50:47.655 The answer is yes.
+00:50:49.020 You are not prohibitedfrom filing BOI.
+00:50:52.755 If you or your client are
+00:50:56.550 fine and want to go ahead
+00:50:58.830 and get that out of theway, they certainly can.
+00:51:02.658 Erik Asgeirsson:Questions on ERC,
+00:51:04.980 too as well should theybe following ERC claims?
+00:51:09.779 Lisa Simpson: Thank you.ERC we're still getting
+00:51:13.650 no real updates out of what
+00:51:15.660 the IRS is doing in termsof processing the backlog.
+00:51:18.525 Can you continue tofile an ERC claim?
+00:51:20.895 Yes, you're going to go at
+00:51:22.800 the back end of a major backlog.
+00:51:27.710 Again there's a cloud of
+00:51:31.110 uncertainty thereabout whether or not
+00:51:33.885 ERC will shut down
+00:51:36.720 as a funding mechanism forother provisions in tax law.
+00:51:39.690 But as of now, talkwith your client
+00:51:42.180 about what the current state is.
+00:51:45.060 Talk with your clientabout the January 31,
+00:51:48.690 2024 drop dead-datethat was proposed in
+00:51:51.390 legislation early this year
+00:51:53.610 that still has not progressed,
+00:51:55.905 and have your client make
+00:51:57.330 the decision as to whetheror not they want to file,
+00:51:59.490 and then hold on becauseit's going to take a while.
+00:52:03.019 Erik Asgeirsson: Withthat Lisa let's cover
+00:52:06.780 a couple more resourceslides and then
+00:52:09.075 do some reflections with Barry.
+00:52:12.240 Here you all know,
+00:52:13.905 even though we've gotover 9,000 with us live
+00:52:16.770 today on this Thursdaybefore the holidays,
+00:52:20.685 but for those of you
+00:52:23.415 who did not make today
+00:52:25.305 or have a colleague thatdid not make today,
+00:52:27.285 you can watch threeBroadcast at 1:00 PM.
+00:52:30.270 Still are eligible for CPE.
+00:52:32.955 Here's a number of
+00:52:34.875 town hall resources whereyou can sign up for
+00:52:38.760 the town hall and watch
+00:52:41.190 the most recentepisodes on demand.
+00:52:48.410 It's quite a momentin the profession.
+00:52:52.095 There's been a lotof great articles
+00:52:53.850 Barry about the legacy,
+00:52:57.420 the impact that you've made.
+00:52:58.650 I think this town hallcommunity knows it real well.
+00:53:02.895 What you've exhibited here with
+00:53:05.220 us is what you've exhibited for
+00:53:06.690 the past 30 years,passion, insights,
+00:53:10.275 inspiration,
+00:53:12.500 really always looking to
+00:53:16.545 drive the profession forward,entrepreneurial spirit.
+00:53:20.985 The list of attributesis very long.
+00:53:24.975 We could do an hoursession with you,
+00:53:28.785 but this is the town hall,so we do it in segments.
+00:53:31.260 Here's a slide that I know you
+00:53:33.570 have leveraged alot but Lisa and
+00:53:35.790 I just want to giveyou the opportunity
+00:53:37.575 to do some additional reflectionhere with this group.
+00:53:41.054 Barry Melancon: Well Erik,
+00:53:41.940 thank you for those kind words
+00:53:43.200 and for all of the feedback.
+00:53:44.925 I know people on the town hall.
+00:53:46.695 I know many of you. I don'tknow all of you personally.
+00:53:49.890 I know all of youlove this town hall,
+00:53:52.800 and it's a way to communicate,
+00:53:54.135 as in today on fastbreaking, real time aspects.
+00:53:57.825 I think certainly that'sindicative of the profession.
+00:54:00.585 I would like to say to allof our members here and
+00:54:03.435 I've been quoted in many
+00:54:04.680 of these articlesyou referenced,
+00:54:05.910 which have all been
+00:54:07.335 extraordinarily nice I'mvery much appreciative.
+00:54:11.040 The real thing I would wanteverybody here to take away
+00:54:14.580 is that this professionis incredible.
+00:54:17.745 The men and women in thisprofession are incredible.
+00:54:20.130 You've heard metalk about trust.
+00:54:21.975 We are the mosttrusted profession
+00:54:23.700 in the world thatmakes a difference.
+00:54:25.350 We're the most local, national
+00:54:26.790 and global professionin the world.
+00:54:28.770 Economies are allof those things.
+00:54:31.380 They're local, they're national,
+00:54:33.180 and they're global, and
+00:54:34.560 our profession havinga role in that,
+00:54:36.585 elevating thequality of life for
+00:54:38.310 people the successof businesses,
+00:54:41.310 etc, the men and women
+00:54:42.930 in our profession arejust extraordinary.
+00:54:44.805 By extension, it is
+00:54:46.620 an incredible honor torepresent all of you.
+00:54:49.020 It's an incredible honor all of
+00:54:50.790 these 30 years to be ableto work for the profession.
+00:54:54.000 We've seen all different thingshappen to the profession,
+00:54:57.810 and I've had the honor and
+00:55:00.330 the responsibility duringthings like Enron and
+00:55:03.000 Worldcom and thecomputerization of
+00:55:04.620 the exam and obviously COVID and
+00:55:07.170 international activitiesand local activities and
+00:55:09.750 legislation galoreand tax changes,
+00:55:12.390 and we could go on and on.
+00:55:14.235 But the reality is is that
+00:55:16.050 our profession has anincredible resilience.
+00:55:18.945 It is needed in
+00:55:20.490 difficult times and it isneeded in great times.
+00:55:23.880 It is needed when there'shigh uncertainty,
+00:55:26.760 and it's needed when thereis absolute certainty.
+00:55:29.640 Clearly we're going to continue
+00:55:31.560 to evolve as a profession.
+00:55:33.210 AI is going to have
+00:55:34.800 some very significantchanges in who we are.
+00:55:37.155 It's going to change our role.
+00:55:38.700 It's going to change our need to
+00:55:40.455 elevate competencies inmany different ways.
+00:55:43.425 But the importanceof our profession
+00:55:45.240 to the quality of life in
+00:55:46.710 this country actually acrossthe globe is very serious.
+00:55:52.155 I've taken this roleseriously because of you,
+00:55:54.660 and it's been a tremendoushonor to work for you.
+00:55:57.840 People around meknow I say I wake up
+00:56:00.000 every day thinkingabout the profession.
+00:56:01.995 Secondly, I think aboutour members inside
+00:56:04.470 the profession andthirdly, the organization,
+00:56:07.380 because the realityis our organization
+00:56:09.900 exists because theprofession and the members.
+00:56:12.705 It's not really needed withoutthose first two elements.
+00:56:16.170 You can rest assured that I
+00:56:17.970 will continue towake up every day
+00:56:19.260 thinking about theprofession. Thank you all.
+00:56:22.574 Lisa Simpson: Barry if Ican just say what an honor
+00:56:24.660 it's been to getto work with you.
+00:56:26.310 I joined the organization12 years ago,
+00:56:28.665 and I've grown so
+00:56:30.720 much and learned so muchjust from your leadership.
+00:56:33.315 My goodness, yourunderstanding of
+00:56:36.240 the history of theprofession and
+00:56:37.770 how it all ties intoa global economy.
+00:56:40.050 I'm just honored to have hadthe chance to work with you.
+00:56:43.709 Barry Melancon: Thank youLisa. You're a true leader
+00:56:46.650 too and so it's greatto work with you.
+00:56:48.974 Lisa Simpson: Thank you.
+00:56:50.129 Erik Asgeirsson: Thankyou Barry. Thank you
+00:56:52.020 for the drive and what you did
+00:56:53.580 in helping create cpa.comand so many other resources,
+00:56:56.970 the computerization of the exam.
+00:56:59.085 A lot of these things arehighlighted in the JOA article,
+00:57:02.685 but great thanks and
+00:57:04.290 just your timeliness and
+00:57:07.740 your ability to beaccessible to everybody.
+00:57:12.120 I think people know thatwho've met you at conferences,
+00:57:14.880 who have sent you emails,
+00:57:16.755 and a lot of comments comingin about, 2025 for you.
+00:57:21.675 A little bit of reflection here.
+00:57:23.265 Any comments that you'd liketo make related to 2025?
+00:57:26.489 Barry Melancon: Before Ido 2025 one quick comment,
+00:57:28.920 and I used the term here today,
+00:57:31.125 our team and our staff and
+00:57:32.610 our people and allthis work on BOI.
+00:57:35.145 I want everybody to knowour team is incredible.
+00:57:38.025 Many people who workfor us are not CPAs,
+00:57:40.770 but we instill the culture of
+00:57:42.180 what this professionis all about.
+00:57:44.370 They try to show upand do that every day.
+00:57:46.725 We don't get it all right,
+00:57:48.030 but I can tell you,
+00:57:49.905 the lack of effort is
+00:57:51.060 never something wehave to worry about.
+00:57:53.565 Case in point withBOI and legislation.
+00:57:56.460 Our team is just one example
+00:57:58.695 of the incredible talent
+00:58:00.210 that we have workingfor all of you.
+00:58:01.845 2025, I'm going to stayconnected to the profession.
+00:58:04.350 There are a lot of thingshappen in the profession.
+00:58:06.195 Mark Cosio is going to befantastic in this role.
+00:58:09.090 I'm going to supporthim behind the scenes.
+00:58:11.235 I'm not going to get in his way.
+00:58:12.600 He needs to lead the organizationin the way he sees fit.
+00:58:17.055 He's worked withus. He knows us.
+00:58:18.660 He was a founder herein these town halls.
+00:58:21.045 I'm going to stay involved with
+00:58:22.755 some activities thattouch the profession,
+00:58:26.445 both globally and nationally.
+00:58:30.570 There's some things about
+00:58:31.920 the economy that are broaderthan the profession,
+00:58:35.805 the global economy, particularly
+00:58:38.265 that I'll be involvedwith as well.
+00:58:40.155 I think that you can rest
+00:58:42.120 assured that on every one ofthose things that I'm doing,
+00:58:45.045 a part of that isgoing to be about
+00:58:47.010 how important thecomplete profession,
+00:58:49.530 whether it's someone in
+00:58:50.760 a sole proprietorship or allthe way up to a big four,
+00:58:53.160 whether it's someonein a corporate
+00:58:54.390 or government or education,
+00:58:56.220 all elements of our professionare very, important.
+00:58:59.460 Whatever I'll be doing thatvoice will come across.
+00:59:02.894 Erik Asgeirsson: Thankyou, excellent with that.
+00:59:04.890 Let's bring up the final slide.
+00:59:07.515 Great segue Barry.
+00:59:09.285 Great comments regardingMark Koziel who will
+00:59:11.640 be starting January 1,
+00:59:14.085 2025 is the CEO of the AICPA,
+00:59:17.805 and he will be with uson the first Town Hall.
+00:59:20.490 But Barry thanks foryour leadership.
+00:59:22.200 Lisa pleasure alwaysbeing with you.
+00:59:24.584 Lisa Simpson: Thank you.
+00:59:25.784 Barry Melancon: Happy holidays.
+00:59:27.119 Lisa Simpson: Happy holidayseveryone. Get some rest.
+00:59:29.954 FEMALE_1: Thank you foryour participation.
+00:59:33.000 You can now subscribe to
+00:59:34.470 the AICPA Town Hall series
+00:59:36.450 on your favoritepodcast platform,
+00:59:39.120 as well as watch archiveson YouTube and AICPA TV.
+00:59:43.530 Tune in for live broadcasts
+00:59:45.480 Thursdays at 3:00PM. Eastern Time.

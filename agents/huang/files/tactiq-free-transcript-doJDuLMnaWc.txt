@@ -1,0 +1,1459 @@
+# tactiq.io free youtube transcript
+# A Conversation with NVIDIA CEO Jensen Huang – The Future of AI and Energy
+# https://www.youtube.com/watch/doJDuLMnaWc
+
+00:00:03.080 thank you all thank you welcome to the
+00:00:05.839 bipartisan policy Center I'm lesie Jas
+00:00:08.240 me and together with my colleague Zan
+00:00:10.120 Fishman we lead the energy program here
+00:00:12.280 at bpc and we're so glad that you're
+00:00:14.440 here to cap off a really big week this
+00:00:16.920 week it was National clean uh energy
+00:00:19.320 week it was New York climate week and
+00:00:21.920 really the future of energy in America
+00:00:23.880 has never been uh so much in the
+00:00:26.000 spotlight we're really excited to
+00:00:27.400 continue that conversation here today
+00:00:29.160 with all of you
+00:00:30.599 the BBC energy program has been a
+00:00:32.040 driving force in federal policy for over
+00:00:34.120 16 years and we're really leading the
+00:00:36.399 way on building a strong bipartisan
+00:00:38.120 Foundation of support for technology and
+00:00:40.559 Innovation for decarbonization
+00:00:42.920 permitting reform critical minerals
+00:00:44.600 carbon management so much more um and
+00:00:47.480 these are just pieces of a larger puzzle
+00:00:49.480 of how to ensure that all Americans have
+00:00:51.239 access to energy that is secure reliable
+00:00:54.199 affordable and clean and so we're here
+00:00:56.760 today that because the growth of AI is a
+00:01:00.000 new puzzle piece that we didn't even
+00:01:01.600 know that we needed to account for until
+00:01:03.760 recently so you know where where do we
+00:01:05.720 put it where does AI go and all of this
+00:01:08.200 and so we're going to dig into these
+00:01:09.320 questions and more as part of a new bpc
+00:01:11.840 project that we're launching today on AI
+00:01:14.080 and energy and I'm so excited to invite
+00:01:16.159 my colleague Tanya dos to the stage here
+00:01:18.200 to tell you more about it thank
+00:01:21.560 [Applause]
+00:01:27.680 you hello everyone welcome welcome I'm
+00:01:30.840 Tanya Dasa director with the energy
+00:01:32.720 program at bpc and we are thrilled today
+00:01:35.880 to launch a new project on AI and energy
+00:01:39.240 but I want to take a step back to
+00:01:41.040 reflect on how we got here back in 2019
+00:01:44.759 I was working with colleagues in
+00:01:46.280 Congress to develop a bill called the
+00:01:48.520 national AI initiative act this was the
+00:01:51.880 first Bill signed into law that set
+00:01:54.000 forth a national AI strategy across our
+00:01:56.840 scientific Enterprise the bill contained
+00:01:59.439 Foundation
+00:02:00.399 but modest Investments across the
+00:02:02.360 federal government on AI R&D at the time
+00:02:05.920 we didn't have tools like chat GPT dolly
+00:02:08.959 or Google ai overviews ai was very much
+00:02:12.120 in our lives already but in more of a
+00:02:14.360 quiet way I had no idea how important of
+00:02:17.400 a topic AI would become just 5 years
+00:02:19.280 later today we have several billion doll
+00:02:23.200 bipartisan AI proposals being considered
+00:02:26.120 in the house and the senate members of
+00:02:28.800 both sides of the aisle want to double
+00:02:30.680 down on using AI to advance science
+00:02:33.800 security and technology and the
+00:02:36.400 supercomputers at the department of
+00:02:37.920 energy are oversubscribed with users
+00:02:40.640 eager to try their AI algorithms to
+00:02:43.040 accelerate Innovation and at the center
+00:02:45.879 of it all is our Energy System that's
+00:02:48.440 powering Ai and our growing economy we
+00:02:51.319 are seeing electricity load growth for
+00:02:53.400 the first time in a decade and that's
+00:02:55.680 occurring at the same time that we're
+00:02:57.400 taking serious steps to decarbonize our
+00:02:59.440 economy
+00:03:00.760 and we know AI can be a critical tool to
+00:03:03.319 modernize our electric grid develop new
+00:03:06.040 Energy Technologies and improve climate
+00:03:08.720 resilience and this is why we're
+00:03:10.519 launching a new project on the
+00:03:12.120 intersection of AI and energy we are
+00:03:15.200 going to help policy makers identify how
+00:03:17.720 to leverage AI to improve our Energy
+00:03:20.080 System while meeting The Growing Power
+00:03:22.080 needs for data centers and other
+00:03:23.959 emerging electricity loads as a first
+00:03:26.640 step today we're releasing a report on
+00:03:28.840 the pivotal role that the department of
+00:03:30.959 energy played in securing us leadership
+00:03:33.040 on AI and ideas for how the agency can
+00:03:35.959 lead in the future this is a critical
+00:03:38.680 moment for both our Ai and energy
+00:03:40.720 systems and we need to make sure that we
+00:03:42.920 get this right and I can't think of two
+00:03:45.360 better people to tell us how to do that
+00:03:47.239 than our featured speakers today please
+00:03:49.599 join me in welcoming to the stage My
+00:03:51.560 Fabulous boss president and CEO of the
+00:03:53.840 bipartisan policy Center Margaret
+00:03:55.680 spellings and the co-founder president
+00:03:58.159 and CEO of Nvidia Jensen
+00:04:01.560 [Applause]
+00:04:10.120 hang all right thank you to my fabulous
+00:04:12.799 colleague Tanya for that warm welcome
+00:04:15.360 and introduction wow what a great crowd
+00:04:17.918 thank you all for uh being here this
+00:04:19.918 morning and what a treat it is Jensen to
+00:04:21.959 be with you I'm delighted to be here I
+00:04:23.759 mean we're thrilled that you're here I
+00:04:24.960 was teasing with Jensen you know who's
+00:04:26.440 known for his famous black leather
+00:04:28.520 jacket outfit and I want wanted to be in
+00:04:30.320 solidarity with him today and he shows
+00:04:32.600 up in a suit uh the only one he has by
+00:04:36.039 the way but anyway um it's the
+00:04:39.360 truth I'm not ashamed of it it's a good
+00:04:43.120 look so uh as you know we at BBC are uh
+00:04:47.240 proud of the role that we play as a
+00:04:48.960 place to bring people together to find
+00:04:50.639 common ground and to drive towards
+00:04:52.600 Solutions and there's no thing that
+00:04:54.919 needs more uh thinking good thinking
+00:04:57.199 around that than Ai and energy and so
+00:04:59.759 we're thrilled to welcome you here today
+00:05:01.520 thank you Margaret and um so as
+00:05:04.039 everybody in the room already knows but
+00:05:05.960 maybe out in TV land they don't uh
+00:05:08.240 Jensen is the founder in of Nvidia a 30
+00:05:11.520 trillion doll company with about 30,000
+00:05:14.160 employees not quite 30 yet not quite 30
+00:05:17.759 that's what I'm sorry three you know
+00:05:20.199 what's a zero well a zero is a lot in
+00:05:22.440 computers but anyway we'll get into that
+00:05:25.840 uh anyway J we're working on yeah
+00:05:28.120 welcome welcome sorry just I'm so
+00:05:30.440 impressed with you um anyway why don't
+00:05:33.240 you tell us about how you got started
+00:05:35.080 give us your kind of so-called origin
+00:05:37.160 story and how it is that you came to be
+00:05:39.400 sitting with me here
+00:05:41.319 today my
+00:05:43.919 gosh from from where from zero no from
+00:05:47.160 you know what tell tell us the story of
+00:05:48.840 Nvidia Nvidia and you and uh we were in
+00:05:51.319 Silicon Valley engineers in Silicon
+00:05:52.919 Valley designing computers and we
+00:05:55.560 observed that there was a better way of
+00:05:56.960 Designing computers uh if you if you you
+00:06:00.000 um uh the current computer that we use
+00:06:02.600 it's called general purpose computers it
+00:06:05.039 was invented the year after my birth
+00:06:08.680 1964 by IBM it's called the IBM system
+00:06:12.039 360 and it described a central
+00:06:15.280 processing unit CPU uh multitasking
+00:06:18.960 separation of operating system
+00:06:20.400 separation of hardware and software by
+00:06:22.440 this layer called operating system IO
+00:06:25.160 subsystems things like that and those
+00:06:28.319 basic Technologies are used today it's a
+00:06:31.360 lot better A lot faster but the basic
+00:06:33.960 architecture of it is the same it's a
+00:06:35.479 general purpose computer that could do
+00:06:36.919 anything now we observed 30 years ago it
+00:06:39.880 was 1993 we observed that that there are
+00:06:42.680 problems that are quite specialized
+00:06:45.560 where a general purpose approach is not
+00:06:47.560 necessarily the best you know and and uh
+00:06:50.599 it's no different than if you have
+00:06:52.080 generalist do something and it turns out
+00:06:55.360 that uh software is kind of the same way
+00:06:58.080 and there's a field of software called
+00:06:59.680 simulations and physics emulations and
+00:07:02.240 data processing and computer Graphics
+00:07:04.960 these problems image processing these
+00:07:07.680 problems have algorithms inside that are
+00:07:11.919 very computationally intensive and if we
+00:07:14.960 could take that and run it on a
+00:07:17.879 specialized processor on a specialized
+00:07:20.560 computer we could add a chip to the
+00:07:25.400 computer that makes it Go a hundred
+00:07:28.680 times faster how is it possible to add
+00:07:31.000 one chip to another chip and all of a
+00:07:33.319 sudden it's a 100 times faster well the
+00:07:35.440 reason for that is of course each chip
+00:07:37.879 can focus each computer can focus on
+00:07:40.120 what it does best and we offload and
+00:07:43.240 accelerate this thing and we call it
+00:07:45.360 accelerated Computing now uh the amazing
+00:07:48.759 part of it of course is that the domains
+00:07:51.680 that we've been able to use it for has
+00:07:53.240 been expanding over time and uh it's not
+00:07:57.680 it's very routine that we accelerate an
+00:07:59.840 application 10 20 50 times um and when
+00:08:03.560 you do that even though you accelerate
+00:08:06.319 it by 50 times since you only added one
+00:08:08.759 more chip you reduce the amount of Power
+00:08:10.879 by 25 25 times the amount of energy by
+00:08:14.240 25 times the amount of cost by 25 times
+00:08:18.639 and so so that this uh this approach has
+00:08:21.319 led to um solving all kinds of
+00:08:23.840 interesting problems the first
+00:08:25.360 application we used it for in scientific
+00:08:28.879 in in in commercial use was for video
+00:08:31.000 games and you know for a lot of people
+00:08:34.200 Nvidia is still the video game company
+00:08:36.640 we build you we build more computers for
+00:08:38.360 video games than any company in the
+00:08:39.958 world when you have when you play PC
+00:08:42.479 games it's probably Nvidia inside uh
+00:08:44.640 when you play the Nintendo it's Nvidia
+00:08:46.320 inside and so so we're well known for
+00:08:48.680 that um but some of our industrial
+00:08:51.480 applications the first one was molecular
+00:08:53.720 Dynamic simulation for virtual screening
+00:08:56.399 uh seismic processing for energy
+00:08:59.640 Discovery and then you know Floyd
+00:09:01.640 Dynamics weather simulation and then one
+00:09:04.279 day artificial intelligence found us and
+00:09:07.640 and so um accelerated Computing that was
+00:09:10.399 it was an observation about the future
+00:09:12.360 of computing it turned out to be right
+00:09:14.360 and so when you extend that into what
+00:09:16.160 you call sustainable Computing this is
+00:09:18.320 where you get into the savings of energy
+00:09:20.480 and being the observation that we made
+00:09:22.920 is is that a general purpose approach to
+00:09:26.160 solving every problem is energy
+00:09:28.440 inefficient mhm you're inefficiently
+00:09:31.320 doing something it's a little bit like
+00:09:32.839 this suppose suppose um uh you made a
+00:09:36.800 factory for building a car and the
+00:09:39.920 assumption that you make is that every
+00:09:42.000 single car that you make will be
+00:09:44.560 different and so you have a generalist
+00:09:46.959 team of people that okay build me a van
+00:09:50.800 okay now build me a sports car okay now
+00:09:52.920 build me a truck and and so because
+00:09:55.680 every single one is intended to be
+00:09:57.200 different and you want to be generalists
+00:09:59.480 MH you would have a different type of
+00:10:02.640 setup than if you all of a sudden said
+00:10:05.279 to yourself for the next 1 million cars
+00:10:08.800 they're going to be exactly the
+00:10:10.800 same the efficiency by which you could
+00:10:13.200 build that 1 million cars compared to a
+00:10:16.079 generalist right that would build at one
+00:10:18.200 at it's like manufacturing versus
+00:10:20.600 crafting right the amount of energy you
+00:10:23.200 use is going to be substantially lower
+00:10:25.040 and so we've come to the conclusion we
+00:10:27.120 came to the conclusion some 32 years ago
+00:10:29.399 go that there are some parts of the job
+00:10:32.079 that needs generalized and you need to
+00:10:34.360 do it sequentially just step by step by
+00:10:36.399 step you have to reason about it step by
+00:10:38.240 step however there are some parts of the
+00:10:40.279 job where you're maybe calculating
+00:10:42.480 physics you're just trying to figure out
+00:10:43.959 how molecules move around you you're
+00:10:47.320 trying to figure out how artificial
+00:10:48.519 intelligent neural network is predicting
+00:10:50.600 the next token the next word in those
+00:10:53.639 type of applications you could have just
+00:10:56.440 a mountain of processing at the same
+00:10:59.880 time and so this doesn't make sense to
+00:11:01.959 you but I'm just I'm going to say it
+00:11:03.360 anyways the the execution of a program
+00:11:05.279 is called a thread a thread of execution
+00:11:08.360 and just follow the follow that thread a
+00:11:11.600 CPU can compute one or two threads at
+00:11:14.959 one time we can compute tens of
+00:11:18.480 thousands of threads at the same time
+00:11:21.000 and so for for work that you can break
+00:11:23.399 up into a whole bunch of little threads
+00:11:25.360 we could get it done a lot faster and
+00:11:28.160 you know as a result much more energy
+00:11:29.800 efficient so so let's talk more about Ai
+00:11:33.160 and energy I mean there's a lot of kind
+00:11:35.000 of Hysteria going on right now about oh
+00:11:36.839 my God this this industry this
+00:11:39.320 Innovation is going to swamp our demand
+00:11:41.519 and we're going to have blackouts and
+00:11:43.480 you know this those sorts of things
+00:11:45.720 obviously energy abundance is a you know
+00:11:47.720 a key issue for all of us here in the
+00:11:50.160 United States especially I'm from Texas
+00:11:51.720 so we talk about that a lot but give us
+00:11:53.959 your thinking on AI and and energy at an
+00:11:58.320 Nvidia and more and more broadly how you
+00:12:01.000 think about that well AI does take
+00:12:02.959 energy yeah and so the first thing to
+00:12:05.160 realize that before you can use AI you
+00:12:08.040 have to teach an AI this is no different
+00:12:10.560 than a when you before you can use an
+00:12:13.839 actual intelligence you have to teach
+00:12:16.600 the actual intelligence and so the
+00:12:19.399 teaching process consumes a lot of
+00:12:21.199 energy and and the reason why it
+00:12:23.959 consumes a lot of energy is that the
+00:12:26.560 artificial intelligence network uh
+00:12:28.760 through trial and error is trying to
+00:12:30.880 figure out how to predict something and
+00:12:33.320 it's recognizing patterns and
+00:12:34.920 relationship among tons and tons of
+00:12:37.560 information and from all of that data it
+00:12:40.079 finds out um what's the relationship and
+00:12:42.839 the pattern such that it can learn a
+00:12:46.639 knowledge out of it we call it
+00:12:48.680 representations and so you're trying to
+00:12:50.760 discover knowledge out of data and just
+00:12:54.079 you're just swimming in it processing it
+00:12:56.560 repeatedly looking for that pattern
+00:12:58.519 relationships
+00:12:59.839 eventually uh you can you can um uh
+00:13:02.880 you've learned you learned the knowledge
+00:13:04.519 that's embedded inside you've learned um
+00:13:07.000 all these different relationships that
+00:13:08.480 when you're presented with uh some
+00:13:10.560 future patterns uh you could understand
+00:13:13.240 it you could even predict it okay and so
+00:13:16.199 so that that's the goal these data
+00:13:18.279 centers um could consume uh today maybe
+00:13:21.920 a 100 megawatts and in the future it'll
+00:13:24.639 probably be uh several you know 10 times
+00:13:27.959 uh 20 times more more than that mhm uh
+00:13:30.399 it doesn't have to necessarily be built
+00:13:32.079 in one place um but the amount of data
+00:13:34.320 that we're going to train it with and
+00:13:36.519 these AI models are going to use
+00:13:37.839 synthetic data for example two AI models
+00:13:40.600 are going to be talking to each other
+00:13:41.880 just like the two of us are right and
+00:13:43.560 just through conversation through Q&A
+00:13:45.920 we're going to make each other smarter
+00:13:48.079 and so uh future future AI models are
+00:13:50.920 going to rely on other AI models to
+00:13:52.519 learn and uh you could you could um use
+00:13:56.199 AI models to curate the data so that uh
+00:13:59.320 future AI use an AI to teach another Ai
+00:14:01.920 and so there's a lot of a lot of
+00:14:03.560 different ways that that AI will will
+00:14:05.880 will learn the future but nonetheless
+00:14:07.519 it's going to take energy to do so the
+00:14:09.720 important thing to realize about AI is
+00:14:12.120 that it doesn't it doesn't necessarily
+00:14:14.759 care where it learns it doesn't care
+00:14:17.639 where it goes to school and so um there
+00:14:20.519 are places in a world where we have
+00:14:22.199 excess energy it's not necessarily
+00:14:24.800 connected to the Grid it's hard to
+00:14:26.320 transport that energy to population but
+00:14:29.279 we can transport the data center too we
+00:14:31.279 can build a data center near where
+00:14:32.720 there's excess energy and use the energy
+00:14:35.360 there the other the other the big idea
+00:14:37.959 about about AI however is um the goal of
+00:14:41.360 AI is to do things more productively
+00:14:44.240 right with a lot less energy and there
+00:14:46.920 are a whole bunch of examples of this
+00:14:49.560 where we're using AI one one of my
+00:14:51.120 favorite examples is is um using AI to
+00:14:53.759 predict weather uh by training an AI
+00:14:56.560 model the physics of weather prediction
+00:15:01.199 in the case of weather prediction is
+00:15:02.480 most be atmospheric physics a long range
+00:15:05.560 weather prediction requires you to
+00:15:07.120 understand ocean physics land physics
+00:15:10.480 Cloud physics uh radiation reflection
+00:15:14.399 absorption conduction convection right
+00:15:17.839 thermodynamics right fluid dynamics all
+00:15:19.880 of those forms of physics comes together
+00:15:22.440 um to uh to affect the future climate
+00:15:26.320 well we can teach an AI how to do that
+00:15:28.040 through previous observe data and we're
+00:15:31.000 starting to make great progress there
+00:15:33.639 that AI model can predict whether and
+00:15:37.279 predict
+00:15:38.959 climate thousands of times tens of
+00:15:42.120 thousands of times more energy
+00:15:44.120 efficiently and so the thing to remember
+00:15:46.399 you teach the AI model um a few times
+00:15:51.040 but you use it continuously everywhere
+00:15:54.000 around the world and so the benefits of
+00:15:57.199 using AI to predict weather and instead
+00:15:59.120 of using supercomputers to predict
+00:16:00.680 weather as we do now right can save a
+00:16:03.079 ton of energy yeah yeah so that's one
+00:16:05.040 simple example but the example just go
+00:16:07.040 on and on right so it's part of the
+00:16:09.079 solution as we think about climate not
+00:16:11.360 so much part of the problem I mean it
+00:16:13.680 really is I mean if you there there are
+00:16:15.560 other examples Margaret is um for
+00:16:17.519 example that's that's one uh that using
+00:16:20.680 artificial intelligence to solve
+00:16:22.839 problems will consume less energy than
+00:16:26.279 using calculation to solve problems
+00:16:29.040 right okay and so um uh that's number
+00:16:32.360 one number two we use artificial
+00:16:34.199 intelligence now in the smart grid you
+00:16:36.839 know our power grid is not smart but we
+00:16:39.240 can make it smart right and so we work
+00:16:41.519 with a company called Y data and U pg&
+00:16:45.199 uh to do a to create an AI computer and
+00:16:48.680 we put it integrated into the smart grid
+00:16:52.639 the goal is with uh AI with intelligence
+00:16:55.639 and a grid you could figure out how to
+00:16:58.360 uh for example exle integrate uh
+00:17:00.639 sustainable energy into it that
+00:17:02.399 sustainable energy could be from solar
+00:17:03.920 it could be uh the battery sitting in
+00:17:05.839 your car um during power surges and
+00:17:08.679 outages um it could recognize that
+00:17:10.880 there's a weakness in a grid and figure
+00:17:13.599 out where the various distributed energy
+00:17:16.000 sources are to keep the grid going uh
+00:17:18.880 maybe you could predict um uh uh very
+00:17:22.160 subtle signals of when the grid is about
+00:17:25.079 to fail and um send people out for
+00:17:28.000 predictive maintenance yeah uh you could
+00:17:30.000 also uh do a better job predicting the
+00:17:32.320 surges the power surges that's about to
+00:17:34.320 happen so you can redirect energy
+00:17:36.720 accordingly um so smart grids smart
+00:17:39.360 grids I think is going to um make sure
+00:17:42.039 help us not over provision in the grid
+00:17:46.160 right you know today as we know the grid
+00:17:48.400 has the ability to handle a lot more
+00:17:50.320 power delivery it's just that the
+00:17:52.400 promise that we made the society is that
+00:17:54.960 you're going to get power all the time
+00:17:57.159 right well unfortunately the power use
+00:18:01.520 in population surges right
+00:18:04.799 extraordinarily could be a factor of two
+00:18:08.120 during just a few days of the year right
+00:18:10.720 the rest of the time it's kind of a lot
+00:18:13.360 lower but you have to provision for
+00:18:15.559 those days right because people need the
+00:18:18.280 power need the energy need the heat or
+00:18:20.080 cooling to stay alive and so so um uh we
+00:18:23.919 could we could uh
+00:18:25.400 redirect uh uh if the grid was smart we
+00:18:28.799 could redirect the energy in a smarter
+00:18:30.840 way and so there's a there's lots and
+00:18:33.360 lots of examples you're a really good
+00:18:35.480 teacher uh so here we are in Washington
+00:18:38.039 and obviously we're all about federal
+00:18:39.720 policy the federal government has been
+00:18:41.440 an important partner uh on innovating on
+00:18:45.200 some of the things that you're talking
+00:18:46.640 about how do you see that that history
+00:18:49.320 your work with with the US Department of
+00:18:51.640 energy and then where we ought to go
+00:18:53.640 next I mean just give your sense of you
+00:18:56.320 know if you were if you running the
+00:18:57.640 department of energy and had checkbook
+00:18:59.720 you know how do you see those
+00:19:01.600 Investments being deployed in the
+00:19:03.200 smartest ways
+00:19:05.039 MH it's a big checkbook
+00:19:09.120 too well you did mention $30
+00:19:12.039 trillion exactly I'm for you yeah
+00:19:16.840 um uh the the thing I recommend most for
+00:19:21.240 for um every employee Nvidia every
+00:19:23.679 Company CEO that I meet um uh every lead
+00:19:28.720 leader that I meet is engage artificial
+00:19:31.720 intelligence try to have a tactical feel
+00:19:34.360 for it m um this mystical thing is not
+00:19:39.320 so mystical uh in its extreme of course
+00:19:43.640 uh it's as mystical as you and I sitting
+00:19:46.159 here having conversations with each
+00:19:47.440 other and it turns out there's there are
+00:19:50.000 several things that we should observe
+00:19:51.440 about about artificial intelligence
+00:19:53.240 today we've we have through invention of
+00:19:57.480 Technology the most advanced Computing
+00:20:00.799 technology ever created we have made the
+00:20:04.039 computer easier to use than ever to the
+00:20:07.280 point where almost anybody can talk to
+00:20:09.200 the computer prompt it for something ask
+00:20:12.880 it to do something for you including
+00:20:15.200 write software for you and it will write
+00:20:17.799 software for you and it could make
+00:20:20.240 drawings for you create schematics for
+00:20:22.240 you it could make charts and graphs it
+00:20:24.159 could read something for you translate
+00:20:26.080 something for summarize something for
+00:20:27.480 you solve problems for you and so this
+00:20:30.480 incredible thing this computer is is now
+00:20:33.440 democratized for the very first time in
+00:20:35.280 history this incredible system this
+00:20:38.039 incredible technology is available to
+00:20:40.200 just a small percentage of of the world
+00:20:42.840 is now available to everybody to use and
+00:20:45.720 the the first thing to do is is to try
+00:20:47.520 to understand how how you could take
+00:20:49.760 advantage of this technology yourself
+00:20:51.919 now of course once you you go down that
+00:20:54.320 Journey you'll discover all the same
+00:20:55.720 things that that scientists and
+00:20:57.200 engineers and all of us are starting to
+00:20:59.080 discover that not only is it more energy
+00:21:01.360 efficient um we can use our energy
+00:21:04.600 better uh we could be more energy
+00:21:07.039 sustainable it could create uh new
+00:21:08.880 materials so that we could we could uh
+00:21:10.840 create sustainable energy more eff
+00:21:12.840 effectively uh some of the important
+00:21:14.559 work that we're doing in carbon capture
+00:21:16.679 just trying to figure out in a reservoir
+00:21:18.880 how much pressure can we um uh pump into
+00:21:23.200 carbon into this Reservoir and how much
+00:21:26.400 how much this Reservoir has over already
+00:21:28.799 been saturated with carbon and so we
+00:21:31.080 could select the best injection Wells
+00:21:33.720 for carbon capture right and this
+00:21:36.720 simulation uh takes
+00:21:39.159 supercomputers just an enormous amount
+00:21:41.240 of calculation we've taught in AI how to
+00:21:43.360 go help us select these sites with
+00:21:45.559 nearly a million times less energy and
+00:21:47.919 so there's a lot of different ways that
+00:21:49.559 we can use artificial intelligence to to
+00:21:51.880 help being inspired by those ideas I
+00:21:55.080 think would really help um doe and and
+00:21:58.640 of course some of the things that that I
+00:21:59.880 would recommend is uh invest in using it
+00:22:02.720 yourself you know one of the things that
+00:22:04.520 that I would really love to see the
+00:22:06.240 United States do is for the government
+00:22:08.640 to to become a practitioner of
+00:22:11.600 AI don't just be a governor of AI be a
+00:22:14.320 practitioner of AI um the doe the dod
+00:22:17.640 you know every single Department be a
+00:22:19.600 practitioner and and um uh build an AI
+00:22:24.480 supercomputer uh the scientists would be
+00:22:26.960 more than happy to jump on it
+00:22:29.200 and create new AI algorithms you know to
+00:22:31.960 advance our country yeah fabulous yeah
+00:22:34.679 so obviously you were you know a startup
+00:22:37.400 innovator well many moons ago but you
+00:22:40.679 all uh have affinity for that as a
+00:22:43.159 company through your Inception
+00:22:44.840 partnership Network talk about that and
+00:22:47.320 how you see that ecosystem of of
+00:22:50.679 innovators well we know a lot about this
+00:22:53.320 technology um we have a lot of scale and
+00:22:56.400 resources and um uh we have we have
+00:22:59.760 abilities and so so when we see
+00:23:02.240 companies uh around the world that are
+00:23:05.200 uh trying to apply AI for some
+00:23:07.679 particular domain uh it could be a
+00:23:09.760 domain like for example Uli data I'm
+00:23:11.799 just I really love that company they're
+00:23:13.760 they're a company that wanted to uh
+00:23:16.400 build a smart grid but they didn't
+00:23:18.000 understand artificial intelligence that
+00:23:19.320 well and so working together we became
+00:23:21.960 an expert in artificial intelligence and
+00:23:23.880 the application for smart grids cool uh
+00:23:26.880 uh we work uh uh with a company that's
+00:23:29.559 uh that has satellites out in space and
+00:23:32.960 and um oh oh sat that's where satellites
+00:23:35.919 go space where satellites um I mean even
+00:23:40.000 I knew that yeah well it takes it takes
+00:23:42.720 a CEO to tell you those things and
+00:23:46.240 and uh and uh and these are these are
+00:23:49.679 they take images of the earth and and at
+00:23:52.279 a at a um at a spectrum uh that is
+00:23:56.559 beyond uh cameras and so that we could
+00:23:59.159 we could use that that hyperspectral
+00:24:01.480 Imaging system and teach an artificial
+00:24:03.880 intelligence how to see you know we
+00:24:06.240 can't see anything from it we teach an
+00:24:08.000 AI how to see something from it and
+00:24:10.000 discovers gas leaks and and uh Reservoir
+00:24:13.039 leaks and such I mean we could we could
+00:24:15.320 um there all kinds of things we could
+00:24:17.720 these companies have imaginations to do
+00:24:19.799 and we could you know help them with our
+00:24:22.400 AI capabilities and so we're working
+00:24:24.919 with thousands of startups and do they
+00:24:27.360 find them or do you find
+00:24:29.360 you find them or do they find sometimes
+00:24:31.000 we find them sometimes we find them they
+00:24:33.080 find us often times I even find them so
+00:24:35.640 yeah but I read about them and here's a
+00:24:37.399 company that's doing some really
+00:24:38.440 interesting things ex you know the
+00:24:40.480 company that's you know watching out for
+00:24:42.799 for uh uh keeping Birds safe uh in the
+00:24:46.039 middle of a wind farm yeah and so yeah
+00:24:48.480 all kinds of great ideas cool uh you
+00:24:50.679 won't be surprised to that I'm going to
+00:24:52.399 ask you about Workforce there's a lot of
+00:24:54.799 uh obviously implications to the good
+00:24:56.760 and and a lot of fear around
+00:24:58.919 what is the meaning of AI for our
+00:25:00.720 American Workforce or our Workforce
+00:25:02.399 globally obviously and how you think
+00:25:04.360 about that as your own human capital
+00:25:06.799 asset as a company and how you develop
+00:25:08.559 and grow but also you know the broader
+00:25:11.640 implications uh for the workforce first
+00:25:14.480 in the US but but in the world the first
+00:25:18.120 thing we need to do is demystify this
+00:25:20.120 technology for
+00:25:21.559 people and the reason for that is
+00:25:23.480 because it's useful to them it can
+00:25:26.080 Empower them but not not if they don't
+00:25:29.120 understand it and as it turns out it's
+00:25:31.799 actually relatively easy to understand
+00:25:34.360 very few people in the world know how to
+00:25:36.039 program a
+00:25:37.039 computer but everyone knows that knows
+00:25:40.240 how to ask someone else to do something
+00:25:42.000 for them and it's as simple as that yeah
+00:25:45.200 it's as simple as walking up the
+00:25:46.399 computer and tell it you know what you
+00:25:48.000 want and for the first time it might
+00:25:50.000 even give you a reasonable answer back
+00:25:52.080 yeah and you don't even need complete
+00:25:54.000 sentences you could be grammatically
+00:25:55.520 incorrect you just you know and start
+00:25:58.000 and if it doesn't understand uh what you
+00:26:00.880 mean it'll actually ask you back what
+00:26:03.159 you mean and just go back and forth
+00:26:05.200 until it figures out what you want and
+00:26:07.080 it does it for you now we have
+00:26:10.080 demystified we we need to demystify
+00:26:12.480 artificial intelligence so we can
+00:26:14.039 empower the population to take advantage
+00:26:16.600 of this amazing technology that's only
+00:26:18.640 been available for a few percentage of
+00:26:20.360 the world in the past and so we could
+00:26:22.840 close the technology divide we could
+00:26:24.960 enable everybody to take advantage of it
+00:26:26.919 and so the first thing that we've done
+00:26:27.960 is we've uh we teach a class called Deep
+00:26:30.360 learning Institute and we go around the
+00:26:32.720 world and we uh we're doing we're doing
+00:26:35.120 um a fair large campaign in California
+00:26:38.200 uh in school in community colleges in
+00:26:41.440 high schools and such and and anybody
+00:26:43.799 who would like to learn uh to uh teach
+00:26:46.000 them about about the capabilities of
+00:26:47.679 artificial intelligence we should do
+00:26:49.200 that all over the country we should be
+00:26:51.480 teaching everybody um exposing people to
+00:26:54.000 this technology and I think it's easy to
+00:26:55.840 use it's fun to use it's inspiring to
+00:26:57.640 use you can ask it to help you draw
+00:26:59.559 something give you a recipe you know
+00:27:02.120 help you write a business plan y you
+00:27:04.039 know all kinds of things yeah but
+00:27:06.360 obviously there's no substitute for the
+00:27:08.480 ability to to read and and Cipher and
+00:27:10.960 compute and I know you all have been
+00:27:12.399 involved in in education programs at
+00:27:14.880 your Alma moders and so forth but how do
+00:27:16.960 you think about your own human capital
+00:27:18.880 and what do you look for in your in your
+00:27:20.640 people and your leaders is it is it you
+00:27:23.480 know given all the promise that AI has
+00:27:26.159 for the workforce you know what are you
+00:27:27.880 looking for as you look for and recruit
+00:27:30.039 leaders and people to join you in
+00:27:32.399 building Nvidia all the same things I
+00:27:34.559 look for in the past um nothing's going
+00:27:36.760 to change the one thing that's going to
+00:27:38.159 change is is the amount of software
+00:27:40.760 programming that we do the actual
+00:27:42.760 programming that we do will reduce or
+00:27:45.039 another way of saying it is the way we
+00:27:46.960 program computers will change because
+00:27:48.919 you're just going to ask a computer to
+00:27:50.120 do it exactly exactly we're going to
+00:27:52.440 describe very clearly what we want the
+00:27:54.919 computer to help us do right and the
+00:27:56.760 computer will do it for us so the way
+00:27:58.600 that we would design chips in the future
+00:28:00.080 would be describing probably the
+00:28:02.360 specifications of the chip which is
+00:28:05.519 telling somebody what you want is is
+00:28:08.279 often times where the genius is right
+00:28:11.440 right yeah where the genius is yeah
+00:28:12.840 doing it doing doing the actual skill of
+00:28:15.200 course there's great craft and and um
+00:28:17.919 great dedication and um U but you know
+00:28:21.399 to to to be able to explain a future
+00:28:23.399 that you would like to create um and
+00:28:25.600 have have uh AIS that that um uh help
+00:28:28.799 you go do that is is pretty terrific and
+00:28:31.559 so my prediction is is that the first
+00:28:34.640 thing the first thing companies like
+00:28:36.360 ourselves would do is use artificial
+00:28:38.640 intelligence to improve our productivity
+00:28:40.960 that's what we've done we've got AIS all
+00:28:43.640 over our companies designing our chips
+00:28:45.600 writing our software helping us debug
+00:28:47.679 things help us do verification we're
+00:28:50.240 starting to work on using it for
+00:28:52.080 marketing and customer support and
+00:28:53.600 things like that and so so uh number one
+00:28:56.519 help us be more productive when a
+00:28:58.519 company becomes more productive they
+00:29:00.760 make more money when they make more
+00:29:02.399 money they hire more people and the
+00:29:04.840 reason for that is because we have more
+00:29:06.159 ideas we like to go pursue right right
+00:29:08.039 and so I would love for United States to
+00:29:10.320 be more productive because we'll have
+00:29:12.480 more money and then because we have
+00:29:14.559 abundance of ideas we'll be more
+00:29:16.279 prosperous so so I I think the the um
+00:29:19.320 the idea the idea that that it's it's
+00:29:22.640 human versus AI is not quite right is
+00:29:25.200 humans using Ai and with respect to
+00:29:28.640 anybody who who's concerned about an AI
+00:29:30.919 taking their job you should probably
+00:29:32.880 worry about someone who uses AI taking
+00:29:35.080 your job yeah and so so that that
+00:29:37.720 reminds you to to get going and to go
+00:29:40.360 learn this uh learn this new tool yeah
+00:29:43.519 and to make this new tool you know your
+00:29:45.919 advantage and surely as a company we're
+00:29:48.200 going to do that yeah and as a country
+00:29:49.799 we should do that and and obviously what
+00:29:52.080 are those skills that are necessary to
+00:29:53.840 be able to be precise and you know at at
+00:29:57.200 the telling what to to do that's part of
+00:29:59.679 the the AI equation that's right wow uh
+00:30:02.480 okay National Security MH obviously you
+00:30:06.159 know a huge you know Nexus between our
+00:30:09.080 nation security and and these issues
+00:30:11.880 talk about that how you see the world
+00:30:13.559 and and the National Security
+00:30:15.519 implications for this technology taking
+00:30:17.640 a step back
+00:30:21.000 um countries are starting to awaken uh
+00:30:25.399 to the importance of artificial
+00:30:27.080 intelligence to their country mhm on
+00:30:29.080 first principles it
+00:30:31.120 is apparent and the reason for that is
+00:30:34.360 simple no country in the world would say
+00:30:37.360 uh we should Outsource our intelligence
+00:30:40.720 to anybody else no country in the world
+00:30:42.919 should say would say we have an
+00:30:45.240 abundance of intelligence this is good
+00:30:47.679 enough let's put a lid on this
+00:30:50.679 one let's wean oursel off of
+00:30:53.220 [Laughter]
+00:30:56.000 this and so so I think I think it's it's
+00:30:58.960 now very clear that the that artificial
+00:31:01.559 intelligence is about the The
+00:31:03.360 Accelerated production of intelligence
+00:31:06.200 hey please remind me to talk about um
+00:31:09.399 artificial intelligence as an industry
+00:31:11.600 and the production of it I just wanted
+00:31:13.679 because for energy is so important um
+00:31:16.600 and uh uh countries are also starting to
+00:31:19.039 realize that the land they're on is part
+00:31:21.519 of their natural resource and Sovereign
+00:31:23.279 resource but their language culture
+00:31:27.159 people
+00:31:29.279 their way of thinking right is part of
+00:31:32.240 their natural resource and it's that is
+00:31:35.240 codified in data and so to to allow
+00:31:40.200 other countries to come in and scrape
+00:31:42.039 your data Harvest your data Harvest your
+00:31:45.519 natural resource exactly refine it and
+00:31:48.600 then import it back to you as artificial
+00:31:50.600 intelligence is unacceptable and
+00:31:53.480 happening yeah that's right and so so
+00:31:56.080 countries are starting to realize that
+00:31:57.559 they have to take control of their own
+00:31:59.320 artificial intelligence production and
+00:32:02.399 this is where the word sovereign AI if
+00:32:04.720 you will is starting to float around uh
+00:32:07.320 countries in the in the west countries
+00:32:09.000 in the East are are quite concerned and
+00:32:11.919 quite motivated to secure their AI
+00:32:16.039 infrastructure just like they secure
+00:32:18.200 their their
+00:32:19.880 telecommunications their power grids
+00:32:22.360 they like nuclear assets nuclear assets
+00:32:25.320 they want to really secure their
+00:32:26.799 artificial intelligence infrastructure
+00:32:28.960 and so that's that's really one of the
+00:32:31.600 the major Dynamics that's happening
+00:32:33.399 around the world that that they realize
+00:32:35.279 now the incredible potential of this
+00:32:37.720 technology to accelerate their uh
+00:32:41.840 climbing if you will you know in the
+00:32:44.919 world's um various uh social ladders and
+00:32:49.639 so this is a a great tool for them to
+00:32:52.639 propel their National prosperity and and
+00:32:55.880 I so I think on on first principles
+00:32:57.679 people people Now understand uh the
+00:32:59.960 incredible importance of artificial
+00:33:01.519 intelligence for their National Security
+00:33:04.120 National prosperity and National
+00:33:07.039 development yeah and so so I think I
+00:33:09.399 think every country is starting to to
+00:33:11.080 realize that now from our United States
+00:33:13.880 uh we need to realize that this
+00:33:15.039 technology is is uh indigenous to us it
+00:33:17.679 was created here congratulations we have
+00:33:20.159 thank you and and we're proud to be an
+00:33:21.919 American company and uh if not for the
+00:33:24.240 United States and and all of the
+00:33:25.880 resources that was that was made
+00:33:27.399 available
+00:33:28.720 uh in video wouldn't be Pro wouldn't be
+00:33:30.360 possible and so I I think the the the um
+00:33:34.600 uh
+00:33:37.960 uh the the country's desire uh to uh
+00:33:42.639 number one protect this technology uh
+00:33:44.919 for our own benefit uh is fantastic and
+00:33:48.120 we want to use this technology of course
+00:33:49.720 to accelerate and Propel the United
+00:33:51.919 States further the important thing is to
+00:33:54.399 realize also that to balance that with
+00:33:57.159 the idea that
+00:33:58.360 that American Technology around the
+00:34:00.519 world sets American Standards all around
+00:34:03.120 the world right exactly we would like we
+00:34:06.639 it's fantastic that the world speaks
+00:34:08.280 English yeah it's fantastic that um that
+00:34:11.839 the world is is powered by American
+00:34:14.359 Technology and we would like of course
+00:34:17.440 uh Nvidia technology to also be used all
+00:34:20.320 over the world to set the pace for the
+00:34:22.760 world um to make sure that the American
+00:34:25.159 Technologies are used to build other
+00:34:27.239 nations and other Industries around the
+00:34:29.000 world and so we want to find the balance
+00:34:31.000 between National Security and of course
+00:34:34.199 um prosperity for American companies
+00:34:36.239 around the world and so that balance is
+00:34:37.800 hard to strike and um but whatever
+00:34:40.679 whatever the administration does of
+00:34:42.639 course is something will support yeah I
+00:34:45.320 want to ask you about regulation and and
+00:34:47.280 the role in that but you were going to
+00:34:48.719 say for a second about uh AI production
+00:34:51.520 this is the big observation from an
+00:34:54.000 energy perspective this is really
+00:34:55.359 important to know um for the very first
+00:34:57.520 time time a
+00:35:00.040 computer is a tool but it's also a
+00:35:03.000 factory it used to be a data center
+00:35:06.480 where data is stored but in the
+00:35:09.599 future these computers that we build um
+00:35:13.560 will be used in a way that's very
+00:35:15.320 different than the past these computers
+00:35:18.040 for example I have I have a phone in my
+00:35:19.400 pocket right now it's a computer and
+00:35:22.079 it's a tool of mine just like a Quin art
+00:35:24.359 just a lawn mow just like anything any
+00:35:27.040 other tool Mone a tool when you're using
+00:35:29.480 it you're using it when you're not using
+00:35:30.839 it sitting idle my phone's sitting idle
+00:35:32.920 right now however in the world of
+00:35:35.520 artificial intelligence there will be
+00:35:37.760 systems there will be AIS that are doing
+00:35:39.680 things for us all the time we ask it to
+00:35:42.400 go do something and it does it all the
+00:35:44.000 time just like we ask one of our
+00:35:45.599 employees to do something it does it all
+00:35:47.079 the time and and um we like it to be uh
+00:35:51.680 human in the loop but as autonomous as
+00:35:54.240 as autonomous as
+00:35:55.960 possible as govern as necessary and so
+00:35:59.800 these computers are off working on
+00:36:02.160 things designing chips writing software
+00:36:04.680 optimizing things going through plans
+00:36:07.839 evaluating all the various plans that we
+00:36:09.800 have and trying to figure out which one
+00:36:11.079 is the best to come back and recommend
+00:36:13.119 it to us and so the exploration of the
+00:36:15.560 design space exploration of the the the
+00:36:19.000 optimization Space is really really
+00:36:21.920 large and we want these AIS to go
+00:36:23.560 explore them to go look for new
+00:36:25.760 scientific discovery for example and so
+00:36:28.280 so it's off in in these machines and
+00:36:30.240 it's running all the time in a lot of
+00:36:32.119 ways these computers in the future will
+00:36:34.359 be in AI Factory right and there's a new
+00:36:38.040 Factory that is being created right now
+00:36:40.520 there's a new industry that's that's
+00:36:42.680 being created right now it's called AI
+00:36:44.720 right and remember a new industry
+00:36:47.760 requires energy and this is a new
+00:36:50.720 addition to the past and so while
+00:36:53.280 accelerated Computing what Nvidia does
+00:36:55.599 um allows us to save a lot of energy in
+00:36:59.680 the way that we use the compute so every
+00:37:02.280 every every software that can be
+00:37:04.480 accelerated should be accelerated um we
+00:37:07.000 should modernize old data centers with
+00:37:09.720 the new type of computing models that
+00:37:12.079 are accelerated and we'll save a lot of
+00:37:14.640 energy in doing that and that's a
+00:37:16.160 classical data center that what that's
+00:37:17.800 what we used to build but there's a new
+00:37:19.680 thing that's called AI factories and
+00:37:21.839 that's going to consume energy but what
+00:37:24.640 of course comes out of it is artificial
+00:37:26.359 intelligence that will help us to save
+00:37:27.800 energy somewhere else right and so this
+00:37:29.760 is a this is a if you will an industrial
+00:37:32.400 revolution a new assembly line a new you
+00:37:35.240 used your car analogy a bit ago um
+00:37:38.440 regulations and guard rails and
+00:37:40.560 policymaking OB you know there's a lot
+00:37:42.599 of energy on the hill and and rightly
+00:37:45.280 about how do we think about you know
+00:37:47.440 preserving Innovation while protecting
+00:37:50.680 National Security our children you know
+00:37:52.599 fill in the blank and our role in the
+00:37:55.280 world Visa the Europeans or other
+00:37:58.240 me how do you think about those issues
+00:38:00.880 as you know members of the Congress down
+00:38:03.280 the street here start to put pen to
+00:38:05.240 paper on the way forward for your
+00:38:07.520 industry well first to help them
+00:38:09.560 understand the technology all of the
+00:38:11.400 potential uh incredible good that it can
+00:38:14.160 do uh around the world uh recognizing
+00:38:17.520 the the uh the threats and the danger of
+00:38:20.040 this this technology of course
+00:38:23.240 um the technology is fundamentally
+00:38:25.920 intelligence and intelligence could be
+00:38:28.560 used in a lot of different ways for for
+00:38:30.760 great and for Peril and so and so we we
+00:38:33.920 uh one help them understand the state of
+00:38:35.560 the technology where are we today um uh
+00:38:39.480 where will it be in some reasonable time
+00:38:42.200 and how to how to think about the
+00:38:43.760 technology more practically instead of
+00:38:46.520 theoretically scence science fiction
+00:38:48.920 wise right and so um without without us
+00:38:52.599 demystifying it it's hard for people to
+00:38:54.560 understand this technology and so one
+00:38:56.480 help people understand the technology um
+00:38:58.599 help people understand the the uh the
+00:39:00.760 very very good use that's already coming
+00:39:02.520 out of it um and in various fields of
+00:39:05.560 science whether it's in health care or
+00:39:08.000 um climate science or education
+00:39:10.520 education or everybody should have their
+00:39:12.280 own tutor um and so I have my own tutor
+00:39:15.599 today and my tutor is perplexity I I use
+00:39:18.280 it almost every day what what is this
+00:39:20.200 tutor perplexity perplexity perplexity
+00:39:22.920 it's a great it's a great great uh great
+00:39:24.640 resource um it's an AI and uh calls upon
+00:39:27.880 other AIS and and um uh you could ask it
+00:39:32.200 all kinds of questions and it's really
+00:39:33.920 really really helpful
+00:39:35.760 anyways it's taught me a lot about about
+00:39:38.440 um about digital biology and so it's
+00:39:40.960 really great so you're obviously a half
+00:39:44.520 so one one uh make sure that that that
+00:39:47.480 we educate them about about um uh the
+00:39:50.200 opportunities around the world so that
+00:39:51.640 they understand that exporting American
+00:39:55.560 Technology is winning abroad and we want
+00:39:58.760 to win here we want to win abroad we
+00:40:01.359 want to win everywhere and and um all of
+00:40:04.400 the policy makers I've met wants America
+00:40:06.400 to win and that's great that's great but
+00:40:09.520 there is the you know the other side of
+00:40:11.119 the coin we hosted uh Brad Smith from
+00:40:13.200 Microsoft I don't know a few weeks ago
+00:40:15.480 and they released a report on on AI
+00:40:18.319 generated content the implications for
+00:40:20.440 kids and others and so forth so you know
+00:40:22.599 how what do you what about that you know
+00:40:24.200 keeps you up at night piece of it the
+00:40:26.079 darker side of AI how do you think of
+00:40:27.920 that well it's um I it's going to take
+00:40:31.160 AI to catch darker side of AI MH and and
+00:40:34.960 the reason for that is is pretty clear
+00:40:37.040 you know they AI is going to be
+00:40:39.640 producing uh um fake fake uh uh data and
+00:40:44.400 and um false information at very high
+00:40:47.319 speeds and so take ve somebody with very
+00:40:50.520 high speeds to detect that and um to
+00:40:53.760 shut it down higher speeds higher speeds
+00:40:56.319 that's right exactly and so so so I
+00:40:59.119 think this is no this is very similar to
+00:41:01.240 Cy cyber
+00:41:02.560 security it it you're almost every
+00:41:06.000 single company in every single country
+00:41:07.520 is being uh haed hacked and you know
+00:41:10.720 attacked at almost all times right and
+00:41:12.839 so it's going to take even better cyber
+00:41:14.760 security to defend ourselves and so I
+00:41:17.520 think the um uh we just have to make
+00:41:19.560 sure that we stay ahead and AI will help
+00:41:22.400 us do that it's going to take AI to help
+00:41:24.440 us stay ahead yeah yeah so before we go
+00:41:26.720 a question want to ask you about
+00:41:28.240 obviously you're wildly successful about
+00:41:30.400 to be admitted to the
+00:41:32.280 nationaly and so on and and how do you
+00:41:34.880 think about your you know responsibility
+00:41:37.680 as a citizen as a philanthropist
+00:41:40.000 supporting education I mean just you
+00:41:41.960 know kind of own that piece of your
+00:41:43.960 remit now how do you think about that
+00:41:46.440 well the most the the first thing that
+00:41:49.240 that um uh be a good father that that's
+00:41:53.200 number one be a good father and husband
+00:41:55.800 uh number two I hoping you were going to
+00:41:57.119 get get that in there that husband pays
+00:41:58.839 cuzz there she is right there
+00:42:01.280 yeah brought my wife yeah
+00:42:05.680 um uh the first thing uh building Nvidia
+00:42:09.280 is probably the single best thing that
+00:42:12.000 that um any of our employees any any one
+00:42:14.440 of us has ever done we we've
+00:42:17.359 built what what is what is recognized
+00:42:20.839 one of the most consequential technology
+00:42:22.359 companies in history yeah uh and uh our
+00:42:26.240 technology is used
+00:42:28.280 um in groundbreaking work in so many
+00:42:30.680 different fields of Science and
+00:42:32.720 industries uh uh We've um uh of course
+00:42:38.520 uh uh invented invented Technologies
+00:42:42.480 over the course of three decades yeah
+00:42:46.240 that that um uh nobody nobody could
+00:42:51.359 imagine right and and um so I'm proud of
+00:42:55.640 that that's probably our most important
+00:42:57.240 work and applying this technology uh and
+00:43:01.680 advancing it further for some of the
+00:43:04.000 most challenging and pressing issues of
+00:43:07.200 our time whether it's uh digital biology
+00:43:10.559 or Health Care is is some of our some of
+00:43:14.319 our um uh best futures um I can't
+00:43:19.880 imagine you what we're going to be like
+00:43:22.400 in 10 years frankly yeah and when we
+00:43:24.400 apply artificial intelligence to um uh
+00:43:28.000 the field of biology and to for us to
+00:43:31.079 not to move Beyond calling it life
+00:43:34.599 sciences uh to life engineering just
+00:43:38.000 like we do and for us to be able to
+00:43:41.040 understand uh biology the way we
+00:43:42.920 understand U many other fields of
+00:43:44.920 science would be incredible and so so I
+00:43:47.319 think that that's probably our our
+00:43:48.680 single greatest potential of helping and
+00:43:53.599 um and working on it yeah well
+00:43:55.839 congratulations you obviously have built
+00:43:58.040 something
+00:43:58.960 incredibly powerful and fascinating and
+00:44:01.359 you're a learner every day I can tell
+00:44:04.079 already so all right we're going to have
+00:44:05.839 questions from the audience and I think
+00:44:08.480 there's some out uh in The Ether we have
+00:44:11.480 several hundred people online that are
+00:44:13.680 that are watching as well so hands
+00:44:15.839 popping up everywhere if we could get
+00:44:18.359 some microphones around yeah hi my name
+00:44:21.680 is Chris Barnard first of all thank you
+00:44:23.359 for everything you do as an investor
+00:44:25.720 from 2017 a personal thank you as well
+00:44:28.319 the stocks been doing very
+00:44:29.839 well um obviously we saw some very
+00:44:32.200 exciting news last week with Microsoft
+00:44:33.920 helping constellation reopen Three Mile
+00:44:35.760 Island and the power of nuclear to
+00:44:38.000 potentially help this AI future I wonder
+00:44:40.280 if you have any thoughts on how nuclear
+00:44:42.640 can be an integral part of this thank
+00:44:44.280 you nuclear nuclear is going to be uh a
+00:44:47.599 vital integral part of this no one no
+00:44:50.760 one energy source will be sufficient for
+00:44:54.200 the world yeah and so we'll have to find
+00:44:56.680 that balance balance it's it's not one
+00:44:59.520 particular way versus others but but
+00:45:02.760 there are a lot of good ways and and but
+00:45:05.119 there's no better way than to not waste
+00:45:08.599 energy and and there there are a couple
+00:45:11.480 of ways that that we can contribute to
+00:45:13.480 doing that accelerated Computing is one
+00:45:15.680 way and uh the reason why we've become
+00:45:19.559 so successful is because the
+00:45:21.839 computational energy necessary to get
+00:45:24.599 the work done using the Nvidia approach
+00:45:27.520 is orders of magnitude less than using
+00:45:29.920 general purpose Computing and um not
+00:45:32.800 wasting energy not wasting money not
+00:45:35.160 wasting time is probably the single best
+00:45:37.000 thing we can do um uh there's a whole
+00:45:39.680 bunch of other ways that we could not
+00:45:41.559 waste energy um I would really love to
+00:45:43.800 see our power grid all be smart you know
+00:45:46.599 to today our nation's power grid was
+00:45:48.920 built a long time ago because we're one
+00:45:50.480 of the earliest countries to become
+00:45:53.400 prosperous and and that power grid could
+00:45:57.040 uh benefit from uh the insertion of
+00:45:59.760 artificial intelligence and smart
+00:46:01.200 technology into it and that smart grid
+00:46:04.119 uh that grid when becomes smart uh will
+00:46:07.000 help us uh properly provision technology
+00:46:09.559 to the right places and you know connect
+00:46:11.680 the right uh sources and syns like we
+00:46:15.160 connect the right drivers and writers
+00:46:17.280 you know and so in order for Uber to
+00:46:20.119 work you need a smart grid and and we
+00:46:22.920 could we can go create that smart grid
+00:46:25.119 exactly others
+00:46:28.520 we're for the col McCormack from
+00:46:30.280 Georgetown University in carbon direct
+00:46:32.319 one of the huge challenges with
+00:46:33.480 renewable energy today is the
+00:46:34.720 interconnection queue we have thousands
+00:46:37.400 of gws of solar wind and batteries
+00:46:39.599 waiting to connect sometimes for years
+00:46:42.160 for studies to be completed what can
+00:46:44.280 tech companies like Nvidia do to speed
+00:46:46.559 up the interconnection queue and get
+00:46:48.480 that renewable energy generating faster
+00:46:50.720 than it is
+00:46:51.839 today yeah um you you know the reason
+00:46:54.960 why fossil fuel is so effective is
+00:46:58.480 because uh time mother nature compressed
+00:47:01.200 it into a transportable for form for us
+00:47:04.160 and we can take it anywhere and refine
+00:47:06.559 it from anywhere and um uh the challenge
+00:47:09.839 of course with electric energy is the
+00:47:11.960 battery costs a lot of money and uh and
+00:47:15.160 solar and sun is only out for about half
+00:47:17.440 of the day and and so there there are a
+00:47:20.160 variety of of challenges of sustainable
+00:47:22.280 energy in that way one way that I
+00:47:24.520 described earlier is instead of
+00:47:26.920 transporting the energy to where we need
+00:47:29.520 it let's transport the data center to
+00:47:33.240 where there's energy source and we put
+00:47:35.800 that data we can build a data center
+00:47:37.200 anywhere the computer the AI doesn't
+00:47:40.000 care where it goes to
+00:47:41.839 school and and you know although we
+00:47:45.440 would like the AI to be trained as
+00:47:48.520 continuously as possible taking a nap
+00:47:51.359 for a couple of hours while the sun is
+00:47:53.000 down it's it's okay you know we can live
+00:47:55.280 with that and and so so so long as the
+00:47:57.559 energy is is um abundant and and there's
+00:48:01.280 going to be excess anyways um I I think
+00:48:04.079 that is a great way to do it and we can
+00:48:06.200 then take that AI compress it that
+00:48:08.920 energy compress it into this little tiny
+00:48:11.040 thing called large language model and we
+00:48:13.040 can transport that anywhere we like to
+00:48:14.680 use it so others up here let's see there
+00:48:18.480 we go you're next hi Katie with
+00:48:20.880 Constellation Energy we actually made
+00:48:22.480 that announcement uh last week about
+00:48:24.240 bringing the nuclear plant back to
+00:48:26.119 congratulations thank you thank you it's
+00:48:27.920 very exciting um but kind of pulling off
+00:48:30.000 of what you were just saying um we have
+00:48:32.400 heard uh we have lots more to offer
+00:48:35.240 right we have lots more nuclear energy
+00:48:36.760 in this country that can be used to
+00:48:38.200 serve data centers AI factories um but
+00:48:42.440 we've heard about some proposals that
+00:48:44.319 would require what they say is
+00:48:46.400 additionality for AI and this idea that
+00:48:49.200 if you're going to build an AI Factory
+00:48:50.799 you have to build commensurate energy to
+00:48:52.640 go along with it and I'm just curious
+00:48:54.559 your thoughts on the feasibility of that
+00:48:56.839 and whether that's going to allow us to
+00:48:58.240 really win the race on AI or if there
+00:49:00.520 needs to be some other policies to
+00:49:02.079 consider about how we can use both
+00:49:04.119 existing and new
+00:49:07.520 resources I was I was uh I was here a
+00:49:10.799 couple weeks ago and the administration
+00:49:13.319 was very clear that that um uh they
+00:49:17.359 would
+00:49:18.200 like American companies to have uh as
+00:49:22.160 much opportunity to build data centers
+00:49:24.079 here in
+00:49:24.960 America and and and uh the admin
+00:49:28.240 Administration recognizes that that um
+00:49:31.920 uh permitting and getting access to the
+00:49:34.799 power in various various places around
+00:49:37.119 the country could be difficult um and
+00:49:40.000 that they would like to be an ally to
+00:49:41.960 help um uh with with uh uh accelerating
+00:49:48.720 that process so that the American
+00:49:51.040 companies don't have to look offshore
+00:49:53.520 and outside our country to do so and so
+00:49:55.760 I I think this is one building the AI
+00:49:58.920 infrastructure of our country is a vital
+00:50:01.440 National interest and and although
+00:50:06.040 although uh it consumes energy uh to
+00:50:10.000 train the models the models that are
+00:50:13.200 created will do the work much more
+00:50:16.920 energy efficiently and so when you think
+00:50:19.599 about the longitudinal the life the
+00:50:21.960 lifespan of an AI um the Energy
+00:50:25.200 Efficiency and the productivity gains
+00:50:27.000 that we'll get from it from an industry
+00:50:28.799 from from from our society is going to
+00:50:31.680 be is going to be incredible and um uh
+00:50:35.000 and so we we spent some time to help
+00:50:37.040 people understand the big pictures of AI
+00:50:39.599 uh the challenges of of um provisioning
+00:50:42.400 energy to AI but also some of the some
+00:50:45.240 of the things to to uh realize that the
+00:50:48.280 AI is running an AI Factory and training
+00:50:51.400 an AI doesn't have to be like running a
+00:50:53.240 hospital it doesn't need to have 99.9
+00:50:56.640 9999 99% up time you know if it's down
+00:51:00.839 if it's down a couple percent you know
+00:51:03.640 5% from time to time it's okay it's okay
+00:51:08.280 you know just stop studying for a few
+00:51:09.839 hours you know you'll pick up where you
+00:51:11.960 left off and so it's actually called
+00:51:14.520 checkpoint and restart you know take a
+00:51:16.720 break and we'll pick up where you left
+00:51:18.200 off and so so I I think um we should
+00:51:21.440 understand the the the challenges but
+00:51:24.599 also the differences challenges and the
+00:51:27.319 differences of provisioning uh energy to
+00:51:29.480 artificial intelligence that's like this
+00:51:31.920 question on the screen here will AI
+00:51:33.680 really save energy or we just use the
+00:51:36.040 efficiencies to power other tasks so
+00:51:38.280 you've answered that in part but is
+00:51:40.240 there any way to say like how much or
+00:51:43.400 what our Target might be well we have
+00:51:45.240 many examples uh one example one example
+00:51:48.640 is uh the example was giving about
+00:51:50.799 weather simulation right right yeah we
+00:51:53.240 we uh predict weather 3,000 times less
+00:51:56.240 energy than a supercomputer mhm
+00:51:59.480 um the the number of examples are are
+00:52:02.720 quite abundant um but it doesn't change
+00:52:05.799 the fact that this question is the other
+00:52:09.319 side of it is probably right that we'll
+00:52:11.880 end up saving energy but society would
+00:52:14.839 then apply the energy saved to go do
+00:52:17.440 something else yeah and and um we call
+00:52:20.960 that Prosperity yeah economic grow yeah
+00:52:24.359 economic growth uh the Improvement of
+00:52:26.520 quality of life which we want to see the
+00:52:29.400 fact of the matter
+00:52:31.799 is on an absolute basis I hope that we
+00:52:36.720 all
+00:52:38.200 hope that the population of Earth
+00:52:40.960 consumes more energy
+00:52:44.720 someday because it's directly related to
+00:52:48.359 quality of life it's directly related to
+00:52:50.680 Prosperity we we want every everyone to
+00:52:53.880 enjoy this quality of life yeah and so
+00:52:56.480 absolutely amen all right over here yes
+00:52:59.559 there's a
+00:53:01.079 microphone where are we we okay over
+00:53:03.799 here but please microphone come over
+00:53:05.640 here oh you've got one okay yes ma'am
+00:53:08.119 okay thank you so much thank you Mr
+00:53:09.920 Jensen really appreciate your commentary
+00:53:11.799 today and I want to touch on one of your
+00:53:13.680 critical points which is the importance
+00:53:16.000 of educating policy makers on the
+00:53:18.599 realities of AI so my name is Amita
+00:53:21.319 lazari I come from the tech policy
+00:53:22.799 profession previously at Intel and today
+00:53:25.359 I'm a startup founder co-founder of a
+00:53:27.520 company called open policy and we use Ai
+00:53:30.200 and work with some of the best unicorns
+00:53:31.839 in the world to better connect them to
+00:53:33.119 what's coming from policy and be able to
+00:53:35.079 scale policy engagement a profession
+00:53:37.520 that has uh you know some special
+00:53:40.680 expertise that requires that translation
+00:53:43.079 and I want to ask your opinion on how AI
+00:53:45.319 can be used to scale uh think thank work
+00:53:48.359 that this connection between Innovation
+00:53:50.160 and policym and just liberate all of
+00:53:52.880 this information that is here in DC
+00:53:54.559 about what's coming and bring it to C
+00:53:58.760 Valley you said it so fast I think my
+00:54:03.240 data
+00:54:04.200 rate is about 80% of
+00:54:07.720 yours and and
+00:54:09.880 is uh I I think I think I I I think I
+00:54:14.319 understand if I answer a wrong question
+00:54:17.599 uh let me apologize in
+00:54:20.000 advance
+00:54:22.200 the um AI has a wonderful ability to
+00:54:26.920 teach to explain very complicated
+00:54:30.839 Concepts
+00:54:32.359 and I use AI today to as I was
+00:54:36.079 mentioning to Margaret that I use it
+00:54:37.799 literally every day I literally use AI
+00:54:41.599 every single day and I use it to explain
+00:54:44.520 things to me and when when um uh it's a
+00:54:47.680 New Concept uh I might ask it to explain
+00:54:50.720 it as simply as possible and then I can
+00:54:53.440 dig further and further and further and
+00:54:55.839 and uh delve further into it and and I
+00:54:58.839 love the fact that they could explain it
+00:55:00.839 as a fifth
+00:55:02.960 grader I love the fact that that um it
+00:55:06.520 can give me more depth and and I can
+00:55:08.520 then ask it you know explain it to me
+00:55:10.520 now from their first principles of
+00:55:12.480 Science and and um uh uh now explain it
+00:55:17.160 with
+00:55:19.359 analogies now break it down step by step
+00:55:23.119 you know all these different ways of
+00:55:24.599 learning because you know when we engage
+00:55:26.520 new ideas we need to engage it at
+00:55:28.319 different levels and ideally you know at
+00:55:30.280 the highest possible level and break
+00:55:32.400 down the information you know into its
+00:55:35.359 Elemental Parts over time and so I I do
+00:55:38.240 think that that uh the work that you're
+00:55:40.680 doing using AI um to expose the
+00:55:45.359 Technologies to policy
+00:55:47.920 makers would be a wonderful benefit to
+00:55:50.440 them now in the future hopefully they'll
+00:55:52.839 just use it themselves you know just
+00:55:54.559 it's on the phone just you know which is
+00:55:56.599 the way I use it and and so it's like my
+00:55:59.440 my phone now is is super smart yeah but
+00:56:02.720 the ability to query in a intelligent
+00:56:05.920 and useful way is certainly a skill that
+00:56:08.359 you obviously have
+00:56:10.119 sir hey Jensen thanks for coming here
+00:56:12.359 Mike Chan from Deep Ventures um first of
+00:56:14.400 all you and my wife share a last name so
+00:56:17.440 we should talk about that sometime um
+00:56:19.880 okay uh second of all I invest in if
+00:56:22.319 you're suggesting I owe you money
+00:56:27.760 check my I um I'm just
+00:56:30.680 kidding uh so I uh invest humor is
+00:56:33.559 allowed in DC abely this is my first
+00:56:37.119 meeting a the course correct
+00:56:39.920 immediately um so I invested in crypto
+00:56:43.039 startups and our industry would kind of
+00:56:46.079 like to thank your industry for taking a
+00:56:48.000 little bit of the heat off of the
+00:56:50.280 negative PR of Bitcoin mining and and
+00:56:53.039 all that but but that that being said um
+00:56:55.760 you know a lot lot of power producers
+00:56:58.039 energy producers um the excess energy
+00:57:01.119 they allocate that to Bitcoin mining
+00:57:02.960 because there's a very clear Market
+00:57:04.720 there um kind of onetoone financial
+00:57:06.920 Market there do you see something like
+00:57:08.720 that possible in terms of like a smart
+00:57:10.480 Grid or like having those companies be
+00:57:12.920 able to dedicate some of that excess
+00:57:15.760 energy
+00:57:16.760 to training models and like and
+00:57:19.440 providing that power to you just gave um
+00:57:23.319 uh a an a current example of excess
+00:57:26.960 energy being used to convert in to store
+00:57:31.640 that
+00:57:32.839 energy essentially what Bitcoin is doing
+00:57:35.599 is taking excess energy storing it into
+00:57:39.480 a new form it's called currency and you
+00:57:42.640 take that currency and you take it
+00:57:44.240 wherever you like and so you took energy
+00:57:46.799 from one place and now you've
+00:57:48.520 transported it everywhere now of course
+00:57:51.839 that's just Bitcoin imagine a much more
+00:57:54.920 Universal
+00:57:56.440 currency called
+00:58:00.039 intelligence using exactly all the same
+00:58:02.559 concept that you described you you find
+00:58:05.760 places with excess energy go put a data
+00:58:08.520 center
+00:58:09.599 there trans transfer that energy
+00:58:13.440 compress it into an artificial
+00:58:14.920 intelligence model take that model all
+00:58:17.640 over the place to use it make sense same
+00:58:20.440 idea excellent okay we're going to ask
+00:58:22.640 this question and then one more it says
+00:58:24.880 can you discuss the difference in
+00:58:26.240 requirements for hydrogen production
+00:58:28.319 with AI versus without I have no idea I
+00:58:32.000 was going to say I mean ask ask your
+00:58:34.119 phone to answer this this question all
+00:58:36.359 right thank you for that though okay all
+00:58:38.520 right okay last question yeah
+00:58:40.960 hello I'm a lawyer from South Korea I've
+00:58:44.440 observed how MD AI technology are
+00:58:48.039 revolutionizing various industrious in
+00:58:50.720 the legal sector the adoption of AI is
+00:58:53.799 accelerating particularly in area like
+00:58:56.680 document analysis Automation and
+00:58:59.160 Regulatory Compliance monitoring which
+00:59:01.799 hold significant Potential from your
+00:59:05.400 perspective how do you envision AI te
+00:59:08.640 technology being utilized in the legal
+00:59:11.000 and Regulatory Industries in the future
+00:59:14.200 and what Innovations might we expect to
+00:59:17.480 see in these fields thank you regulatory
+00:59:21.920 implications of
+00:59:23.960 AI regulatory impc ation of
+00:59:27.760 AI
+00:59:30.160 um there will be
+00:59:32.400 no task done no knowledge task
+00:59:36.880 done in any industry by anyone that will
+00:59:42.039 not involve AI in the
+00:59:44.640 loop in the near
+00:59:47.119 future any information knowledge worker
+00:59:51.359 it could be information about an
+00:59:54.280 engineer um
+00:59:56.960 legal documents and software code reads
+01:00:00.799 similarly if well written and I AI
+01:00:05.280 contributes to to software coding
+01:00:08.200 significantly today we use AI to code
+01:00:11.200 write our software inside our company we
+01:00:13.599 use AI to debug our software which is to
+01:00:16.079 find the flaws in it you will use AI to
+01:00:19.240 produce legal documents you will use AI
+01:00:21.559 to analyze documents you will use AI to
+01:00:24.720 enhance the legal documents
+01:00:27.039 and so uh every aspect of of information
+01:00:31.280 knowledge will involve that
+01:00:34.039 therefore all policy will involve AI in
+01:00:38.880 the future and the reason for that is
+01:00:40.799 policy is code it's code for for
+01:00:44.720 appropriate behavior and code um uh if
+01:00:50.280 if written well um uh doesn't contradict
+01:00:55.160 itself
+01:00:56.960 and and um achieves the mission the the
+01:01:00.680 goal of of uh the policy and so uh
+01:01:04.680 policy light code will also en be
+01:01:06.960 enhanced with AI uh almost everything
+01:01:09.760 that we do in the future will have ai in
+01:01:11.640 the loop and and human in the loop you
+01:01:14.839 know we'll be collaborating uh to to do
+01:01:17.400 everything that is the perfect note to
+01:01:19.520 end on Jensen I think so let join me in
+01:01:22.640 thanking this fantastic thank you thank
+01:01:25.640 you
+01:01:26.839 thank you
+01:01:30.400 [Applause]
+01:01:36.460 [Music]
+01:01:50.590 [Music]

@@ -1,0 +1,1622 @@
+# tactiq.io free youtube transcript
+# Sam Altman & OpenAI | 2023 Hawking Fellow | Cambridge Union
+# https://www.youtube.com/watch/NjpNG0CJRMM
+
+00:00:03.030 [Music]
+00:00:16.970 [Music]
+00:00:26.560 good evening ladies and gentlemen 6
+00:00:28.880 years ago in 2017 the union Professor
+00:00:32.119 Steven Hawking came together to
+00:00:33.920 establish the fellowship we celebrate
+00:00:35.760 tonight with the idea of bringing
+00:00:38.160 individuals distinguished in the stem
+00:00:39.760 fields to Cambridge to discuss and
+00:00:41.719 debate their work and achievements since
+00:00:44.480 his passing shortly after the fellowship
+00:00:46.559 has taken on much greater meaning and we
+00:00:48.440 are here tonight not just to celebrate
+00:00:49.960 the achievements of the fellows but to
+00:00:51.800 pay tribute to Professor Hawking his
+00:00:53.680 legacy and his close connection to the
+00:00:55.800 students of Cambridge and to do so we're
+00:00:57.719 delighted to have with us the Hawking
+00:00:59.160 family particular Jane and Lucy Hawking
+00:01:01.399 thank you for being here
+00:01:08.230 [Music]
+00:01:13.200 tonight as I'm sure you all know this
+00:01:16.200 year the fellowship committee have voted
+00:01:17.840 to award the fellowship for 2023 to the
+00:01:20.479 open AI team the models that open AI
+00:01:23.560 have developed in particular Dar and
+00:01:25.280 chat GPT rep represent the first time
+00:01:28.159 that we the general public have truly
+00:01:29.600 felt and understood the Monumental
+00:01:31.880 changes that AI will bring What
+00:01:33.920 attracted the fellowship committee to
+00:01:35.320 open AI in particular though is the
+00:01:37.479 positive and responsible vision for AI
+00:01:40.479 that open AI espouses its commitment to
+00:01:43.799 open source and public access to AI has
+00:01:46.520 in Sam's own words successfully shifted
+00:01:49.119 the Overton window on AI and AGI in a
+00:01:51.479 way that little else has previously been
+00:01:53.200 able to do combined this is exactly what
+00:01:55.920 the Hawking Fellowship is about
+00:01:57.759 recognizing achievements that have had
+00:01:59.360 and will have an exceptional impact but
+00:02:01.600 that are also done in the best interests
+00:02:03.200 of humanity with the aim of improving
+00:02:05.240 The Human Condition and our
+00:02:06.680 understanding of the world this is the
+00:02:08.840 first time that the fellowship has been
+00:02:10.160 conferred on a group rather than
+00:02:11.840 individual but the committee feel this
+00:02:13.840 is the most appropriate way of
+00:02:15.400 recognizing the collaborative nature of
+00:02:16.959 the achievement without further Ado then
+00:02:19.560 here to receive the fellowship this
+00:02:20.800 evening and on behalf of his team and to
+00:02:22.840 deliver the lecture please put your
+00:02:24.280 hands together for Mr Sam
+00:02:25.840 [Music]
+00:02:26.900 [Applause]
+00:02:28.760 opman
+00:02:31.720 [Music]
+00:02:33.400 thank
+00:02:34.760 you thank you very
+00:02:37.240 [Music]
+00:02:46.760 much thank you Lucy and the entire
+00:02:49.159 Hawking family for the warmth and
+00:02:51.280 Hospitality extended to me and open AI
+00:02:54.680 my colleagues and I are truly honored to
+00:02:56.480 be selected as this year's Hawking
+00:02:58.159 fellow and I'm thrilled to be be here
+00:03:00.000 representing the team we're deeply
+00:03:02.040 grateful to the Hawking Fellowship
+00:03:03.360 committee the Cambridge Union and the
+00:03:05.760 Hawking family I mostly came here to
+00:03:08.319 have a discussion I'd love to answer a
+00:03:09.680 lot of questions uh I'll try to keep my
+00:03:11.680 remarks short it is truly humbling to be
+00:03:14.239 here at the University of Cambridge a
+00:03:16.480 place where Professor Hawkins profound
+00:03:18.200 insights into the universe have left an
+00:03:20.400 indelible mark on all of us and been a
+00:03:22.640 huge inspiration to me
+00:03:24.599 personally as many of you probably know
+00:03:27.280 he was deeply engaged with issues around
+00:03:29.200 AI and its potential impact on society
+00:03:32.879 many of Professor hawkin's early
+00:03:34.400 comments on AI are remarkably preent and
+00:03:37.200 they've deeply influenced our
+00:03:38.400 perspective and our
+00:03:40.040 work we believe that the potential for
+00:03:42.200 AI to improve our lives our societies
+00:03:44.360 and the world is immense and we think
+00:03:46.360 that Professor Hawkin
+00:03:47.840 agreed as he put it we cannot predict
+00:03:50.959 what we might achieve when our own minds
+00:03:52.319 are Amplified by AI I think this
+00:03:54.560 amplification is in its very early
+00:03:56.239 stages it is going to surprise uh hope
+00:03:58.920 hopefully all of us
+00:04:01.239 he went on to say perhaps with the tools
+00:04:03.640 of this technological Revolution we'll
+00:04:05.840 be able to undo some of the Damage Done
+00:04:07.640 To The World by the last one
+00:04:09.920 industrialization we will aim to finally
+00:04:12.079 eradicate disease and poverty every
+00:04:14.280 aspect of Our Lives will be
+00:04:16.759 transformed at open AI we're very
+00:04:18.959 inspired by this Outlook we know that to
+00:04:21.519 achieve this future we must build
+00:04:24.000 release and use AI safely we must do
+00:04:26.520 what we can to prepare for its impacts
+00:04:28.759 and play our part in helping our society
+00:04:31.120 and government prepare as well so that's
+00:04:33.840 why we at open AI strive to research
+00:04:35.639 develop and release Cutting Edge AI
+00:04:37.360 technology as well as tools and best
+00:04:39.759 practices for safe aligned
+00:04:42.680 AI I would like to tell the story uh of
+00:04:46.039 how opening eye began and I hope this
+00:04:48.000 will be some inspiration for all of you
+00:04:49.600 that go through hard times and failures
+00:04:51.160 with whatever you try on next you
+00:04:52.560 sometimes do get out the other side in
+00:04:55.039 2015 8 years ago I co-founded open AI
+00:04:58.160 with my colleagues we started as a non
+00:04:59.720 profit with the mission of creating
+00:05:01.560 artificial and general intelligence that
+00:05:03.600 benefits all of humanity uh at the time
+00:05:06.360 AGI was considered like a bad word to
+00:05:08.440 say and we were sort of laughed at by
+00:05:10.000 all serious professors in the field
+00:05:11.759 Professor Hawkin would not have but the
+00:05:13.080 rest of them um and people doubted the
+00:05:15.880 vision uh they labeled it a wild goose
+00:05:17.639 chase and uh there was a lot of
+00:05:19.280 skepticism and raised eyebrows with with
+00:05:21.280 good reason we were saying that we were
+00:05:22.680 going to try to do something audacious
+00:05:24.560 that probably wasn't going to work and
+00:05:26.080 we didn't know how we were going to do
+00:05:27.039 it we just thought we would try to
+00:05:28.560 figure it out but we were fueled by this
+00:05:30.800 Vision um like many Silicon Valley
+00:05:34.120 startups our first office was an
+00:05:35.880 apartment with no air conditioning um in
+00:05:38.639 those early years we hit many roadblocks
+00:05:41.039 we stumbled we had troubl making
+00:05:42.960 progress we were discouraged not very
+00:05:44.680 much was working in
+00:05:47.240 2017 I watched Professor Hawkins say at
+00:05:49.720 the web Summit conference I'm an
+00:05:51.759 optimist and I believe we can create AI
+00:05:54.039 for the good of the world that it can
+00:05:55.800 work in harmony with us we simply need
+00:05:58.039 to be aware of the dangers identify them
+00:06:00.880 employ the best possible practice in
+00:06:02.560 management and prepare for its
+00:06:04.440 consequences well in ADV
+00:06:06.599 Advance I'm an optimist too uh this
+00:06:09.199 inspired all of us this this came in a
+00:06:11.280 dark time fast forward a year to 2018 we
+00:06:15.080 introduced the very first GPT gpt1
+00:06:18.160 looking back it was really not very good
+00:06:20.240 it could barely do anything at all it
+00:06:21.880 got very little notice the paper got
+00:06:23.280 rejected from conferences all of that
+00:06:25.560 but we believe that if we continue to
+00:06:27.080 scale it scale data and scale compute we
+00:06:29.800 could create more and more capable
+00:06:31.440 systems and we started to work on the
+00:06:33.360 scaling
+00:06:34.280 laws at that same time we started doing
+00:06:36.800 the math on how much all this was going
+00:06:38.360 to cost and we realized it was going to
+00:06:40.560 be very very expensive to make AGI so we
+00:06:43.479 created a cap profit subsidiary that is
+00:06:45.800 governed still by our nonprofit today we
+00:06:48.919 limit Financial returns to employees and
+00:06:50.759 investors we return future profits above
+00:06:53.120 that limit to our public charity this
+00:06:55.400 corporate structure lets us secure
+00:06:57.280 necessary capital for compute and talent
+00:07:00.280 and it also lets us put our mission
+00:07:01.800 ahead of
+00:07:03.039 profits so this scaling formula worked
+00:07:05.560 in 2019 we introduced gpt2 in 2020 we
+00:07:08.879 follow it with
+00:07:09.879 gpt3 chat GPT was released in 2022 and
+00:07:13.599 GPT 4 in
+00:07:15.400 2023 when we put out chat gbt we weren't
+00:07:17.840 sure how much people were going to care
+00:07:19.720 we called it a low-key research preview
+00:07:21.400 and that's what most of us believed
+00:07:22.479 would happen it's now used by hundreds
+00:07:24.240 of millions of people around the world
+00:07:26.080 less than one year later maybe more
+00:07:28.360 importantly than that it's shifting
+00:07:29.960 perceptions about what AI is what AI
+00:07:32.280 will
+00:07:33.599 be but it's not merely enough to develop
+00:07:36.160 more capable
+00:07:37.720 systems in keeping with our mission
+00:07:40.160 we've made them safer and more aligned
+00:07:41.919 we have more work to do we believe that
+00:07:44.120 learning from and responding to feedback
+00:07:45.599 from society from everyone is a critical
+00:07:47.879 component of building safe AI systems
+00:07:49.879 over
+00:07:51.280 time through our alignment and safety
+00:07:53.800 techniques we've been able to instill
+00:07:55.800 human values into our models this is
+00:07:57.759 something that many people myself
+00:07:59.400 included thought might be much harder
+00:08:00.879 than it has so far turned out to be we
+00:08:03.639 conduct rigorous testing we engage
+00:08:05.440 external experts for feedback we build
+00:08:07.639 and reinforce safety monitoring systems
+00:08:09.960 and we provide resources to help people
+00:08:11.759 use our technology
+00:08:14.840 responsibly all of that said we
+00:08:17.639 recognize that there are huge risks and
+00:08:19.479 potential downsides to AI in this field
+00:08:22.199 unlike any other I know you have to
+00:08:24.360 balance these huge risks to enjoy these
+00:08:26.440 tremendous upsides uh they they really
+00:08:28.280 go together
+00:08:30.080 in that same keynote address from
+00:08:32.159 2017 Professor Hawking said AI could be
+00:08:35.200 the worst invention in the history of
+00:08:36.880 our
+00:08:38.080 civilization so why do we do this at all
+00:08:41.279 back to what I said a second ago AI has
+00:08:43.600 extraordinary extraordinary potential
+00:08:45.680 probably more than any single piece of
+00:08:47.320 technology humans have yet invented it
+00:08:50.000 can be the conduit that amplifies human
+00:08:52.279 capabilities expands our understanding
+00:08:54.839 and solves complex problems that without
+00:08:56.640 AI will remain beyond our reach
+00:09:00.079 it's a tool that could redefine the way
+00:09:01.640 we understand and solve our biggest
+00:09:03.040 problems it's a tool that I think can
+00:09:05.079 lead to more scientific advancement and
+00:09:07.040 understanding than anything that's come
+00:09:09.279 before consider Healthcare AI can
+00:09:12.120 improve our Global Healthcare
+00:09:13.240 infrastructure especially in regions
+00:09:15.160 where medical reason resources are
+00:09:17.480 scarce years down the line AI can maybe
+00:09:19.959 solve every disease in education
+00:09:23.480 tailored learning experiences
+00:09:24.959 facilitated by AI can cater to the
+00:09:27.360 unique aptitudes and interests of every
+00:09:29.240 student democratizing access to
+00:09:32.360 knowledge and I mentioned this before
+00:09:34.240 but I want to say it one more time
+00:09:35.519 because it's the thing to me that is
+00:09:36.839 most exciting AI can significantly
+00:09:39.560 accelerate the pace of scientific
+00:09:42.279 discovery we on our own maybe we can
+00:09:44.680 accomplish a certain rate with AI maybe
+00:09:47.160 we can make that rate 10 times or 100
+00:09:48.800 times faster and I think all real human
+00:09:52.160 progress comes from deepen in our
+00:09:53.720 scientific understanding of the world so
+00:09:55.800 I'm incredibly excited for
+00:09:58.120 this as we work towards this future we
+00:10:01.760 must take seriously the full spectrum of
+00:10:03.440 safety risks related to AI from the
+00:10:05.920 systems we have today to the systems
+00:10:08.519 that will come in the future and maybe
+00:10:09.880 not the distant future that we'll all
+00:10:11.880 call Super
+00:10:14.200 intelligence so this is why at open AI
+00:10:16.640 we're working to develop a quantitative
+00:10:18.519 evidence-based methodology to evaluate
+00:10:20.959 forecast and protect against the risks
+00:10:22.800 of Highly capable AI the sort of current
+00:10:25.279 rhetoric where we just say it's you know
+00:10:26.720 all going to be horrible and there's
+00:10:27.760 nothing can be done is not very
+00:10:29.320 productive and certainly not very
+00:10:31.720 scientific we are committed to
+00:10:33.440 developing a solution to make super
+00:10:35.079 intelligent AI safe in the coming
+00:10:37.240 years and we're talking with people
+00:10:39.279 across governments and Civil Society
+00:10:41.440 about how to harness and adapt to
+00:10:44.600 AI we can't do this alone building AI
+00:10:48.279 AGI safely for the benefit of humanity
+00:10:50.399 is a collective Endeavor that will
+00:10:51.720 transcend organizations and country
+00:10:54.000 borders it will require the brightest
+00:10:56.120 Minds curiosity integrity and a shared
+00:10:58.639 commitment to the greater good here at
+00:11:01.320 Cambridge you are at the Vanguard of
+00:11:03.519 academic and intellectual Discovery
+00:11:05.560 embodying a tradition of inquiry that
+00:11:07.079 shapes the future I am envious that we
+00:11:08.839 have no place like this in the United
+00:11:10.639 States I invite each of you to join us
+00:11:13.040 in this
+00:11:14.399 Mission whether through research policy
+00:11:17.320 advocacy or developing beneficial
+00:11:19.440 applications of AI you can and will help
+00:11:22.040 steer this technology towards a positive
+00:11:25.040 outcome I encourage you to dig into the
+00:11:27.240 tough questions challenge the status
+00:11:29.560 and work across disciplines and cultures
+00:11:32.320 it is through this concerted effort that
+00:11:34.000 we will unlock the potential of AI while
+00:11:36.040 ensuring that its benefits are realized
+00:11:37.800 safely and equitably I think both of
+00:11:39.800 these are moral
+00:11:41.279 imperatives I want to close with the
+00:11:43.120 words of Professor Hawkin once more we
+00:11:46.000 need to take learning beyond the
+00:11:47.440 theoretical discussion of how AI should
+00:11:49.200 be and take action to make sure we plan
+00:11:51.200 for how it can be he continued you all
+00:11:54.720 have the potential to push the
+00:11:55.839 boundaries of what is accepted and to
+00:11:57.600 think big we stand on the threshold of a
+00:12:00.320 Brave New World it is an exciting yet
+00:12:03.079 precarious place to be and you are the
+00:12:05.279 Pioneers I wish you well and I wish you
+00:12:07.839 well too thank you again for this
+00:12:10.000 incredible honor I'm excited to talk
+00:12:11.480 more and thank you for
+00:12:26.920 listening thank you again for being here
+00:12:28.920 tonight Sam uh we're immensely grateful
+00:12:30.720 that you've taken time out of your
+00:12:32.199 schedule to be here um so for the
+00:12:34.680 audience the way this is going to work
+00:12:35.959 I'm just going to leave sort of 10
+00:12:37.120 minutes of discussion and then very much
+00:12:39.000 over to the audience so please do
+00:12:40.800 rethinking of what questions you want to
+00:12:42.320 ask and when time comes just stick up
+00:12:43.800 your hand and we'll go straight to you
+00:12:45.600 Sam's been very generous in in taking
+00:12:47.480 open questions tonight um so you're here
+00:12:49.920 representing open AI so I think that's
+00:12:51.839 the most appropriate place to start um
+00:12:54.000 you talked earlier about uh how the
+00:12:55.680 corporate structure um defines um open
+00:12:59.160 AI um but one of the reasons that the
+00:13:01.320 fellowship committee was so interested
+00:13:02.880 in open AI is the philosophy behind the
+00:13:04.720 company so can you talk a bit about what
+00:13:07.079 differentiates open ai's approach to
+00:13:08.920 that of other companies researching the
+00:13:10.639 same area yeah when when we started work
+00:13:13.440 on this we were very unsure about what
+00:13:16.120 where AI was going to go and if we could
+00:13:17.600 be able to move it forward to the degree
+00:13:19.399 we hoped at all and we we were thinking
+00:13:21.360 about different structures and we
+00:13:23.079 thought you know the worry with a
+00:13:24.480 nonprofit was not enough what happen the
+00:13:26.880 worry with a company was too much would
+00:13:28.360 happen and the worry with the government
+00:13:30.000 was not enough would happen and then way
+00:13:31.360 too much would happen and we decided of
+00:13:35.040 all of those things given the sort of
+00:13:37.040 landscape of balance and the research
+00:13:38.440 that had to happen uh a nonprofit was
+00:13:41.240 great and so we went with that it we
+00:13:44.120 really just totally underestimated how
+00:13:47.279 even though we knew scale was going to
+00:13:48.480 matter how much scale mattered and and
+00:13:51.279 so then all of a sudden we were like
+00:13:52.720 well can we raise tens or hundreds of
+00:13:55.399 billions of dollars as a nonprofit uh
+00:13:58.120 turned out the answer answer was no and
+00:14:00.040 so we we tried to come up with a new
+00:14:02.000 structure that maintained this ability
+00:14:04.120 to have a nonprofit governance where we
+00:14:06.600 could sort of turn this over to humanity
+00:14:09.639 at some point but still work within the
+00:14:11.680 confines of capitalism which I think is
+00:14:13.480 great to do what we needed to do of the
+00:14:15.800 just the unbelievable scale of these
+00:14:17.600 systems this will be um open a eye alone
+00:14:20.720 not to say anything of all the other AGI
+00:14:23.240 efforts uh this will be like the most
+00:14:25.040 expensive engineering project in human
+00:14:26.600 history by the time it's done I'm pretty
+00:14:28.000 sure
+00:14:29.720 so given the magnitude of that given the
+00:14:32.920 ability the the sort of tremendous
+00:14:34.720 benefit that's here and also the risks
+00:14:37.560 um we wanted to set an incentive system
+00:14:40.800 that
+00:14:42.199 would engender the culture and reinforce
+00:14:44.639 the culture we hoped for which is
+00:14:47.079 successfully navigate the risks act um
+00:14:51.800 act with the duty that that requires but
+00:14:53.959 figure out how broadly distribute the
+00:14:55.360 benefits of this and in the conversation
+00:14:57.759 of the risk I think the benefits have
+00:15:00.120 gotten pretty lost but if you think what
+00:15:03.000 will happen to quality of life in the
+00:15:05.199 world if
+00:15:07.320 the abundance and the quality of
+00:15:09.959 intelligence starts going up by like a
+00:15:11.639 factor of 10 every year uh that's like
+00:15:14.720 pretty amazing and I think we have a
+00:15:16.680 moral duty to make life better like that
+00:15:18.320 is the that is the human Quest
+00:15:21.000 so we knew we wanted to do that while
+00:15:23.959 navigating this potentially dangerous
+00:15:26.680 path and a thing that I deeply believe
+00:15:29.800 like one of the sort of I think good
+00:15:31.399 rules of of life is that incentives are
+00:15:34.759 superpowers in fact so much so that any
+00:15:37.079 time you can spend thinking about how to
+00:15:38.560 correctly set the incentives on a person
+00:15:40.440 a team an organization whatever that's
+00:15:42.319 like probably the highest leverage thing
+00:15:43.720 you can do and I think some of the tech
+00:15:47.399 companies the big tech companies the
+00:15:48.800 generation before us got stuff very
+00:15:51.480 wrong not because they were bad people
+00:15:54.160 but because they put very well-meaning
+00:15:55.440 people in a system with screwed up
+00:15:57.440 incentives uh
+00:15:59.440 we didn't want that we did not want an
+00:16:00.800 incentive for you know using this
+00:16:02.480 technology for unlimited profit or to
+00:16:04.519 maximize sort of like our own interest
+00:16:06.040 in any way and I think this idea of the
+00:16:08.519 cap and the impact that has on the
+00:16:10.639 decisions people make you know hour to
+00:16:12.839 hour day-to-day has been super
+00:16:15.920 powerful you spoke there about the
+00:16:18.519 previous generation of of tech founders
+00:16:21.199 of of tech companies um obviously Elon
+00:16:23.720 Musk was one of your co-founders he
+00:16:26.319 since left the company um and has gone
+00:16:29.399 on to cause for pause in soal um
+00:16:31.519 development
+00:16:36.040 so what what do you think differentiates
+00:16:39.000 his approach um from
+00:16:41.759 yours um I saw Elan today uh at the UK
+00:16:45.560 safety Summit uh I have tremendous
+00:16:47.399 respect for him I think I think we share
+00:16:50.800 much more in common than we think
+00:16:52.399 differently about this uh and I you know
+00:16:54.920 look forward
+00:16:56.920 to productive collaboration in the
+00:17:11.000 future I I think we're fine I think
+00:17:13.199 we're fine um so productive
+00:17:15.799 collaboration in the future yeah yeah
+00:17:17.640 super um so we haven't reached AGI yet
+00:17:21.760 um but can you reflect on perhaps the
+00:17:23.480 progress so far what has been unexpected
+00:17:26.280 maybe about the roll out of chat GPT
+00:17:28.960 we definitely have
+00:17:30.400 not reached AGI yet but if you went back
+00:17:34.799 in time 5 years and showed people a copy
+00:17:38.120 of gp4 and told them this this was like
+00:17:41.360 a real thing that was going to come I
+00:17:43.720 think they would tell you that that's
+00:17:46.039 closer to AGI than they thought it was
+00:17:48.440 going to be that there is there is novel
+00:17:51.320 understanding in these systems to some
+00:17:52.919 degree now it's very weak and I don't
+00:17:55.559 mean to make too much of it but I I
+00:17:57.520 don't want to undersell it either like
+00:17:59.440 the fact that we have a system that can
+00:18:02.120 understand the subtleties of language
+00:18:04.919 combin Concepts and novel ways do some
+00:18:07.799 of the things that many of us associate
+00:18:12.400 with General is
+00:18:14.760 intelligence um that's a big deal and
+00:18:17.919 the rate of improvement in front of us
+00:18:19.640 is so steep that we can see how good
+00:18:21.960 it's going to be in just you know a
+00:18:23.720 small handful of more
+00:18:25.240 years I I think the best test of all of
+00:18:27.679 this is just a utility to people so
+00:18:30.720 again gp4 embarrasses us like we kind of
+00:18:35.159 just feel bad that it's out in the world
+00:18:36.880 because we know what all the flaws are
+00:18:38.360 like um but it adds like value to
+00:18:41.559 hundreds of millions of people's lives
+00:18:42.919 more than that people who benefit from
+00:18:44.600 the the products and services other
+00:18:46.760 people are building with it um and so I
+00:18:50.600 think we're getting close enough that
+00:18:52.159 the definition of AGI matters people
+00:18:54.679 have very different opinions of what
+00:18:58.480 that's going to be and when we cross a
+00:19:00.480 thing that you call AGI or super
+00:19:01.960 intelligence or whatever but a thing
+00:19:04.520 that is in the rearview mirror is AI
+00:19:06.720 systems that are tremendously useful to
+00:19:09.080 people and that I think came sooner than
+00:19:11.919 a lot of people thought so then in 10
+00:19:15.039 years time what would you say success
+00:19:16.960 for openingi looks
+00:19:21.919 like
+00:19:23.679 um I mean fundamentally like other
+00:19:26.880 Technologies we are tool build
+00:19:28.760 and we build tools to make humans more
+00:19:31.159 productive and able to do more and if
+00:19:33.360 the tools are so good that they are
+00:19:35.120 enabling us to live much better lives to
+00:19:38.480 to you know if someone can go like
+00:19:41.400 discover the the grand theory of all of
+00:19:43.159 physics in 10 years using our tools that
+00:19:45.280 would be pretty
+00:19:46.799 awesome uh High Ambitions
+00:19:50.880 um looking perhaps to um AI in general
+00:19:56.000 then the Hawking Fellowship it's by its
+00:19:58.559 nature it's about young people it's
+00:20:00.200 about the Next Generation Um people
+00:20:02.440 ideas impacts um on the Next Generation
+00:20:05.679 uh so my question I guess is how can our
+00:20:08.679 generation which is really going to feel
+00:20:10.400 the impact of this AI Revolution what
+00:20:13.760 would your advice to us be in terms of
+00:20:15.760 how can we
+00:20:18.240 adapt young people always adapt to new
+00:20:20.559 technology the best this is like
+00:20:22.200 guaranteed it's automatic happens every
+00:20:24.200 time uh the in fact I I've heard more
+00:20:27.760 recently from CEOs of large tech
+00:20:30.240 companies this is just like one example
+00:20:31.559 of many but you know they they used to
+00:20:33.440 be able to like measure the productivity
+00:20:34.960 of their programmers and 22 year olds
+00:20:37.000 would come in after after college and
+00:20:39.240 they get like predictably 30% better
+00:20:41.159 each year and then until they're like
+00:20:42.440 you know in their late 20s whatever and
+00:20:43.720 then people go on different tracks for
+00:20:46.039 the first time uh these CEOs have
+00:20:49.200 observed that the younger people are
+00:20:50.720 outperforming the older people as
+00:20:52.200 programmers what they lack in experience
+00:20:54.960 they make up for with familiarity with
+00:20:56.720 AI tools and this is like I think a
+00:20:59.520 bigger deal than it sounds like on the
+00:21:00.960 surface I've never heard of something
+00:21:02.520 quite like this before um so young
+00:21:05.679 people will embrace the technology the
+00:21:07.120 most almost for sure certainly the
+00:21:10.799 fastest the thing that I hope will
+00:21:13.159 happen
+00:21:15.200 is we will return to a world where young
+00:21:19.640 people aggressively Drive The Innovation
+00:21:22.760 and change in the world I think that's
+00:21:25.200 been the case on and off throughout
+00:21:26.880 human history it's I think the way
+00:21:28.440 things are supposed to go it's been the
+00:21:29.679 case a little bit less the last decade
+00:21:31.720 than I would hope for and I hope with
+00:21:34.679 this new technological Revolution which
+00:21:36.240 I think is usually like the ground is
+00:21:38.360 shaking a little bit it's you know we
+00:21:39.840 can change a lot of things that have
+00:21:41.159 been a little stuck I hope young people
+00:21:42.919 will really lead the way there MH um so
+00:21:47.000 you spoke about how young people are
+00:21:48.240 embracing the technology and I think
+00:21:50.440 being sat in University here we'd all
+00:21:52.279 very much agree that perhaps young
+00:21:53.520 people are maybe too much embracing the
+00:21:55.799 technology um how how do you think so
+00:21:59.520 we're sat in Cambridge University right
+00:22:01.159 now over 800 years old over that
+00:22:03.240 centuries not much has changed in how we
+00:22:05.520 learn and what we learn how do you think
+00:22:08.400 universities need to adapt to AI in
+00:22:11.440 terms of what they're teaching uh young
+00:22:16.440 people I I think that this the skill the
+00:22:20.760 main thing that I learned in school
+00:22:23.480 maybe the main two uh one was like The
+00:22:26.720 Meta skill of how
+00:22:28.600 learn something
+00:22:30.120 new uh and that was super valuable um
+00:22:35.880 and the second was how to think of
+00:22:37.360 something that I couldn't go learn
+00:22:39.200 anywhere else like genuine new ideas
+00:22:41.600 creativity whatever else all of the like
+00:22:44.600 specifics of what I learned were useful
+00:22:46.640 as like training data for the algorithm
+00:22:49.240 of actually learning but learning how to
+00:22:51.200 learn and then learning how to come up
+00:22:52.640 with these new ideas that was where all
+00:22:53.919 the value was and that part I think is
+00:22:57.120 not going to change at all so sure the
+00:22:59.039 way people like write essays is going to
+00:23:01.279 change I I was a little bit too too
+00:23:04.360 young for this but I heard these stories
+00:23:05.760 of of kids that were older than me in
+00:23:07.440 school or that graduated like you know 5
+00:23:09.200 years before me they who who were kind
+00:23:11.360 of in school when Google got popular and
+00:23:13.400 their teachers would ban Google and say
+00:23:15.880 this is going to destroy education you
+00:23:17.840 know if if you can like go look up any
+00:23:19.520 fact this is the whole thing so you have
+00:23:20.919 to like sign a pledge not to use Google
+00:23:23.400 um which was obviously ridiculous and
+00:23:26.039 there was a moment like that with chat
+00:23:27.320 GPT
+00:23:28.559 now people have decided that they're
+00:23:30.080 going to embrace it and learn how to use
+00:23:31.559 it and that I think is much better idea
+00:23:34.480 but like the tools of Education adapt
+00:23:38.320 the tools that we have after we complete
+00:23:40.640 our educational experience and have to
+00:23:43.919 go do stuff in the world adapt but you
+00:23:46.080 have got to teach people to fully use
+00:23:48.520 all of the tools that are available
+00:23:49.840 otherwise they will just underperform
+00:23:51.600 everybody else so there's no way other
+00:23:54.159 than embracing this and the core of the
+00:23:56.760 value of like what you get out of your
+00:23:58.520 time here that's not going to change at
+00:24:01.240 all um moving perhaps to AI safety which
+00:24:04.799 you talked about a lot in your and your
+00:24:06.320 talk at the beginning um you've come
+00:24:08.000 straight from Bletchley yeah can you
+00:24:09.720 talk a bit about um what's happening
+00:24:11.960 there what progress has been made yeah I
+00:24:15.039 I think that there's much better
+00:24:17.919 alignment than I would have thought at
+00:24:19.799 this point and certainly there were
+00:24:21.240 there was a couple of years ago about
+00:24:23.400 the need to
+00:24:25.760 have safety and regulation for powerful
+00:24:29.480 systems starting with the systems we
+00:24:31.559 already have and ramping up a lot as the
+00:24:34.480 risk level of these systems uh increases
+00:24:37.320 so countries around the world I think
+00:24:39.080 with more Unity than I have ever seen on
+00:24:41.039 any other technology topic are
+00:24:44.440 acknowledging this and people want to
+00:24:45.679 work together all of the key companies
+00:24:48.120 key leaders everybody is sort of saying
+00:24:50.200 the same thing I think it's going to
+00:24:51.840 happen uh I think very reasonable things
+00:24:53.919 are getting passed not imperfect but
+00:24:55.559 reasonable around the world I think we
+00:24:57.919 will at some point need a global
+00:25:00.159 regulatory body which we don't get often
+00:25:03.440 but we you know we had one for atomic
+00:25:05.399 energy uh I think we'll we'll decide we
+00:25:08.559 need something like that as we get
+00:25:09.440 closer to AGI but the conversations have
+00:25:12.240 been productive there's there's real
+00:25:15.279 things happening and people are
+00:25:16.200 committed to more um I have I'm not sure
+00:25:18.760 what that paper people dropped is but I
+00:25:20.640 assume it's like something about AGI
+00:25:22.240 being like really horrible and we should
+00:25:23.440 just stop it or whatever and um I
+00:25:26.559 actually have sympathy
+00:25:28.200 I have empathy to that position um I
+00:25:31.520 understand and I think there have been
+00:25:33.440 people who react out of understandable
+00:25:35.760 fear for this about every technological
+00:25:38.039 Revolution um but the default state of
+00:25:42.559 the world is that things Decay and get
+00:25:44.640 worse and worse and the only way that
+00:25:46.919 not only do we make life better which
+00:25:48.559 again I think is a moral obligation for
+00:25:50.080 all of us but even keep keep push
+00:25:52.520 against that like Decay and all like you
+00:25:54.799 know kill each other destroy each other
+00:25:56.520 is with with progress ress and and
+00:25:58.760 increasing quality of life and the only
+00:26:00.799 way we get that is through technology
+00:26:02.840 and so as good as it sounds on paper to
+00:26:05.159 say just like stop AI development again
+00:26:08.080 it's totally naive everyone knows it's
+00:26:09.520 not going to happen but even even if it
+00:26:11.600 it could happen and sounded good you
+00:26:13.799 can't miss out on the like unbelievable
+00:26:16.159 benefits and so there's just got to be a
+00:26:18.080 balance and a way through this where we
+00:26:19.559 are safe and responsible and and all you
+00:26:22.159 know get get the elevation of humanity
+00:26:25.120 we all
+00:26:26.600 deserve um and then it's happening in
+00:26:29.480 Britain it's the UK IIA safety U
+00:26:31.960 conference um what would you say The
+00:26:33.799 British government's getting right and
+00:26:35.520 wrong um in terms of its approach to
+00:26:39.640 AI I was going to say this thing and
+00:26:41.640 then I was like oh I can't say because
+00:26:43.960 it might offend people and then I was
+00:26:45.240 like oh but because of what I'm saying
+00:26:46.559 it's actually going to be okay so let's
+00:26:49.200 hope um I one of the things that I
+00:26:52.840 really admire about British culture is I
+00:26:55.320 think British people British Society
+00:26:57.000 British Institution ions there's just
+00:26:58.960 they're very reasonable there's like a
+00:27:03.399 very
+00:27:06.279 um
+00:27:07.840 and I think that's really coming through
+00:27:10.840 in the UK's approach to all of this you
+00:27:13.640 know you have you have some countries
+00:27:15.320 who have said we should do nothing like
+00:27:17.360 anything is just you can't on
+00:27:19.720 technology governments you know uh do
+00:27:23.080 way too much you have other countries
+00:27:24.640 who are like you know we don't know much
+00:27:26.200 about technology we do know how to
+00:27:27.200 regulate we're just going to stop this
+00:27:29.880 and and then I think like the the
+00:27:32.039 British approach has been thoughtful and
+00:27:33.880 nuanced and like very happy to be here
+00:27:35.720 participating and I think it's been like
+00:27:37.640 a quite positive development for the
+00:27:39.840 world as a whole it's it's just it's
+00:27:41.480 like been done well and thoughtfully and
+00:27:43.559 avoided either Pitfall super um I think
+00:27:49.080 finally from me if you'll forgive us for
+00:27:50.600 a moment I'd just like to touch on
+00:27:52.320 entrepreneurship um as a former
+00:27:54.039 president of Y combinator uh so you've
+00:27:56.200 had the opportunity to work with an huge
+00:27:58.000 number of startups so what qualities do
+00:27:59.919 you look for um in Founders When
+00:28:03.080 selecting companies you want to look
+00:28:04.720 invest
+00:28:08.320 in there's all the obvious things you
+00:28:11.799 want like a good idea smart Founders uh
+00:28:15.600 determined Founders like a lot of those
+00:28:18.200 things are very clear and everyone said
+00:28:21.360 them it doesn't mean they're less
+00:28:22.399 important but I'm just going to try to
+00:28:23.640 answer this with sort of like less
+00:28:26.960 obvious things um I I will though just
+00:28:29.559 like emphasize the determination point I
+00:28:32.159 think that is that is like difficult to
+00:28:34.399 overstate how important that is to being
+00:28:36.519 a successful founder
+00:28:39.760 um willingness to be misunderstood for a
+00:28:43.720 long period of time that the best
+00:28:46.159 companies are not the ones that are the
+00:28:47.919 most fashionable probably this means
+00:28:50.440 that starting like a AI application
+00:28:52.360 company today is not the best thing to
+00:28:53.880 do because everybody else is doing it um
+00:28:56.440 that's a little sad but maybe maybe
+00:28:59.440 maybe AI is just so big and so powerful
+00:29:01.240 it still is the best thing to do but
+00:29:03.399 Founders that that have like deeply held
+00:29:05.679 conviction and are willing to commit for
+00:29:08.120 a long time without a lot without a lot
+00:29:10.519 of positive external reinforcement
+00:29:12.640 that's a huge deal um Founders so like
+00:29:16.120 true genuine internally driven
+00:29:18.200 commitment super super powerful um
+00:29:21.120 obsession with a
+00:29:22.720 problem and the ability to like just
+00:29:24.720 grind it out for a long time on this
+00:29:26.679 internal drive super powerful uh clear
+00:29:29.880 communication is a really important
+00:29:32.519 skill the this comes up like a lot more
+00:29:36.519 in the job of being a Founder than you
+00:29:37.880 would think if you can't be an effective
+00:29:39.720 evangelist sort of like hard to
+00:29:42.799 do a a lot of the big parts of the job
+00:29:46.240 raising money recruiting um like
+00:29:49.120 explaining to the world what you're
+00:29:50.200 doing and why I guess those are those
+00:29:52.919 are like something we could this one I
+00:29:54.120 could do for like three hours so I'll
+00:29:56.039 make myself stop there super okay I
+00:29:58.600 think we're going to go into the
+00:29:59.640 audience
+00:30:00.919 now yes we already have lots of
+00:30:02.799 questions on the floor um where shall we
+00:30:04.559 go first should we go right next to you
+00:30:07.840 leaness can we just you need this
+00:30:10.880 microphone
+00:30:12.600 much Hi Sam uh I'm Amy I'm the head of
+00:30:15.600 social media at Cambridge um over the
+00:30:18.559 summer my colleagues and I we've come up
+00:30:20.240 with some guidelines about how to use
+00:30:21.880 chat PT so we use it for uh getting
+00:30:26.240 inspiration for campaign for emails to
+00:30:28.640 students social media quizzes that kind
+00:30:30.320 of thing but one question that we have
+00:30:32.760 come up against um that I'm asking your
+00:30:34.559 advice on is um should we keep open the
+00:30:38.600 University of Cambridge website to chat
+00:30:41.480 GPT and and other uh AI uh crawlers uh
+00:30:45.799 or should we close it like New York
+00:30:47.840 Times and guardian and others have
+00:30:51.360 thanks I think that really depends on
+00:30:54.440 how
+00:30:55.200 you want future versions of GPT to work
+00:30:59.000 like do you do you do you prefer that in
+00:31:01.840 GPT 5 and six is all the information on
+00:31:04.440 that website or not um there are some
+00:31:06.679 companies that have a business model
+00:31:07.960 where they prefer that not to be the
+00:31:09.320 case unless they're getting paid for it
+00:31:11.200 and there are many content owners who
+00:31:13.279 say no I totally want this accessible
+00:31:16.880 so that's how I would think about the
+00:31:18.799 question name yes great thank you super
+00:31:23.120 right at the front
+00:31:26.159 here
+00:31:28.720 good evening Sam thank you for joining
+00:31:30.399 us um I wanted to ask you what um what
+00:31:33.760 steps are you taking in the open AI team
+00:31:36.360 to ensure that AI remains truly
+00:31:38.440 accessible especially for those with
+00:31:39.840 disabilities like myself thank you so
+00:31:44.559 the the first thing is we want to make
+00:31:46.600 sure that we economically are able to
+00:31:49.320 make a great free version of chat GPT
+00:31:52.120 available to anybody who wants uh and
+00:31:54.760 also that the the price of access to the
+00:31:58.320 latest models comes down a lot so you
+00:32:01.159 know the number one developer request on
+00:32:03.120 us is just can you make gp4 cheaper
+00:32:05.880 because I can do all these things with
+00:32:07.120 it but like it's you know can't afford
+00:32:08.919 it in this country for this use case
+00:32:10.399 whatever so we're working on that um for
+00:32:13.519 people for accessibility uh and for
+00:32:15.679 people with disabilities we keep adding
+00:32:17.679 new modalities uh so we started off just
+00:32:20.639 with text but we'll have images uh audio
+00:32:23.799 in and out we'll have others in the
+00:32:25.360 future and we want this to be something
+00:32:27.760 that you can kind of like use passively
+00:32:29.840 throughout your entire life or in
+00:32:31.559 whatever way you can best use a service
+00:32:34.039 as the model gets smarter and smarter uh
+00:32:35.960 it will be able to I think help with its
+00:32:39.320 own
+00:32:41.480 accessibility super
+00:32:44.600 um right at the back there standing
+00:32:49.559 up hello uh thank you so imagine someone
+00:32:53.639 manages to invent a time machine and a
+00:32:56.080 future version of yourself end up
+00:32:57.399 walking right through that door and says
+00:32:59.120 in spite of open I's best efforts at
+00:33:01.000 doing Safety Research and so on so forth
+00:33:02.639 which have been significant so far uh
+00:33:05.320 and they sort of revealed that somehow
+00:33:07.080 in sort of 15 years uh there's been a
+00:33:09.760 lot of control problem or something has
+00:33:11.600 happened with AI to cause a significant
+00:33:13.840 number of people let's say on the order
+00:33:15.360 for a billion to sort of lose their
+00:33:16.480 lives or something like that uh what's
+00:33:18.519 your best thinking of how we've gotten
+00:33:21.360 to that point in spite of current safety
+00:33:24.200 efforts across the board from open Ai
+00:33:26.000 and other companies and like what would
+00:33:27.519 you do on the margin to try and make
+00:33:29.679 that less likely or to change that
+00:33:31.360 future I think the most likely way this
+00:33:34.799 something like that happens is
+00:33:36.279 intentional misuse so a person who is
+00:33:38.760 using the tools to intentionally cause
+00:33:40.720 harm I think the accidental misuse is
+00:33:44.880 also something we have to be very
+00:33:46.799 careful about you know an accident
+00:33:48.120 during training or some subtle
+00:33:51.039 persuasion of the model
+00:33:53.519 but since you asked about the most
+00:33:55.600 likely uh you know someone gets a hold
+00:33:57.600 of this and uses it for a terror attack
+00:34:00.440 with a bioweapon or a Cyber attack or
+00:34:03.080 something like that I think that that
+00:34:06.039 you can imagine that being quite bad
+00:34:08.000 without too many too many deductive
+00:34:10.159 leaps sure and how would you stop
+00:34:13.199 that I think that a global regulatory
+00:34:16.480 body that is inspecting systems above a
+00:34:19.199 certain run power and and a sort of
+00:34:21.639 testing requirement for those I think
+00:34:24.480 can have a very positive impact and
+00:34:27.719 reducing the chances of that it'll be
+00:34:29.639 important that we design anything like
+00:34:31.359 that in a way that does not slow down
+00:34:33.280 Innovation on small scale models and
+00:34:34.719 open source but the the compute
+00:34:37.599 threshold for a model to have the
+00:34:40.239 capabilities that we'd really worry
+00:34:41.800 about for a question like this I hope
+00:34:43.879 it's going to be high and if it turns
+00:34:46.079 out that because of algorithmic progress
+00:34:47.839 It's not uh then we're definitely going
+00:34:51.199 to have some challenges as a
+00:34:52.839 world thank
+00:34:55.359 you um let let's head to the back over
+00:34:58.760 there back
+00:35:05.640 corner thank you uh thank you for your
+00:35:08.240 insights tonight uh you mentioned that
+00:35:10.520 your team wants to make AI ethical um
+00:35:13.400 based on the approach of value alignment
+00:35:16.440 how do you choose uh which values make
+00:35:19.520 AI ethical um how do you determine the
+00:35:22.040 hierarchy of values for situations of
+00:35:25.000 ethical dilemas and if you want to
+00:35:27.720 benefit Humanity overall how do you
+00:35:30.280 represent a pluralistic World great
+00:35:33.359 question
+00:35:35.320 um I think yeah part one of our
+00:35:38.720 challenge is to solve the technical
+00:35:40.560 alignment problem and that's what
+00:35:42.000 everybody focuses on but part two is to
+00:35:45.400 whose values do you align the system
+00:35:46.880 once you're capable of doing that and
+00:35:49.000 that may turn out to be an even harder
+00:35:50.640 problem um I'm going to like speak out
+00:35:53.440 loud with current thoughts that I may
+00:35:55.160 dis evaluator as I learn more but I one
+00:35:59.760 superpower that we have to answer this
+00:36:01.960 question is that the system itself can
+00:36:04.400 talk to a lot of people and learn and so
+00:36:07.000 you can
+00:36:07.920 imagine something like chat GPT talking
+00:36:11.079 to all of its users or maybe everybody
+00:36:13.560 on Earth or whatever we all decide is
+00:36:15.359 fair and asking to weigh in on a bunch
+00:36:18.200 of values questions and this can this
+00:36:20.960 can be where do we set the default
+00:36:22.520 behavior of chat PT what are the outside
+00:36:25.760 edges how much can an individual user
+00:36:27.520 customize it I think we'd all agree like
+00:36:29.520 probably a lot but you can't ask it to
+00:36:31.040 go kill somebody else and then in
+00:36:32.560 between you know where we're going to
+00:36:34.240 put that line um and how do we resolve
+00:36:37.359 some of these trade-offs and hierarchies
+00:36:39.040 like you were asking about how much are
+00:36:41.640 we how much do we want to use the system
+00:36:43.359 to educate people as they're answering
+00:36:45.319 questions about other people's views and
+00:36:46.880 where they might be you know not taking
+00:36:49.200 into the account all of the trade-offs
+00:36:50.880 and the impacts it might have on other
+00:36:52.119 people um how do how do we want or not
+00:36:54.560 want these systems to like nudge people
+00:36:56.319 towards Ward moral
+00:36:58.240 progress but the technology is capable
+00:37:02.119 of doing that in a way that I think is
+00:37:04.160 quite interesting and the idea
+00:37:07.520 that AGI reflects the
+00:37:10.520 collective moral preferences of everyone
+00:37:12.839 on Earth seems to me like at least a
+00:37:14.560 good Baseline to start
+00:37:17.680 with um let's go
+00:37:24.800 just is that me that's you okay thanks
+00:37:28.200 um hi um so you mentioned that you want
+00:37:31.760 people using the eye to bring the future
+00:37:33.599 scientific discoveries um and I was
+00:37:36.000 wondering where would you advise young
+00:37:38.000 people aiming to do this to go and do
+00:37:41.400 such things because for instance I'm
+00:37:43.640 doing PhD and sometimes I feel like the
+00:37:45.760 rate at which Academia advances
+00:37:47.760 knowledge is a bit Glacier and it seems
+00:37:50.280 like in Industry where the ex exciting
+00:37:53.520 things are actually happening right now
+00:37:54.960 so I wonder what your take on this is
+00:37:58.720 um well I'm biased
+00:38:01.440 because I thought when I was a kid that
+00:38:03.680 I wanted to be an academic and then I
+00:38:05.359 decided to go work in industry and I've
+00:38:06.640 been like super happy about that reroute
+00:38:10.560 so you shouldn't like listen too much to
+00:38:11.880 me because I worked this way for me and
+00:38:14.240 it works this other way for others but
+00:38:15.800 I'm certainly biased to thinking that
+00:38:18.960 you can do amazing knowledge advancement
+00:38:22.040 work um in industry and in startups in
+00:38:24.400 particular uh but I think you got like
+00:38:26.640 discount that close to 100% coming from
+00:38:29.119 me
+00:38:30.520 um wherever you do the work I would say
+00:38:33.920 getting great at being a thoughtful
+00:38:36.560 careful creative scientist and
+00:38:38.520 understanding AI tools um do both of
+00:38:42.240 those things and you'll be pretty happy
+00:38:45.000 I'm a big believer that if you
+00:38:47.359 can if you can get really good at two
+00:38:50.440 things with an important intersection
+00:38:52.400 that's when you can like massively
+00:38:53.560 contribute to the world there are a lot
+00:38:54.680 of people who are like good at one thing
+00:38:56.599 and you know you'll find that like very
+00:38:57.880 competitive with like narrow experts but
+00:38:59.839 when you can bring these like two or
+00:39:01.640 more things together and be pretty good
+00:39:03.839 at both um that's super
+00:39:08.839 powerful um and front middle here
+00:39:19.720 yes so first congrats I think your
+00:39:22.960 technology and your teams it's
+00:39:24.680 extraordinary my question con concerns
+00:39:27.440 self-inflicted harm I'm not afraid of
+00:39:30.680 the harm that this type of Technology
+00:39:33.000 can cause on
+00:39:34.240 others I think that the major incentive
+00:39:38.280 is to use Ai and AGI to replace our own
+00:39:42.960 critical
+00:39:44.560 thinking and when according to Marcus
+00:39:48.280 Aurelius intelligence dies there will be
+00:39:51.800 only dead bodies working
+00:39:54.040 around how then can you mitigate this
+00:39:57.440 with advancements in this type of
+00:40:01.440 technology I actually think it's going
+00:40:03.200 to go the other way the reason I'm
+00:40:05.200 excited about this is I think if you
+00:40:08.000 give people better tools they operate at
+00:40:10.440 higher levels of abstraction they can
+00:40:12.440 keep more of a problem in their heads
+00:40:14.119 they're they free up more of their
+00:40:15.599 cognitive capacity there are plenty of
+00:40:18.400 people always who if you give them the
+00:40:20.440 choice they will like do drugs and play
+00:40:21.880 video games all day but most people
+00:40:25.160 that's not how they spend their time
+00:40:26.440 most people want to create something
+00:40:28.640 want to contribute to society want to
+00:40:30.760 feel useful want to like satisfy
+00:40:33.599 curiosity however they do it and so a
+00:40:36.920 world with AI does let people who want
+00:40:38.920 to do less do less and I'm totally fine
+00:40:41.800 with that it lets the people who want to
+00:40:44.200 do more do much more and
+00:40:48.640 the the things that people of the future
+00:40:51.280 will be able to do will make all of us
+00:40:53.079 feel like I think a little bit sad that
+00:40:56.200 um uh you know we did not grow up in the
+00:40:58.680 time of of super intelligence but we all
+00:41:00.480 still will to some degree hopefully
+00:41:04.920 and and I think it's always tempting to
+00:41:07.960 say that when tools do something that
+00:41:10.520 humans used to
+00:41:12.119 do we're we've taken something away and
+00:41:15.160 it's all going to be worse and there's a
+00:41:17.000 moral Panic like this that you can find
+00:41:18.760 if you read a contemporary history of
+00:41:21.800 every technological Revolution before
+00:41:24.680 and what happens is with the new tools
+00:41:27.319 with the new societal scaffolding that
+00:41:29.880 we build up uh we can just do so much
+00:41:33.480 more like think about what you can do
+00:41:35.400 relative to a person that lived a couple
+00:41:37.920 hundred years ago and think about all of
+00:41:40.000 the humans the hard work they had to
+00:41:42.040 pour into creating stuff knowing they
+00:41:43.920 were never going to meet you but they
+00:41:45.280 were like compelled to do it anyway and
+00:41:46.560 they were hoping that someone like you
+00:41:48.000 would come along in the future and like
+00:41:50.599 see to far greater Heights think harder
+00:41:53.480 be able to like be smarter actually be
+00:41:56.680 smarter with better healthare and better
+00:41:58.040 nutrition and whatever else um but with
+00:42:00.440 the tools of the computer and the
+00:42:01.680 internet no no people worked on that
+00:42:05.119 knowing that it was they were never
+00:42:06.960 going to realize the full benefit of it
+00:42:08.720 but the people that came after them in
+00:42:10.000 the future would do even more amazing
+00:42:12.520 things
+00:42:14.520 and I don't think AI makes us Dumber I
+00:42:17.440 think it's going to turn out to make us
+00:42:19.240 much much
+00:42:22.720 smarter but it is going to be
+00:42:25.160 different thank you for instilling Hope
+00:42:27.400 in
+00:42:28.240 me um can we go man in the green shirt
+00:42:31.079 middle here
+00:42:36.200 please you spoke a little bit about
+00:42:38.760 aligning incentives so how can we as a
+00:42:41.440 society ensure that like computer
+00:42:43.440 scientists engineers AI experts are
+00:42:46.319 efficiently distributed across
+00:42:47.760 development alignment and government
+00:42:49.720 policy when probably most of the private
+00:42:51.880 money and kind of private investment is
+00:42:53.760 in the development
+00:42:55.160 space
+00:42:56.880 you know I I used to think this way too
+00:42:59.880 I I sort of used to think there were
+00:43:00.960 people that work on capabilities and
+00:43:02.880 people that work on alignment and their
+00:43:05.079 orthogonal vectors and now I think
+00:43:09.040 like deep learning just wins the day and
+00:43:12.880 the same techniques that we develop for
+00:43:14.319 capabilities are the way that we will
+00:43:16.240 successfully align these models goes the
+00:43:18.119 other way too the the biggest things
+00:43:19.920 that people thought they were doing for
+00:43:21.079 alignment turned out to be how we made
+00:43:22.440 the biggest capability gains and and so
+00:43:25.359 I I think of I think of it as like a
+00:43:26.920 sort of surprisingly one-dimensional
+00:43:29.559 Vector of progress which is how good are
+00:43:32.400 we at pushing back the veil of ignorance
+00:43:35.000 on deep learning and then we can use
+00:43:37.200 that to make a successful system which
+00:43:40.520 is a combination of capabilities and
+00:43:42.040 Alignment
+00:43:44.000 um the government the state capacity
+00:43:47.000 question is a little bit different which
+00:43:48.359 is how do we make sure that like
+00:43:49.920 governments hire smart thoughtful people
+00:43:52.040 that'll do well here
+00:43:55.079 uh
+00:43:56.839 smart people really want to go work on
+00:43:58.400 this at the government so what the
+00:44:00.240 government normally says which is they
+00:44:01.559 want to go in industry it's absolutely
+00:44:03.160 not true um the governments have to just
+00:44:05.400 commit to to do it here and it'll
+00:44:09.280 happen thank you and shall we go right
+00:44:13.960 here hi um you had came up with quite a
+00:44:17.400 utopian vision for the progress of AI
+00:44:20.200 but if we interrogate it more carefully
+00:44:21.920 many people were saying the same utopian
+00:44:23.440 things about the effect of social media
+00:44:25.400 on democracy democratization of
+00:44:26.839 knowledge that's not how it panned out
+00:44:29.000 what you had was big corporate companies
+00:44:31.240 taking control of the reign of
+00:44:32.440 information aggressively monetizing them
+00:44:34.960 and selling them to the highest bidder
+00:44:36.800 AI has the potential to be a much more
+00:44:39.119 effective way of doing so especially
+00:44:41.000 through for example bombarding people
+00:44:43.720 with fake news targetting messages on
+00:44:45.839 mass your own funding often came from
+00:44:48.559 the very richest in the world if you
+00:44:50.040 seek to really enhance these data
+00:44:52.400 operations so don't you sometimes worry
+00:44:54.480 that you've sacrificed democracy on an
+00:44:56.200 alter of
+00:45:00.559 utopianism no
+00:45:06.200 um I I think
+00:45:10.680 the I feel legitimately unsure actually
+00:45:14.040 I don't feel that unsure I would not
+00:45:15.559 push a button to undo social media it's
+00:45:18.160 come with huge costs I think it's been
+00:45:20.200 badly implemented uh I think it has
+00:45:23.559 still been a net
+00:45:26.680 positive force for the world but it
+00:45:29.119 happened so quickly we didn't have time
+00:45:31.760 to
+00:45:32.520 build the guardrails and understand all
+00:45:35.040 the impacts and I think our institutions
+00:45:37.720 and our governments really failed at
+00:45:40.200 their responsibility to mitigate the
+00:45:41.960 harms I don't think social media is an
+00:45:45.680 inherent inherently evil thing and I
+00:45:48.559 think you know all of us can probably
+00:45:50.640 point to really good things that it's
+00:45:52.079 done for us but it does seem to be a
+00:45:54.319 really bad thing in some cases
+00:45:56.720 uh if you look at the impact that it has
+00:45:58.200 on young people or if you look at the
+00:46:00.280 impact it has on
+00:46:01.440 radicalization
+00:46:04.359 um but I
+00:46:09.079 don't you said a bunch of things that I
+00:46:11.440 I I take that I just disagree with but
+00:46:13.599 but one that I think is important is
+00:46:15.839 this issue of who gets to decide what
+00:46:18.200 real information is or not and I do
+00:46:21.760 believe that democratizing that is a net
+00:46:25.359 good for the world now there are a lot
+00:46:27.760 of people many of them who go to Elite
+00:46:29.440 universities that think they just know
+00:46:31.680 better that's not the way I that's not
+00:46:33.960 the way I look at the world I do to talk
+00:46:37.160 about places where I agree with you um I
+00:46:39.240 do think that advertising as a business
+00:46:43.240 model I'm not totally against it but I
+00:46:45.520 think it has deep fundamental challenges
+00:46:48.000 and is a misalignment most of the time
+00:46:51.000 of the incentives of a company with the
+00:46:52.599 incentives of its users and when people
+00:46:55.800 use advertising uh I think we need more
+00:46:58.319 care than than we have um and I think
+00:47:01.599 there's like a whole bunch of other
+00:47:02.559 things about attention hacking with
+00:47:04.640 social media that are bad and the way
+00:47:07.920 that I think things get better is we try
+00:47:10.720 to learn the lessons of the past and not
+00:47:12.640 make those mistakes again we will do new
+00:47:14.599 bad things with AI for sure and we won't
+00:47:16.319 know what they are ahead of time um but
+00:47:18.880 we'll try not to make the same mistakes
+00:47:20.040 that social media companies
+00:47:23.720 did okay um man holding water bottle
+00:47:27.000 there
+00:47:30.000 please so my question is on the leading
+00:47:33.400 number of researchers so Andrew Ang and
+00:47:35.359 Yan Lun for example are talking about
+00:47:37.520 how a lot of the fears behind AGI are
+00:47:39.680 just a method of trying to reduce the
+00:47:41.760 amount of Open Source um control over Ai
+00:47:44.440 and trying to close AI essentially so
+00:47:46.240 that only a few corporations have a lot
+00:47:48.000 of power what's your take on that I
+00:47:50.240 think open source is good and important
+00:47:52.359 um I think that open sourcing models at
+00:47:56.200 a reasonable scale uh with some testing
+00:47:58.720 and studying so that we are not making a
+00:48:00.640 kind of irreversal mistake that's really
+00:48:03.160 great uh and I think it's going to come
+00:48:06.160 with downsides like social media does
+00:48:09.040 but I think when we look at the current
+00:48:11.440 scale models uh I believe in individual
+00:48:15.079 empowerment and I believe that Society
+00:48:18.160 stumbles with correction to the right
+00:48:20.200 place and uh I believe that the risks
+00:48:23.240 the benefits outweigh the risks here but
+00:48:25.240 I can I also believe that
+00:48:28.880 precaution
+00:48:30.800 is really good and although I Andrew was
+00:48:34.480 my like undergrad Professor I have
+00:48:35.720 respect for him but I like I also
+00:48:37.960 respectfully disagree that we should
+00:48:39.319 just like instantly open source every
+00:48:41.359 model we train um I think that would be
+00:48:43.079 insanely Reckless and we're not going to
+00:48:44.319 do it so I think there's just like a
+00:48:46.720 balance and it's how you calibrate on
+00:48:48.359 the risk and how much risk you're
+00:48:49.720 willing to take with Society but I do
+00:48:51.839 see the benefits of Open Source and I
+00:48:53.520 think for sure it has a place
+00:48:57.040 thank you um now let's head to that hand
+00:49:00.040 just there
+00:49:02.640 please um I'm pantira I'm signing
+00:49:05.599 Finance I want to ask when can we expect
+00:49:09.280 uh open AI to launch
+00:49:11.410 [Music]
+00:49:13.280 Hardware
+00:49:15.040 um possibly never unfortunately it we
+00:49:19.160 will only do you mean like a piece of
+00:49:21.119 consumer Hardware not like our own chips
+00:49:23.640 right consumer Hardware
+00:49:28.480 like like when we'll like design our own
+00:49:32.559 chips like robots like robots what kind
+00:49:36.000 of
+00:49:43.920 Hardware um I'm not sure I totally
+00:49:46.680 understand but
+00:49:48.920 uh if we can't do things in the physical
+00:49:51.720 world eventually that'd be a little bit
+00:49:53.839 sad although probably cognition is the
+00:49:56.000 most is the high bit here um and then in
+00:49:59.079 terms of new consumer
+00:50:01.240 Hardware if we can figure out what the
+00:50:05.119 right form factor for the AI age is and
+00:50:07.440 I am a believer that every major new
+00:50:09.760 enabling technology does probably mean
+00:50:13.440 you get a new crack at a new kind of
+00:50:15.720 computer and and again if if we can't
+00:50:18.720 figure out some new hardware idea for
+00:50:20.640 the fact that computers can Now
+00:50:22.400 understand us and do very complex things
+00:50:24.880 with much less
+00:50:26.400 interaction that would be a little bit
+00:50:28.480 sad um the phones are really great at a
+00:50:31.680 lot of things and super general purpose
+00:50:33.319 so it's like a very high hurdle for us
+00:50:35.760 to beat but we'll
+00:50:37.960 try thank you um this hand right here
+00:50:44.240 please hey Sam thanks for accepting the
+00:50:47.000 fellowship um I would like to start with
+00:50:50.160 a definition from the Oxford dictionary
+00:50:52.680 uh about Consciousness the state of of
+00:50:55.640 being aware of and responsive to one
+00:50:58.240 surroundings i' would be interested to
+00:51:00.040 know your definition of the word
+00:51:01.880 Consciousness and uh as you mentioned
+00:51:04.799 there's already been Sparks of AGI in
+00:51:07.040 GPT 4 um how far are we from having a
+00:51:11.640 model that's actually conscious and
+00:51:14.520 would you even tell us if you had one
+00:51:16.119 already like you have one do you have
+00:51:18.760 one at your home right now or like we we
+00:51:21.240 would definitely tell the world if we
+00:51:23.359 had one we thought was conscious uh
+00:51:27.720 I've only ever heard one good proposal
+00:51:31.319 for how we'd know that it's it's it's
+00:51:34.359 really and this comes from Ilia suser my
+00:51:37.359 co-founder and our chief scientist it's
+00:51:39.599 it's a really hard thing to talk about
+00:51:41.640 measuring but the the sort of thought
+00:51:43.880 experiment is you you carefully curate
+00:51:47.359 very precisely curate a giant training
+00:51:50.000 data set that has everything in it that
+00:51:53.079 the normal training set has but no
+00:51:56.160 Mention Of
+00:51:57.640 Consciousness nothing about it nothing
+00:51:59.760 about the subjective experience nothing
+00:52:01.880 that's even like a little a few steps
+00:52:04.079 away from it and then you also pick some
+00:52:06.520 other experience as a control that you
+00:52:08.880 also just leave totally
+00:52:10.680 out and the thought experiment is you
+00:52:12.720 then train the
+00:52:13.799 model you first ask it about the control
+00:52:17.200 it says uh I don't know anything about
+00:52:18.920 that or it's clearly nonsensical and you
+00:52:20.760 know that makes sense cuz it was just
+00:52:22.000 completely absent from the training mix
+00:52:24.040 and there was no other part of it
+00:52:25.319 training process that would have let it
+00:52:26.520 develop that and then you say okay
+00:52:29.480 there's this thing called Consciousness
+00:52:30.760 and it says I've never heard that word
+00:52:32.000 what is that and you explain it you
+00:52:33.720 explain your own subjective experience
+00:52:35.400 and it's like oh yeah I know exactly
+00:52:37.079 what you mean but I've never heard that
+00:52:38.880 word
+00:52:39.760 before you know that would at least be
+00:52:42.359 worth paying attention
+00:52:45.040 to thank you right here
+00:52:52.359 please Hi Sam um I'm wondering what what
+00:52:55.359 your view is of the smaller models we've
+00:52:56.839 seen a lot of them being released
+00:52:58.079 recently and whether running smaller
+00:53:00.319 models you know fine-tuned on uh phones
+00:53:03.400 iPads uh you know what the future you
+00:53:05.680 view of that especially when
+00:53:07.040 applications where there's no internet
+00:53:08.480 connection and it can't be done in the
+00:53:09.720 cloud or do you think you know in order
+00:53:11.960 to get great performance it's going to
+00:53:13.799 have to be done in the cloud with the
+00:53:15.079 large scaled up models I I think the
+00:53:17.280 future will be a hybrid there will be
+00:53:18.640 small models on devices uh we think
+00:53:20.720 that's important we're excited to
+00:53:21.880 support that
+00:53:24.160 and and still the most valuable work the
+00:53:27.640 actual like
+00:53:29.160 cognitive the the stuff that people
+00:53:31.359 really want will be giant models in the
+00:53:33.200 cloud so I think it I think we're headed
+00:53:35.040 towards that vcation and
+00:53:39.359 hybrid um thank you and let's go on the
+00:53:42.799 end
+00:53:47.359 there um do you think there's any way
+00:53:50.480 that the AI technical Revolution is
+00:53:53.160 incompatible with potentially another
+00:53:55.920 future revolution around abundant energy
+00:53:58.480 and the reason I say this is cuz you
+00:54:00.079 talked about one of the major scary
+00:54:02.040 things is actually GPU intensity and the
+00:54:04.599 cost of compute goes down and that's the
+00:54:07.280 scary scenario but one of the reasons
+00:54:08.559 it's so expensive is energy and so in a
+00:54:10.960 world where energy is more abundant and
+00:54:12.520 cheaper is that incompatible with a safe
+00:54:15.960 kind of you know enormous AI Revolution
+00:54:19.480 um we will Ai and energy are the two
+00:54:22.079 things that I think about so I I I spend
+00:54:24.280 a lot of time thinking about you know
+00:54:25.799 where we're going to have the limits in
+00:54:26.799 the supply chain um and I think we are
+00:54:29.480 just a few years from like very cheap
+00:54:31.920 very abundant Fusion to say nothing of
+00:54:33.880 what's almost certain to happen with
+00:54:35.559 solar and
+00:54:36.559 storage even if our most wild
+00:54:40.520 predictions about what the economics of
+00:54:42.520 fusion can look like all come true um we
+00:54:45.599 will still be limited by the chips we
+00:54:48.839 can make and the entire supply chain
+00:54:51.240 there for a long time that it it does
+00:54:53.240 not change the the physics of this
+00:54:57.599 MH um and at the front here
+00:55:04.520 please hi there Jay here studying the
+00:55:06.799 ethics of AI um yesterday the center for
+00:55:09.280 the future of intelligence here at
+00:55:10.400 Cambridge published a rapid review of uh
+00:55:13.440 numerous companies safety policies and
+00:55:15.240 their compliance with the UK
+00:55:16.559 government's guidelines and you'd be
+00:55:18.000 pleased to hear Rock Bottom was the
+00:55:19.440 lizard company I.E meta um who achieved
+00:55:22.520 a score of 48% compliance um at do sorry
+00:55:26.280 how do we do uh yeah so anthropic was at
+00:55:28.640 the top sorry about that 82% and um open
+00:55:31.920 air was at 74 uh probably for reasons
+00:55:34.680 you you may know uh so my I'm I'm
+00:55:37.160 curious about what your approach to
+00:55:38.599 responsible scaling will be in the next
+00:55:40.280 few months for example will you commit
+00:55:42.280 to pre-publishing your risk thresholds
+00:55:44.680 and will you sensitize that to
+00:55:46.760 democratic input or will you leave it to
+00:55:48.520 your your small technical RDP teams yeah
+00:55:53.000 um so my colleague Alexander MRE is here
+00:55:56.680 he runs our preparedness team which uh
+00:55:58.520 hand handles our RDP um we will publish
+00:56:01.640 that uh but a it's a living document and
+00:56:06.319 the importance will be not what we
+00:56:07.880 publish but how much we upgrade it and
+00:56:09.680 how much we learn along the
+00:56:11.720 way um and B I think what you were
+00:56:15.039 getting at is fundamentally companies
+00:56:18.280 shouldn't regulate themselves here like
+00:56:20.280 we're going to contribute what we think
+00:56:22.079 other companies are going to contribute
+00:56:23.319 what they think but eventually this like
+00:56:25.400 Global IE iaea like body or whatever we
+00:56:28.480 decide on has got to say okay you all
+00:56:31.480 have these drafts that's great thank you
+00:56:33.039 for doing that but like here's what
+00:56:35.039 we're going to agree to as a society and
+00:56:37.319 that's a part of why I'm like at this UK
+00:56:39.799 Summit is I think this is like in give
+00:56:41.160 me a time for me but I came anyway
+00:56:42.720 because I think this is going to be an
+00:56:44.480 important step towards governments
+00:56:45.839 around the world doing
+00:56:48.640 that should we try and get to the back
+00:56:51.119 middle over
+00:56:53.880 there
+00:57:00.359 yes what while we're waiting the thing
+00:57:02.280 I'd add to that is like safety in theory
+00:57:05.760 is easy the hard thing is to like make a
+00:57:08.039 system that is really useful to hundreds
+00:57:09.680 of millions of people and is safe and
+00:57:12.359 that is where I think open AI can
+00:57:13.640 contribute the most to the conversation
+00:57:15.160 in the world we've been releasing
+00:57:16.599 products longer than anybody we have way
+00:57:17.960 more users than anybody and even a lot
+00:57:20.880 of our like harshest critics are saying
+00:57:24.240 nice things about our our the safety of
+00:57:26.319 our latest models it is easy to be safe
+00:57:28.319 by not releasing things but you actually
+00:57:29.960 know nothing about how to make the world
+00:57:31.640 safe that way this this kind of work
+00:57:33.359 only can only do it with content with
+00:57:35.480 reality and and that's the hard
+00:57:37.760 part hi there Hi Sam and thank you so
+00:57:39.920 much for joining us um I was hoping to
+00:57:42.119 change the topic slightly and ask you
+00:57:44.599 about your interest in longevity science
+00:57:47.160 so I know you've um invested a fair
+00:57:49.520 amount of resources into sort of the
+00:57:51.720 development of longevity drugs and I'm
+00:57:54.520 curious ious to just know more about
+00:57:55.960 your interest in the industry where you
+00:57:58.000 see it going and perhaps what you think
+00:58:00.760 government can do to sort of accelerate
+00:58:02.760 the development of these treatments yeah
+00:58:07.520 um I view this as still very much in the
+00:58:11.520 like moonshot category it's still very
+00:58:14.359 risky science but there's something real
+00:58:17.400 going on there we don't understand it
+00:58:19.000 yet but uh it looks like there's
+00:58:20.720 something real going on there I think it
+00:58:22.119 is worthy of much more research uh I
+00:58:25.160 think partial reprogramming is one of
+00:58:27.720 the coolest things I've seen in BIO in
+00:58:29.599 the last decade and it does not seem to
+00:58:32.680 be getting as
+00:58:33.960 much attention and study as I think it
+00:58:36.680 it deserves so many diseases are age
+00:58:39.920 related that if we could sort of figure
+00:58:42.079 out fundamentally what's happening there
+00:58:43.440 and push that back I think it would
+00:58:45.240 dramatically reduce healthcare costs
+00:58:47.160 increase quality of life bunch of other
+00:58:48.559 good things um and so this is honestly
+00:58:52.200 not something I spend a lot of time on
+00:58:53.799 and very far from an expert it just
+00:58:56.000 seemed like a high leverage thing to
+00:58:57.680 support hope it works of
+00:59:01.000 course thank you um let's go right
+00:59:05.799 here thank you so much um I wanted to go
+00:59:08.559 back to your answer on the question on
+00:59:10.599 values hierarchy which is really
+00:59:12.319 interesting and I mean your answer was
+00:59:14.119 essentially majoritarian to get users to
+00:59:16.799 weigh in and construct kind of this uh
+00:59:19.359 morality of the majority um obviously
+00:59:21.599 that's kind of skewed to the people who
+00:59:22.760 do engage and it can replicate things
+00:59:24.440 that I think most of us would say are
+00:59:26.200 undesirable sexism racism you see all
+00:59:28.559 these gotas on Twitter where hbt thinks
+00:59:30.720 that the doctor's a man that kind of
+00:59:32.119 thing um and then meanwhile there are
+00:59:34.039 all these Global human rights framework
+00:59:36.280 kind of different models for uh moral
+00:59:38.400 morality like effect alism whatever
+00:59:40.039 would you ever consider integrating
+00:59:41.880 these I mean essentially do you want AI
+00:59:43.559 to be prescriptive or only ever
+00:59:45.599 descriptive is my question yeah you you
+00:59:48.960 clearly will have to design such a
+00:59:51.680 system in a way that it does integrate
+00:59:54.640 human rights Frameworks and also that
+00:59:58.440 it
+01:00:00.559 it's aware of and compensates for to a
+01:00:04.319 degree that some set of people agree on
+01:00:08.119 um the fact that different people
+01:00:09.640 participate at different rates and as I
+01:00:11.799 said earlier uh like I might disavow
+01:00:13.839 everything I say here because this like
+01:00:15.359 getting the design of this system right
+01:00:17.319 is so difficult um but as a principle
+01:00:22.359 the idea that the system represents the
+01:00:24.640 will of the people who are going to use
+01:00:27.160 it and be impacted by it I think that's
+01:00:30.359 quite important and the challenge is you
+01:00:34.200 know what is exactly the protocol that
+01:00:36.319 is going to get closest to that platonic
+01:00:38.240 ideal of how to represent it and I I
+01:00:45.000 think I think people who ask a question
+01:00:47.680 like you just asked are are super
+01:00:49.319 well-meaning and I can tell that you're
+01:00:50.799 genuine in that but but there always is
+01:00:53.839 this tinge of like like we know
+01:00:55.799 better what other people want than than
+01:00:58.240 they
+01:00:59.280 do and and like one thing that I hope
+01:01:03.599 for with this is that as has been the
+01:01:07.039 sort of this part of the story of human
+01:01:09.319 progress that we can get closer to an
+01:01:13.000 accurate Fidelity of what the people who
+01:01:14.799 are going to be impacted by the
+01:01:15.920 technology actually want not other
+01:01:18.240 people saying well they don't really
+01:01:19.319 know what they want this is the answer
+01:01:21.240 and I think the system can play a role
+01:01:22.680 in helping educate people and get them
+01:01:25.119 closer to figuring out the truth there
+01:01:27.280 and of course it'll evolve over
+01:01:30.160 time okay thank you I think we have time
+01:01:32.559 for one more question so let's make it a
+01:01:34.880 good
+01:01:37.039 one I don't know anyone with their hands
+01:01:39.400 up so this is going to be complete po
+01:01:40.839 luck this chap here has been very ke all
+01:01:42.520 the
+01:01:44.400 along um I'm by no means an expert in
+01:01:48.319 the field of of AI so like completely
+01:01:50.079 correct me if I'm wrong but as I
+01:01:52.880 understand it the largest Leap Forward
+01:01:55.160 in the past like decade in terms of
+01:01:58.000 getting to something that looks like in
+01:01:59.599 AGI or these like large language models
+01:02:01.760 like chat GPT and whatever the other
+01:02:04.480 companies are doing or whatever um but
+01:02:07.760 uh I've honestly like playing around
+01:02:10.279 with it myself I found it to like like
+01:02:14.160 you said there there are obvious faults
+01:02:16.920 that make it seem like that's not really
+01:02:19.119 an AGI even though it is quite
+01:02:20.960 impressive and so I'm just wondering do
+01:02:22.440 you think the the step forward to
+01:02:24.799 getting to an AGI is did you just kind
+01:02:26.720 of like continue mid maxing large
+01:02:28.880 language models or is there another
+01:02:31.279 breakthrough that we haven't really
+01:02:32.799 found yet to really get to something
+01:02:34.200 that could actually be called a general
+01:02:35.440 intelligence I I think we need another
+01:02:38.000 breakthrough um
+01:02:41.359 I I think we still we can push on large
+01:02:44.480 language models quite a lot and we
+01:02:45.920 should and we will do that you know we
+01:02:47.760 can take our current the hill that we're
+01:02:50.160 on and keep climbing it and like the
+01:02:52.200 peak of that is still pretty far away
+01:02:57.760 but within reason I mean you know if you
+01:03:00.760 push that super super far maybe all this
+01:03:02.240 other stuff emerged but within reason I
+01:03:04.720 don't think that will do something that
+01:03:07.319 I view as critical to a gen an
+01:03:09.599 AGI to stick with that example from
+01:03:11.880 earlier in the evening in physics if
+01:03:14.440 let's use the word super intelligence
+01:03:15.760 now as super intelligence can't discover
+01:03:17.440 novel physics I don't think it's a super
+01:03:19.520 intelligence and training on the data of
+01:03:22.640 what you know teaching to like clone the
+01:03:25.400 behavior of humans and human text that I
+01:03:28.720 don't think that's going to get there
+01:03:30.359 and so there's there's this question
+01:03:31.839 which has been debated in the field for
+01:03:32.960 a long time of what do we have to do in
+01:03:35.799 addition to a language model to make a
+01:03:38.240 system that can go discover new physics
+01:03:40.400 and that'll be our next Quest that is a
+01:03:42.160 great thing to end it on that's a
+01:03:43.599 fantastic thing to end it on um so thank
+01:03:46.200 you so much Sam for being here tonight
+01:03:47.680 thank you for giving up evening and
+01:03:48.960 thank you to you and your team for
+01:03:50.480 accepting the fellowship thank you very
+01:03:53.279 much
+01:03:54.860 [Music]
+01:03:57.680 thank
+01:04:01.119 you thank
+01:04:07.520 [Music]
+01:04:09.430 [Applause]
+01:04:18.079 you

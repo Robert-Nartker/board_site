@@ -1,0 +1,410 @@
+# tactiq.io free youtube transcript
+# Small Business Taxes for Beginners & New LLC Owners
+# https://www.youtube.com/watch/Rz0l57A2iEk
+
+00:00:00.000 all right so let's chart this out step
+00:00:02.280 one I'm gonna go through the type of
+00:00:04.259 taxes subject to sole proprietorship
+00:00:06.180 single member LLCs partnership Locs S
+00:00:09.660 corporation and C corporations when it
+00:00:12.540 comes to individual income taxes
+00:00:14.340 everyone pays it except for C
+00:00:16.619 corporations with self-employment taxes
+00:00:19.380 s corporations can avoid some of them
+00:00:22.080 not all but some small business taxes
+00:00:25.380 for beginners let's get into it because
+00:00:27.420 there has been a record-breaking number
+00:00:29.279 of llc's created in the last two years
+00:00:32.098 according to U.S business formation
+00:00:34.739 statistics and unfortunately a lot of
+00:00:37.500 new business owners have no idea how
+00:00:40.379 their taxes work because the game
+00:00:42.360 changes once you become self-employed
+00:00:44.700 because you no longer have an employer
+00:00:46.739 who is paying and filing your taxes on
+00:00:49.680 your behalf like your federal and state
+00:00:51.780 taxes or your Social Security and
+00:00:54.300 Medicare taxes now all those tax
+00:00:57.000 payments fall on you but you're in luck
+00:00:59.340 because if you watch watch this video
+00:01:00.719 Until the End then you'll have a deep
+00:01:02.699 understanding of small business taxes
+00:01:04.739 for beginners I'll jump into topics like
+00:01:07.140 the different types of small business
+00:01:09.000 taxes how to pay taxes for LLC and other
+00:01:12.960 entity owners and common tax deductions
+00:01:16.020 and credits that you should know about
+00:01:17.640 and much more so I hope you're excited
+00:01:20.340 to learn now really quick before I dive
+00:01:22.259 in I want you to know two things number
+00:01:24.780 one I'm gonna go ahead and put the
+00:01:26.460 timestamps for this video somewhere down
+00:01:28.619 in the description below so at any point
+00:01:30.720 in the video you can skip ahead or
+00:01:32.820 reference something again if you need to
+00:01:35.220 and number two it really would help me
+00:01:37.500 out if you like this video for the
+00:01:39.360 YouTube algorithm that way other new
+00:01:41.880 small business owners like yourself can
+00:01:43.979 find this video
+00:01:46.079 foreign
+00:01:52.340 let's go ahead and dive in with number
+00:01:54.899 one the types of small business taxes so
+00:01:58.140 remember as an entrepreneur you are
+00:02:00.659 responsible for paying your taxes now so
+00:02:03.060 then of course it makes sense to know
+00:02:04.799 which taxes you need to pay and which
+00:02:07.680 taxes you don't need to pay now almost
+00:02:10.380 all taxes can be divided into three
+00:02:12.840 buckets okay taxes on income you earn
+00:02:16.500 taxes on what you buy and taxes on what
+00:02:20.400 you own let's start off by first talking
+00:02:22.500 about the type of taxes you pay on money
+00:02:24.480 that you earn because these are your
+00:02:26.160 biggest taxes and as soon as you make
+00:02:28.319 some money Uncle Sam is going to be
+00:02:30.300 looking for their cut since you made it
+00:02:32.580 on U.S Turf so to speak all right now up
+00:02:35.459 first is the individual income tax this
+00:02:38.340 is the one that most people should be
+00:02:40.440 familiar with it's where your tax rate
+00:02:42.599 increases as your income increases
+00:02:45.360 because here in the US we have what is
+00:02:47.879 called a progressive tax system and so
+00:02:50.580 every year the IRS release assist new
+00:02:52.980 tax brackets which I'll put up on the
+00:02:54.780 screen right now for 2022.
+00:02:58.019 now as a business owner you are still
+00:03:00.540 subject to these tax brackets and tax
+00:03:02.940 rates if you have a pass-through
+00:03:04.860 business entity like an LLC S Corp or
+00:03:08.400 simply a sole proprietorship so it is
+00:03:11.040 very important that you understand where
+00:03:12.959 your income may fall as it helps you to
+00:03:15.480 predict your tax liability now if you
+00:03:18.120 want a deeper explanation on this then I
+00:03:20.280 highly recommend you watch my video on
+00:03:22.260 taxes for beginners where I break down
+00:03:24.540 the progressive tax system with examples
+00:03:26.940 and much more detail than I will in this
+00:03:29.280 video also I'm going to break down how
+00:03:31.500 to pay these taxes as a small business
+00:03:33.599 owner and the next point but for now let
+00:03:36.180 me keep going through the different
+00:03:37.140 types okay the next common business tax
+00:03:40.019 is the corporate income tax the only
+00:03:42.959 type of business entity that is not
+00:03:45.000 subject to individual income taxes are C
+00:03:48.180 corporations and that's because C
+00:03:50.280 corporations pay a flat federal tax rate
+00:03:53.159 currently set at 21 for 2022 and pay a
+00:03:57.360 flat state a corporate tax rate which
+00:03:59.640 depends on the state that you do
+00:04:00.959 business in now before you start
+00:04:02.580 thinking well okay I want to see
+00:04:05.220 Corporation hold on here's a quick Pro
+00:04:08.159 tip Okay C corporations are subject to
+00:04:11.220 double taxation because the profits that
+00:04:13.439 are taxed must remain in the C
+00:04:16.019 corporation and so if you as the
+00:04:18.478 business owner decide that you want to
+00:04:20.160 pay yourself then you still could be
+00:04:22.079 subject to other tax rates so C Corps
+00:04:25.139 can be a bit tricky and something you
+00:04:27.000 should definitely consider talking to a
+00:04:28.740 Tax Advisor about which by the way if
+00:04:30.840 you need help with tax planning or tax
+00:04:32.580 preparation we may be able to help go
+00:04:34.979 ahead and click the first link down in
+00:04:36.660 the description below to learn more
+00:04:38.280 about how our services work okay so now
+00:04:40.860 that you know about income tax and
+00:04:42.600 corporate tax let's talk about another
+00:04:44.460 popular tax for business owners payroll
+00:04:46.979 taxes so if you have any employees you
+00:04:49.740 must report and deposit federal income
+00:04:52.080 tax withholdings Social Security and
+00:04:54.540 Medicare taxes where you pay half and
+00:04:56.580 your employee pays half and federal
+00:04:58.740 unemployment taxes and sometimes people
+00:05:01.020 ask me Sean should I look for a W-2
+00:05:03.660 employee or a 1099 contractor and of
+00:05:06.660 course number one always do what's best
+00:05:09.419 for your business but as you can see you
+00:05:11.580 can actually end up paying more taxes
+00:05:13.500 when you hire W2 employees because some
+00:05:16.259 of the tax payments fall on you as the
+00:05:18.540 business now I'm not suggesting that
+00:05:20.520 means you shouldn't hire employees
+00:05:22.199 because there are a lot of fantastic
+00:05:24.300 benefits of having someone who is solely
+00:05:26.880 dedicated to your business but that's
+00:05:29.160 just the tax consequence of it now
+00:05:31.380 closely following payroll taxes you have
+00:05:34.440 self-employment taxes this tax is
+00:05:37.440 specifically for those who are taxed as
+00:05:39.300 LLC owners General Partnerships and sole
+00:05:42.660 Proprietors this is where the IRS is
+00:05:44.820 basically telling you hey since you
+00:05:47.100 don't have an employer who is paying
+00:05:48.780 your share of Social Security and
+00:05:50.699 Medicare taxes that you need to pay both
+00:05:53.220 of them because once again when you are
+00:05:55.259 employed you typically will pay half of
+00:05:57.720 your your Social Security tax which is
+00:05:59.940 6.2 percent and half of your Medicare
+00:06:02.520 tax which is 1.45 but now you need to
+00:06:06.240 handle all of it which brings the
+00:06:08.460 self-employment tax rate to 15.3 percent
+00:06:11.520 now here's another Pro tip once you
+00:06:14.520 start to make enough income it could
+00:06:16.800 make sense to elect to be taxed as an S
+00:06:19.380 corporation because s Corps don't pay
+00:06:22.440 self-employment taxes on their
+00:06:24.539 distributions however becoming an S
+00:06:27.120 corporation can be expensive and require
+00:06:29.699 more from a business owner which is why
+00:06:31.979 it makes sense to wait until you have a
+00:06:33.780 considerable amount of net profit I
+00:06:36.060 would say at least sixty thousand
+00:06:37.620 dollars in net profit before you
+00:06:39.539 consider electing to become one so those
+00:06:41.699 are some of the biggest taxes when you
+00:06:43.560 earn as a business owner now let's
+00:06:45.720 quickly talk about some taxes on things
+00:06:47.639 you buy now the two that I have don't
+00:06:50.100 apply to every business so I won't go
+00:06:52.199 into much detail all right so first up
+00:06:54.539 you have sales tax you've probably seen
+00:06:57.240 this before print it out at the bottom
+00:06:59.160 of your store receipt after you purchase
+00:07:01.020 a good or a service sales taxes are a
+00:07:04.380 tax on retail sales and typically
+00:07:06.479 something that the state wants to
+00:07:07.979 collect now if you own a retail business
+00:07:10.020 the good news is this tax is passed off
+00:07:13.139 to the consumer and it's just something
+00:07:14.940 that your business is responsible for
+00:07:17.220 collecting okay another type of buy tax
+00:07:19.620 is the excess tax this is a niche type
+00:07:22.560 of tax that applies to certain types of
+00:07:24.599 goods like tobacco alcohol soda gasoline
+00:07:28.080 and so on so if you're thinking about
+00:07:29.460 getting to that market make sure you
+00:07:31.139 take note of the excess tax all right
+00:07:33.360 shifting gears to taxes on things that
+00:07:35.759 you own of course you have property
+00:07:38.340 taxes this tax is applied to immovable
+00:07:41.520 property like land and buildings and
+00:07:43.979 states with property taxes and most
+00:07:46.319 people have a good handle on this but it
+00:07:48.660 is something I have to mention if you're
+00:07:50.160 a business owner and you're thinking
+00:07:51.479 about purchasing some real estate for
+00:07:53.280 your company now another type of owner
+00:07:55.560 tax is the tangible personal property
+00:07:57.720 tax or TPP this is a state tax that
+00:08:00.780 applies to property that can be moved or
+00:08:03.479 touched like business equipment
+00:08:05.220 machinery inventory furniture and
+00:08:08.280 vehicles so if you own a vehicle then
+00:08:10.860 you've probably seen something like an
+00:08:12.479 avalorian tax assess when you renew your
+00:08:15.060 registration now about 43 States
+00:08:17.520 currently have TPP okay so those are the
+00:08:20.580 main taxes you may encounter as a small
+00:08:22.740 business owner depending on your
+00:08:24.120 business or entity now let's move on to
+00:08:26.940 the second part of this video and talk
+00:08:28.500 about number two how to pay business
+00:08:31.080 income taxes so there are only about
+00:08:33.599 three to four basic steps you need to
+00:08:35.820 follow step one figure out the taxes you
+00:08:38.640 need to pay which I'll simplify step two
+00:08:41.219 calculate how much you need to pay step
+00:08:43.919 three pay your taxes and then step four
+00:08:46.860 file your tax return simple all right so
+00:08:49.920 let's chart this out step one I'm gonna
+00:08:52.320 go through the type of taxes subject to
+00:08:54.420 sole proprietorship single member LLCs
+00:08:56.880 partnership Locs S corporation and C
+00:09:00.300 corporations when it comes to individual
+00:09:02.640 income taxes everyone pays it except for
+00:09:05.519 C corporations with self-employment
+00:09:07.980 taxes s corporations can avoid some of
+00:09:11.100 them not all but some and corporations
+00:09:13.980 avoid them all together the next type of
+00:09:16.680 tax are payroll taxes and this applies
+00:09:19.260 that every business that has W-2
+00:09:21.300 employees and always applies to S
+00:09:24.120 corporations since owners must pay
+00:09:26.399 themselves a reasonable salary and the
+00:09:29.220 corporate tax rate of course only
+00:09:31.019 applies to C corporations and on the
+00:09:33.720 chart I've listed what tax returns these
+00:09:36.180 taxes are reported on for example single
+00:09:39.000 member LLCs use 1040 individual tax
+00:09:41.760 return and attached Schedule C whereas
+00:09:44.580 multi-member llc's must file an
+00:09:46.740 information return called the U.S 1065
+00:09:49.620 return and then report their income on
+00:09:52.200 U.S 1040 using a tax form called K wines
+00:09:56.339 all right so that's step one figure out
+00:09:58.260 where you fall and what income taxes you
+00:10:00.480 need to pay once you have that then you
+00:10:02.339 move on to step number two and calculate
+00:10:04.560 how much you need to pay so here's the
+00:10:07.140 thing since you are no longer an
+00:10:09.180 employee instead of you withholding
+00:10:11.040 taxes on every paycheck now you're going
+00:10:13.500 to need to pay every quarter in what is
+00:10:16.140 known as a quarterly estimated tax
+00:10:18.420 payment which can be calculated by
+00:10:20.459 simply taking the total taxes you owe
+00:10:22.560 plus the total self-employment taxes you
+00:10:25.140 owe which gives you your total estimated
+00:10:27.420 taxes and then divide that by four to
+00:10:30.600 figure out exactly what you need to pay
+00:10:32.519 every quarter so if you need help
+00:10:34.620 getting to those numbers then I would
+00:10:36.060 suggest simply Googling and finding an
+00:10:37.920 online calculator or simply pay 110 of
+00:10:41.760 what you owed in the previous tax year
+00:10:44.040 to avoid any penalties now I also will
+00:10:46.620 put up on the screen the quarterly
+00:10:48.180 estimated tax deadlines for 2023 and as
+00:10:51.480 you can see you have roughly 15 days
+00:10:53.640 after the typical calendar quarter ends
+00:10:56.160 to pay your taxes now out it is
+00:10:58.320 important to know that you don't have to
+00:11:00.420 make quarterly tax payments or you fail
+00:11:02.579 to do so on time then you can get hit
+00:11:05.220 with what is called an estimated tax
+00:11:07.079 penalty which is like the irs's late fee
+00:11:10.140 if you will and this fee along with
+00:11:12.000 others can be avoided if you simply pay
+00:11:14.700 your taxes on time now once you know how
+00:11:17.220 much tax you need to pay then you can
+00:11:19.019 move on to step three and pay your taxes
+00:11:21.779 which you can do by simply going to
+00:11:23.720 irs.gov backslash payments log into your
+00:11:26.760 account and select make a quarterly
+00:11:29.100 payment from there you can choose to use
+00:11:31.140 your bank account or any debit card
+00:11:32.940 credit card or digital wallet like
+00:11:35.459 PayPal to make your payment and then
+00:11:37.560 finally step four is to file your tax
+00:11:39.959 return so you report all your income and
+00:11:42.420 all your payments to the IRS all right
+00:11:44.459 now let's move on to the third part of
+00:11:46.320 this video and talk about some of my
+00:11:47.940 favorite things which is number three
+00:11:49.680 business tax deductions because business
+00:11:52.500 owners in my opinion have the best tax
+00:11:55.140 advantages because as long as you place
+00:11:57.480 smart you can significantly lower your
+00:12:00.180 tax bill sometimes all the way down to
+00:12:03.060 zero like the rich and wealthy if you
+00:12:05.579 use the tax code to your advantage and
+00:12:08.279 take certain business tax deductions a
+00:12:10.920 business tax deduction is an expense a
+00:12:13.320 business can claim in an effort to
+00:12:15.660 reduce their taxable income and since
+00:12:17.880 there are many unique types of
+00:12:19.740 businesses that IRS considers a business
+00:12:22.320 expense deductible as long as it is
+00:12:25.140 ordinary and necessary to the company an
+00:12:27.600 ordinary expense is something common and
+00:12:29.880 accepted in your type of business in a
+00:12:32.220 necessary expense is something that is
+00:12:33.959 helpful and appropriate for your
+00:12:35.940 business so if you use your imagination
+00:12:38.040 that can be a lot of things but some tax
+00:12:40.440 write-offs are very common like employee
+00:12:42.540 expenses the cost of hiring wages
+00:12:45.180 benefits and even writing off taxes like
+00:12:48.360 payroll taxes travel expenses airfare
+00:12:51.600 hotel stays meals office expenses rent
+00:12:55.200 utilities supplies advertising you
+00:12:57.420 equipment expenses purchasing certain
+00:12:59.820 assets like machineries vehicles and
+00:13:02.579 even planes just to name a few and since
+00:13:05.519 businesses help stimulate the economy
+00:13:07.980 many states offer specific business
+00:13:10.200 credits which helps reduce business
+00:13:12.300 owners tax liabilities dollar for dollar
+00:13:14.940 popular credits are the research and
+00:13:17.220 development tax credit credits for
+00:13:19.200 hiring veterans and other employees
+00:13:21.240 credits for developing your business in
+00:13:23.339 a certain Zone city or county and so on
+00:13:26.040 we have a lot of videos on this channel
+00:13:28.079 that talk about tax write-offs and
+00:13:29.820 credits so make sure you're subscribed
+00:13:31.680 if you haven't already let's go ahead
+00:13:33.600 and move on to the fourth part of this
+00:13:35.100 video and talk about number four staying
+00:13:37.620 compliant staying compliant with the
+00:13:40.019 Internal Revenue Service the IRS means
+00:13:42.480 following all applicable tax laws and
+00:13:45.300 fulfilling your tax obligations as a
+00:13:48.000 business owner and listen if you are not
+00:13:50.160 found compliant with the IRS you could
+00:13:52.560 cause yourself a lot of unnecessary pain
+00:13:54.959 for example you may find yourself paying
+00:13:57.240 a additional fees and penalties you
+00:13:59.700 could find yourself getting and losing
+00:14:01.980 tax audits you could lose your status as
+00:14:04.860 an LLC owner which offers many legal
+00:14:07.560 liability protections so how do you stay
+00:14:10.200 compliant here are six tips number one
+00:14:12.600 follow the rules of your LLC LLC is a
+00:14:16.079 governor by state law and each state has
+00:14:18.480 its own set of rules for llc's so make
+00:14:21.180 sure you understand them and you follow
+00:14:22.920 them which may include some requirements
+00:14:25.260 like maintaining records holding
+00:14:27.300 meetings or electing members and
+00:14:29.399 managers number two keep accurate and
+00:14:31.980 organized records AKA bookkeeping this
+00:14:34.920 will make it easier for you to stay
+00:14:36.360 compliant and helpful in the event if
+00:14:38.459 you're ever audited number three fulfill
+00:14:40.620 your tax obligations this includes
+00:14:42.839 filing your tax returns paying your
+00:14:44.880 taxes and sending the appropriate tax
+00:14:47.339 forms when necessary number four follow
+00:14:49.920 employment laws if you have employees it
+00:14:53.040 is very important that you understand
+00:14:54.300 and you comply with employment laws
+00:14:56.940 including laws related to minimum wage
+00:14:59.459 overtime and discrimination number five
+00:15:02.300 protect consumer privacy if you collect
+00:15:05.339 personal information from your customers
+00:15:07.199 or clients it's very important that you
+00:15:09.240 protect our privacy and you follow the
+00:15:11.339 applicable laws related to data and
+00:15:13.740 privacy protection in the number six
+00:15:15.720 obtain any necessary licenses and
+00:15:18.300 permits depending on the nature of your
+00:15:20.399 business and the location of where you
+00:15:21.899 operate you may need to obtain certain
+00:15:24.420 licenses and permits in order to legally
+00:15:27.060 conduct business so make sure you
+00:15:29.100 understand what licenses and permits are
+00:15:31.500 required for you and then make sure you
+00:15:33.480 take the necessary steps to obtain them
+00:15:35.459 and renew them all right so we covered a
+00:15:38.160 lot here and if you understand all that
+00:15:39.959 congratulations you are now in good
+00:15:42.420 shape to understand and manage your
+00:15:44.699 business taxes but there is one more
+00:15:46.920 advanced topic I didn't get to cover
+00:15:48.480 which is IRS receipt requirements and
+00:15:51.360 how to substantiate any tax deduction
+00:15:53.820 that you decide to take so you're
+00:15:55.800 definitely going to want to watch this
+00:15:56.820 video coming up next to get a clear
+00:15:58.620 understanding of what is required from
+00:16:00.720 you as a business owner and I'll see you
+00:16:02.820 over there

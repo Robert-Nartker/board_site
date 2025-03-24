@@ -1,0 +1,1297 @@
+# tactiq.io free youtube transcript
+# Geoff Woods: Grow Your Career With AI! (THE RIGHT WAY!)
+# https://www.youtube.com/watch/3FwrCH293JQ
+
+00:00:00.160 yes keep trying to use AI but ask
+00:00:02.399 yourself is this an 80% task that's
+00:00:04.720 going to drive 20% of my results or is
+00:00:06.839 this a 20% priority that'll drive 80% of
+00:00:10.200 my results how many books do you think
+00:00:11.440 you've read over the course of your life
+00:00:12.840 what percent of that Collective
+00:00:13.920 knowledge do you think you can recall
+00:00:15.400 and apply right now yeah maybe like 5%
+00:00:19.640 and you've done pretty well on 5% but
+00:00:22.920 this is the universal truth we have
+00:00:26.199 gotten to where we are based on our
+00:00:28.240 ability to recall and apply
+00:00:30.480 the minority of what we have learned
+00:00:32.719 which is insignificant compared to the
+00:00:34.840 knowledge of the world when you're
+00:00:36.120 saying you're going to look for
+00:00:37.160 employees that have X Y and Z like what
+00:00:38.960 are those exact skills that you're
+00:00:40.120 looking for I am looking for somebody
+00:00:42.960 who
+00:00:45.160 is Jeff welcome to Mission daily thanks
+00:00:47.800 so much for having me I'm so glad to
+00:00:49.280 have you here in studio it always makes
+00:00:50.840 it so much more fun having people in
+00:00:52.800 person and you're already here in Austin
+00:00:54.160 which makes it amazing so I want to
+00:00:57.039 actually start probably a little
+00:00:58.239 different than maybe where you've
+00:00:59.239 started other
+00:01:00.480 interviews I want to start around
+00:01:03.399 mindset and like unlearning things
+00:01:06.400 because when I was thinking about the
+00:01:08.280 space that we're in today and thinking
+00:01:09.759 about the traditional education system
+00:01:11.920 especially public schools and how people
+00:01:14.040 are trained and I know you've mentioned
+00:01:16.080 this before in other interviews of you
+00:01:17.960 know Industrial Revolution and the bell
+00:01:19.799 is ringing and I'm memorizing things and
+00:01:21.720 all my studies are compartmentalized
+00:01:24.119 into subject matter experts nothing's
+00:01:25.840 really connecting like we were trained
+00:01:28.200 we and probably other people right now
+00:01:29.680 going going through the system very much
+00:01:31.680 trained in a way to work in a factory
+00:01:33.520 and to memorize things and get a job
+00:01:35.079 done and check the box yes and so now
+00:01:37.200 we're entering into this new era we've
+00:01:38.920 been in this new era but I want to hear
+00:01:41.159 about like what things should people be
+00:01:43.079 unlearning how do you need to shift your
+00:01:44.920 mindset to get into this world yeah sure
+00:01:47.119 so I think I think so many people are
+00:01:50.280 attached to the way that things used to
+00:01:51.880 be when they could be reimagining the
+00:01:54.119 way things can become and who they can
+00:01:56.960 become when I think about most people in
+00:01:58.920 their work you know you wake up you grab
+00:02:00.880 your phone you check email and then you
+00:02:03.799 get started and you go to your first
+00:02:05.079 meeting and you get out of your meeting
+00:02:06.560 and you got 5 minutes so you check email
+00:02:08.840 and then somebody says hey you got a
+00:02:10.038 minute and because you're a team player
+00:02:11.239 you say sure and then you get to the end
+00:02:13.640 of the day knowing you were really
+00:02:14.800 really really busy but questioning what
+00:02:16.800 you actually got done yep that is normal
+00:02:21.239 but I I genuinely believe that things
+00:02:24.200 are going to shift here because so much
+00:02:26.239 of people's days currently is consumed
+00:02:28.680 with operational tax asks that frankly
+00:02:31.319 it's the 80% that only drives 20% of the
+00:02:34.160 results AI can already augment or
+00:02:36.440 automate about half of what people do
+00:02:38.959 especially in those tactical areas this
+00:02:42.040 scares some people I actually think it's
+00:02:43.560 fantastic news because what would it
+00:02:45.800 look like if you could actually be freed
+00:02:47.519 up to harness your strengths focused on
+00:02:50.440 the priorities of your role in alignment
+00:02:52.159 with the goals of the company and then
+00:02:53.440 be supercharged with AI I think that's
+00:02:56.519 the world we're stepping into yeah know
+00:02:58.720 I mean I'm very excited about because I
+00:03:00.319 see it being like this creative
+00:03:02.200 revolution where now you can actually
+00:03:03.760 focus on what makes you human but you
+00:03:06.720 have to have intentionality with your
+00:03:08.159 work you have to be thoughtful with it
+00:03:09.760 and I actually just wrote a whole post
+00:03:11.840 about this around how now at least the
+00:03:14.280 spaces that I'm in I feel like it's less
+00:03:16.319 about me asking team members or people
+00:03:18.040 I'm working with did it get done it's
+00:03:20.480 more of like why did you do it that way
+00:03:22.319 why did you write it that way where's
+00:03:24.360 the thinking behind it what are the
+00:03:26.000 contrarian thoughts did you check out
+00:03:27.480 the competitors in the space like I want
+00:03:29.000 to hear the human element behind the
+00:03:31.760 work because if it's just a checkbox
+00:03:33.599 thing anymore like hey I can do that now
+00:03:36.360 I think this is a great way to think
+00:03:37.599 about it you know historically we have
+00:03:39.720 played an instrument like you played the
+00:03:41.480 violin and that's what you did and maybe
+00:03:43.519 that was Marketing in the company when
+00:03:46.120 we go forward it's less about being the
+00:03:48.239 single player of an instrument and
+00:03:50.120 toward actually becoming a conductor of
+00:03:52.560 teams and technology so every single one
+00:03:55.000 of us has certain expertise that we will
+00:03:57.079 continue to harness and enhance but for
+00:03:59.840 example I'm not an expert CFO but I
+00:04:02.439 don't need it to be I can upload my
+00:04:04.000 financial statements to Ai and ask it to
+00:04:06.920 act as an expert strategic CFO and have
+00:04:10.200 it interview me based on the financials
+00:04:12.840 to understand deeper context about the
+00:04:14.599 business and then tell me some of the
+00:04:16.478 Strategic things I should be thinking
+00:04:18.079 about based on the per financial
+00:04:19.440 performance of the company I can't do
+00:04:22.199 that without AI but with it I can I'm
+00:04:24.880 not a chief legal officer but literally
+00:04:26.800 the other day I had it take three nonis
+00:04:29.720 disclosure agreements had to interview
+00:04:31.880 me about my business to understand it on
+00:04:33.639 a deeper level and then script out an
+00:04:35.320 NDA that would be relevant to my
+00:04:36.960 business and then had it combine that
+00:04:39.160 with an independent contractor agreement
+00:04:41.400 and then had it Oppo act as opposing
+00:04:43.320 general counsel to poke holes in it to
+00:04:45.240 strengthen it I sent that to my actual
+00:04:48.880 attorney and said these are the three
+00:04:50.800 things that I want you to review and
+00:04:52.759 enhance the language of I collapsed the
+00:04:54.919 billable hours MH mhm so how did you get
+00:04:59.400 here
+00:05:00.600 tell me about your world I mean I did a
+00:05:03.120 bit of digging of seeing you know it
+00:05:04.840 sounded like you were in the corporate
+00:05:06.880 world and then a billionaire also
+00:05:08.960 recruits you to his family office type
+00:05:11.160 company Steel company and you come in
+00:05:12.639 there and you're growing it yeah and
+00:05:14.600 then what like so let's go back even
+00:05:16.360 further okay I went to college at UC
+00:05:19.120 Santa Barbara my senior year I do an
+00:05:21.880 internship with a tech company and right
+00:05:24.000 before graduation I sit down with the
+00:05:25.560 CEO and I ask him what job do you think
+00:05:27.880 I should get after school and he looks
+00:05:30.280 at me and he goes Jeff you're asking the
+00:05:32.639 wrong question this was my first
+00:05:35.360 experience with the power of asking the
+00:05:37.080 right questions and he said the question
+00:05:39.120 you should be asking is what are the
+00:05:40.880 skills I can master that are so valuable
+00:05:43.479 they'll serve me no matter where I go
+00:05:46.280 then go look for jobs that will help you
+00:05:47.840 build those skills this is the best
+00:05:50.039 advice I've ever gotten career-wise in
+00:05:52.280 my life don't focus on attaching
+00:05:54.000 yourself to a role or a company focus on
+00:05:56.520 the skills that will put you on a
+00:05:57.880 different trajectory for your career
+00:05:59.639 career based on my personality said go
+00:06:02.639 get great sales training so I went to
+00:06:03.960 work for Xerox that led to medical
+00:06:05.720 device sales which then led to moving to
+00:06:07.759 Austin to partner with Gary Keller to
+00:06:09.120 turn his book The one thing into a
+00:06:10.680 training and consulting company so that
+00:06:12.000 was the first billionaire in my life um
+00:06:14.319 and I had never been a CEO but he
+00:06:16.680 basically said we will teach you how to
+00:06:19.880 think and act like a CEO and I got
+00:06:21.319 access to all his models for scaling
+00:06:23.440 companies which Keller Williams is a
+00:06:24.919 multi-billion dollar company and my job
+00:06:27.160 was to to learn them to live them and
+00:06:28.560 then to turn out how to how to teach
+00:06:29.960 them and so a lot of what I did was
+00:06:31.800 going into executive teams of growth
+00:06:33.360 companies to Fortune 500 doing strategic
+00:06:35.720 planning and just driving this idea of
+00:06:37.960 focusing on the one thing that matters
+00:06:39.759 most throughout an organization that
+00:06:42.280 then I sold my stake in the company and
+00:06:44.479 uh I had been coaching a guy named
+00:06:45.960 navine jindel who's a billionaire out of
+00:06:47.639 India he owns jindel steeling power
+00:06:49.759 probably about a 100 thousand people
+00:06:50.960 globally just giant company when he
+00:06:53.160 found out I left he had me come in as
+00:06:54.720 Chief growth officer over everything and
+00:06:56.599 he basically said go and my Approach was
+00:07:01.479 four drivers strategy execution people
+00:07:04.720 and Technology strategy is about
+00:07:07.000 defining the competitive Advantage you
+00:07:08.479 want to own in the future execution of a
+00:07:11.000 focused strategic plan then getting the
+00:07:12.919 right people in the right seats which
+00:07:14.919 your strategic plan changes every year
+00:07:16.599 but people's job descriptions don't
+00:07:18.639 which means you inherently have a lack
+00:07:20.000 of alignment so how do we keep it
+00:07:21.560 aligned and then how do you harness
+00:07:23.039 technology to supercharge all of it and
+00:07:25.759 that's what drove the market cap growth
+00:07:27.440 there okay so was it you and a team oh
+00:07:30.479 gosh yes driving this I mean 100,000
+00:07:33.000 people so my job was to sit at a group
+00:07:35.639 level I looked at what were the
+00:07:39.280 processes that needed to exist at a
+00:07:41.319 global level that then we would drive
+00:07:43.639 through every operating company they're
+00:07:45.759 structured like a family office so they
+00:07:47.120 owned a ton of companies my job was then
+00:07:49.159 to work with the SE Suite so like the
+00:07:50.840 managing director or the CEO of every
+00:07:52.720 operating company plus their SE Suite to
+00:07:55.039 drive the strategy the execution the
+00:07:57.360 people processes and then figuring out
+00:07:59.639 what are those technology plays that we
+00:08:01.840 can invest in that could either make
+00:08:03.520 people more productive operations more
+00:08:05.680 efficient or products and services more
+00:08:07.240 valuable so yeah it was not just me but
+00:08:09.560 I was the one kind of being the
+00:08:11.080 conductor at the group level yeah okay
+00:08:13.360 and so is this the moment when you
+00:08:15.400 started seeing AI come on the scene and
+00:08:17.919 just seeing how you could really support
+00:08:19.479 these companies it was December of 2022
+00:08:22.199 we were in India I had pulled the
+00:08:24.159 executive teams from every company
+00:08:26.000 around the world into Delhi we were
+00:08:28.000 doing an offsite to cast div vision for
+00:08:30.039 the future of leadership in the gendle
+00:08:31.759 group it's the morning of the first day
+00:08:36.279 and one of the guys looks over at me and
+00:08:38.240 says hey have you heard of chat PT the
+00:08:40.599 answer is no it had been out for less
+00:08:42.039 than 30 days and he goes watch this and
+00:08:45.279 he showed me a use case of how he had it
+00:08:48.240 script a message to a specific person
+00:08:51.160 with a specific tone to accomplish
+00:08:52.920 specific points and I just watched it
+00:08:55.200 generate text and the moment I saw that
+00:08:58.200 mhm I had the CEO from college in my
+00:09:01.000 head what are the skills I can master
+00:09:02.959 that are so valuable they'll serve me no
+00:09:04.800 matter where I go and I just saw it as a
+00:09:06.959 skill and I made a personal goal to
+00:09:10.079 figure out how to use this but pretty
+00:09:11.800 quickly I realized it actually felt like
+00:09:14.040 a waste of time at the beginning like it
+00:09:16.160 was cool but using it to write a better
+00:09:18.920 email that was a waste of my time at a
+00:09:21.519 sea level and this is where 820 rule
+00:09:23.880 came back I was going okay I could
+00:09:25.959 easily see how I could start using this
+00:09:27.839 for email communication Market copy
+00:09:30.160 social media that's all 80% tasks that
+00:09:34.440 drive 20% of the results what's the 20%
+00:09:38.519 that would drive 80% of the results and
+00:09:41.360 that's when I came back to this idea
+00:09:43.000 that as a leader your ability to think
+00:09:46.040 strategically that's the difference
+00:09:47.760 between growing your business or going
+00:09:49.800 out of business and I started searching
+00:09:52.760 for how can I use this to enhance my
+00:09:54.920 ability to think strategically and to
+00:09:56.800 make faster smarter decisions and it
+00:09:59.000 requ ired Shifting the way I viewed AI a
+00:10:02.240 lot of people view it as a smart Google
+00:10:04.120 where they ask it questions and they
+00:10:05.320 expect answers or they're treating it
+00:10:07.120 like an assistant to help them with
+00:10:08.440 their low value tasks I didn't I started
+00:10:11.800 to view it as my thought partner with me
+00:10:15.040 as the thought leader and this
+00:10:17.640 inherently required me to turn the
+00:10:19.800 tables to sharing my toughest problems
+00:10:23.600 with AI and asking it to interview me MH
+00:10:28.240 to help me think through through the
+00:10:29.800 problems uh to gain deeper context so it
+00:10:32.279 could then present non-obvious Solutions
+00:10:34.959 or to give me feedback or to pressure
+00:10:36.920 test my thinking that was a legitimate
+00:10:39.040 game Cher and it was one of my trips to
+00:10:41.600 India I was going every quarter I was at
+00:10:43.160 the Chairman's house and I I just made
+00:10:45.040 the case I said I really believe this is
+00:10:46.519 the future and he said I agree and I
+00:10:49.120 said I think we should drive this
+00:10:50.399 through the whole company he goes I
+00:10:52.519 agree I said I think this is so
+00:10:54.519 important that you should own this as
+00:10:56.040 chairman of the board and he goes I
+00:10:58.240 disagree how about you do it for me
+00:11:00.959 which was like a dream moment for me
+00:11:03.880 because I was like oh my gosh that's a
+00:11:06.880 big opportunity so I immediately said
+00:11:08.720 yes but when I left his house I kind of
+00:11:10.200 had this crisis moment of I'm not
+00:11:12.800 qualified and I don't I don't know what
+00:11:14.839 I'm doing but this is when I Had Gary
+00:11:16.839 Keller in my head anytime you're hitting
+00:11:18.839 a ceiling of achievement in your life
+00:11:20.800 you're just missing a person you know
+00:11:22.560 Dan San talks about who not how Y and so
+00:11:25.160 I went looking for my who which became
+00:11:27.120 Google and we partner with them and now
+00:11:29.320 I was living at their headquarters in
+00:11:30.480 Delhi pretty much every quarter and they
+00:11:32.360 taught me what the technology is how you
+00:11:34.760 identify use cases how you tune models
+00:11:36.639 and eventually I saw a much bigger
+00:11:38.800 opportunity to write a book about it the
+00:11:40.760 AI driven leader and to build my company
+00:11:42.680 AI leadership amazing so I want to go to
+00:11:46.000 the piece around strategy because I mean
+00:11:50.040 two pieces of this one when it comes to
+00:11:52.120 team members oftentimes I mean it's
+00:11:54.240 human nature to just choose the easiest
+00:11:56.360 thing to get done where you can feel
+00:11:58.040 that win where you're like o I can
+00:12:00.000 automate that email like when versus
+00:12:02.279 finding the very strategic business
+00:12:03.959 drivers of this is a hard problem it's
+00:12:06.360 been sitting you know here for weeks
+00:12:08.440 it'll drive the whole business but
+00:12:09.800 instead I'm going to go and like have it
+00:12:11.079 write my social media post or I'm going
+00:12:12.480 to go on Mid journey and get like a
+00:12:13.519 really cool picture with you know my
+00:12:15.680 profile like how do you shift mindsets
+00:12:19.199 to focus on the actual strategic things
+00:12:22.480 that will move a company for you well
+00:12:24.079 this is where we come back to mindset
+00:12:26.000 and who you can become AI will not
+00:12:29.399 replace you it will enhance you if you
+00:12:33.639 think tactically then you will look for
+00:12:36.199 tactical use cases if you think
+00:12:38.639 strategically you will look for the
+00:12:40.440 Strategic use cases so I think before we
+00:12:43.240 even look to AI we have to actually look
+00:12:45.440 in the mirror and
+00:12:47.360 acknowledge what percent of the time are
+00:12:49.320 we in tactical mode and what percent of
+00:12:51.040 the time are we in strategic mode and
+00:12:52.399 the truth is as a leader we we do both
+00:12:54.639 um and depending on Startup to mature
+00:12:56.800 company it requires different percentage
+00:12:59.560 of time there I think the mistake is
+00:13:02.480 people allow themselves to get stuck in
+00:13:05.279 operational overwhelm and they don't
+00:13:07.279 live enough at a level of strategic
+00:13:09.720 Clarity so my biggest challenge to
+00:13:12.519 people is to Simply like yes keep trying
+00:13:14.600 to use AI but ask yourself is this an
+00:13:17.560 80% task that's going to drive 20% of my
+00:13:20.199 results or is this a 20% priority
+00:13:22.440 that'll drive 80% of my results like
+00:13:26.320 strategic planning performance reviews
+00:13:30.399 hiring problem solving like these are
+00:13:32.920 the types of things that frankly you
+00:13:34.560 think about on a weekly basis just use
+00:13:37.360 AI for it is there anything that you I
+00:13:39.959 mean I know you had these mentors around
+00:13:41.639 you but are there other things that you
+00:13:43.279 explored to kind of get you thinking in
+00:13:45.760 this more strategic way I believe you're
+00:13:47.760 the average of The Five People You spend
+00:13:49.079 the most time with I'm incredibly
+00:13:51.560 purposeful about my five and constantly
+00:13:54.880 evaluating my goals and then surrounding
+00:13:57.160 myself with people who have already
+00:13:59.240 achieved them when it came to AI I I
+00:14:02.600 also started surrounding myself with
+00:14:04.399 certain people who were going on the
+00:14:06.399 journey because the truth is even though
+00:14:08.920 I've written a book about it now there's
+00:14:10.800 so much I don't know so I always want to
+00:14:14.759 be standing in the flow of information
+00:14:16.759 so that I can learn from other people
+00:14:18.160 and there's things I can bring to the
+00:14:19.320 table that they've never thought of and
+00:14:21.160 the rising tide will lift All Ships mhm
+00:14:24.440 it feels like a tempting environment
+00:14:25.759 with all these tools that come out I
+00:14:27.040 mean I see it Within mission
+00:14:29.680 all of our like I mean me personally I'm
+00:14:31.320 like o this Tool's cool this one's cool
+00:14:33.639 like how do you stay grounded and
+00:14:35.800 focused on like this is actually going
+00:14:38.360 to be helpful because like everything's
+00:14:40.320 advancing so quickly and now things are
+00:14:42.279 so good everything's so good it seems AI
+00:14:45.120 will enhance you it will not replace you
+00:14:47.800 you have to think about who you're
+00:14:48.680 talking to I built a company based on an
+00:14:51.399 idea of one thing MH I the idea of 8020
+00:14:55.279 has been seared into my mind so I very
+00:14:59.600 quickly like even before I wrote the
+00:15:01.240 book or built the company I took a step
+00:15:03.320 back and said whatat are the things I
+00:15:04.560 want this to be about what are the
+00:15:05.959 things I do not want it to be about and
+00:15:08.399 I wanted to create something that was
+00:15:10.920 Timeless when everything about it is
+00:15:13.320 timely and so I made a very conscious
+00:15:15.920 choice that I am not going to spend too
+00:15:18.680 much time worrying about the latest and
+00:15:20.560 greatest tool because the truth is it
+00:15:23.360 really doesn't matter it really doesn't
+00:15:25.920 matter it you're looking at incremental
+00:15:29.000 efficiency gains versus understanding
+00:15:30.959 what's the 20% of the technology in
+00:15:32.759 terms of using generative Ai and what
+00:15:34.959 are the 20% use cases that are going to
+00:15:36.720 drive 80% of my results now I do listen
+00:15:40.440 to certain podcasts subscribe to certain
+00:15:43.040 newsletters just to stay on top of
+00:15:46.079 things but when it comes to actually
+00:15:47.920 diving into the different tools and
+00:15:49.319 whatnot I don't because frankly it
+00:15:52.000 doesn't matter yeah sometimes feels like
+00:15:53.880 it might be easier to just have tunnel
+00:15:56.199 vision into your company or your
+00:15:58.319 leadership team whatever it might be of
+00:15:59.959 just what's the problem B and then now I
+00:16:02.680 need to find a solution and maybe it's
+00:16:04.360 Ai and maybe it's actually not maybe
+00:16:06.399 it's just another person I need on the
+00:16:08.319 team or yeah so which you see that with
+00:16:11.199 almost all Technologies they come out
+00:16:12.880 and then there's a hype cycle blockchain
+00:16:14.720 NFS all that like everything needs an
+00:16:17.120 nft now everything needs to go on the
+00:16:19.040 blockchain and then there's normally a
+00:16:20.800 correction I feel like we're kind of
+00:16:22.440 moving in the
+00:16:23.720 correction we're we're we're getting
+00:16:25.680 there I don't think we're at the trough
+00:16:26.759 of disillusionment yet but we're it's
+00:16:28.480 going to come it's going to come I want
+00:16:30.319 to go into like a Founders mentality and
+00:16:33.319 then after that we're going to go into a
+00:16:34.399 marketer's mentality just knowing who
+00:16:36.120 our audience is and what might be
+00:16:37.720 helpful and I really want to get into
+00:16:39.880 like really practical tips that someone
+00:16:41.880 can listen to and be like okay me as a
+00:16:43.440 Founder growing a company here's how I
+00:16:45.399 would think about the world sure I'd
+00:16:47.079 love to just start there like if you are
+00:16:48.680 starting a new company right now or
+00:16:50.000 you're building it and you have a team
+00:16:52.240 how would you go about thinking about
+00:16:54.480 you know having an AI mindset while not
+00:16:56.519 getting bogged down in all the noise of
+00:16:58.519 it you're talking to somebody who who
+00:17:00.720 literally did it I literally this year
+00:17:03.120 February 8th of 2024 I said I'm going to
+00:17:06.559 write a book and I'm going to build a
+00:17:07.480 company about this just over nine months
+00:17:09.599 later written the book hit bestseller
+00:17:11.919 and built a company I believe the people
+00:17:14.880 who are founders have a huge Advantage
+00:17:16.319 because they're not Shackled to the way
+00:17:18.439 things used to be they get to reimagine
+00:17:20.839 the way things can become and so for me
+00:17:24.400 I just said everything I do we're going
+00:17:25.599 to be AI driven I'm going to use it to
+00:17:27.919 help me think strategically as a founder
+00:17:29.760 and a CEO I'm going to make sure that
+00:17:32.320 every person I bring onto the team is AI
+00:17:34.160 driven I want to get 10 times the output
+00:17:36.480 from a person that a legacy company
+00:17:39.039 would get I'm going to ask the question
+00:17:41.080 how do we use technology to augment or
+00:17:43.880 automate our systems how do we make sure
+00:17:46.200 that our products or services are AI
+00:17:48.280 first so that was just the commitment
+00:17:50.360 that I made upfront so I think if you're
+00:17:53.039 a Founder that's a legitimate
+00:17:55.159 opportunity for you m okay so tell me
+00:17:57.559 about skill skills when you're saying
+00:17:59.720 you're going to look for employees that
+00:18:01.240 have X Y and Z like what are those exact
+00:18:02.919 skills that you're looking for I am
+00:18:04.559 looking for somebody who
+00:18:07.440 is
+00:18:09.520 hungry Innovative and coachable so I'm
+00:18:14.840 not we're we're so early in the game
+00:18:16.559 that I can't expect somebody to come to
+00:18:18.840 the table and say I'm AI driven or I'm
+00:18:20.840 really an expert at harnessing Ai and if
+00:18:22.360 they are I'm going to start digging real
+00:18:24.120 fast and figure out are you just AI
+00:18:25.960 washing your resume like I want to
+00:18:27.760 understand but you know I think about a
+00:18:30.280 woman that I brought on for operations
+00:18:32.679 she is just a Powerhouse I can tell that
+00:18:36.520 she will run through that that wall is
+00:18:39.039 going to be sad that they met her
+00:18:41.039 because she's going to run straight
+00:18:42.159 through it she also is incredibly
+00:18:44.280 ambitious for her future and she's
+00:18:46.000 incredibly coachable like she wants to
+00:18:47.919 learn she's thirsty for the knowledge so
+00:18:50.600 that type of a person I don't have to
+00:18:52.919 motivate them yeah all I have to do is
+00:18:55.080 show them here's the opportunity for you
+00:18:57.360 to get to the next level and they're
+00:18:58.919 going to run through walls so I'm
+00:19:00.559 bringing people into the team that are
+00:19:03.120 like that then I'm showing them hey one
+00:19:05.880 of our core values is being practice
+00:19:07.440 leaders we don't say one thing and do
+00:19:09.600 another everything we teach we do so you
+00:19:12.799 can't be on this team and not be AI
+00:19:15.360 driven I'm going to show you how to use
+00:19:17.600 this help you get more done in less time
+00:19:19.480 but you got to live it that's good yeah
+00:19:21.640 we hire always like if you're curious if
+00:19:23.840 you're curious then you will be able to
+00:19:25.720 figure these things out because you're
+00:19:27.039 always trying new things and correct
+00:19:29.039 yeah I mean it seems like the future
+00:19:30.159 values emotional intelligence th% more
+00:19:33.039 than ever more than like I know squel or
+00:19:35.679 I know this one thing it's like how
+00:19:37.760 curious how ambitious are you how
+00:19:40.000 entrepreneurial are you are you going to
+00:19:42.080 push this company forward like it's your
+00:19:43.720 own like own the area where I don't have
+00:19:46.000 to even worry about you have better
+00:19:47.640 ideas than me seems like it's a
+00:19:49.559 different future there's a there's lots
+00:19:51.200 of pictures in in the book and I have
+00:19:53.000 this picture around the old way is learn
+00:19:55.240 a skill once apply it forever it's just
+00:19:57.960 a straight line
+00:19:59.280 and the future is um learning constantly
+00:20:02.799 thriving continuously because technology
+00:20:06.400 changes the skills that we apply and the
+00:20:09.720 processes that we follow that's all your
+00:20:12.039 job is by the way a bunch of skills you
+00:20:13.880 apply and a bunch of processes you
+00:20:15.559 follow so you might be in marketing the
+00:20:19.000 skills you apply today and the processes
+00:20:21.039 you follow today are going to be
+00:20:22.840 different than a year from now they will
+00:20:25.120 be different than 5 years from now
+00:20:27.120 they'll probably be different than 10
+00:20:28.440 years years from now so it's less about
+00:20:30.240 you saying I'm an expert in these types
+00:20:32.200 of skills and processes and more can I
+00:20:34.679 be a learning based individual that is
+00:20:37.520 willing to accept the fact that the the
+00:20:40.679 sheer nature of this technology being
+00:20:43.080 generative means it's constantly going
+00:20:45.919 to be able to do more and more for me
+00:20:48.120 which will liberate me to elevate my
+00:20:50.799 skills to the next level mhm I love that
+00:20:54.440 a little fun fact that actually I don't
+00:20:56.080 even know if my team knows but before
+00:20:58.320 Miss was called Mission our company was
+00:21:00.480 called Life Learning was all around like
+00:21:02.360 lifelong learning and it started back in
+00:21:04.440 2016 and then I was like that's
+00:21:06.159 confusing so we need to switch it to
+00:21:08.000 something else so I want to get into
+00:21:10.120 some maybe like getting into the prompts
+00:21:12.159 like prompt engineering especially let's
+00:21:14.559 stick with entrepreneurs for now and
+00:21:16.039 then we're going to get into marketing
+00:21:17.480 but as an entrepreneur I want to think
+00:21:18.880 through what are the things that we do
+00:21:20.520 every day whether it be I'm hiring a new
+00:21:23.000 role I'm looking at a current process
+00:21:26.159 like what are some ideas of ways that I
+00:21:28.640 can you know add AI into the mix to
+00:21:31.520 augment my efforts anytime anytime you
+00:21:35.240 have to
+00:21:36.080 think you can use AI as your thought
+00:21:38.440 partner M it's not that it will replace
+00:21:41.360 you it's that it will enhance you and
+00:21:43.840 let me explain the little context behind
+00:21:46.039 this how many books do you think you've
+00:21:47.279 read over the course of your life a lot
+00:21:49.919 but not as many as chat GPT has that's
+00:21:52.880 that's the point now of all let's say it
+00:21:54.720 was a th bucks what percent of that
+00:21:56.679 Collective knowledge do you think you
+00:21:57.960 can recall and apply right now yeah
+00:22:00.480 maybe like 5% and you've done pretty
+00:22:03.840 well on 5% but this is this is the
+00:22:07.240 universal truth we have gotten to where
+00:22:10.559 we are based on our ability to recall
+00:22:13.159 and apply the minority of what we have
+00:22:15.600 learned which is insignificant compared
+00:22:18.480 to the knowledge of the world these AI
+00:22:20.720 models currently have only been trained
+00:22:22.559 on 2% of the information of the world
+00:22:24.120 it's getting more every day but if you
+00:22:25.880 actually do the math like that's 15
+00:22:27.760 trillion tokens a token is a unit of
+00:22:29.919 measure that's the equivalent of 200
+00:22:33.120 million books worth of
+00:22:36.000 data it has read 200 million books but
+00:22:39.000 not only has it read them it remembers
+00:22:41.919 every word from all of them and guess
+00:22:44.679 how long it takes when you give it a
+00:22:46.080 prompt for it to comb through 200
+00:22:48.400 million books to find the relevant
+00:22:50.600 answer and focus it toward your use case
+00:22:54.200 under a second mhm this is what is so
+00:22:57.760 disruptive about this if you view
+00:23:00.000 yourself as the thought leader it's no
+00:23:02.200 more about you just having the knowledge
+00:23:04.760 it's about you knowing how to wield the
+00:23:07.039 tool so as the thought leader you
+00:23:09.200 execute the prompt AI as your thought
+00:23:11.640 partner can bring the most relevant data
+00:23:13.919 to your situation and as thought leader
+00:23:16.480 you now apply your human judgment to ask
+00:23:18.880 do I agree with this do I believe it's
+00:23:21.039 true because we also know AI
+00:23:22.200 hallucinates it makes things up so you
+00:23:24.159 can't abdicate your role as thought
+00:23:25.480 leader so that's that's the start so
+00:23:27.880 anytime
+00:23:28.960 as a entrepreneur you need to think have
+00:23:32.880 a I help you I'll give you some real use
+00:23:34.799 cases yeah yesterday or two days ago I
+00:23:37.760 had a onehour long drive to go do a
+00:23:41.120 workshop for a company and we're in the
+00:23:43.840 middle of starting to build a tech
+00:23:45.600 product and so I've assembled a team and
+00:23:48.159 the next step was for me to clearly
+00:23:49.760 articulate what the requirements are for
+00:23:51.600 the MVP I've done a lot of thinking
+00:23:54.440 about this but it's time to put it into
+00:23:55.919 a concise document that a tech team can
+00:23:57.960 take and make it real so while I was
+00:24:00.400 driving I put I went to chat gbt and I
+00:24:02.840 clicked the little button to put it into
+00:24:04.200 voice mode so now it just can talk to me
+00:24:06.240 while I drive and I said I want you to
+00:24:08.640 act as a chief product officer with
+00:24:11.240 expertise in building enterprise
+00:24:13.720 software first and foremost I want you
+00:24:15.760 to recall everything that I've talked
+00:24:17.520 about around the tech product and walk
+00:24:19.360 me through what you think it is and it I
+00:24:22.880 just wanted to see what Foundation it
+00:24:24.400 had and because I've used it a lot to to
+00:24:26.480 help me get to this stage and then I
+00:24:28.440 said great here's what you now need to
+00:24:30.000 know about this and I just literally
+00:24:32.000 started brain dumping a bunch of other
+00:24:34.080 context and said with that as the chief
+00:24:36.200 product officer conduct an interview of
+00:24:37.960 me interview me by asking one question
+00:24:40.320 at a time this is important if you don't
+00:24:41.960 say one at a time it'll ask you five at
+00:24:43.480 once that's not a conversation one at a
+00:24:45.640 time it becomes a conversation ask me
+00:24:47.520 one question at a time to gain the
+00:24:49.080 deeper context that you are going to
+00:24:50.799 need so that you can then create a
+00:24:52.919 structured outline that I can send to my
+00:24:55.080 real product team so that they can make
+00:24:57.159 this MVP real
+00:24:59.039 and we had a 15minute long conversation
+00:25:01.440 back and forth as it was asking me
+00:25:03.480 questions and it's taking all these
+00:25:05.080 disperate ideas and then it structured
+00:25:07.240 and said great based on this here's the
+00:25:09.080 outline that I would present to your
+00:25:10.520 product team and it just read it through
+00:25:12.919 and I'm going oh man it put my words
+00:25:16.240 together in a far more compelling and
+00:25:18.399 concise manner than I probably could
+00:25:19.799 have done on my own or it would have
+00:25:21.720 taken me hours by the time I got to my
+00:25:24.399 destination I fired up the computer to
+00:25:25.919 see the actual text I copied pasted it
+00:25:28.840 into a Google doc I think I made three
+00:25:31.080 or four changes and I sent it to the
+00:25:33.600 team here's what was cool one of the
+00:25:35.919 guys on my team is a former exec from
+00:25:37.520 Microsoft so he has built a lot of their
+00:25:39.720 Tech I trust him in terms of what makes
+00:25:42.880 good software he came back to me and he
+00:25:44.919 said this is hands down the
+00:25:47.440 best dock of requirements I've ever seen
+00:25:50.360 in my
+00:25:51.520 career I'm not a product guy but I know
+00:25:54.520 how to wield the tool yeah I uh one of
+00:25:57.159 the prompts that I've been loving
+00:25:58.440 recently is I will tell it a problem
+00:26:01.080 that I'm working to solve and then I ask
+00:26:03.200 it what three experts should I use to
+00:26:06.840 help me guide my decision- making with
+00:26:08.760 this and then then what do you do yeah
+00:26:10.399 so then it'll come up with let's just
+00:26:11.720 say in the media space it'll say you're
+00:26:13.720 going to want and for this interview
+00:26:15.240 today for this prep doc that I made
+00:26:17.120 you're going to want an AI strategist
+00:26:19.080 when it comes to like blending this with
+00:26:21.240 leadership like it was pretty specific
+00:26:22.600 you're going to want a uh Storyteller
+00:26:25.559 expert to help with the hero's journey
+00:26:27.279 format of this interview and you're
+00:26:29.320 going to want you know maybe something
+00:26:30.799 around like social media do these three
+00:26:32.840 experts look good and then after that I
+00:26:35.039 ask it to ask me one by one questions to
+00:26:37.640 understand like what information do you
+00:26:40.120 as chat gbt need to know as these three
+00:26:42.360 roles to build out the best prep
+00:26:44.840 document ever what shift have you seen
+00:26:47.720 the moment you learned to assign a
+00:26:49.679 Persona and have it interview you as
+00:26:51.640 that person to gain context to
+00:26:53.240 accomplish a task oh I mean it it
+00:26:55.240 literally shifts it from being like
+00:26:56.799 that's not helpful output to oh that's
+00:26:59.120 better than I could have even had
+00:27:01.360 correct and at this point also I've used
+00:27:03.720 it so much and I've used the voice mode
+00:27:05.520 it knows my voice so that I'm like okay
+00:27:06.960 great now put this in my voice based off
+00:27:09.799 what you know about me yes and yeah I
+00:27:12.440 think that's where a lot of people get
+00:27:13.480 it wrong is that they just go in there
+00:27:15.480 open up a new window and they're like
+00:27:17.679 make me a good prep DOC for my interview
+00:27:19.919 today have you had to build a style
+00:27:21.720 guide for your voice yet oh yeah yeah
+00:27:23.840 yep I've built out some custom gpts that
+00:27:26.200 help with that as well and yeah I me
+00:27:28.320 it's so helpful but you have to ask the
+00:27:31.000 right questions I mean it's like going
+00:27:32.279 up to any human and you're like hey
+00:27:34.200 build this for me and they're like what
+00:27:35.360 are you talking about who are you what
+00:27:37.960 kind of like tonality do you want what
+00:27:39.679 kind of information should I even pull
+00:27:41.720 you have to ask the right questions but
+00:27:43.440 I think that's where most people get
+00:27:44.519 caught up right now so can I make this
+00:27:45.840 super actionable for people yeah I'm
+00:27:47.399 going to I'm going to assume that they
+00:27:49.200 have not had any training on prompt
+00:27:51.559 engineering when I think of writing a
+00:27:53.519 prompt which is called prompt
+00:27:54.799 engineering I think of it like a recipe
+00:27:57.640 you know you're going to go cook dinner
+00:27:58.919 for your kids tonight you're going to go
+00:28:00.200 to the fridge you're going to pull some
+00:28:01.480 stuff out you're not going to pull
+00:28:02.880 everything out of your fridge and you're
+00:28:04.360 certainly not going to use equal amounts
+00:28:06.720 of every ingredient so I think of
+00:28:09.679 prompts as a series of communication
+00:28:11.840 ingredients I think there are four that
+00:28:14.279 I would say are the 20% ingredients that
+00:28:17.240 drive 80% of my communication with AI
+00:28:20.399 first task you've got to clearly
+00:28:22.960 articulate the task you want AI to
+00:28:25.360 complete a lot of the time when I watch
+00:28:27.440 people right write prompts for the first
+00:28:29.519 time they might talk abstractly but not
+00:28:33.039 clearly say this is what I want you to
+00:28:34.880 do so you got to describe the task two
+00:28:38.000 you got to give it lots of context so it
+00:28:40.519 has been trained on so much data but
+00:28:41.960 it's it's not you it doesn't know your
+00:28:43.880 life the way you do or your business the
+00:28:45.720 way that you do or your problems so you
+00:28:47.600 got to describe it in Vivid detail
+00:28:49.600 people are just so used to Google being
+00:28:50.960 a short question this give it give it
+00:28:53.760 the give it the meat then there's
+00:28:55.840 assigning the rule so like you saying
+00:28:57.919 hey I want you to act as an AI
+00:28:59.840 strategist and a Storyteller and a this
+00:29:02.039 type of person you're combing through
+00:29:04.360 the 200 million books and collapsing it
+00:29:06.679 down to the data that's relevant that it
+00:29:09.159 will apply to your situation and then
+00:29:11.799 the fourth is asking it to interview you
+00:29:14.480 and the fact that you do this high five
+00:29:16.360 already for most people they have never
+00:29:19.080 thought of turning the tables and have
+00:29:20.640 ai interview them and the reason that's
+00:29:22.679 so powerful is it crushes the
+00:29:24.360 hallucination if you just say hey uh
+00:29:27.760 give me three solutions for this problem
+00:29:30.399 it's going to give you an average answer
+00:29:32.080 because it doesn't understand what's
+00:29:33.799 happening in your life but if you turn
+00:29:35.600 the tables and say start by asking me
+00:29:37.919 three questions ask them one at a time
+00:29:40.120 to gain deeper context then give me
+00:29:42.159 three solutions you're going to find
+00:29:44.200 that it's way way way tighter so when I
+00:29:47.120 structure prompts oftentimes it's in the
+00:29:49.159 format of describe the context assign a
+00:29:52.679 role ask it to interview me so it can
+00:29:54.720 accomplish a task and if you do those
+00:29:56.640 four things I mean you're going to be
+00:29:58.039 hit home runs mhm yeah I think the other
+00:30:00.760 area that people get caught up in is
+00:30:02.279 they keep trying to ask different
+00:30:04.159 questions within the same window and so
+00:30:06.640 they're like tell me how to make this
+00:30:08.519 recipe and they're like and now tell me
+00:30:10.720 how to do my marketing stack and it's
+00:30:12.679 like you probably want to open it pulls
+00:30:15.080 through yeah you want to switch threads
+00:30:17.000 okay so now I want to shift over we did
+00:30:19.200 the entrepreneurial world let's shift
+00:30:20.919 over to the world of marketing because
+00:30:23.399 that is one I'm in a lot I am constantly
+00:30:25.880 working with product marketing leaders
+00:30:27.640 Within Enterprise companies and so for
+00:30:30.279 someone like that if you were to just be
+00:30:32.840 teleported into their company and you're
+00:30:35.240 looking at all these processes trying to
+00:30:37.320 support product marketing efforts and
+00:30:39.679 getting the word out brand awareness
+00:30:41.480 bringing in clients how would you go
+00:30:43.600 about working with people like that and
+00:30:46.080 teams like that to get them thinking
+00:30:47.760 different well it starts with what are
+00:30:49.480 your goals and what are your biggest
+00:30:51.320 challenges to achieving your goals so
+00:30:54.360 you know I I I did a use case with a
+00:30:56.519 woman she has uh a line of really fine
+00:31:00.360 spiritual jewelry sells in super
+00:31:02.639 high-end stores they've done really well
+00:31:06.240 going through um the stores but their
+00:31:09.519 direct consumer is where they're most
+00:31:11.760 profitable but they're really struggling
+00:31:13.480 to scale it and so I said can we just
+00:31:15.480 look at your website and I don't even
+00:31:17.480 remember what the headline sub headline
+00:31:19.000 call to action was but it was it wasn't
+00:31:21.559 great and she was like yeah we really
+00:31:24.519 that's probably the thing we need to
+00:31:26.039 improve is just the the above the fold
+00:31:29.200 copy that hooks the right person and
+00:31:31.240 gets him to take the next step and I was
+00:31:33.240 like okay well what are you going to do
+00:31:34.279 and she like just starts coming up with
+00:31:35.600 some ideas but like eh they were eh I
+00:31:39.559 said okay let's let's try this and I
+00:31:42.600 again context roll interview
+00:31:46.880 task context this is our company here's
+00:31:49.799 our website we are custom highend
+00:31:51.559 jewelry and like I literally said tell
+00:31:52.960 me what I need to know about your
+00:31:53.960 company and she did and like I'm just
+00:31:55.919 transcribing every single word into
+00:31:58.559 chaty BT and then I assigned a role you
+00:32:01.480 are an expert copywriter with deep
+00:32:03.760 expertise in this customer segment I
+00:32:06.600 said describe your ICP to me and she's
+00:32:08.760 like well our ideal customer profile is
+00:32:10.639 and she started going through it and I
+00:32:12.039 said great okay so I typed all that in
+00:32:13.639 and that's their expertise interview Us
+00:32:17.360 by asking one question at a time up to
+00:32:19.440 five questions to gain the deeper
+00:32:21.639 context you need so that you could then
+00:32:24.200 come back and present five headline sub
+00:32:27.440 headline call to action
+00:32:29.639 combinations in a table format ranked in
+00:32:33.120 order of
+00:32:34.559 recommendation and it conducted this
+00:32:36.480 interview and it started asking her like
+00:32:38.799 you know what's unique about your
+00:32:39.919 jewelry and she starts talking about how
+00:32:41.440 she's traveled around the world and she
+00:32:43.480 has you know gone into these temples and
+00:32:45.559 taken these sacred objects and woven it
+00:32:47.840 into the pieces and literally everything
+00:32:50.039 she's saying I'm transcribing in and
+00:32:53.200 after five questions of those types of
+00:32:56.080 questions and me l literally typing in
+00:32:59.200 word for word what she was saying it
+00:33:01.639 came back and it's like okay here you go
+00:33:04.159 and the stuff that it
+00:33:06.480 presented was so compelling she actually
+00:33:09.080 started to
+00:33:10.200 cry no one had ever been able to
+00:33:14.399 articulate to put into words how she
+00:33:18.320 feels or how people feel when they wear
+00:33:21.919 the jewelry yeah that's powerful I think
+00:33:24.720 I also know this jewelry company I'm
+00:33:26.120 like o I won't say them but I think I
+00:33:27.360 know who they are
+00:33:28.799 wow that's powerful okay so coming up
+00:33:31.159 with marketing copy headline like to the
+00:33:33.559 point where it actually understands you
+00:33:35.600 that's one amazing use case then there's
+00:33:38.159 the data side yeah so I watched a guy I
+00:33:40.799 actually talk about him in the book I
+00:33:42.760 watched him do a use case this was a
+00:33:44.679 fictitious use case he made it up he
+00:33:46.600 said imagine that Disneyland called me
+00:33:49.600 and said we need you to come up with
+00:33:51.200 brief for a new theme park in Australia
+00:33:54.919 he had found 40,000
+00:33:58.200 Trip Advisor reviews of Disneyland he
+00:34:00.919 had ethically sourced the data he's like
+00:34:02.639 okay I've got this data I need to use
+00:34:04.840 this to come up with the jobs to be done
+00:34:07.360 analysis showing the top reasons the
+00:34:09.199 customers choose Disney and the top pain
+00:34:11.000 points they have when they choose Disney
+00:34:12.599 that we need to know about to come up
+00:34:14.480 with names for the theme park to do
+00:34:16.760 competitive positioning around other
+00:34:18.399 theme parks in Australia to do the full
+00:34:21.000 social media campaign with tweets
+00:34:23.960 Facebook posts images the whole nine
+00:34:26.040 yards and he goes if you you were a
+00:34:28.000 traditional agency how long would it
+00:34:29.760 take you to evaluate 40,000 reviews and
+00:34:34.040 put that data into all these different
+00:34:35.839 types of
+00:34:36.719 structures the answer is probably three
+00:34:38.679 to six months how much would you charge
+00:34:40.918 for that I don't know hundreds of
+00:34:42.879 thousands millions of dollars
+00:34:44.800 potentially I watched him in 13 minutes
+00:34:49.480 go start to finish with the whole thing
+00:34:52.399 starting with just pulling the CSV file
+00:34:55.119 into chat GPT and saying I need you to
+00:34:56.960 conduct a job to be done analysis
+00:34:58.920 outlining the top reasons people like
+00:35:01.480 Disneyland and the top reasons they
+00:35:03.079 don't based on this data and I mean it
+00:35:05.720 literally took it what two seconds to
+00:35:08.000 read 40,000 reviews and answer the
+00:35:12.079 question and based on that to then say
+00:35:14.440 great now based on this I want you to
+00:35:16.720 come up with five potential names for
+00:35:19.839 the theme park we chose Disney down
+00:35:21.760 under great based on this and combining
+00:35:24.359 that with the jobs to be done report I
+00:35:26.320 need you to come up with social media
+00:35:29.160 campaigns for this and then I watched
+00:35:30.640 them flip over to Adobe Firefly and say
+00:35:33.000 I want you to create an image of a
+00:35:35.040 kangaroo on a roller coaster but like it
+00:35:37.839 was done from a GoPro mhm and just
+00:35:40.680 generate this beautiful image and just
+00:35:43.240 realizing that you suddenly have so many
+00:35:46.000 tools at your fingertips to collapse the
+00:35:48.119 time it takes to get things done how do
+00:35:50.800 you I mean when thinking about these
+00:35:53.079 spaces like many people will come in and
+00:35:55.520 they will learn it many people will be
+00:35:57.000 using the same prompts how do you I'm
+00:35:59.599 always thinking like what's next like
+00:36:01.280 how do you get this how do you put
+00:36:03.800 yourself in a place where you can be
+00:36:06.280 having contrarian outputs or yes you
+00:36:09.359 know thought perspective shifting
+00:36:11.640 mindsets coming out of it like because
+00:36:12.960 to me right now everything is on a path
+00:36:14.960 to become the same of the same of the
+00:36:16.400 same correct because everyone's using
+00:36:18.079 these same prompts and then they all
+00:36:19.200 learn it and then they're all using the
+00:36:20.880 same copy and like how do you stand out
+00:36:23.720 in this crowd you wave the Baton as the
+00:36:25.920 conductor and ask it to challenge you
+00:36:28.480 mhm so I talk about certain personas in
+00:36:31.040 my book like I actually built an AI
+00:36:32.720 thought partner so it's an AI engine
+00:36:34.520 tuned on the book in like 10 pages of
+00:36:36.720 custom instructions in it I built a
+00:36:38.960 profile for the Challenger this person
+00:36:41.160 is designed to be the Devil's Advocate
+00:36:43.280 it's designed to ask you one question at
+00:36:45.119 a time to really pressure test your
+00:36:46.640 thinking so it will simply do whatever
+00:36:49.440 you ask if you ask it for ideas and you
+00:36:52.400 ask it to interview you it's just going
+00:36:53.800 to reflect back ideas you already have
+00:36:56.079 and I've watched people do where they go
+00:36:57.160 well I already thought of that I'm going
+00:36:58.640 well did you tell it to help you find
+00:37:00.880 things you hadn't thought of oh no okay
+00:37:03.400 here's a real use case I talk about this
+00:37:05.040 guy in the book his name is Wyatt Graves
+00:37:06.599 he's in a a program I have called the
+00:37:07.960 collective which is like this executive
+00:37:09.800 Network for AI driven leaders he he has
+00:37:12.560 historically built a very successful
+00:37:14.640 business flipping houses MH and so he
+00:37:17.520 did his strategic plan this time of year
+00:37:19.800 for next year on the goals that he
+00:37:22.200 wanted to achieve with his business in
+00:37:24.119 the context of a bigger vision for his
+00:37:26.440 life and I I said is your plan done he
+00:37:30.079 goes yes said have you used AI to
+00:37:33.599 bulletproof your plan he goes what do
+00:37:36.599 you mean I said okay here's what I want
+00:37:38.599 you to do I want you to copy and paste
+00:37:41.520 your strategic planner just drag the PDF
+00:37:43.680 or the file into chbt I then want you to
+00:37:47.040 tell it to act as an aggressive
+00:37:49.200 growth-minded board member with deep
+00:37:51.760 expertise in strategic planning but
+00:37:53.640 taking a contrarian View and really
+00:37:56.240 bulletproofing strategic plans to
+00:37:59.119 interview you by asking one question at
+00:38:01.480 a time to really pressure test your
+00:38:03.800 thinking around this are you thinking
+00:38:05.720 big enough are you thinking too small is
+00:38:08.000 your focus divided are there things
+00:38:09.640 you're not thinking about that you
+00:38:10.800 should be thinking about are there
+00:38:12.040 things you're thinking about that you
+00:38:13.079 shouldn't be thinking about is there an
+00:38:15.000 easier path to achieve greater results
+00:38:16.960 in a fraction of the time to conduct
+00:38:19.319 this interview and then to give you
+00:38:22.119 feedback on what you like about the plan
+00:38:24.240 what you don't like about the plan and
+00:38:25.599 the top changes you should make to the
+00:38:27.160 plan
+00:38:28.640 that was the prompt that's good and it
+00:38:31.119 started conducting an interview with him
+00:38:33.599 and when it gave the
+00:38:35.359 feedback this was amazing it said while
+00:38:38.359 your plan has the sufficiency to help
+00:38:40.440 you achieve your goals it will actually
+00:38:42.880 violate the personal lifestyle that you
+00:38:45.400 want to
+00:38:46.480 live instead of continuing to flip
+00:38:49.880 houses I actually suggest that you stop
+00:38:52.240 flipping houses alt
+00:38:54.400 together and instead focus on acquiring
+00:38:57.440 multi family real estate and the
+00:38:58.720 service-based businesses surrounding
+00:39:00.440 them and here's why Wow
+00:39:03.160 and that blew his mind because again he
+00:39:06.880 had been flipping houses and he wants to
+00:39:09.160 scale so therefore he should flip more
+00:39:10.720 houses he had never considered that
+00:39:12.599 maybe should I stop flipping houses and
+00:39:15.280 within the next 30 days based off that
+00:39:18.040 one prompt instead of getting another
+00:39:19.880 house under contract that would net him
+00:39:21.640 about $10,000 he got a building under
+00:39:24.520 contract that he instantly netted 1
+00:39:26.520 million
+00:39:27.920 dollar I'm go chat GPT off one yeah I
+00:39:32.520 had another one that was facilitating an
+00:39:35.000 offsite for a company here a little over
+00:39:37.880 a month ago this is a tech company they
+00:39:39.680 do about 150 million a year in Revenue
+00:39:41.720 but last year they missed their numbers
+00:39:43.440 and their Venture backed uh their board
+00:39:45.680 was not happy and the board basically
+00:39:48.240 said you don't get to miss again and
+00:39:51.200 this next year you have to grow Top Line
+00:39:53.760 by 30% that's a big number yeah that's
+00:39:57.480 taking them from 150 million to 195
+00:40:00.400 million Topline recognized in the next
+00:40:02.880 12 months and when I walked into the
+00:40:04.240 room the general consensus was it's
+00:40:07.800 impossible you know the CEO goes guys I
+00:40:11.240 hear you the goal is 30% growth and I
+00:40:14.520 looked at him I said sorry it's not he
+00:40:17.200 goes what are you talking about it has
+00:40:18.160 to be 30% growth I said no no no I'm not
+00:40:20.160 challenging that you have to deliver 30%
+00:40:22.079 growth but if you want to deliver 30%
+00:40:24.400 growth how often do plans go according
+00:40:25.960 to plan he said never I said that's why
+00:40:28.319 your goal needs to be 50% growth yep the
+00:40:30.960 plan has to have the sufficiency to get
+00:40:34.160 50% growth an incremental $75 million
+00:40:37.880 this year in order for things to go
+00:40:40.400 wrong for you to still hit 30 and then
+00:40:42.720 one guy goes well that's
+00:40:44.520 impossible and I looked at him I said it
+00:40:46.359 would be impossible unless what and he
+00:40:48.960 kind of sarcastically goes well we'd
+00:40:51.680 have to like make $20 million in revenue
+00:40:54.480 from products that don't even exist yet
+00:40:56.680 and I just turned to the Whiteboard and
+00:40:57.920 wrote it on the board what else would
+00:41:00.119 what it would be impossible unless what
+00:41:02.200 and they started going through all these
+00:41:03.880 things and then we took a they looked it
+00:41:05.599 on the board they went huh okay now
+00:41:08.839 let's dive in and let's make this real
+00:41:11.040 what could we do to drive $20 million in
+00:41:13.680 the next 12 months recognized from
+00:41:15.520 products that don't even exist and now
+00:41:17.119 they got their sticky notes out and
+00:41:18.440 their Sharpies and all this stuff and
+00:41:19.760 they're all over the place and when we
+00:41:21.920 added it all up best case scenario was
+00:41:23.720 only going to add up to 12 million M
+00:41:26.240 which really means there's six because
+00:41:27.960 plans don't go according to plan and the
+00:41:30.280 CEO is like man I guess we have to lower
+00:41:32.960 the goal and I
+00:41:35.400 said this is when I brought AI in and I
+00:41:38.400 literally opened chat gbt I copied and
+00:41:40.720 pasted the Strategic plan we had built
+00:41:42.280 so far I then gave it a ton of context I
+00:41:45.280 said this is the company this is the
+00:41:47.400 historical product Suite these are the
+00:41:48.880 problems it solved this is the
+00:41:50.240 competition this is what differentiates
+00:41:51.920 us here's what we believe our skills are
+00:41:53.839 like tons of context your job is to act
+00:41:56.319 as an aggressive growth minded board
+00:41:57.720 member with deep expertise in our
+00:41:59.280 industry interview Us by asking one
+00:42:01.520 question at a time up to five questions
+00:42:03.440 to gain deeper context I then want you
+00:42:05.440 to generate 10 nonobvious product
+00:42:08.640 combinations that could sufficiently
+00:42:10.640 drive at least $20 million in Revenue in
+00:42:12.839 the next 12 months recognized that's
+00:42:15.280 good I love the non-obvious that's the
+00:42:16.920 key right there I'm not asking for
+00:42:18.160 obvious Solutions I'm asking for
+00:42:19.559 non-obvious Solutions and this it did an
+00:42:22.440 interview and the stuff it came back
+00:42:23.760 with just blew people's minds cuz there
+00:42:25.880 were some really simple things they
+00:42:27.400 hadn't thought about like they had a
+00:42:29.280 bunch of different products they had
+00:42:30.240 never thought about bundling them and
+00:42:32.480 creating a different price point simple
+00:42:34.839 things that we didn't even require much
+00:42:36.559 effort other than maybe changing the
+00:42:38.800 skew that could make a material impact
+00:42:41.680 to the bottom line in the next 12 months
+00:42:43.760 wow impressive I love that I love these
+00:42:45.839 stories it's helpful to yeah see how to
+00:42:47.800 maybe like map this back to what I'm
+00:42:49.920 doing and I'm sure listeners as well
+00:42:51.599 let's let's pause on this though for for
+00:42:53.880 you who's listening to this if you've
+00:42:56.079 been using AI first and foremost awesome
+00:42:59.079 job you started you're probably hearing
+00:43:01.800 these stories and
+00:43:03.440 thinking oh crap I've been using it for
+00:43:07.480 tactical things when I have an
+00:43:09.160 opportunity to use it for strategic
+00:43:11.440 things so this is just the next level
+00:43:13.680 for
+00:43:15.240 you so good so let's talk about your
+00:43:17.800 book a bit you wrote this when was it
+00:43:21.160 over five months this year okay so five
+00:43:23.240 months A lot changes oh like especially
+00:43:26.839 with this this kind of book in this kind
+00:43:28.240 of space What are you now wanting where
+00:43:31.599 you're like I need to update this or
+00:43:33.359 like what are the things that you wish
+00:43:34.559 you could include right now today so one
+00:43:38.559 I didn't put anything in the book that I
+00:43:40.800 thought would be timely and could become
+00:43:42.559 outdated okay so I don't even recommend
+00:43:44.760 what AI tools because I knew it was
+00:43:46.520 going to change so much I say instead go
+00:43:47.800 to AI leadership.com I focused very much
+00:43:51.240 on what is timeless which is the
+00:43:53.000 leadership side so while the title is
+00:43:55.440 the AI driven leader it's actually a Le
+00:43:57.119 leadership book about who you have to
+00:43:58.760 become as a leader to harness AI to
+00:44:01.240 accelerate growth and build a career
+00:44:02.680 Advantage most of it's not out of date
+00:44:05.319 the but I did very purposely
+00:44:07.440 self-publish because I wanted to treat
+00:44:09.200 it like software so between print runs I
+00:44:12.079 am finding like little typos or I'm
+00:44:14.280 finding ways I can enhance the prompts
+00:44:16.960 uh so I am making little micro
+00:44:19.200 adjustments just to fine tunea more and
+00:44:21.440 more I love it so good okay so I want to
+00:44:24.160 shift over now to a lightning round to
+00:44:26.800 close out this episode today the
+00:44:29.079 lightning round is where I'm going to
+00:44:30.119 throw a question your way and you have a
+00:44:31.680 minute or less to answer are you ready
+00:44:34.359 Bor ready okay first question who was
+00:44:37.280 the most impactful Mentor that really
+00:44:39.839 shifted the course of your life Jay
+00:44:42.319 pazan my so he was my partner with Gary
+00:44:45.160 Keller okay Gary taught me gave me the
+00:44:47.079 gift of thinking bigger but Jay's the
+00:44:49.079 one that really taught me how to think
+00:44:51.680 he shifted me out of the industrial
+00:44:53.839 mindset and taught me what it really
+00:44:55.760 feels like to own a 100% of your job
+00:44:58.240 which also includes thinking leverage
+00:45:00.880 meaning I could never go to him with a
+00:45:02.280 question without first and foremost
+00:45:03.720 thinking it through and walking in with
+00:45:05.359 my plan and then him challenging the
+00:45:08.200 plan that's good okay shout out to him
+00:45:11.040 uh what is a book that is not in the a
+00:45:13.160 high space that you recommend everyone
+00:45:15.079 read the one thing yeah changed my life
+00:45:17.440 I mean we all have too much to do in not
+00:45:19.200 enough time but if you really start to
+00:45:21.559 understand that there is one thing you
+00:45:22.920 can do such that by doing it everything
+00:45:25.640 else is easier or un necessary and you
+00:45:28.119 focus on that one thing you'll live an
+00:45:29.960 extraordinary life good what is a weird
+00:45:33.760 skill you have or hobby or something
+00:45:35.880 that you know helps with everything else
+00:45:37.760 you do in
+00:45:40.240 life oh man weird hobby your skill okay
+00:45:44.599 yeah it has to be weird it can't be
+00:45:45.680 normal be like oh I snowboarded I used
+00:45:47.800 to be a professional hip-hop dancer wow
+00:45:50.280 for real um and I was also a double
+00:45:52.359 black belt so if you combine Dance plus
+00:45:55.800 martial arts you also get jump roping I
+00:45:59.359 am a crazy jump roper like you go look
+00:46:02.960 at boxers doing crazy stuff that's me in
+00:46:05.240 the gym wow so um let's just say when I
+00:46:08.720 do speaking I'm very performative oh I
+00:46:11.200 love that that's good I'm sure your kids
+00:46:12.680 like love that oh man I think Dad's the
+00:46:14.520 best what was so cool was like I'll I'll
+00:46:17.200 be doing jump ring and then they wanted
+00:46:18.920 their own little jump ropes like my kids
+00:46:20.680 when they were like two or three were
+00:46:22.040 like doing side swings where they're
+00:46:23.359 swinging the rope from side to side and
+00:46:25.119 just out there jumping with Daddy really
+00:46:27.040 fun oh so cute uh what is something that
+00:46:29.960 you believe right now that you're
+00:46:31.599 getting pushed back on people don't
+00:46:32.960 agree with you on I will get push back
+00:46:36.079 from some people on the idea that AI
+00:46:39.480 will not replace you it will enhance you
+00:46:42.559 those people though are not practice
+00:46:45.359 leaders of the
+00:46:46.680 technology once they actually go through
+00:46:49.480 a workshop or read the book and and
+00:46:51.920 experience how to communicate with it to
+00:46:53.960 help them do what they're already doing
+00:46:56.440 faster
+00:46:57.480 and better I think that's when they
+00:46:59.359 start to realize what the tool is and
+00:47:01.400 what it is not and my my biggest aha is
+00:47:05.280 um you are you not what you do AI can
+00:47:09.800 replace a lot of what you do but it will
+00:47:12.240 enhance who you are well Jeff thank you
+00:47:15.720 for coming into studio today and coming
+00:47:18.480 on Mission daily where can people learn
+00:47:20.119 more about your work and your book and
+00:47:22.119 anything else so the book the AI driven
+00:47:23.520 leader it's on Amazon hard cover Kindle
+00:47:26.160 Audi book it's actually me reading it so
+00:47:27.839 I get to whisper sweet nothings to you
+00:47:29.480 while you go to sleep amazing uh the
+00:47:31.079 website is ail leadership.com and I do
+00:47:33.599 have a podcast at least a trailer up
+00:47:35.280 right now for the AI driven leader so
+00:47:36.839 more will be coming next year on that
+00:47:38.440 awesome thank you so much

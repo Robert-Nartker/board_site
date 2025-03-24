@@ -1,0 +1,348 @@
+# tactiq.io free youtube transcript
+# 2024 outlook: CPA.com CEO Erik Asgeirsson and AICPA CEO Barry Melancon
+# https://www.youtube.com/watch/-oWmPN6hIeI
+
+00:00:00.520 hi I'm Eric alerson the CEO of cpa.com
+00:00:02.800 and I'm with Barry malanson the CEO of
+00:00:04.560 the aicpa and we're kicking off 2024
+00:00:08.119 it's early January bar great to be with
+00:00:10.440 you happy New Year Happy New Year to you
+00:00:12.400 Eric and you know it's gonna be an
+00:00:14.320 exciting year as we get into an election
+00:00:16.359 cycle and a lot of uncertainty but 2023
+00:00:19.560 was a lot better than a lot of people
+00:00:20.640 thought at the same time absolutely I
+00:00:22.359 mean 2023 for firms really did turn out
+00:00:26.000 much better than many of the firms were
+00:00:27.640 thinking about in January of 23 we
+00:00:29.199 thought a recession potentially was
+00:00:30.560 coming a lot of concerns related to
+00:00:33.520 inflation um now looking back I'm
+00:00:37.399 hearing from some firms who was another
+00:00:39.399 year where they really had you know high
+00:00:42.200 growth and high profit and really helped
+00:00:46.000 navigate you know some of the
+00:00:47.840 complexities of 2023 rather well with
+00:00:49.800 their clients it actually goes to the
+00:00:51.360 important role of the profession and
+00:00:52.719 that's the reason why you can make the
+00:00:54.160 statements that you just made or people
+00:00:55.600 were making that statement to you is
+00:00:57.520 that the complexity of the world um High
+00:01:00.600 degree of uncertainty the opportunities
+00:01:02.800 that are out there things like AI that
+00:01:04.640 are in the system the value of that
+00:01:07.080 relationship on a public accounting
+00:01:08.880 standpoint to their client and on a
+00:01:10.560 corporate perspective or government
+00:01:12.640 perspective where the CPA is working in
+00:01:14.840 the entity the value of that
+00:01:16.840 relationship from a business partnering
+00:01:18.799 perspective and guidance is is you know
+00:01:22.680 aligned with the complexity and
+00:01:25.159 opportunities of the world and that's
+00:01:26.759 why I think 2023 ended up being the way
+00:01:30.040 just described it well Barett we're here
+00:01:31.680 with a group of firm leaders to kick off
+00:01:33.759 the year we just got an update from an
+00:01:35.880 economist it looks like the conditions
+00:01:38.799 are going to get better in 24 that you
+00:01:41.000 know interest rates have peaked so
+00:01:43.439 potentially cuts by the FED as we move
+00:01:46.680 through 24 that's going to be a more
+00:01:48.759 positive environment uh for
+00:01:51.240 m&a uh so overall a lot of positive
+00:01:54.479 signals people feel like the talent
+00:01:56.280 issue uh is looking a little bit better
+00:01:58.520 in in 24 as well
+00:02:00.719 yeah that is true and I think you got to
+00:02:02.759 add you got to talk a little bit about
+00:02:03.960 employment in that and so we've
+00:02:05.479 certainly seen coming out of 2023 a lot
+00:02:07.560 of announcements by businesses doing
+00:02:10.000 layoffs Etc but still with that there's
+00:02:13.160 very strong employment numbers and very
+00:02:15.760 large job unfilled job numbers and so
+00:02:19.040 the employment situation is still strong
+00:02:22.120 uh the stabilization and the interest
+00:02:23.599 rates has a positive effect on the home
+00:02:26.400 or the residential uh construction and
+00:02:28.879 residential Sal process which is a big
+00:02:31.319 fueler to the economy uh and I I think
+00:02:34.239 that points in that direction um and
+00:02:37.040 clearly um this is sort of a little bit
+00:02:39.720 of a negative but uh because of our
+00:02:43.000 financial situation and some of the
+00:02:44.519 deficits the strength of the dollar has
+00:02:46.879 has been reduced a bit and so that that
+00:02:49.680 actually creates a different import
+00:02:51.800 export equation which actually probably
+00:02:53.920 helps our economy as well uh in the
+00:02:56.319 short term so yeah those things point to
+00:02:58.440 I think a positive yeah have to offset
+00:03:00.319 it a bit with some of the uncertainties
+00:03:01.800 in the world like like the conflicts
+00:03:04.400 Wars that are out there elections here
+00:03:07.000 elections in the you in the EU now a lot
+00:03:10.400 of economists say that you know those
+00:03:12.040 elections don't have as much of an
+00:03:13.360 impact um it sort of depends probably
+00:03:15.720 what sector you're in well one thing we
+00:03:17.720 talked a lot about in 23 was complexity
+00:03:20.120 Barry you and I we were on the bi-weekly
+00:03:23.560 aicpa Town Hall uh a few new acronyms
+00:03:27.080 came out um Boi benefit official
+00:03:30.040 ownership
+00:03:31.080 information an old acronym continued to
+00:03:33.640 be in place ERC so a lot of complexity
+00:03:37.159 that the new complexity that the firms
+00:03:39.120 need to uh support their clients uh with
+00:03:42.680 those are things that we're actively
+00:03:44.080 working with ASB advocacy team uh on and
+00:03:47.799 the firm team on trying to get better
+00:03:49.920 information so how how do you how do you
+00:03:52.959 see all of that shaping out yeah so so
+00:03:55.439 Boi beneficial ownership information is
+00:03:57.519 tied to a global commitment to
+00:03:59.720 anti-money laundering which is the best
+00:04:02.040 intentions but it adds complexity to the
+00:04:04.159 system I think it's a very important
+00:04:06.000 role for the profession to be engaged
+00:04:07.560 with that it's really targeted to small
+00:04:09.519 businesses and uh really sort of a
+00:04:12.000 compliance a new compliance Point uh ERC
+00:04:15.040 was a Remnant from you know covid years
+00:04:18.358 government support probably went too
+00:04:20.519 long it was ripe with some abuses that
+00:04:23.199 we certainly were very concerned about
+00:04:24.840 in the system the IRS and the Government
+00:04:27.320 tried to close some of those and there's
+00:04:29.280 a link ing effect of how they work out
+00:04:31.199 of some of those abuses or potential
+00:04:33.160 abuses that were in the system so I
+00:04:35.479 think all of those things add to it I
+00:04:37.160 would add to your list though just
+00:04:39.160 general tax situations I think we'll
+00:04:41.120 continue to see um challenges in the
+00:04:43.600 state tax structures as how state
+00:04:45.960 government looks to you know sought a
+00:04:48.199 plug in they've had a lot of movement
+00:04:50.039 with with covid money that now has been
+00:04:51.720 spent how do they how do they deal with
+00:04:53.440 those gaps you certainly have things
+00:04:55.800 that expired in our tax system um that
+00:04:59.360 did didn't get reenacted because
+00:05:00.960 Congress wasn't able to act things we
+00:05:03.000 got the potential for a government
+00:05:04.320 shutdown that could linger and cause
+00:05:06.080 some things so there are part there are
+00:05:08.880 Parts moving in each Direction um but I
+00:05:12.080 would say that uh you know the the need
+00:05:14.479 for the profession to be on the top of
+00:05:16.240 its game as it relates to all of these
+00:05:18.039 is going to be what clients expect
+00:05:20.160 absolutely well one thing that we're all
+00:05:23.199 we're going to continue to leverage to
+00:05:24.440 kind of solve a lot of these issues is
+00:05:26.039 technology in
+00:05:27.880 2023 was all about the introduction of
+00:05:30.720 generative AI we we put together a lot
+00:05:32.800 of initiatives we put together a toolkit
+00:05:35.280 uh to help explain you know a little bit
+00:05:38.080 about you know how generative AI
+00:05:40.720 functions and more importantly you know
+00:05:43.639 what are some of the use case
+00:05:45.759 opportunities and I really think that
+00:05:48.280 2024 is all going to be about how do you
+00:05:52.080 leverage generative AI to advance your
+00:05:54.840 business to advance your services uh
+00:05:57.160 that you're providing to your clients
+00:05:58.440 and many of your clients ients are going
+00:05:59.880 to be leveraging uh gen geni to advance
+00:06:03.440 their their business value proposition
+00:06:05.360 so you know always when a new technology
+00:06:07.319 comes out people want to understand the
+00:06:09.319 fundamentals of that technology you know
+00:06:11.319 talk about large language models and how
+00:06:13.160 it works and then it moves to okay what
+00:06:16.000 is the use and the impact of this
+00:06:18.280 technology but one thing that we do feel
+00:06:20.919 is that the generative AI movement is
+00:06:23.520 very very significant it's almost as big
+00:06:26.080 as you know when the internet came of
+00:06:28.360 age and cloud computing came of age and
+00:06:30.599 really transform firm Services yeah I
+00:06:32.599 think if you look at the last 50 years
+00:06:34.120 and the impact on our profession from a
+00:06:35.720 technology perspective so I would put
+00:06:37.720 three markers down one is the PC with
+00:06:40.199 all of the the capabilities of things
+00:06:42.720 like uh spreadsheets and all those
+00:06:44.680 functionalities that occurred
+00:06:45.720 essentially in the early 80s certainly
+00:06:47.680 you had the period of the of the
+00:06:49.639 internet and weave that in with cloud
+00:06:52.479 computing with shared data and
+00:06:53.880 information pretty significant changes
+00:06:55.720 there and now of course generative AI
+00:06:57.680 totally agree it's not it's not about
+00:06:59.440 about each and every one of us
+00:07:01.080 understanding what you know uh how
+00:07:03.319 generative AI works or or or large
+00:07:05.599 language models work you know a sense of
+00:07:08.120 that for cocktail talk is probably
+00:07:10.280 important but but I think the real
+00:07:12.479 substance is is the application cpa.com
+00:07:14.800 has produce five different examples
+00:07:17.639 particularly for smaller firms and
+00:07:19.560 midsize firms that to think about it
+00:07:21.240 from that standpoint and that's going to
+00:07:23.160 continue to build with those types of
+00:07:24.840 applications going to continue to build
+00:07:26.840 the uses of it it will have some pretty
+00:07:29.560 significant Trend issues inside our
+00:07:32.120 profession I could speak for hours about
+00:07:34.400 how it changes the expectations from an
+00:07:36.360 entry point in the profession how we
+00:07:37.960 might think about people progressing in
+00:07:39.840 the profession what types of services
+00:07:42.039 and how they evolve in that space But I
+00:07:45.000 I think the most important point is our
+00:07:47.759 profession sometimes get stigmatized
+00:07:50.120 with not being on the Leading Edge of
+00:07:51.680 these issues but the reality is if you
+00:07:53.520 go back into the those three points that
+00:07:55.680 I just made we are really really really
+00:07:59.400 great at being early adopters and using
+00:08:01.639 think about tax software where the
+00:08:03.400 profession you know went very quickly
+00:08:05.599 from paper and pencil tax returns to
+00:08:08.560 software and we're going to be a
+00:08:10.599 profession that adapts in this process
+00:08:12.560 very well and that's going to produce a
+00:08:14.240 lot of opportunity and it's going to
+00:08:16.800 produce a lot of capability inside of
+00:08:18.879 our profession for their emplo CPA
+00:08:21.000 employers and CPA clients to really turn
+00:08:24.039 to us to help sort sort through some of
+00:08:26.400 this well one thing about generative AI
+00:08:28.520 it's all about The Source data if you
+00:08:30.639 think the source data if you're doing
+00:08:31.960 accounting services if you're providing
+00:08:34.279 you know tax information tax planning
+00:08:37.039 it's really well suited to help um
+00:08:41.039 enable the practitioner to better
+00:08:44.120 understand what the best uh you know
+00:08:46.279 strategy should be for their client and
+00:08:48.040 I think that's that's what we're going
+00:08:49.440 to see we're going to see the leveraging
+00:08:51.279 of these gen models on different sets of
+00:08:54.200 source data in the profession one thing
+00:08:56.480 that Barry we're having at the end of
+00:08:57.920 this month January is we're going to
+00:08:59.920 have an A A generative AI Symposium in
+00:09:02.560 New York we're bringing the leaders from
+00:09:04.839 the firms leaders from technology
+00:09:06.920 companies leaders and The Regulators all
+00:09:08.880 together to kind of discuss you know
+00:09:11.279 where this movement's going always in
+00:09:13.200 the early stages what we try to do is to
+00:09:15.640 help frame it um understand it from The
+00:09:18.240 Firm perspective understand it from the
+00:09:20.279 ecosystem the technology company's
+00:09:22.800 perspective is they're a key enabler for
+00:09:24.800 us as well as the regulators and we've
+00:09:27.000 done the same thing in the past on
+00:09:28.519 topics such as
+00:09:30.040 cryptocurrencies and ESG and Cloud
+00:09:33.560 implications which tied into Cash
+00:09:35.560 services and now of course uh Ai and um
+00:09:39.480 I think that's a very important part
+00:09:40.880 it's about the profession evolving with
+00:09:43.440 each of these sort of trends that are
+00:09:45.720 occurring generative AI is going to be
+00:09:48.000 on the top of the speed on that I think
+00:09:50.160 it's clearly moving as a technology much
+00:09:52.279 quicker than some of other Technologies
+00:09:54.399 it will have some some very significant
+00:09:56.760 applications as we just said and
+00:09:58.200 implications to the profession but most
+00:10:00.440 of that is going to be on the
+00:10:01.560 opportunity side so just to conclude
+00:10:03.720 here Barry you know with what we opened
+00:10:06.480 with talking about the environment
+00:10:07.760 talking about complexity talking about
+00:10:10.079 technology what it really all comes down
+00:10:12.360 to is the evolution of the services that
+00:10:15.079 firms are providing as well as you know
+00:10:18.519 delivering on that trusted advisor role
+00:10:20.480 we're gonna we're very excited about
+00:10:22.480 where we see client advisory Services
+00:10:24.760 evolving to you know leveraging the it's
+00:10:27.120 been leveraging the cloud for a decade
+00:10:28.880 now it's going to start leveraging
+00:10:29.959 generative AI very you know significant
+00:10:33.200 initiative underway around audit
+00:10:35.320 transformation the dynamic audit
+00:10:37.200 solution uh we're moving that into a
+00:10:39.279 commercial phase right now having some
+00:10:41.639 really very powerful discussions with
+00:10:43.519 firms here at this meeting about their
+00:10:45.800 their utilization of that and then all
+00:10:48.880 of this really just comes back to you
+00:10:50.800 know driving more client value through
+00:10:52.240 the trusted advisor role yeah there's no
+00:10:54.639 doubt about that you know a few years
+00:10:56.440 before covid in a lot of my
+00:10:58.040 presentations I would I would use the
+00:10:59.760 phrase and say that we won't recognize
+00:11:01.959 the firm in five years we won't
+00:11:03.360 recognize the firm now I'd always add
+00:11:05.360 and say but the reality is if you look
+00:11:07.279 five years back from that point you
+00:11:08.880 didn't really recognize firms as well
+00:11:11.160 and I think what you just described is
+00:11:13.040 true in that in that environment as well
+00:11:15.240 as we move forward to the next three to
+00:11:17.399 five years the substantive amount of
+00:11:19.480 change in business and in firms is going
+00:11:21.320 to make it where we don't feel like we
+00:11:23.519 recognize the firms in five years from
+00:11:25.480 now because of the things we're dealing
+00:11:27.040 with in 2024 and tied to your trusted
+00:11:30.040 advisor point when you think about
+00:11:32.360 working with a client or an employer um
+00:11:35.600 that trusted advisor role is maybe the
+00:11:37.720 hardest it's ever been yeah because of
+00:11:39.560 the uncertainty in the in the
+00:11:41.000 environment as as a whole tied with
+00:11:43.560 these rapid changes in technology so
+00:11:46.399 while people expect that trusted advisor
+00:11:48.480 role for us which is wonderful it also
+00:11:50.920 puts a greater burden on each of us
+00:11:52.760 individually to be current and to really
+00:11:55.160 be the best we can be and and maybe this
+00:11:58.600 is the most most important point to to
+00:12:01.920 have the confidence in a trusted advisor
+00:12:03.720 role to be able to deal with a degree of
+00:12:06.040 uncertainty because we're certainly
+00:12:07.519 going to be in a year of uncertainty
+00:12:09.279 well Barry one thing that we do every
+00:12:11.000 every two weeks is we try to stay
+00:12:13.160 current with with the town halls and we
+00:12:16.680 we try to manage uncertainty so what I
+00:12:19.680 would just you know encourage people is
+00:12:21.360 to join us on those Town Halls we we
+00:12:24.120 appreciate the dialogue great kind of
+00:12:26.160 connecting uh with you here today and
+00:12:28.880 looking forward to a good 2024 thank you
+00:12:30.760 Eric look forward to working with you
+00:12:32.000 and I'm usually on those Town Halls
+00:12:33.880 about once a month and then we have a
+00:12:35.199 whole bunch of other people in different
+00:12:37.160 areas and uh uh it's uh every
+00:12:40.240 essentially every other Thursday twice a
+00:12:42.760 month and uh it's a real way to keep in
+00:12:46.160 on top of all the current events okay
+00:12:48.279 thanks
+00:12:54.120 Barry

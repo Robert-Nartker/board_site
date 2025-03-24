@@ -1,0 +1,1191 @@
+# tactiq.io free youtube transcript
+# Sam Altman talks GPT-4o and Predicts the Future of AI
+# https://www.youtube.com/watch/fMtbrKhXMWc
+
+00:00:00.040 we've had like the idea of voice control
+00:00:01.680 computers for a long time they've never
+00:00:03.439 to me felt natural to use and this one
+00:00:06.200 the fluidity the pliability whatever you
+00:00:08.519 want to call it I just can't believe how
+00:00:10.200 much I love using it welcome to Logan
+00:00:12.080 barlet show on this episode what you're
+00:00:13.440 going to hear is a conversation I have
+00:00:14.719 with co-founder and CEO of open AI Sam
+00:00:17.279 Alman now if this is your first time
+00:00:19.039 listening to the Logan Bartlett show
+00:00:20.640 this is a podcast where I discuss with
+00:00:22.320 leaders and Technology as well as
+00:00:24.199 investors some of the lessons that
+00:00:25.519 they've learned in operating or
+00:00:27.039 investing in businesses mostly in the
+00:00:29.000 technology field this discussion with
+00:00:30.679 Sam is a little bit different in which I
+00:00:32.479 pushed on a number of things related to
+00:00:33.960 artificial intelligence as well as where
+00:00:36.000 open AI is headed given how topical it
+00:00:38.280 is in the news and Sam's perspective on
+00:00:40.520 such a leading Frontier that is
+00:00:42.200 artificial intelligence you'll hear that
+00:00:43.879 discussion with Sam here
+00:00:47.120 now thanks for doing this yeah of course
+00:00:49.840 all right I want to start off easy uh
+00:00:51.680 what's the weirdest thing that's changed
+00:00:54.760 in your life in the last four or five
+00:00:57.239 years runting open AI like what's the
+00:00:59.440 most usual shift that's happened um I
+00:01:03.359 mean quite a lot of things but the sort
+00:01:05.880 of inability to just be like
+00:01:08.680 mostly Anonymous in public is very very
+00:01:11.759 strange I I think if I had thought about
+00:01:13.920 that ahead of time I would have said
+00:01:15.159 okay this is like a weirder this would
+00:01:16.640 be a weirder thing than it sounds like
+00:01:18.799 um but I didn't really think about it
+00:01:19.960 it's like a much weirder thing it's like
+00:01:22.040 a strangely isolating way to live you
+00:01:24.439 believed in Ai and the power of the
+00:01:27.439 business so did you just not think
+00:01:28.759 through the derivative implication of
+00:01:30.280 running something that I didn't think
+00:01:33.520 there were all these other things like
+00:01:34.880 oh is going to be like really important
+00:01:36.680 be really important company I didn't
+00:01:38.479 think I would like not be able to like
+00:01:39.880 go out to dinner yeah in my in my own
+00:01:42.520 City that's weird that's weird uh you
+00:01:44.960 made an announcement earlier today we
+00:01:46.479 did multimodal 40 yeah it's the Omega
+00:01:50.680 sign right the oh just the like oh like
+00:01:53.040 Omni yeah Omni okay sorry uh it works
+00:01:55.640 across text voice Vision um can you
+00:01:58.200 speak to why this is important um
+00:02:02.000 because I think it's like an incredible
+00:02:04.840 way to use computer this fact this I
+00:02:08.679 we've had like
+00:02:09.840 voice the idea of like voice controll
+00:02:12.120 computers for a long time you know we
+00:02:13.920 had Siri and we had things before that
+00:02:16.720 they've never to me felt natural to use
+00:02:20.239 and this one many different reasons what
+00:02:23.040 it can do the speed adding in other
+00:02:26.239 modalities the inflection the
+00:02:29.319 naturalness the fact that you can do
+00:02:31.160 things like say hey talk faster or talk
+00:02:33.480 in this other voice and that it's that
+00:02:35.560 that
+00:02:37.319 the the fluidity the pliability whatever
+00:02:40.560 you want to call it uh I just can't
+00:02:43.640 believe how much I love using it yeah
+00:02:45.239 Spike Johns would be broud it's are
+00:02:47.760 there use cases that you've gravitated
+00:02:50.040 to well I've only had it for like a week
+00:02:52.560 or something um but one surprising one
+00:02:56.800 is putting my phone on the table while
+00:02:59.840 while I'm like really in the zone of
+00:03:01.560 working and then without having to like
+00:03:03.920 change Windows or change what I'm doing
+00:03:05.640 using it as like another channel so I'm
+00:03:08.040 like working on something I would
+00:03:09.120 normally like stop what I'm doing switch
+00:03:11.440 to another tab Google something click
+00:03:13.680 around or whatever but while I'm like
+00:03:15.519 still doing it to just ask and get like
+00:03:17.480 an instant response without changing
+00:03:19.959 from what I was looking at on my
+00:03:21.000 computer that's been a surprisingly cool
+00:03:22.680 thing what actually made this possible
+00:03:25.200 was it an architectural shift or more
+00:03:28.519 compute I mean it was like
+00:03:30.319 all of the things that we've learned
+00:03:32.439 over the last several years we've been
+00:03:34.519 working on Audio models we've been
+00:03:36.280 working on visual models we've been
+00:03:38.400 working on tying them together we've
+00:03:40.280 been working on more efficient ways to
+00:03:42.159 train our models um it's not like okay
+00:03:45.480 we unlock this one crazy new thing all
+00:03:48.680 at once but it was putting a lot of
+00:03:49.920 pieces together do you think you need to
+00:03:52.000 develop like an on device model to
+00:03:54.159 decrease latency to the point for
+00:03:56.720 usability uh for video maybe it would be
+00:04:01.000 hard to deal with network latency at
+00:04:03.000 some point like like that the the a
+00:04:04.760 thing that I've always thought would be
+00:04:05.920 super amazing is to put on someday a
+00:04:08.239 pair of AR goggles or whatever and just
+00:04:11.200 like speak the world in real time and
+00:04:12.760 watch things change and that might get
+00:04:14.400 harder over Network latency but for this
+00:04:18.160 uh you know two 300 milliseconds of
+00:04:21.600 latency feels super like feels faster
+00:04:24.800 than a human responding to me in many
+00:04:26.680 many cases is is video in this case
+00:04:29.199 images oh sorry I meant video if you
+00:04:31.320 wanted like generated video not pro not
+00:04:34.039 not input video got it got it so so
+00:04:36.039 currently it's working with actual video
+00:04:38.479 as is well like frame by frame of the
+00:04:40.280 frame by frame so okay got um you led
+00:04:43.080 recently to uh chat GPT maybe not being
+00:04:48.000 there the next big launch not being GPT
+00:04:50.280 5 it feels like there's been sort of an
+00:04:53.440 iterative approach to model development
+00:04:56.240 that you guys have have taken is it fair
+00:04:58.960 to say that's how we should think about
+00:05:01.320 it going forward that it's not going to
+00:05:02.440 be some big launch here's chat GPT 5 but
+00:05:05.440 instead we honestly don't know yet uh I
+00:05:08.440 I think that definitely one thing I've
+00:05:10.639 learned is that Ai and surprise do not
+00:05:12.560 go well together and although you know
+00:05:15.400 the traditional way a tech company
+00:05:16.639 launches products we should probably do
+00:05:18.280 something different now we could still
+00:05:20.039 call it gp5 and launch it in a different
+00:05:22.360 way or we could call it something
+00:05:25.000 different um but I don't think we
+00:05:27.840 figured out how to do the naming a brand
+00:05:29.919 for these things yet like it made sense
+00:05:33.400 to me from like gpt1 to GPT 4 at the
+00:05:36.680 launch now obviously gp4 has continued
+00:05:39.880 to get much better we also have this
+00:05:42.440 idea that there's going to be like you
+00:05:44.360 know maybe there's like one underlying
+00:05:46.199 kind of
+00:05:47.759 like virtual brain and it can like think
+00:05:50.400 harder in some cases than others uh or
+00:05:52.960 maybe it's different models but maybe
+00:05:54.720 the user doesn't care if they're
+00:05:55.759 different or not so I don't think we
+00:05:57.360 know the answer to how we're going to
+00:05:59.120 like product Market all of this yet does
+00:06:01.240 that mean maybe that the the uh the
+00:06:04.039 needs of the compute to make incremental
+00:06:07.360 progress on models might be less than
+00:06:09.479 what it's been historically I sort of
+00:06:12.039 think we'll always use as much compute
+00:06:14.479 as we get now we are finding incredible
+00:06:16.520 efficiency gains and that's really
+00:06:18.080 important one of the you know the cool
+00:06:20.199 the cool thing that we launched today is
+00:06:21.520 obviously the voice mode but maybe the
+00:06:23.680 most important thing is we were able to
+00:06:24.919 make this so
+00:06:27.280 efficient that we're able to serve it to
+00:06:29.599 free users like best model in the world
+00:06:32.759 by a good amount if you go look at that
+00:06:34.120 little thing served to uh like anybody
+00:06:37.599 who wants to download chat GPT for free
+00:06:39.800 and it was a remarkable efficiency game
+00:06:41.840 over gp4 and gp4 turbo and we have a lot
+00:06:44.240 more to gain there I've heard you say
+00:06:45.680 that chat GPT didn't actually change the
+00:06:48.599 world in and of itself but maybe just
+00:06:50.840 changed people's expectations for the
+00:06:54.160 world yeah like I don't think you can
+00:06:57.000 find much evidence in the economic
+00:07:00.039 measurement of your choice that chat gbt
+00:07:01.759 really inflected productivity or
+00:07:03.520 whatever maybe customer support maybe
+00:07:05.280 some maybe some areas like if you look
+00:07:07.080 at like Global GDP you know can you
+00:07:09.039 detect when chat GPT launched probably
+00:07:11.479 not is there is there a point that you
+00:07:14.199 think will be able to determine a GDP
+00:07:16.759 inflation yeah I don't know if you'll
+00:07:17.960 ever be able to say like this was the
+00:07:19.919 one model that did it but I think if we
+00:07:21.599 look at
+00:07:22.919 the graph a couple of decades in the
+00:07:25.199 future be like H something changed yeah
+00:07:27.199 are there applications or areas you
+00:07:29.360 think think are most promising in the
+00:07:30.680 next 12 months I'm sure I'm biased just
+00:07:33.879 because of where what we do here but
+00:07:35.599 coding I think is a is a really big one
+00:07:37.560 kind of related to The Bitter lesson you
+00:07:39.160 spent some time recently talking about
+00:07:40.319 the difference between deeply
+00:07:41.199 specialized models uh trained on
+00:07:43.080 specific data for specific purposes
+00:07:45.080 versus generalized models that are
+00:07:46.800 capable of true reasoning I would bet
+00:07:50.400 that it's the generalized model that's
+00:07:51.840 going to matter and what is the most
+00:07:55.319 important thing there as you think about
+00:07:57.960 like someone that's focused singular ly
+00:07:59.879 on a data set and all the Integrations
+00:08:02.879 associated with something very narrow if
+00:08:05.639 the model can do generalized reasoning
+00:08:07.680 if it can like figure out new things
+00:08:10.720 then if it needs to figure out how to
+00:08:12.120 work with a new kind of data you can
+00:08:13.440 feed it in and it can do it um but it
+00:08:15.919 doesn't go the other way around like a
+00:08:17.400 bunch of specialized models that I don't
+00:08:20.000 think a bunch of specialized models put
+00:08:22.319 together can't figure out the
+00:08:23.240 generalized reasoning so the
+00:08:25.120 implications for that of coding specific
+00:08:27.400 models probably be I I I I think a
+00:08:29.680 better way of saying this is I think the
+00:08:31.000 most important thing to figure out is
+00:08:32.679 the true reasoning capability and then
+00:08:34.440 we can use it for all sorts of things
+00:08:36.039 what do you think the principal means of
+00:08:37.240 communication between humans in AI is in
+00:08:41.320 two years natural language seems pretty
+00:08:43.719 good I I I'm interested in this general
+00:08:46.200 idea that we should design a future that
+00:08:49.760 humans and AIS can sort of use together
+00:08:54.480 um use in the same way so I'm like more
+00:08:56.320 excited about humanoid robots than I am
+00:08:58.560 for other forms of Rob robots because I
+00:09:00.040 think the world is like very much now
+00:09:01.440 designed for humans and I don't want
+00:09:02.560 that to get reconfigured for some more
+00:09:04.640 efficient kind of thing uh I like the
+00:09:06.720 idea that AI that we talk to AI in
+00:09:10.600 language that like very well human
+00:09:13.480 optimized and that they even like talk
+00:09:15.839 to each other that way maybe I don't
+00:09:17.079 know um but I think this is I think this
+00:09:20.240 is generally an interesting direction to
+00:09:21.560 push you said recently something to the
+00:09:24.040 effect of uh the models might ultimately
+00:09:26.760 get commoditized over time but the most
+00:09:29.440 important thing would likely be the
+00:09:31.000 personalization of the models to each
+00:09:33.399 individual first yeah do do I have that
+00:09:36.000 right I'm not certain on this but I
+00:09:38.120 think it's like a thing that I would
+00:09:40.320 that would seem like reasonable to me
+00:09:42.040 yeah then beyond personalization do you
+00:09:44.399 think it's just normal business UI and
+00:09:47.079 ease of use that ultimately wins for end
+00:09:49.440 users those are those will for sure be
+00:09:51.480 important they they always are um you
+00:09:54.279 know I can imagine other things where
+00:09:55.959 there's like a sort of marketplace or
+00:09:57.959 network effect of some sort that matters
+00:10:00.040 where it's you know we want our agents
+00:10:01.959 to communicate there's yeah different
+00:10:03.399 companies in an app store but I I sort
+00:10:05.800 of think that the rules of business kind
+00:10:08.880 of generally apply and whenever you have
+00:10:11.519 a new technology you're tempted to say
+00:10:12.959 they don't but that's always like fake
+00:10:14.640 news and not always usually fake news
+00:10:17.320 and all of the traditional ways that you
+00:10:19.800 create uring value will will still
+00:10:21.240 matter here when you see open- Source
+00:10:23.360 models like catch up to benchmarks and
+00:10:26.880 all of that um what's your reaction to
+00:10:31.279 it is that I think it's great yeah I
+00:10:33.519 mean I I think that there
+00:10:36.560 are you know like many other kinds of
+00:10:39.440 Technology there will be a place for
+00:10:40.600 open source there'll be a place for like
+00:10:42.760 hosted models and that's fine it's good
+00:10:45.959 I'm not going to ask about uh any
+00:10:48.079 specifics related to this but there have
+00:10:49.920 been press answer there's been press
+00:10:52.120 reports related to uh looking to raise
+00:10:55.399 major amounts of money uh Wall Street
+00:10:57.440 Journal I think was a credible one to
+00:10:59.320 Galvanize investment in Fabs um semi-
+00:11:02.360 industry atmc and Nidia have been
+00:11:04.519 ramping pretty aggressively to meet
+00:11:07.120 expectations of the need for AI
+00:11:09.639 infrastructure uh you recently said that
+00:11:11.600 you think the world needs more AI
+00:11:13.920 infrastructure and then you said a lot
+00:11:15.720 more AI infrastructure um is there
+00:11:19.040 something you're seeing on the demand
+00:11:21.600 side that would require way more AI
+00:11:25.440 infrastructure than what we're currently
+00:11:26.959 getting out of tsmc and Nidia so first
+00:11:29.600 of all uh I'm confident that we will
+00:11:32.560 figure out how to bring costs to deliver
+00:11:35.279 current systems way way down I'm also
+00:11:37.519 confident that as we do that demand will
+00:11:40.000 increase by a huge amount and third I'm
+00:11:42.880 confident that by building bigger and
+00:11:44.680 better systems there will be even even
+00:11:46.600 more demand we should all hope for a
+00:11:48.760 world where intelligence is too cheap to
+00:11:50.279 meter it's just wildly abundant people
+00:11:53.320 use it for all sorts of things and you
+00:11:54.720 don't even think about whether like oh
+00:11:56.720 you know do I want this do I have you
+00:11:59.320 know do I want this like reading all my
+00:12:01.040 emails and responding to them for me or
+00:12:03.000 do I want this like curing cancer of
+00:12:05.519 course you pick curing cancer but the
+00:12:07.480 answer is like you'd love for it to do
+00:12:08.920 both things and I just want to make sure
+00:12:10.959 we have enough for every to have that I
+00:12:12.560 don't need you to comment on your own
+00:12:13.720 personal efforts here although again if
+00:12:15.320 you want to uh please let me know but uh
+00:12:17.519 Humane and Limitless and some of these
+00:12:19.279 like different physical device
+00:12:21.040 assistants what do you
+00:12:22.959 think those have gotten wrong or where
+00:12:26.560 do you think the um the adoption Maybe
+00:12:29.199 hasn't met user uh desires just yet I
+00:12:33.680 think it's just early um I I have been
+00:12:36.360 an early adopter of many types of
+00:12:38.560 computing um I had and very much loved
+00:12:42.440 the uh compact tc1000 like like when I
+00:12:45.720 was a freshman in college uh I thought
+00:12:48.480 it was just like so cool and like that
+00:12:50.040 was a long way from the iPad uh long
+00:12:52.800 long way from the iPad but you know it
+00:12:55.480 was directionally right um then I got a
+00:12:59.279 a trio I was like the I was very not
+00:13:02.480 cool college kid I had like a old Palm
+00:13:04.600 Trio and when it was like a that was not
+00:13:06.399 a thing that kids had and that was a
+00:13:08.639 long way from the iPhone but we got
+00:13:10.040 there eventually and you know these
+00:13:13.040 things feel like a very promising
+00:13:16.079 Direction that's going to take some
+00:13:17.040 iteration you mentioned recently that a
+00:13:18.760 number of businesses that are building
+00:13:20.399 on top of uh gbd4 will be steamrolled I
+00:13:23.839 think was your term by Future uh GPT um
+00:13:27.279 I guess can can you elaborate on that
+00:13:28.680 point and second like what are the
+00:13:29.880 characteristics of AI first businesses
+00:13:31.760 that you think Will Survive gpt's
+00:13:35.279 advancement the only framework that I
+00:13:38.040 have found that works for this is you
+00:13:40.399 you can either build a business that
+00:13:42.279 bets against the next model being really
+00:13:44.639 good or a model that bets on that
+00:13:47.120 happening and benefits from it happening
+00:13:49.360 so uh if you're doing a lot of work to
+00:13:53.320 make one use case really work that was
+00:13:56.759 just beyond the capability of GPT 4 GT4
+00:13:59.480 oh no and then you get it to work but
+00:14:01.920 then gb5 comes out and it does that and
+00:14:03.440 everything else really well uh you're
+00:14:05.320 kind of like sad about the effort you
+00:14:06.880 put into that one thing to get it to
+00:14:08.399 barely work but if you had something
+00:14:10.880 that just like kind of worked okay
+00:14:12.240 across the board and people were finding
+00:14:13.839 things to use for but you didn't put in
+00:14:15.920 like tons of work to to make this one
+00:14:18.560 thing kind of possible and then GPT 5 or
+00:14:21.199 whatever we call it comes along and just
+00:14:23.360 way better everything you like you got
+00:14:24.720 the rising tide lift at all your boats
+00:14:26.920 effect you know what I would
+00:14:29.600 suggest is like you're not building an
+00:14:33.639 AI business in most cases you're
+00:14:35.759 building a business and AI is a
+00:14:38.199 technology that you use in the early
+00:14:40.480 days of the App Store I think there were
+00:14:42.000 a lot of things that like filled in some
+00:14:44.399 very obvious crack and then eventually
+00:14:47.399 Apple fix that and there wasn't you know
+00:14:49.440 you didn't keep needing like a
+00:14:50.480 flashlight app from the app store which
+00:14:52.440 just like part of the OS and that was
+00:14:53.839 like going to happen um and then there
+00:14:56.160 were I think things like uber that were
+00:14:58.320 enabled by by having smartphones but
+00:15:01.560 really built a very defensible long-term
+00:15:03.880 business and I think you just want to go
+00:15:05.519 for that latter
+00:15:06.759 category I can come up with a lot of
+00:15:08.839 incumbent businesses that leverage you
+00:15:11.000 all that fit
+00:15:12.560 that framework uh in some ways are there
+00:15:16.360 any like novel types of Concepts that
+00:15:19.680 you sort of think is in that Example The
+00:15:22.720 Uber and it doesn't need to be it could
+00:15:24.480 be a real company if you think of one or
+00:15:26.800 even if it's a toy or just something
+00:15:28.399 that's interesting that you think is
+00:15:29.920 like enabled in that way um I would
+00:15:32.839 actually bet on the new companies for
+00:15:34.720 like many of these cases a very common
+00:15:37.360 example people use is trying to build
+00:15:40.519 like the AI doctor like the AI
+00:15:43.040 diagnostician and people talk about oh I
+00:15:46.120 don't want to do a startup here because
+00:15:47.800 you know Mayo Clinic or take your pick
+00:15:49.199 is going to do it and I'd actually bet
+00:15:51.399 it's a new company that does something
+00:15:52.680 like that do you have any advice for
+00:15:54.600 CEOs beyond that who are want to be
+00:15:57.360 proactive about preparing for these
+00:16:01.480 types of disruptions I I I would say
+00:16:04.120 like bet that intelligence as a service
+00:16:08.399 gets better and cheaper every year and
+00:16:10.839 it is necessary but not sufficient for
+00:16:13.000 you to win so the big companies that
+00:16:15.040 take you know years to implement this
+00:16:17.319 you can like beat them but every other
+00:16:20.120 startup is that's you know paying
+00:16:22.399 attention is going to do this too and so
+00:16:24.720 you still have to figure out like what
+00:16:27.839 what's the long-term defensibility of my
+00:16:30.160 business now the the playing field is
+00:16:32.920 way more open than it's been in a long
+00:16:34.279 time there's incredible new things to do
+00:16:36.759 but you don't get a pass on like the
+00:16:38.880 hard work of building auring value even
+00:16:40.560 though you can now do it in more ways is
+00:16:42.920 there a job title or a type of uh job
+00:16:47.199 responsibility that you could Envision
+00:16:49.199 existing or being mainstream in five
+00:16:52.199 years because of AI that like is maybe
+00:16:55.079 Niche or non-existent today that's a
+00:16:57.160 great question and I don't think I ever
+00:16:59.319 gotten it before it's people always ask
+00:17:01.440 like what job is going to go away the
+00:17:03.560 new one is a more interesting question
+00:17:04.760 let me think for a second um I mean
+00:17:07.679 there there's like a lot of things that
+00:17:09.240 I could talk about that I think are sort
+00:17:12.520 of less interesting or less huge uh what
+00:17:15.720 I'm trying to do is like come up the
+00:17:17.480 areas of like what will a 100 million
+00:17:20.000 people do or 50 million people do um the
+00:17:23.319 broad category of new kinds of art
+00:17:27.439 entertainment sort of more like humano
+00:17:30.120 human connection I don't know what that
+00:17:31.400 job title is going to be but I
+00:17:34.440 think and I don't know if this like we
+00:17:36.679 get there in five years but I think
+00:17:38.400 there's going to be a premium on like
+00:17:40.919 human in-person like fantastic
+00:17:43.640 experiences I don't know what we'll call
+00:17:45.440 that but I can see that being like a
+00:17:46.760 very huge category of something new that
+00:17:48.440 we do the most recent public tender of
+00:17:50.799 open AI was 90 billion or or something
+00:17:53.559 in in about there um are there one or
+00:17:56.520 two things that you sort of look at as
+00:17:58.280 milestone stones that will get open AI
+00:18:01.480 to be a trillion doll company short of
+00:18:04.919 AGI uh I think if we can just keep
+00:18:09.240 improving our technology at the rate
+00:18:11.440 we've been doing it and figuring out how
+00:18:13.039 to continue to make good products with
+00:18:15.039 it and revenue keeps growing like it's
+00:18:16.640 growing uh I don't know about specific
+00:18:18.440 numbers but I think we'll be fine is the
+00:18:21.360 the business monetization model today
+00:18:24.000 the one that you think creates the $1
+00:18:26.480 trillion Equity value I mean the chbt
+00:18:30.640 subscription model like really works
+00:18:32.000 well for us like surprisingly I wouldn't
+00:18:33.919 have bet on that I wouldn't have been
+00:18:35.520 confident it's going to do as well as it
+00:18:36.840 has but it's been good do do you think
+00:18:39.559 post AGI whatever that term actually
+00:18:43.400 means will be able to I don't know ask
+00:18:47.039 AGI what the monetization model is that
+00:18:49.679 might be different yeah yeah should be
+00:18:52.400 able to I think we maybe saw in November
+00:18:55.200 not the rehash uh that that the existing
+00:18:59.559 open AI structure left some things to be
+00:19:02.600 desired which I don't think we need to
+00:19:04.799 rehash in total you talked about it uh
+00:19:07.400 enough I think but um You' spoken to
+00:19:09.600 making changes along the way what do you
+00:19:11.600 think the appropriate structure is going
+00:19:15.120 forward um I think we're close to being
+00:19:17.720 ready to talk about that uh we're like
+00:19:19.840 we've been hard at work on all sorts of
+00:19:23.120 conversations and brainstorming there uh
+00:19:27.360 I think like hopefully in a
+00:19:29.559 like this year I think we'll be right
+00:19:30.720 talk about this calendar year you tell
+00:19:32.600 me first we'll see when Larry and Brett
+00:19:35.720 Taylor got Battlefield promoted to board
+00:19:38.039 uh directors I was waiting for you know
+00:19:40.120 my call never came through but I uh one
+00:19:42.240 of the interesting things I think uh
+00:19:44.240 about preconceptions around AI to your
+00:19:46.000 point on the monetization model and all
+00:19:47.640 that is I think we've all I've heard you
+00:19:50.200 speak about it manual work obviously
+00:19:52.159 first followed by you know white collar
+00:19:54.240 followed by creative obviously it's
+00:19:55.679 proven to be uh kind of the opposite in
+00:19:58.000 some ways are there other things that
+00:19:59.799 are counterintuitive that that you've
+00:20:02.559 looked at being like well I would have
+00:20:04.880 presupposed it to be this way but it's
+00:20:07.080 actually proven to be the exact opposite
+00:20:09.320 that that's definitely the mega surprise
+00:20:11.960 to me uh the one that you mentioned
+00:20:13.919 there's
+00:20:14.840 other like I don't think I would have
+00:20:16.679 expected it to be so good at legal work
+00:20:18.720 so early just because I think of that as
+00:20:20.200 like a very precise complex thing but
+00:20:23.240 but no definitely the big one is the the
+00:20:25.200 observation of like physical labor
+00:20:28.159 cognitive creative labor for those that
+00:20:30.240 haven't heard you make the point about
+00:20:31.280 Ai and why you dislike the term can can
+00:20:33.520 you elaborate on on that point because I
+00:20:37.320 know I I don't I no longer think it's
+00:20:39.200 like a moment in time um I I I obviously
+00:20:43.320 have so many naive conceptions when you
+00:20:45.320 start any company uh and and
+00:20:48.120 particularly in a field that's like
+00:20:49.200 moving around as much as this one is but
+00:20:51.440 my naive conception when we started is
+00:20:53.120 that we would like get to a moment where
+00:20:55.280 we didn't have AGI and then we did and
+00:20:58.440 it would be a a real
+00:21:02.360 discontinuity and I still think there's
+00:21:05.200 some chance of a real discontinuity but
+00:21:08.720 on the whole I think it's going to look
+00:21:10.360 much more like a continuous exponential
+00:21:13.360 curve where what matters is the pace of
+00:21:16.200 progress year over year over year and
+00:21:19.440 you and I will probably not agree on the
+00:21:21.240 month or even the year that we're like
+00:21:23.279 okay now that's AGI we can come up with
+00:21:25.720 other tests that we will agree with but
+00:21:28.279 even that is harder than it
+00:21:29.960 sounds and you know gb4 is definitely
+00:21:33.559 not over a threshold that I think almost
+00:21:36.159 anyone would call an AGI and I don't
+00:21:37.720 expect our next big model to be either
+00:21:40.080 but I can imagine that we're like only
+00:21:42.400 maybe one or two or some small number of
+00:21:44.320 ideas away and a little bit more scale
+00:21:46.200 from something we're like this is now
+00:21:48.840 kind of different and I think it's
+00:21:50.320 important
+00:21:51.240 to stay vigilant about that is there a
+00:21:54.200 more modern like Turing test we can call
+00:21:57.640 it the Bartlet test
+00:21:59.120 uh where that that you think like hey
+00:22:01.159 when it crosses this threshold I think
+00:22:04.000 when it's capable of doing better
+00:22:07.159 research than like all of open a ey put
+00:22:09.320 together even one open a ey researcher
+00:22:12.000 that is like a somehow very important
+00:22:14.039 thing that feels like it could or maybe
+00:22:15.960 even should be a discontinuity does that
+00:22:18.840 feel
+00:22:20.480 close probably not but I wouldn't I
+00:22:22.640 wouldn't rule it out what do you think
+00:22:23.720 the biggest obstacles that you see to
+00:22:26.240 reaching AGI uh sounds like you think
+00:22:29.159 maybe the scaling laws have have Runway
+00:22:31.400 currently and holding for the next
+00:22:32.919 couple years yeah I think the biggest
+00:22:34.600 obstacles are new research uh and you
+00:22:37.320 know one of the things I've had to learn
+00:22:39.320 shifting from like internet software to
+00:22:42.799 AI uh is research does not kind of work
+00:22:46.640 on the same schedule as
+00:22:48.080 engineering which usually means it takes
+00:22:50.559 much longer it doesn't work but
+00:22:51.919 sometimes means it works tremendously
+00:22:53.480 faster than anyone could have predicted
+00:22:55.360 what what is that can can you elaborate
+00:22:56.880 on that point that it's like not as
+00:22:58.520 linear in
+00:23:00.000 progress I think the best way to
+00:23:01.760 elaborate on that is like historical
+00:23:03.480 examples I'm going to get the numbers
+00:23:06.200 wrong here but I'm sure no one will try
+00:23:08.159 to correct you on someone will yeah um I
+00:23:10.159 think the neutron was first theorized
+00:23:13.360 you know in the early
+00:23:14.600 1900s it was maybe first detected in the
+00:23:19.000 T or
+00:23:20.080 20s uh and the work on what became the
+00:23:25.120 atomic bomb started in the 30s and
+00:23:27.880 happened in the 40s like from from
+00:23:32.200 not really having no idea that such like
+00:23:36.919 that there was even the idea of a thing
+00:23:39.360 like a neutron to being able to like
+00:23:41.760 make an atomic bomb and just like break
+00:23:43.880 all of our intuitions about physics um
+00:23:47.200 that's like wildly quick um there are
+00:23:50.039 other examples that are sort of less
+00:23:52.440 pure science like there's the famous
+00:23:55.720 quote about the right Brothers again I'm
+00:23:57.799 going to get the numbers wrong WR here
+00:23:58.720 but let's say it was like 1906 they said
+00:24:00.799 they thought flight was 50 years away in
+00:24:02.200 1908 they did it whatever something like
+00:24:04.159 that and then many many other examples
+00:24:06.520 throughout the history of Science and
+00:24:08.679 Engineering there's also plenty of
+00:24:10.520 things that we theorize that never
+00:24:11.960 happen or take you know decades or
+00:24:13.600 centuries longer than we thought but but
+00:24:16.559 sometimes it does go really fast
+00:24:19.520 interpretability where are we on this
+00:24:23.200 path and how important is that long term
+00:24:25.399 for AI there's different kinds of
+00:24:27.520 interpretability there the like do I
+00:24:29.399 understand like every what's happening
+00:24:32.000 at like every mechanical layer through
+00:24:33.880 the the network and then there's um can
+00:24:36.760 I like look at the output and say
+00:24:38.799 there's a logical flaw here or whatever
+00:24:40.799 I am excited about the work going on at
+00:24:43.360 open Ai and elsewhere in this direction
+00:24:45.720 uh and I think that interpretability as
+00:24:47.480 a broader field seems like promising and
+00:24:50.520 exciting I won't pin you down I assume
+00:24:52.559 you'll have a nice announcement when
+00:24:54.120 you're ready to say something uh but um
+00:24:57.159 do you think that that is uh going to be
+00:25:00.000 a requisite to
+00:25:02.679 mainstream AI adoption maybe within
+00:25:06.120 interprises or something gb4 is like
+00:25:09.120 quite at this point yeah yeah that's
+00:25:11.080 fair there's maybe a few things that I
+00:25:13.840 think uh you get asked questions about
+00:25:17.679 or ACC maybe accused is too strong of a
+00:25:20.159 term but uh that people are suspicious
+00:25:22.559 about uh one of which is um I think
+00:25:25.760 there's this needle threading that
+00:25:27.399 exists between being excited about AGI
+00:25:30.080 but also feels like you have a um uh
+00:25:34.600 personal kind of uh apprehension about
+00:25:38.120 you Sam open AI generally being the ones
+00:25:41.799 to harness it and unilaterally make
+00:25:45.159 decisions which has led to some you know
+00:25:47.720 some body some governmental structure
+00:25:49.520 where there's elected leaders instead of
+00:25:52.279 you making these decisions yeah I think
+00:25:55.120 for like I it' be a mistake to go
+00:25:57.320 regulate heavily regulate like current
+00:26:00.480 capability models uh but when the models
+00:26:04.279 which I believe they will pose
+00:26:06.399 significant catastrophic risk to the
+00:26:08.159 world um I think having some sort of
+00:26:11.720 oversight is probably a good thing now
+00:26:14.159 there is some needle threading about
+00:26:16.159 where you set those thresholds and how
+00:26:17.440 you test for it and it would be a real
+00:26:19.799 shame to sort of stop the tremendous
+00:26:21.679 upsides of this technology and letting
+00:26:24.120 people that want to go train models in
+00:26:25.559 their basement be able to do that that'd
+00:26:26.840 be really really bad but you know if we
+00:26:30.720 have international rules for nuclear
+00:26:32.600 weapons um I think it's a good thing the
+00:26:35.520 regulatory capture Group which I'm sure
+00:26:37.840 we can think of which VCS fall into that
+00:26:40.279 bucket of accusatory uh around this
+00:26:43.480 regular regulation um what do you think
+00:26:47.360 they don't see about the potential risks
+00:26:52.240 inherent in AI well I think I just don't
+00:26:56.080 get I don't think they like on the whole
+00:26:57.840 series wrestled with AGI these were also
+00:26:59.880 people who like some of the loudest
+00:27:02.320 voices about a AI regulatory capture
+00:27:04.440 were you know totally decrying it as a
+00:27:06.679 possibility not that long ago not all
+00:27:08.880 but I do have empathy for where they're
+00:27:10.559 coming from which is like regulation has
+00:27:12.200 net been really bad for technology like
+00:27:14.080 look what happened to the European
+00:27:15.360 technology industry like I get it I
+00:27:17.799 really do and yet I think that there is
+00:27:20.200 a
+00:27:21.200 threshold that we are heading towards
+00:27:23.679 above which we may all feel a little bit
+00:27:26.000 different do you think open source mod
+00:27:29.080 themselves present inherent danger in in
+00:27:33.679 some ways no current one does but I
+00:27:36.520 could imagine one that could I've heard
+00:27:38.360 you say that uh safety is kind of a
+00:27:40.080 false framing in some ways because it's
+00:27:42.559 more of a discussion about um what we
+00:27:46.320 explicitly accept like Airlines yeah
+00:27:48.919 it's more like safety is not a binary
+00:27:52.200 thing like you are willing to get on
+00:27:56.159 airplanes because you think they're
+00:27:57.720 pretty safe even though you know they
+00:27:59.559 crash once in a while and what it takes
+00:28:03.720 for to call an airline safe is like a
+00:28:07.240 matter of some discussion some people
+00:28:08.919 have different opinions on and it's a
+00:28:11.679 topical point right now topical point
+00:28:13.399 right now they have gotten just
+00:28:14.679 unbelievably safe overall like
+00:28:16.519 triumphantly safe but safe does not mean
+00:28:18.679 no one will ever die in an airplane
+00:28:20.080 similarly medicine we really big the
+00:28:22.640 side effects and some people have
+00:28:24.440 adverse uh consequences around it and
+00:28:26.279 then there's the implicit side of safety
+00:28:27.919 as as well like social media right or
+00:28:29.960 things that have negative association um
+00:28:33.519 is there something that you could
+00:28:35.840 imagine seeing on the safety Paradigm
+00:28:38.960 that would cause you to act differently
+00:28:44.240 than pushing forward yeah we have this
+00:28:46.799 thing called our preparedness framework
+00:28:48.240 that's sort of exactly that saying that
+00:28:49.919 you know in these categories at these
+00:28:51.200 levels we act differently I've had
+00:28:53.320 elaser on the podcast how was that it
+00:28:55.799 was wonderful we sat for longest podcast
+00:28:58.799 I've ever done I think it was four hours
+00:29:00.720 of us uh going he has more free time
+00:29:02.440 than me so I apologize I can't go that
+00:29:04.120 long I we can we can do multiple
+00:29:06.279 sessions we don't need to do them all
+00:29:07.559 now I think uh that his his points I
+00:29:09.720 think stay fairly he exists he's a very
+00:29:12.320 interesting guy to sit down with for
+00:29:14.399 four hours and talk uh we went a bnch a
+00:29:17.399 bunch of different directions but I'd be
+00:29:19.960 remiss as a as a friend of the Pod to
+00:29:22.960 not ask a fast takeoff uh question um
+00:29:26.960 I'm curious like there's so many
+00:29:28.559 different fast takeoff scenarios and one
+00:29:30.200 of the constraints that I think we point
+00:29:32.200 to today is just a lack of AI
+00:29:35.000 infrastructure right um and uh I guess
+00:29:38.880 if there was some some researcher
+00:29:40.600 developed a modification to the current
+00:29:42.320 Transformer architecture where suddenly
+00:29:45.080 the amount of um data and Hardware scale
+00:29:47.760 needed drastically reduced more like
+00:29:51.360 human brain or something like that um is
+00:29:54.200 it possible we could see like a fast
+00:29:56.760 takeoff scenario
+00:29:59.320 possible of course uh and it may not
+00:30:01.240 even need a modification um it is still
+00:30:03.399 not what I believe is the most probable
+00:30:05.159 path but I don't discount it and I think
+00:30:07.559 it's important that we consider it in
+00:30:09.799 the space of what could happen I think
+00:30:12.480 things will turn to be more continuous
+00:30:14.559 even if they're accelerating I don't
+00:30:16.640 think we're likely to go to sleep one
+00:30:19.200 day with like pretty good Ai and wake up
+00:30:22.320 the next day with genuine super
+00:30:24.080 intelligence um but even if even if the
+00:30:27.159 takeoff happens over a year or a few
+00:30:29.720 years that's still fast in some sense
+00:30:32.720 there's another question about even if
+00:30:34.679 you got to this like really powerful AGI
+00:30:38.159 how much does that change society on the
+00:30:40.519 next day versus the next year versus the
+00:30:42.760 next decade and my guess is in most ways
+00:30:46.480 it's not a next day or next year thing
+00:30:48.159 but over the course of a decade then the
+00:30:49.559 world will look quite different I think
+00:30:51.799 the inertia of society is like a good
+00:30:53.519 helpful thing here one of the things I
+00:30:55.480 think people also find uh the they have
+00:30:58.399 suspiciousness around I imagine the
+00:31:00.320 questions you don't love getting are uh
+00:31:03.480 Elon uh equity and November board
+00:31:07.440 structure those are probably the the
+00:31:09.080 three uh which one answer them a lot of
+00:31:11.360 times which one of those do you like the
+00:31:12.720 least I don't I mean I I don't hate any
+00:31:15.320 of them I just don't have anything new
+00:31:16.559 to say on any of them um well I I guess
+00:31:19.559 I'm not gonna ask the the equity one
+00:31:21.639 specifically because I think you've
+00:31:23.240 answered that in more than enough ways
+00:31:25.799 although it is people still don't seem
+00:31:28.240 to like the uh the answer that enough
+00:31:31.639 money is uh a thing yeah if I like made
+00:31:34.960 a trillion dollars and then gave it away
+00:31:36.559 it would just it would like fit with I
+00:31:40.000 think the expectation or the sort of way
+00:31:41.960 it's usually done or there was another
+00:31:43.360 sh that thought about oh that's true
+00:31:46.279 trying that in some way yeah
+00:31:48.039 comparatively no I just mean like most
+00:31:49.639 people who make a ton of money out yeah
+00:31:52.320 um what uh what do you feel like your
+00:31:54.440 motivations this pursuit of AGI like
+00:31:57.000 outside of the the equity I think most
+00:31:58.799 people take solace in the fact that like
+00:32:00.600 oh well even if I have some higher
+00:32:02.760 Mission uh I still get paid for it uh in
+00:32:05.919 some ways like what are your
+00:32:08.799 motivations now coming into work every
+00:32:11.600 day like what's the most fulfillment
+00:32:13.159 derived from look I tell people this all
+00:32:16.080 the time I I'm willing to make a lot of
+00:32:17.799 other life trade-offs and sacrifices
+00:32:19.480 right now because I think this is the
+00:32:21.360 most exciting most
+00:32:23.279 important like best thing I will ever
+00:32:26.039 touch and it's an insane time
+00:32:28.600 and I'm happy it won't be forever like
+00:32:31.760 you know Som I get to go retire on the
+00:32:33.240 farm and I'll remember this fondly but
+00:32:34.960 be like oh man those were stressful long
+00:32:37.159 long stressful days
+00:32:39.399 but it's also just incredibly cool like
+00:32:41.840 I can't believe I'm this is happening to
+00:32:43.840 me it's like this is like amazing was
+00:32:46.880 there a single moment I guess we go back
+00:32:49.440 to the the the the fame example of not
+00:32:52.080 being able to go out in your city or
+00:32:53.320 whatever but has there been a single
+00:32:55.000 moment that was most surreal that like
+00:32:57.240 oh geez I don't know uh I mean you've
+00:32:59.720 done a podcast with Bill Gates I'm sure
+00:33:01.240 you have your speed dial if I took your
+00:33:02.760 phone right now would have a lot of very
+00:33:04.120 interesting people on it was there a
+00:33:05.399 single moment over the course of the
+00:33:07.120 last couple years that you were like
+00:33:09.279 this is a uniquely surreal moment and
+00:33:12.039 kind of every day there's something
+00:33:14.000 that's like wow if I could like if I had
+00:33:15.760 like a little bit more mental space to
+00:33:17.159 step back it's like this would be crazy
+00:33:20.600 um kind of a fish in water but yeah it
+00:33:23.039 is kind of like that effect uh after all
+00:33:25.720 of that like no November stuff happened
+00:33:27.519 that you know like that day or the next
+00:33:29.000 day whatever I got like uh I don't know
+00:33:31.720 10 20 text something like that from
+00:33:33.840 like major world like presidents Prime
+00:33:36.320 Ministers of countries whatever and that
+00:33:38.880 was not the weird part uh the weird part
+00:33:41.360 was that happened and I was like um you
+00:33:44.440 know kind of responding saying like
+00:33:47.080 thanks or whatever and it felt like very
+00:33:48.360 normal and then I we had these like
+00:33:51.240 insane super jammed like four and a half
+00:33:54.000 days in just this like crazy State and
+00:33:56.159 it was it was just like weird like not
+00:33:58.120 sleeping much not really eating um
+00:34:01.720 energy levels like very high very clear
+00:34:03.639 very focused but just like your body was
+00:34:05.559 like in some weird like adrenaline
+00:34:07.120 charge state for a long time and then it
+00:34:09.800 was like all this happened the week
+00:34:11.119 before Thanksgiving it was kind of crazy
+00:34:12.800 crazy crazy got resolved on Tuesday
+00:34:14.560 night um you canceled our podcast
+00:34:17.320 canceled our podcast sorry I don't
+00:34:18.839 usually cancel things um anyway then on
+00:34:21.918 that Wednesday like now it's the
+00:34:24.040 Wednesday before Thanksgiving Ally and I
+00:34:26.079 drove up to Napa and and uh stopped at
+00:34:28.719 this Diner got is very good and on the
+00:34:32.719 drive up there I realized I hadn't like
+00:34:34.040 eaten in like days and then all of a
+00:34:36.800 sudden like kind of like normal it was
+00:34:38.760 just like okay you know this is like
+00:34:40.199 normally where we be doing on weekend
+00:34:41.480 heading up like go whatever and go to uh
+00:34:47.520 gots order like four Entre like heavy
+00:34:51.199 like you know fried like heavy ENT like
+00:34:53.639 two milkshakes just for me I was sat
+00:34:55.800 there and ate and it was very satisfying
+00:34:58.720 um and as I was doing that um one of
+00:35:02.200 them president of this one country
+00:35:04.280 texted again and just said like oh I'm
+00:35:05.760 sorry this off like great whatever and
+00:35:08.040 then it hit me that like oh yeah like
+00:35:10.359 all of these people had texted me and it
+00:35:12.040 wasn't weird and the weird part was like
+00:35:13.760 realizing that that had like happened in
+00:35:15.040 the middle of it and that that should
+00:35:16.760 have been this very weird experience and
+00:35:18.079 it wasn't so that was like one that
+00:35:19.640 sticks out yeah that is interesting my
+00:35:22.440 takeaway is human adaptability to almost
+00:35:26.200 anything is just like much more
+00:35:28.160 remarkably strong than we realize and
+00:35:29.760 you can get used to anything as The New
+00:35:31.440 Normal good or bad pretty fast and I
+00:35:35.720 kind of like over the last couple of
+00:35:37.320 years have learned that blesson many
+00:35:41.720 times um but I think it says something
+00:35:43.400 to remarkable about humanity and good
+00:35:45.920 for us and good as we stare down this
+00:35:48.240 like big transition I remember post 911
+00:35:51.440 I'm sure you remember exactly you were
+00:35:53.040 but I I was in submit New Jersey and our
+00:35:55.599 town just you know what whatever dozens
+00:35:58.359 of people passed away and
+00:36:01.440 the how close the town came together
+00:36:05.280 after a terrorist attack happened and it
+00:36:08.079 seemed so normal like that it was just
+00:36:10.599 the normaly of it or I have friends in
+00:36:12.480 Israel right now and you talk to them
+00:36:14.640 about it and they they're like no it's
+00:36:17.760 it's normal I'm like well there's a war
+00:36:19.680 going like it's got to be surreal and
+00:36:21.680 they're like well I mean what are you
+00:36:22.920 going to do you go about your day you go
+00:36:24.240 get your food all that and it's it's
+00:36:26.000 it's amazing these psycholog iCal
+00:36:28.640 impacting things at the end of the day
+00:36:30.560 we need to go get food and we need to
+00:36:32.240 you know talk to our friends and and all
+00:36:34.440 this stuff so it is it is amazing how
+00:36:36.160 much that can happen it really like
+00:36:39.079 genuinely that's been my big surprising
+00:36:42.040 takea away to like feel it so B really
+00:36:44.520 as you think about like models becoming
+00:36:46.079 smarter and smarter what um you kind of
+00:36:48.319 touched on this a little bit earlier
+00:36:49.680 with the the creative element like what
+00:36:52.319 do you think remains uniquely human as
+00:36:56.400 models start doing more and more
+00:36:58.560 capabilities of what we used
+00:37:01.280 to
+00:37:02.800 consider I think many many years from
+00:37:05.599 now humans are still going to care about
+00:37:07.240 other other humans I you know I was
+00:37:10.640 reading the internet just a little bit
+00:37:12.319 and everyone's like oh everyone's going
+00:37:13.520 to fall in love with Chachi BT now and
+00:37:15.319 everybody's you know like it's going to
+00:37:16.920 be the Chach BT girlfriend whatever
+00:37:18.359 whatever I bet
+00:37:20.040 not I bet we're I I think we're so wired
+00:37:24.480 to care long term about other humans and
+00:37:26.640 all sorts of like
+00:37:28.240 big and small ways that that's going to
+00:37:30.720 remain like our obsessional with other
+00:37:32.599 people sounds like you hear a lot of
+00:37:34.359 conspiracy theories about me you
+00:37:35.359 probably don't hear a lot of conspiracy
+00:37:36.400 theor about AI you might not care if you
+00:37:38.240 did hear one I think we're like not
+00:37:40.079 going to watch Robots play each other in
+00:37:41.520 soccer probably as our like main hobby
+00:37:43.800 as you run open AI the company itself
+00:37:47.920 and you you uh built a lot of rules or
+00:37:51.400 or Frameworks uh at YC on uh how to run
+00:37:55.839 businesses and then you've you've broken
+00:37:58.680 a lot of them some some are there are
+00:38:01.760 there different types of people you hire
+00:38:03.680 for this business than you would have
+00:38:06.520 had you started a um a consumer internet
+00:38:08.960 company within the executive ranks or a
+00:38:11.520 B2B software company or something um
+00:38:14.839 researchers are very different than like
+00:38:17.040 product Engineers for the most part and
+00:38:19.319 it's Brad or miror or some of the
+00:38:22.280 executives like researchers are unique
+00:38:24.280 but does open aai bring in a different
+00:38:27.680 type of executive or do you hire for a
+00:38:29.720 different trait so I mostly have not
+00:38:31.640 like I I am sometimes you hire
+00:38:33.480 externally for executives but I'm a big
+00:38:35.079 believer if like you generally promote
+00:38:38.440 it's not it's probably a mistake to only
+00:38:40.240 promote people to be Executives because
+00:38:42.599 that could reinforce a monoculture and
+00:38:44.280 you know I think you want to bring in
+00:38:45.720 some new very senior people um but we
+00:38:49.680 mostly like homegrown Talent here and I
+00:38:51.359 think that's a a positive given how
+00:38:53.880 different what we do is from what you
+00:38:55.040 would do somewhere else is there a
+00:38:58.079 decision um that you've made over the
+00:39:01.599 course of open
+00:39:04.240 AI that that felt the most important at
+00:39:09.240 the time of making it and how did you go
+00:39:12.200 about making it it'd be hard to point to
+00:39:15.119 just a single one but the decision that
+00:39:18.359 we're going to do what we call iterative
+00:39:19.960 deployment that we're not going to go
+00:39:21.960 build AGI in secret and then put it out
+00:39:24.400 into the world at once which was the
+00:39:25.839 prevailing wisdom and the are plan in
+00:39:28.000 others I think that was like a quite
+00:39:31.079 important decision we made and it felt
+00:39:33.160 like a really important one at the time
+00:39:34.720 if if another company that betting on
+00:39:36.359 language models was an important
+00:39:37.520 decision and felt like an important one
+00:39:38.800 at the time I actually don't know the
+00:39:40.040 story of of betting on language models
+00:39:41.839 how did that come to be originally um
+00:39:44.640 well we were we had these other projects
+00:39:46.280 we were doing the robot thing and video
+00:39:48.599 games and there was a very small effort
+00:39:51.920 started with one person looking at
+00:39:54.960 looking at language modeling and Ilia
+00:39:58.079 really believed in it uh really believed
+00:40:01.040 in like the general direction became
+00:40:04.119 language models let's
+00:40:05.480 say and we did gpt1 we did gpt2 we
+00:40:09.560 started to study SC scaling laws scaled
+00:40:11.960 gpt3 and and then we made a big bet this
+00:40:14.760 was what we were going to do and it was
+00:40:16.000 not it looks so all of these things look
+00:40:18.480 so obvious in retrospect they really
+00:40:20.319 don't feel that way at the time one
+00:40:22.040 other thing you brought up recently was
+00:40:24.760 the there's two approaches to AI the
+00:40:26.680 replication of yourself and then the
+00:40:28.440 smartest employee oh it's not not AI
+00:40:31.280 itself but like how you want to use it
+00:40:33.560 like when you imagine using your
+00:40:36.119 personal AI which so there's a subtle
+00:40:37.839 distinction when you said it but but can
+00:40:39.880 you can you expound on because it seemed
+00:40:41.520 like
+00:40:42.319 a fairly profound distinction of how at
+00:40:46.319 least Sam thinks about the the future of
+00:40:49.079 AI use cases so C can you explain that
+00:40:51.800 point again because clearly I
+00:40:53.040 misunderstood it if you're G to text me
+00:40:56.680 in you know five years in the future I
+00:40:59.560 think you want to be clear of whether
+00:41:02.480 you're texting me or my AI assistant and
+00:41:07.520 then if it's my AI assistant that's GNA
+00:41:09.680 like you know bundle messages together
+00:41:11.760 and you'll get a reply later or or you
+00:41:14.319 know if it can easily do something you
+00:41:15.720 might ask my human assistant to do then
+00:41:17.400 fine you'll know that um I think there
+00:41:20.240 will be value in keeping what those
+00:41:22.400 things are separate and not that it's
+00:41:26.560 like all right AI is truly just an
+00:41:28.760 extension of Sam I don't know if I'm
+00:41:30.400 talking to Sam or Sam's AI ghost but
+00:41:33.720 that's okay because it's the same thing
+00:41:35.480 it's this merged entity I think I think
+00:41:38.160 there will be like Sam and Sam's AI
+00:41:40.160 assistant and also I want that for
+00:41:41.640 myself like I don't want to feel like
+00:41:42.720 this thing is just like this weird
+00:41:45.000 extension of me but that it's a separate
+00:41:46.599 entity that I can communicate with
+00:41:48.560 across a barrier you see it in uh in
+00:41:51.359 music or creative where it becomes
+00:41:53.760 pretty easy to replicate a drake or a
+00:41:56.520 Taylor Swift
+00:41:58.160 audio we probably need some form of
+00:41:59.880 validation or some centralization that
+00:42:02.560 uh validates hey this is actually the
+00:42:05.000 the creative work of XYZ person you're
+00:42:07.000 probably gonna want some version of that
+00:42:08.560 at a personal level too yeah but it's
+00:42:10.440 like you know the way I think about like
+00:42:12.480 open AI is it's I don't like there's
+00:42:15.200 different people and I'm asking them to
+00:42:17.040 do things and they go off or they ask me
+00:42:18.760 to do things and I go off um but it's
+00:42:21.240 not a single like
+00:42:22.920 Bor and I think that's like a way we're
+00:42:25.240 all comfortable and so so what is that
+00:42:28.119 can can you tie that back like the the
+00:42:30.400 decentralization of of letting
+00:42:32.280 individuals do their no not well also
+00:42:35.839 that but I I I meant more just kind of
+00:42:37.480 like what is the abstraction of what my
+00:42:40.200 personal AI is going to be like got it
+00:42:42.040 like do I think of that is this is just
+00:42:44.960 me and it's G to like take over my
+00:42:48.000 computer and do what's best and because
+00:42:49.559 it's me that's going to be totally fine
+00:42:50.960 and it's answering messages on my behalf
+00:42:52.720 and it's you know gonna just like I'm
+00:42:56.040 slowly gonna like take my hands off the
+00:42:58.000 controls and it's slowly gonna like be
+00:42:59.520 me or do I think of this as like this is
+00:43:02.960 a really great person I work with that I
+00:43:05.400 can say hey can you do this thing get
+00:43:07.040 back and when you're done but I think of
+00:43:08.559 it as not me as you think about the uh
+00:43:12.760 uh educational system and as we think
+00:43:14.400 about like the class of college class of
+00:43:16.280 2030 or 2035 or whatever whatever um
+00:43:20.040 some some group in the future
+00:43:23.240 um are there changes specifically that
+00:43:26.720 you think think should be made
+00:43:30.839 within the college educational system to
+00:43:33.359 prepare people for the future we have
+00:43:36.359 the biggest one is I think people should
+00:43:38.160 not only be allowed but required to use
+00:43:40.640 the tools there will be some cases where
+00:43:43.599 we want people to do something the
+00:43:45.240 oldfashioned way um because it helps
+00:43:47.160 with understanding you know like I
+00:43:49.720 remember sometimes in math class or
+00:43:51.280 whatever there'd be something you can't
+00:43:52.400 use no calcat test yeah but on the whole
+00:43:55.760 like in real life you get to use the
+00:43:57.640 calculator and so you need to understand
+00:44:00.319 it but then you got to be proficient
+00:44:02.079 using the calculator too and if you did
+00:44:04.200 math class and never got to use the
+00:44:05.480 calculator you would be like a less less
+00:44:08.640 good at the work you need to do later
+00:44:10.720 you know if all of the open a
+00:44:11.880 researchers never got to use a
+00:44:12.960 calculator open I probably wouldn't have
+00:44:14.839 happened on computers at least you know
+00:44:17.680 um we don't try to teach people not to
+00:44:19.240 use calculators not to use computers and
+00:44:21.359 I think we shouldn't train people not to
+00:44:24.000 use AI either it's just going to be an
+00:44:25.640 important part of like doing valuable
+00:44:28.240 work in the future last one um in
+00:44:30.680 planning for AGI and Beyond you wrote
+00:44:32.359 the first AGI will be just a point along
+00:44:34.280 the Continuum of intelligence which we
+00:44:35.720 spoke about earlier uh we think it's
+00:44:37.680 likely the progress will continue from
+00:44:39.040 there possibly sustaining the rate of
+00:44:40.599 progress we've seen over the past decade
+00:44:42.160 for a long period of time do you ever uh
+00:44:45.079 personally stop and process or visualize
+00:44:49.079 like what the
+00:44:51.119 future will look like in that or is it
+00:44:54.760 just too abstract to contemplate um all
+00:44:59.040 the time I mean I don't visualize it
+00:45:00.800 like you know we have these like flying
+00:45:02.200 cars in a Star Wars future city and not
+00:45:05.119 like that but like definitely what it
+00:45:07.200 means
+00:45:08.920 when one person can do the work of
+00:45:12.559 hundreds or thousands of
+00:45:13.640 well-coordinated people and
+00:45:16.359 what what it means when I don't want to
+00:45:19.000 say we can discover all of science but
+00:45:21.440 kind of what it feels like like what it
+00:45:22.920 would feel to us like if we could
+00:45:24.359 discover all of science be pretty cool
+00:45:26.720 yeah
+00:45:27.559 Sam thanks for doing this thank
+00:45:31.559 you thank you for listening to this
+00:45:33.839 episode of the Logan Bartlet show with
+00:45:35.800 CEO and co-founder of open AI Sam Alman
+00:45:38.920 if you enjoyed this conversation really
+00:45:41.000 appreciate it if you like And subscribe
+00:45:43.599 and share with anyone else that you
+00:45:45.119 think might find interesting as well as
+00:45:47.839 come back for next week where we'll have
+00:45:49.440 another exciting episode with a
+00:45:51.280 different founder and CEO of an
+00:45:53.359 important company of Technology thanks
+00:45:55.400 everyone for listening and have a good
+00:45:56.640 week
+00:45:58.359 he
+00:45:59.590 [Music]
+00:46:01.120 [Applause]
+00:46:05.800 [Music]

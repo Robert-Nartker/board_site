@@ -1,0 +1,1097 @@
+# tactiq.io free youtube transcript
+# AI Strategies for Forward-Thinking Leaders ft. Geoff Woods
+# https://www.youtube.com/watch/HToY8gDTk6E
+
+00:00:00.160 all right hey ladies and gentlemen
+00:00:01.480 welcome to another episode of the Beyond
+00:00:03.520 seven figures podcast so for me to
+00:00:06.919 introduce this guest I think it's best
+00:00:08.760 for me to read an email that was sent to
+00:00:11.519 me from a mutual friend of ours his name
+00:00:14.879 is Justin Donald now if you guys know
+00:00:17.560 Justin Donald you know this guy's an
+00:00:19.240 absolute stud incredible human being was
+00:00:22.279 a guest on an earlier episode of Beyond
+00:00:24.680 s figers podcast extremely successful so
+00:00:27.400 anytime he recommends somebody to me
+00:00:29.160 take it very seriously
+00:00:30.800 so here's what he had to say he goes
+00:00:33.200 Charlie I want to introduce you to this
+00:00:35.320 guy he's the author of the upcoming book
+00:00:37.399 the AI driven leader harnessing AI to
+00:00:40.239 make faster smarter decisions everyone
+00:00:43.520 knows AI is the future but most people
+00:00:45.520 just don't know where to start people
+00:00:47.120 want to hear from somebody who's
+00:00:48.239 actually uses stuff and delivered
+00:00:49.879 results so then that gets me thinking
+00:00:52.559 what kind of results did this guy
+00:00:53.760 actually deliver we said well this
+00:00:56.280 particular guest he scaled the last
+00:00:59.079 company he was part of
+00:01:00.440 from 750 million to 12 billion so that
+00:01:04.159 was enough to get me to pay attention he
+00:01:06.880 was a chief growth officer so he had a
+00:01:09.920 direct contribution to this growth and
+00:01:12.479 he was put in charge of AI now ai will
+00:01:16.159 disrupt every industry I don't care if
+00:01:18.159 you're in massage or agency or you name
+00:01:21.200 it it is going to disrupt it the bigger
+00:01:23.360 question is how is it going to disrupt
+00:01:24.759 it what can you do to have ai your ally
+00:01:28.040 instead of your enemy so my guest his
+00:01:32.479 name is Jeff Woods welcome to the show
+00:01:34.759 my friend thanks so much for having me
+00:01:36.960 I've been talking about AI now for going
+00:01:39.840 on two years and in January of 2023 I
+00:01:43.200 made an announcement to my team and I
+00:01:45.119 said that AI is a condition of
+00:01:48.040 employment you must use AI in your role
+00:01:52.520 you have a few months to figure it out
+00:01:54.719 or you won't have a position here
+00:01:56.520 anymore now in the beginning like people
+00:01:59.280 are just starting to hear about chaty
+00:02:00.799 pts you know they really didn't know
+00:02:02.520 what that was and it had only been out
+00:02:04.039 for two months at that point right right
+00:02:06.960 so it seemed a little odd but with AI
+00:02:11.560 because of this exponential learning
+00:02:13.000 curve I realized that if we waited two
+00:02:14.720 months were're gonna be so far behind
+00:02:17.200 the ball there even still there's still
+00:02:19.640 in so much infancy right now that
+00:02:21.640 there's still time for people to jump in
+00:02:23.120 and not get too far by naal why do you
+00:02:26.040 believe AI is a future and why should
+00:02:28.560 small business owners make this a must
+00:02:32.319 to build into their culture I believe
+00:02:35.160 that as a leader your job is not to
+00:02:37.879 predict the future but it's to prepare
+00:02:39.920 your company to survive a variety of
+00:02:43.200 different Futures and thrive in spite of
+00:02:47.440 that ambiguity when I saw AI for the
+00:02:50.239 first time it was December of 2022 so
+00:02:53.080 chat gbt had literally only been out for
+00:02:55.159 a month I sought it as the next skill to
+00:02:58.040 master something in my bones said I
+00:03:01.640 believe that this is going to change
+00:03:03.680 everything but I wanted to validate that
+00:03:05.680 a lot of leaders have seen it and said
+00:03:07.239 I'll get to this eventually and they
+00:03:08.799 just just they're just too busy they
+00:03:10.920 don't know where to start and then they
+00:03:12.000 think they're falling behind I made it a
+00:03:14.000 real priority I said if this has the
+00:03:16.760 chance to be disruptive if this has the
+00:03:19.120 chance to be the future then as Chief
+00:03:20.760 growth officer of this company which big
+00:03:23.000 company about 100,000 people I need to
+00:03:24.959 be able to validate this real quick and
+00:03:26.840 here's what got interesting Charlie I
+00:03:28.799 started where I think a lot of people
+00:03:30.200 start which is can this help me write a
+00:03:32.080 better email can this help me with
+00:03:34.000 marketing copy or Social Media stuff and
+00:03:36.560 the answer was yes but it's cool that it
+00:03:39.680 can do it but from a results standpoint
+00:03:43.159 I'm
+00:03:44.080 going this isn't going to move the
+00:03:46.000 needle took the company from 750 million
+00:03:48.560 to 12 million that was one company by
+00:03:50.599 the way of many that I was over all of
+00:03:52.200 them grew the smallest one was netting a
+00:03:54.000 100 million a year in IA so I'm not
+00:03:56.720 looking for can we add another million
+00:03:58.519 here I'm asking what's disruptive from a
+00:04:01.920 results standpoint without disrupting
+00:04:03.920 the organization itself and I found
+00:04:06.439 myself asking what are the things that
+00:04:08.200 is a leader I need to do exceptionally
+00:04:11.560 well that put us on a different playing
+00:04:13.599 field in the future that's when I came
+00:04:16.120 back to the thing that's been my
+00:04:17.478 strength for the last decade which is
+00:04:19.560 driving strategic thinking with teams
+00:04:22.840 because your ability to think
+00:04:24.040 strategically is the difference between
+00:04:26.320 growing your business or going out of
+00:04:28.199 business and so I started asking how
+00:04:30.120 might AI help me elevate my thinking and
+00:04:33.759 make faster smarter decisions and once I
+00:04:35.880 cracked that code Charlie I ended up I
+00:04:38.080 was in India I went there every quarter
+00:04:40.120 because the company was based there and
+00:04:41.520 I was at the Chairman's house and I
+00:04:42.919 showed him I said this is the future and
+00:04:44.919 he goes when I showed him what I saw he
+00:04:47.479 goes I believe it and I said I think we
+00:04:50.080 needed to drive this through all the
+00:04:51.600 companies he goes yes and I said I think
+00:04:54.120 this is so important that you as
+00:04:55.320 chairman of the board need to own this
+00:04:57.000 at the board level and he goes no how
+00:05:00.080 about you do it for me amazing which
+00:05:02.479 when he said that I was like
+00:05:04.880 yes then so I committed I said I'm on it
+00:05:07.919 I'll bring you back my plan I left his
+00:05:10.000 house and I went oh crap I have no idea
+00:05:14.320 what I'm doing yeah and this is when
+00:05:17.080 you're the average of The Five People
+00:05:18.400 You spend the most time with I've been
+00:05:20.360 very purposeful about surrounding myself
+00:05:22.080 with people who are where I want to be
+00:05:23.759 before I was the chief growth officer
+00:05:25.160 for gindel steel I was the co-founder of
+00:05:28.520 the training and Consulting company
+00:05:30.120 behind the book The one thing so my
+00:05:32.120 partner was Gary Keller who built Keller
+00:05:34.039 Williams so I've now worked with two
+00:05:36.479 billionaires directly and one of the
+00:05:38.800 things I learned from Gary is that
+00:05:40.280 anytime you're hitting a ceiling in your
+00:05:41.880 life you're missing a person I was
+00:05:44.280 hitting a ceiling he's tasking me to
+00:05:46.759 figure AI out for the company I don't
+00:05:49.360 know how to do it who am I missing that
+00:05:52.880 company is called Google so I ended up
+00:05:55.319 partnering with Google and every quarter
+00:05:56.800 when I was in India I was at their
+00:05:58.400 headquarters and they're teaching me me
+00:06:00.000 what the technology is how you use it
+00:06:01.840 how you identify use cases how you tune
+00:06:03.720 models and as I started driving it I
+00:06:06.120 realized how deep this Rabbit Hole could
+00:06:08.360 go and said this is the future and I got
+00:06:10.240 to build around this so I wrote the aid
+00:06:12.240 driven leader and launched my company AI
+00:06:13.800 leadership and here's the coolest thing
+00:06:15.639 about ai ai can teach you how to use AI
+00:06:19.039 it can identify the gaps that you have
+00:06:21.560 and your skills and your abilities like
+00:06:23.280 you just have to know how to ask the
+00:06:24.720 right questions if you ask the right
+00:06:26.680 questions you're going to get better
+00:06:27.919 answers and isn't that true and
+00:06:29.880 leadership generally yeah my son and
+00:06:33.680 several people I'm sure have heard this
+00:06:35.199 before especially our listeners he's
+00:06:38.199 turning 18 and so he's looking at
+00:06:40.080 college and what his options are and so
+00:06:43.800 we went for this nice long walk and
+00:06:45.560 we're going through everything and I
+00:06:46.800 said kid let me tell you something I
+00:06:48.360 can't believe these words are coming out
+00:06:49.560 of my mouth because when I was a kid you
+00:06:51.840 know you had to go to college you had to
+00:06:53.479 get all the you know the degree and
+00:06:55.120 whatnot and that was like your leg up in
+00:06:56.960 life I said but today you you don't need
+00:06:59.919 to know the answers anymore and he says
+00:07:02.280 wait what you have to know to ask the
+00:07:04.919 questions that other people don't know
+00:07:06.879 how to ask and if you can do that your
+00:07:09.919 advantage in life will be far greater
+00:07:13.240 than any book any course anything that
+00:07:16.400 you could take in a college class so
+00:07:18.919 true isn't that crazy so true you're a
+00:07:21.720 good dad when people think AI if they're
+00:07:24.599 very new to it they think just like you
+00:07:26.520 talked about it's like write me email
+00:07:27.879 write me an article all this other stuff
+00:07:30.039 I had a conversation with the founder of
+00:07:32.199 one of the top 10 franchise companies in
+00:07:34.560 the world so another really successful
+00:07:38.080 dude right and so he was working on this
+00:07:39.800 other project and he said hey I'm trying
+00:07:42.759 to find the answer to this one thing and
+00:07:45.000 I'd like to bring you on to find this
+00:07:47.800 answer and don't worry I'm guessing it's
+00:07:50.240 going to take about six months to figure
+00:07:51.800 it out and I was like hold my beer give
+00:07:54.759 me a couple hours I'll get back to you
+00:07:56.960 by the end of the night and he says what
+00:07:59.000 are you talking about that's impossible
+00:08:00.759 there is no way look I've done this so
+00:08:03.159 many times blah blah blah I said I know
+00:08:06.000 the thing is times have changed you just
+00:08:08.159 don't know where to find the answers but
+00:08:10.120 I have the question and so we are able
+00:08:11.840 to pull personas I'm like who would be
+00:08:14.240 the people that would have this answer
+00:08:15.639 and I pulled personas from you know what
+00:08:18.479 I believe to be true and introduced them
+00:08:20.479 into AI so I told AI you know act as
+00:08:23.479 these particular people and then watch
+00:08:25.000 them debate and they came up and solved
+00:08:27.360 the answer and then I sh shared that
+00:08:30.400 with the founder I'm surprised you
+00:08:32.559 didn't hear him scream from where you're
+00:08:34.240 at right there he was so just floored
+00:08:37.760 that that could happen so quick but
+00:08:39.760 that's a competitive Advantage right
+00:08:41.479 there that a lot of CEOs and business
+00:08:43.440 owners they're missing the ability to
+00:08:46.880 use that intelligence to solve problems
+00:08:49.480 and come up with better ideas I sat down
+00:08:52.080 with the chairman of a Fortune 500
+00:08:54.040 company yesterday and he looked at me
+00:08:55.920 and he said Jeff execution we got that
+00:08:58.320 covered Tech technology we can build
+00:09:00.640 whatever we want but strategic thinking
+00:09:04.519 oh yeah because that's the thing that
+00:09:06.640 every single one of my SE sweet leaders
+00:09:09.880 needs to do better that is the most
+00:09:12.959 important thing and we don't not have
+00:09:15.680 enough time to do it we don't have the
+00:09:18.279 data always accessible we all have
+00:09:20.600 biases and assumptions that lead us in
+00:09:22.320 the wrong direction and we all face
+00:09:24.160 pressure to deliver results yesterday
+00:09:26.000 those four things kill strategic
+00:09:27.600 thinking and where most people looking
+00:09:29.720 at generative AI as something to do
+00:09:33.079 tactical things I just turned it on its
+00:09:35.920 head and said if it's the 8020 Rule and
+00:09:38.279 80% of your results are going to come
+00:09:40.040 from 20% of your efforts don't Focus
+00:09:42.839 using AI on the 80% tasks that only
+00:09:46.360 drive 20% of your results let's focus on
+00:09:49.360 using it on the 20% priorities that
+00:09:51.720 drive 80% of the value and that's been
+00:09:55.560 the backbone of of my whole book the AI
+00:09:57.600 driven leader so to me about maybe some
+00:10:00.839 of the prompts or some of the tools let
+00:10:03.920 me tell you some real use cases first so
+00:10:07.200 people can understand what this means
+00:10:09.920 then I'll walk you through how you
+00:10:12.600 deliver this for yourself beautiful okay
+00:10:15.640 my approach to AI is strategy First
+00:10:18.120 Technology second the way I drove growth
+00:10:20.160 of gindel was strategy first we may not
+00:10:23.600 even need technology Tech is a tool to
+00:10:25.959 achieve your goals it can accelerate it
+00:10:28.240 or it can distract you from from
+00:10:29.440 achieving your goals so you got to be
+00:10:31.040 strategic so I was presenting to a group
+00:10:33.360 of CEOs and I asked them give me your
+00:10:36.680 biggest problems in your business that
+00:10:39.519 if we could solve them would unlock a
+00:10:41.880 new level of growth for you one guy
+00:10:43.639 looks at me and says I got one I run a
+00:10:45.639 manufacturing company I least a whole
+00:10:47.480 bunch of equipment from this company in
+00:10:48.880 Japan things have shifted in my market
+00:10:50.959 and the debt structure is now killing me
+00:10:52.880 I'm literally going to go out of
+00:10:53.920 business if this does not get
+00:10:55.800 restructured I go okay I'm so sorry
+00:10:58.480 that's tough what if done and he starts
+00:11:00.720 walking through every single thing he
+00:11:03.040 had tried in the past why it didn't work
+00:11:05.160 and eventually said you know what bottom
+00:11:07.120 line This has gone all the way to the
+00:11:09.320 board of this company in Japan but
+00:11:12.360 because they're publicly traded they are
+00:11:14.519 refusing to restructure the debt because
+00:11:16.160 they're worried they'll lose face in
+00:11:18.200 Japanese Society I have no Next Step
+00:11:21.920 we're probably going out of business so
+00:11:24.320 here's a CEO that's facing a culture
+00:11:27.680 challenge a Japanese culture challenge
+00:11:30.880 he's up against the wall there's no
+00:11:33.000 other options that he can see perfect
+00:11:36.200 use case for AI so I pulled up chat gbt
+00:11:38.959 in this instance and I wrote a very
+00:11:41.000 strategic prompt I have a framework for
+00:11:43.600 strategic thinking prompts I think of
+00:11:45.279 writing a prompt like a series of
+00:11:46.720 ingredients in a recipe you don't use
+00:11:48.760 every ingredient you don't use the same
+00:11:50.440 amount so it's describe the problem give
+00:11:54.519 context assign a Persona ask AI to
+00:11:58.320 interview you you to accomplish a task
+00:12:03.120 problem
+00:12:05.320 context
+00:12:07.480 Persona
+00:12:09.240 interview
+00:12:11.200 task problem I'm a CEO of a
+00:12:13.560 manufacturing company I leased all this
+00:12:15.320 equipment from a company in Japan things
+00:12:17.120 have shifted in the market the debt
+00:12:18.880 structure is now going to put us out of
+00:12:20.440 business if it doesn't get restructured
+00:12:22.279 here's the things we've tried in the
+00:12:23.880 past it didn't work because it went all
+00:12:25.880 the way to the board of this Japanese
+00:12:27.279 company and they're refusing to
+00:12:28.600 restructure the debt because they think
+00:12:30.760 they'll lose face in Japanese Society I
+00:12:32.880 have no next steps that I am aware of
+00:12:34.880 I'm probably going out of business I
+00:12:36.920 tipe all that in as the problem and
+00:12:40.560 context Your Role is to act as an
+00:12:43.800 investment banker with deep expertise in
+00:12:46.480 restructuring debt interview me by
+00:12:49.839 asking one question at a time up to
+00:12:52.880 three questions to gain additional
+00:12:54.760 context then I want you to complete the
+00:12:56.920 task of generating five nonobvious
+00:13:00.199 strategies I could deploy to get the
+00:13:02.680 board to restructure the
+00:13:04.720 debt that was the
+00:13:07.320 prompt now let's pause real quick one
+00:13:10.959 this is not another
+00:13:13.040 Google number two most people are
+00:13:15.600 treating it like another Google because
+00:13:17.320 they're going to it and asking for
+00:13:19.480 asking questions and expecting answers
+00:13:21.440 and are disappointed when it's not an
+00:13:23.320 oracle I don't do that I give it tons of
+00:13:26.760 context I assign a Persona so that it
+00:13:28.880 can harness expertise that I do not have
+00:13:31.199 myself I.E an investment banker with
+00:13:33.560 deep expertise and restructuring
+00:13:35.600 debt the
+00:13:37.320 unlock is turning the tables and asking
+00:13:40.399 AI to interview you I love that have you
+00:13:44.120 ever done that I have done that it's
+00:13:46.040 funny the way that you structured it is
+00:13:47.920 awesome what it makes me think about is
+00:13:50.160 how I would talk to an employee and
+00:13:53.320 what's interesting is I was at a
+00:13:55.120 presentation there was a bunch of AI
+00:13:57.040 panelists that were speaking and I was
+00:13:58.399 in the audience and I stood up and I was
+00:14:00.639 like I just want to get make sure people
+00:14:03.320 understand one thing like if you look at
+00:14:04.880 AI as a technology you're already
+00:14:07.639 looking at it wrong and you're
+00:14:08.720 complicating things more it's like you
+00:14:10.800 look at AI as your most intelligent
+00:14:12.639 employee it's a virtual employee most
+00:14:15.079 intelligent and when you talk to that
+00:14:17.880 intelligent employee talk to it like you
+00:14:19.680 would be an employee and interact and
+00:14:21.399 give that feedback and what you like and
+00:14:23.360 what you don't like and go back and
+00:14:24.720 forth and what could they do better and
+00:14:26.040 push it and as soon as you explained
+00:14:28.880 that prompt structure I'm like you know
+00:14:31.759 what how is that any different from what
+00:14:34.160 you would tell an employee as a leader
+00:14:36.279 one of the most surprising benefits that
+00:14:38.240 I've experienced has been how this has
+00:14:40.120 elevated my communication with humans
+00:14:42.120 because I now think of communication as
+00:14:44.560 a series of ingredients and I have more
+00:14:46.279 structure and strategy to how I talk
+00:14:48.399 it's awesome dude so let me tell you
+00:14:50.199 what happened with this so I sent that
+00:14:52.399 prompt and AI immediately came back and
+00:14:54.839 asked do you have relationships with
+00:14:57.240 other influential Executives in Japan
+00:14:59.320 that this board would
+00:15:00.800 respect and I looked at the yeah so why
+00:15:04.639 do you say wo because I mean right there
+00:15:08.000 the answer was in the question number
+00:15:09.639 one but it was like I didn't I didn't
+00:15:12.079 think about that and that's exactly what
+00:15:14.360 happened to the CEO I looked at him and
+00:15:16.199 he went whoa I would have never thought
+00:15:18.560 of that it understood 2,000 years of
+00:15:23.639 Japanese
+00:15:24.839 culture that we as Americans would not
+00:15:27.440 think of when it asked that question and
+00:15:30.240 he goes oh my gosh I do I wouldn't have
+00:15:34.120 thought of that and so we fed it back to
+00:15:36.160 the AI model and then it asked two more
+00:15:38.319 questions around how he had navigated
+00:15:40.199 Japanese Society historically and then
+00:15:42.399 it came back and said here's your five
+00:15:43.839 non-obvious strategies number one it
+00:15:47.319 called the Saving Face
+00:15:50.199 Consortium it said you have enough
+00:15:52.000 relationships with other influential
+00:15:53.720 Executives in Japan approach them to
+00:15:55.680 acquire the debt with really favorable
+00:15:57.440 terms they'd be fools to say no to it
+00:15:59.800 your debt will get restructured and the
+00:16:01.360 board will save face Charlie I looked at
+00:16:03.759 him his whole body language shifted and
+00:16:07.079 he's getting emotional amazing he looks
+00:16:09.759 at me and he goes Jeff I have not slept
+00:16:13.360 in 90
+00:16:15.079 days I have had no next step and I have
+00:16:17.839 been wrestling and grappling with the
+00:16:20.639 fact that I'm going out of
+00:16:22.959 business and in less than 10
+00:16:26.000 minutes I have hope yeah we texted a few
+00:16:30.199 weeks ago and he said the ball is moving
+00:16:32.920 and I think this is going to get done
+00:16:35.319 amazing well done well done so when I
+00:16:39.399 say your ability to think strategically
+00:16:42.959 is the difference between growing your
+00:16:45.000 business or going out of business there
+00:16:47.480 are things on a weekly basis as a leader
+00:16:49.920 that you have to think through that
+00:16:51.240 require processing power of your brain I
+00:16:53.880 am telling you the old way of solving
+00:16:57.800 problems and making decision ision is
+00:16:59.800 doing it yourself you seem smart Charlie
+00:17:02.399 how many books do you think you've read
+00:17:03.519 in your lifetime I don't know maybe a
+00:17:06.439 few hundred cool what percent of that
+00:17:09.480 Collective knowledge can you recall and
+00:17:11.160 apply right now yeah not a heck of a lot
+00:17:14.400 that's for sure probably 1% Max and
+00:17:16.880 you've been wildly successful with that
+00:17:19.079 if you think of yourself as the thought
+00:17:21.240 leader and AI is your thought partner
+00:17:24.959 not an assistant but a partner yeah
+00:17:28.240 these models have been trained
+00:17:30.720 on 200 million books worth of data they
+00:17:35.640 can
+00:17:36.840 recall 100% of it in less than a second
+00:17:41.880 so with your thought leadership you can
+00:17:44.440 tap into this intelligence and harness
+00:17:48.160 it to solve your most complicated
+00:17:51.160 programs I'm going to give you another
+00:17:52.720 one I have an executive AI Network
+00:17:55.159 called the collective where these are
+00:17:56.559 the decision makers in their company
+00:17:59.200 that are champions of AI and we get off
+00:18:01.760 site several times a year to like
+00:18:03.240 strategic offsites to think
+00:18:04.440 strategically and share how we're using
+00:18:05.720 AI this one guy his name is Wyatt he has
+00:18:08.400 built a very successful business
+00:18:09.799 flipping houses okay and I asked him hey
+00:18:12.720 have you done your strategic plan yet
+00:18:14.000 for next year and he goes yeah I just
+00:18:15.200 finished it and I said great run this
+00:18:17.559 prompt and I had him copy and paste his
+00:18:21.159 strategic plan into chat
+00:18:22.960 GPT and basically he told chat gbt that
+00:18:26.520 attaches my strategic plan you know my
+00:18:28.960 10-year goal is to go from X to Y but I
+00:18:31.880 also want to preserve quality of life
+00:18:33.840 and time with family here's my strategic
+00:18:36.080 plan for next year I want you to act as
+00:18:38.720 an aggressive growth-minded board member
+00:18:41.320 by interviewing me asking one question
+00:18:43.400 at a time to bulletproof my plan where
+00:18:46.200 am I spreading my focus too thin what
+00:18:48.400 are the things I'm doing that I should
+00:18:49.760 not be doing are there things I'm not
+00:18:51.480 doing that maybe I should be doing that
+00:18:53.159 would allow me to achieve my goals with
+00:18:54.760 less effort once you've conducted a
+00:18:56.960 thorough interview and you think you
+00:18:58.360 have enough context tell me what you
+00:19:00.200 like about my plan tell me what you
+00:19:01.840 don't like about my plan and tell me the
+00:19:03.640 top changes I should make to my plan
+00:19:06.320 that was the
+00:19:07.440 prompt wow it did an interview it came
+00:19:11.799 back and one of the things it suggested
+00:19:13.960 it said while you're plan will help you
+00:19:16.080 get to your financial goal ultimately
+00:19:19.240 it's going to violate your personal life
+00:19:22.520 goals mhm my recommendation is that you
+00:19:27.159 stop flipping houses is all
+00:19:30.320 together and instead focus on acquiring
+00:19:32.960 multif family real estate and the
+00:19:34.640 service-based businesses that surround
+00:19:36.600 it
+00:19:38.960 wow it told him to blow his business up
+00:19:42.159 and focus somewhere else so you know
+00:19:43.799 what he did with this in the next 30
+00:19:45.679 days next 30 days instead of getting
+00:19:49.360 another house under contract that would
+00:19:51.000 net him $110,000 he got a building under
+00:19:54.039 contract that he bought at such a good
+00:19:56.000 price he instantly netted a million
+00:19:58.200 dollar amazing amazing because of one
+00:20:01.840 prompt amazing and you know one of the
+00:20:04.919 ways that we've used it in a somewhat
+00:20:06.520 similar fashion is we'll upload the road
+00:20:10.000 map the growth plan and whatnot and then
+00:20:11.760 ask it what would stop prevent or
+00:20:13.559 otherwise Slow Me Down from achieving
+00:20:15.360 this goal and then you begin to identify
+00:20:18.480 different constraints that you may not
+00:20:20.880 have been aware of and then you can ask
+00:20:22.559 it so what is the plan to solve it and
+00:20:25.400 then as you build the plan to solve it
+00:20:26.880 then you can adapt the road map and all
+00:20:28.520 that other fun stuff at the end I always
+00:20:30.679 say okay now go back and reread all of
+00:20:33.200 our notes all of our conversation and
+00:20:35.799 make further suggestions for improvement
+00:20:38.200 and it always comes back with something
+00:20:39.720 that's a little better than the last
+00:20:41.240 output have you asked it what do I not
+00:20:44.679 know about myself that you know that I
+00:20:47.080 should know as well I did that actually
+00:20:49.559 just recently did you I I did and it was
+00:20:53.039 it was actually it was interesting that
+00:20:55.520 only works by the way if you've used it
+00:20:57.440 for a while and gets to know you but
+00:20:59.799 yeah it's it's pretty cool I liked it
+00:21:01.760 but I didn't like it at the same time
+00:21:03.520 because it told me certain things that I
+00:21:05.000 was like I wish I didn't know that you
+00:21:06.679 know about myself you know I loved it it
+00:21:09.360 was so cool so these prompts and the
+00:21:11.360 different ways to use it what not is
+00:21:12.520 that covered in the aid driven leader
+00:21:14.320 book well the prompt ingredients is Page
+00:21:16.559 73 I have prompts throughout the entire
+00:21:19.760 book and I even built a custom AI
+00:21:22.720 thought partner trained on the entire
+00:21:25.000 manuscript of the book that you
+00:21:27.159 literally when I give you prompts I give
+00:21:28.840 you a QR code that you can scan with
+00:21:30.320 your phone and it will launch this
+00:21:32.559 custom AI model that is specifically
+00:21:34.919 designed for strategic thinking and
+00:21:36.360 trained on the book and it knows all the
+00:21:37.840 prompts and that's already available on
+00:21:40.000 Amazon yeah all right well as soon as we
+00:21:42.679 get off this line Amazon audible eBook
+00:21:44.799 The Whole Nine Yards my friend so now
+00:21:47.400 you've talked a lot about chat GPT there
+00:21:49.320 was a period of time where I hadn't
+00:21:51.200 logged into chat GPT for a while because
+00:21:53.159 Claude was by far my favorite yeah it
+00:21:56.520 was just producing things that a much
+00:21:58.640 higher level and then chaty BT started
+00:22:02.440 getting more in favor and now it kind of
+00:22:05.120 all depends and sometimes they use
+00:22:06.600 gemini or Gro or whatever it might be
+00:22:09.600 so right now like what tools are you
+00:22:12.520 using and for what purpose so I'll tell
+00:22:14.880 you what I'm doing but at a high level
+00:22:16.679 I'm going to tell you the tool really
+00:22:17.840 doesn't matter it's the person who
+00:22:19.279 wields it so my recommendation is that
+00:22:22.320 you go on a journey of exploring which
+00:22:23.840 one is right for you I started by having
+00:22:26.360 chat gbt Claude Gemini perplexity
+00:22:30.840 co-pilot I had all five open on
+00:22:33.679 different tabs and I would write a
+00:22:35.440 prompt in one and paste it into all just
+00:22:37.640 to learn how it was different now I'm
+00:22:39.760 building a business in AI so that I felt
+00:22:41.600 like that was worth my time probably
+00:22:43.360 isn't for you but what I realized I know
+00:22:46.360 the pros and cons of the different ones
+00:22:47.960 I also know they're constantly going to
+00:22:49.279 change what ended up happening privacy
+00:22:52.159 matters to me and the the companies that
+00:22:54.919 we advise I want to be able to upload my
+00:22:57.360 strategic plan I want to be able to
+00:22:59.000 upload the financial statements I want
+00:23:00.679 it to know what our strategy is or our
+00:23:03.159 competitive advantage in the long term
+00:23:04.880 through the actions we're taking in the
+00:23:06.480 short term I do not want a model that's
+00:23:09.559 going to train on my data chat gbt was
+00:23:12.760 the first to come out with a teams
+00:23:14.600 account this is not Microsoft teams it's
+00:23:16.360 chat gbt teams where by default it does
+00:23:18.760 not train on your data to my
+00:23:21.159 knowledge you can't stop Claude from
+00:23:23.440 training on your data from my knowledge
+00:23:26.039 you cannot stop Gemini from training on
+00:23:28.960 your data therefore I don't use them
+00:23:31.559 anymore even though I actually like
+00:23:34.559 Claud more than chbt because I can't to
+00:23:39.000 my knowledge I can't get it to stop
+00:23:40.520 training on my data I don't use it oh
+00:23:43.000 that's that's actually really good to
+00:23:44.279 know yeah so like I wanted to know the
+00:23:47.960 manuscript of my book I wanted to know
+00:23:50.320 how I think how I talk what I say I'm
+00:23:53.080 not going to do that I'm not uploading
+00:23:54.760 the PDF of my book into something that's
+00:23:56.760 going to go out into the ether though
+00:23:59.039 chances are it's probably found it
+00:24:01.159 somehow somewhere it knows of me but
+00:24:03.960 does it have the manuscript and can it
+00:24:05.919 train on it and create derivative work
+00:24:08.799 from it no thank
+00:24:10.919 you got it dude this is fascinating so
+00:24:15.279 small business owners many of them
+00:24:17.320 there's this sort of myth going around
+00:24:19.159 that says AI will replace employees and
+00:24:22.760 I know a lot and I work with a lot of
+00:24:24.640 like really just wonderful CEOs that put
+00:24:27.880 their team first and foremost and
+00:24:29.600 they're very hesitant to push this on
+00:24:31.960 the team because they know that the team
+00:24:33.440 is hesitant thinking that their jobs are
+00:24:35.159 at risk so where do you see AI playing
+00:24:40.960 and disrupting the workforce I wanted to
+00:24:43.480 have a good answer for this and I found
+00:24:45.279 myself thinking haven't we been here
+00:24:48.279 before I went back and I researched many
+00:24:52.120 of the major technological disruptions
+00:24:54.039 from the printing press to the steam
+00:24:56.039 engine the assembly line electricity the
+00:24:59.399 internet and I wanted to understand what
+00:25:01.159 were the patterns every time there was a
+00:25:03.320 major technological disruption there
+00:25:05.039 were some jobs that were displaced and
+00:25:07.200 there were net more jobs gained but what
+00:25:10.440 was most interesting to me was I've came
+00:25:13.000 across a story about John D Rockefeller
+00:25:16.120 it's 1900 he's the chairman of Standard
+00:25:18.159 Oil and Company it's the largest company
+00:25:19.760 in the world wealthiest man in history
+00:25:22.200 and he sees factories booming across the
+00:25:25.640 country and with it the need for
+00:25:27.720 industrial work workers but there was a
+00:25:30.279 problem our education system was not
+00:25:32.799 teaching kids the skills that were
+00:25:34.520 valuable for industrial working he even
+00:25:37.320 went on record as saying we don't need a
+00:25:38.799 nation of thinkers we need a nation of
+00:25:41.360 workers and so in 1902 he seated the
+00:25:44.279 general education board with a million
+00:25:46.159 dollars which is $37 million today with
+00:25:49.320 one goal to shift the curriculum of
+00:25:53.799 public education to create the skills
+00:25:56.520 required for industrial workers show up
+00:25:59.039 to work on time take direction from a
+00:26:01.279 boss memorize a set of steps and do it
+00:26:04.120 as efficiently and as effectively as
+00:26:06.760 possible over the next 20 years he ended
+00:26:09.039 up giving over $100 million to reshape
+00:26:12.799 the public education system and it
+00:26:15.399 worked here's the problem with that it's
+00:26:17.520 still our education system
+00:26:19.440 today and what I realized is that we
+00:26:23.000 actually had to set aside the skills
+00:26:25.520 that made us human to to meet the needs
+00:26:28.840 of the machine in the industrial
+00:26:31.200 revolution when it was Craftsman you had
+00:26:33.399 to do strategic thinking problem solving
+00:26:35.520 communication collaboration creation but
+00:26:38.520 when you had to meet the need of the
+00:26:39.840 machine that all got set aside I
+00:26:42.919 actually think AI is going to return us
+00:26:46.520 to what makes us us and the reason I can
+00:26:50.600 say that is that most of people's time
+00:26:53.360 if you actually thought about what most
+00:26:55.080 people do throughout the day they bounce
+00:26:57.000 between meetings emails and the 80%
+00:27:00.600 tasks on their to-do list that only
+00:27:03.200 drive 20% of their results it's very
+00:27:05.279 tactical AI can already augment or
+00:27:08.240 automate half of what people do this
+00:27:10.120 scares people I think it's a gift
+00:27:13.360 because what became clear to me in my
+00:27:14.919 research is that your job is nothing
+00:27:17.799 more than skills you apply and processes
+00:27:21.919 you follow AI does not take your job it
+00:27:25.080 changes the or technology does not take
+00:27:27.960 your job it changes the skills that are
+00:27:30.880 valued and the processes that are
+00:27:32.640 followed six out of 10 jobs that exist
+00:27:35.279 today did not exist in 1940 so you may
+00:27:38.760 still have the same job in five years
+00:27:41.200 the same title with the same company but
+00:27:43.559 the skills you apply and the processes
+00:27:45.960 you follow will be different my advice
+00:27:49.440 is change is going to happen you have a
+00:27:52.679 choice to make you can choose to have a
+00:27:55.159 growth mindset where you view this as an
+00:27:57.519 opportunity to develop more valuable
+00:28:00.760 skills and to adhere to more valuable
+00:28:04.080 processes or you can have a fixed
+00:28:06.320 mindset where you will cling to the way
+00:28:08.039 things used to be but it's a choice you
+00:28:11.720 know what's interesting so one of the
+00:28:13.960 things that we've told our clients to do
+00:28:16.720 is use a prompt to have all your every
+00:28:19.039 member of your team use a prompt we'll
+00:28:20.640 use an example of a salesperson and say
+00:28:23.080 okay please familiarize yourself with my
+00:28:25.080 company blah blah blah blah and the
+00:28:26.960 industry and so forth
+00:28:29.080 and then as a account executive for this
+00:28:33.640 company how will be to be sales change
+00:28:38.600 in my role by the year 2028 or whatever
+00:28:41.840 that and it'll turn around and it'll say
+00:28:43.760 you know here's how you know it'll be
+00:28:46.120 disrupted and change and so forth and
+00:28:47.960 say okay what skills talents and
+00:28:50.559 abilities do I need to develop in order
+00:28:52.640 to remain relevant and so it just says
+00:28:55.480 okay this is what you need to do so it
+00:28:57.080 creates this plan it's is this is where
+00:28:59.159 your job's going to be end dangered this
+00:29:00.799 is where it's going to be disrupted
+00:29:02.600 these are the skills and whatnot that
+00:29:05.440 you know you need to improve and it's
+00:29:08.880 really fascinating because everyone
+00:29:10.840 whether it's an administrative assistant
+00:29:12.679 A
+00:29:13.399 salesperson uh sales manager whatever
+00:29:16.080 it's not only just forecasting how their
+00:29:17.720 role will be disrupted it's also
+00:29:19.320 indicating how the industry itself will
+00:29:22.159 evolve and change and it allows people
+00:29:25.720 to start thinking further ahead head and
+00:29:29.399 start thinking about what the landscape
+00:29:31.399 might look like instead of assuming that
+00:29:34.000 my business today is going to stay the
+00:29:35.360 same and just one last example I used to
+00:29:38.519 say for the longest time AI will disrupt
+00:29:40.880 every single role except for maybe
+00:29:42.600 something like massage because I'm just
+00:29:44.320 thinking to myself how is that GNA
+00:29:45.880 happen and then you know one of my
+00:29:48.240 clients she runs the the most successful
+00:29:51.360 massage studio in New York City and she
+00:29:55.279 has a massage bot that's all AI based
+00:29:59.640 has other most of her businesses hand
+00:30:02.559 massusa but the fact that now you can do
+00:30:04.519 it has great MPS score and whatnot so
+00:30:07.120 it's like everybody has the risk of
+00:30:09.760 being disrupted one of the things I keep
+00:30:12.240 this on my desk and it's you know when I
+00:30:14.559 this would be my advice to anybody
+00:30:15.760 listening the smallest action you can
+00:30:18.799 take after this episode that will have
+00:30:21.240 the largest impact is I want you to get
+00:30:23.600 a sticky note and a Sharpie and write
+00:30:26.440 the question how can AI help me do this
+00:30:30.679 I literally keep this sticky note on my
+00:30:32.320 desk I would say today get a sticky note
+00:30:34.720 with a sharpie WR how can AI help me do
+00:30:37.039 this and literally put it on your desk
+00:30:38.760 or on your computer because if you ask
+00:30:40.840 that question once a day you will
+00:30:43.039 naturally start searching for potential
+00:30:45.960 use cases and if you approach I
+00:30:48.960 genuinely approach with curiosity will
+00:30:50.799 AI work I have no will I help with
+00:30:53.720 massage I don't know let's try it the
+00:30:57.320 greatest baseball players of all time
+00:30:59.480 strike out more than six out of 10 times
+00:31:03.679 you're not going to hit a home run or
+00:31:05.679 even get on Bas every time you write a
+00:31:07.600 prompt so don't expect to but if you
+00:31:11.000 start deploying it and testing it you'd
+00:31:12.919 be blown away I literally just met with
+00:31:14.399 the director of operations for a clean
+00:31:16.720 skincare company and you know they're
+00:31:19.279 amping up their production for Black
+00:31:21.039 Friday and Cyber Monday and he I said
+00:31:23.440 what's your biggest problem and he said
+00:31:25.120 I'm looking at the volume we have to to
+00:31:28.320 produce in the next month or 28 days
+00:31:32.760 were 120,000 units short based on our
+00:31:37.639 capacity and I got to solve it and I
+00:31:41.159 literally held up this sticky note and
+00:31:42.360 said have you ever thought about having
+00:31:43.480 AI helps all he goes what and I
+00:31:46.080 literally said problem context rooll
+00:31:50.639 interview task and just started
+00:31:53.440 interviewing him and he's describing you
+00:31:55.080 know here's the problem we have to do
+00:31:57.120 this and this and this here's our
+00:31:58.240 constraints blah blah blah blah blah for
+00:31:59.600 context this is our company this is our
+00:32:01.760 product this is the square footage that
+00:32:03.279 we have here about how much time it
+00:32:04.919 takes and then I said your your job is
+00:32:07.080 to act as an expert in throughput
+00:32:09.760 optimization and theory of constraints
+00:32:11.960 to interview Us by asking one question
+00:32:14.240 at a time up to four questions to gain
+00:32:16.519 additional context and then I want you
+00:32:18.360 to generate five nonobvious Solutions we
+00:32:22.720 could deploy to ensure we meet our
+00:32:25.279 production needs by this date and he
+00:32:28.600 looked at me and
+00:32:29.840 went it can do
+00:32:33.200 that I went let's see sure enough it C
+00:32:37.039 it spotted something like his solution
+00:32:40.200 was he was going to do a contract
+00:32:41.960 manufacturer that could do the 120,000
+00:32:44.919 the first question that AI asked
+00:32:47.440 was how confident are you and how have
+00:32:50.159 you validated that the contract
+00:32:51.679 manufacturer you're talking to actually
+00:32:53.639 has the capability to do the 120,000
+00:32:56.519 units and I looked at him and he went oh
+00:33:00.240 crap I actually don't
+00:33:02.760 know I'm just
+00:33:06.480 assuming
+00:33:10.840 great and based on that his action is
+00:33:14.840 not only does he need to validate that
+00:33:16.880 but he needs to line up two more as a
+00:33:19.840 plan B and a plan C amazing let now let
+00:33:24.200 me ask you I know we're pushing up
+00:33:25.799 against the clock so they just made this
+00:33:27.440 announce that now with Claude you can
+00:33:30.559 actually take action in your computer so
+00:33:33.679 you could say I want you to research
+00:33:37.600 this fill out the form oh so they've
+00:33:40.039 woven agents into it right exactly so
+00:33:43.760 right now it's been a limited Beta
+00:33:45.840 release but agents are coming in as
+00:33:50.120 faster than I anticipated many of them
+00:33:51.840 don't understand what agents are yeah
+00:33:54.240 you're you're talking over their head so
+00:33:56.080 right now most of these AI models chat
+00:33:58.880 GPT Claude Gemini it's just a text box
+00:34:01.960 that you talk to but you can't say great
+00:34:04.159 now take this and send it to me in an
+00:34:07.279 email or help me identify the right
+00:34:10.440 flights to take and pricing great book
+00:34:13.000 the flight so text to action there's no
+00:34:16.599 action yet all these companies are
+00:34:19.599 working that and that's what an agent is
+00:34:21.839 is an AI agent is a an AI agent can take
+00:34:24.960 an action on a very specific thing that
+00:34:27.159 is abs absolutely the future and it may
+00:34:29.599 be here now I think it's going to be a
+00:34:32.000 gradual roll out but it's absolutely the
+00:34:34.760 future and you just got to think Tony
+00:34:36.199 Stark and Iron Man where you know he's
+00:34:38.520 talking to Jarvis and Jarvis is not only
+00:34:40.719 able to talk to Tony Stark but he's able
+00:34:42.440 to take actions and do things that is
+00:34:45.000 very much the near future you asked me a
+00:34:48.560 question early on about why is it so
+00:34:50.320 important to do this now Eric Schmidt
+00:34:52.760 the former CEO of Google recently I saw
+00:34:55.719 a video of him that he said we are going
+00:34:58.240 to be living in a fundamentally
+00:35:00.440 different
+00:35:01.400 world in the next five years not
+00:35:06.920 10 five everything we know about how we
+00:35:10.960 do life is going to be different and
+00:35:13.359 then he walked through all the reasons
+00:35:14.640 why agents being one of them and my aha
+00:35:18.280 is this is the wakeup call if you're a
+00:35:21.040 leader who believes AI is the future but
+00:35:23.760 you haven't known where to start and you
+00:35:25.320 think you're falling behind it's time to
+00:35:29.160 prioritize this because if I told you
+00:35:32.680 that everything you know about the
+00:35:34.599 future and the the the future that
+00:35:36.800 you're going to be operating in from a
+00:35:38.200 business standpoint is going to be
+00:35:39.359 different you better get going now
+00:35:42.560 because here's what I you think about a
+00:35:43.920 hockey stick growth curve it's flat for
+00:35:45.680 a long time until it's not and then it
+00:35:49.200 goes supersonic my hypothesis is that
+00:35:52.200 there is a company in your
+00:35:54.119 industry that is either starting right
+00:35:56.400 now or has already begun to figure out
+00:35:59.800 how to use
+00:36:01.079 AI you're not going to see anything for
+00:36:04.599 the next 12 to 36 months because they're
+00:36:07.440 going to be on that flat part of the
+00:36:09.000 curve but suddenly they're going to go
+00:36:11.640 Supersonic and that's when I think
+00:36:14.200 companies are really going to wake up
+00:36:15.359 and go we got to get started but what
+00:36:17.160 they won't realize is that the game at
+00:36:18.720 that point is already over so because
+00:36:21.480 we're pushing up against a clock I'm
+00:36:22.960 going to ask you my favorite question my
+00:36:25.520 favorite question is this is the Beyond
+00:36:27.079 seven figures podcast what is your
+00:36:28.960 biggest best tip for listeners who want
+00:36:31.640 to take their business Beyond seven
+00:36:33.000 figures surround yourself with people
+00:36:35.119 whose business is beyond seven figures
+00:36:37.480 that's great actually and what did you
+00:36:39.440 what was that quote you said that
+00:36:40.800 something you're the average of The Five
+00:36:42.200 People You spend the most time with and
+00:36:43.760 what was that one person thing that you
+00:36:45.280 said your solution to your problem is
+00:36:47.480 like oh yeah anytime you're hitting a
+00:36:49.480 ceiling in your life you're missing a
+00:36:51.000 person and another angle you're only one
+00:36:54.480 person away from becoming who you want
+00:36:56.359 to become Oprah Winfrey was not Oprah
+00:36:59.119 Winfrey until she met Jeffrey Jacobs her
+00:37:01.160 attorney The Beatles weren't The Beatles
+00:37:03.400 until they met George Martin their
+00:37:06.319 manager Walt Disney wasn't Walt Disney
+00:37:08.960 until he brought in his brother Roy
+00:37:11.079 Disney sometimes you're only one person
+00:37:13.800 away from achieving what you want to
+00:37:16.040 achieve and for me when I look at at my
+00:37:19.000 life you know I went from Xerox to
+00:37:21.400 medical device sales wanting to start a
+00:37:23.720 company had no idea how I was one person
+00:37:26.440 away his name was J papan because he
+00:37:28.280 co-authored the one thing with Gary
+00:37:29.520 Keller and then the three of us
+00:37:30.760 co-founded the company Jay taught me how
+00:37:33.480 to think Gary taught me how to think
+00:37:35.680 bigger then I sold my my stake in the
+00:37:38.119 company I was one person away his name's
+00:37:39.920 naine jindel look him up I mean insanely
+00:37:43.480 wealthy guy in Asia who runs jindel
+00:37:46.640 steel I then worked I mean I coached him
+00:37:49.160 for a while but then going in house the
+00:37:50.720 amount of authority that he gave me was
+00:37:53.480 insane then I was only one person away
+00:37:55.920 when it came to Ai and that end up
+00:37:57.520 becoming Google and the team there and
+00:38:00.119 so I am
+00:38:01.839 constantly asking who's the person I
+00:38:05.000 want to become and how do I surround
+00:38:08.000 myself with people who are exhibiting
+00:38:10.280 the type of skills and thinking that I
+00:38:12.760 want to exhibit to become who I want to
+00:38:15.200 become and honestly I me especially when
+00:38:17.040 it came to AI I remember when I was
+00:38:19.200 writing the book and even building the
+00:38:20.400 company starting the company for AI
+00:38:21.839 leadership I was like I actually don't
+00:38:23.240 want to be the guy with all the
+00:38:25.119 answers I want to be the guy with all
+00:38:26.960 the questions
+00:38:28.280 and I found myself asking how can I make
+00:38:30.079 part of my business model standing in
+00:38:32.560 the flow of information and surrounding
+00:38:34.280 myself with the the innovators of the
+00:38:36.200 future which is why the backbone of the
+00:38:38.160 business ended up becoming the
+00:38:39.920 collective I'm surrounding myself with
+00:38:42.359 people who are Aid driven leaders in
+00:38:44.680 their company like they're the executive
+00:38:46.240 decision makers who believe AI is the
+00:38:47.880 future they're committed to championing
+00:38:49.880 it I'm building that Community where we
+00:38:52.680 get off site and we think strategically
+00:38:55.240 together and we share how we're
+00:38:57.440 harnessing AI because I might be the
+00:38:59.800 number one Authority in the world when
+00:39:01.359 it comes to AI for strategic thinking
+00:39:03.400 but I am not an expert in all things
+00:39:06.760 Ai and so I want to surround myself with
+00:39:09.599 other leaders who are going like Charlie
+00:39:11.839 there are absolutely things that you can
+00:39:13.200 teach me and there are things that I can
+00:39:14.760 teach you so how do I facilitate that
+00:39:17.119 that's what it is I'd love it so dude
+00:39:19.599 tell us a little bit more about your
+00:39:21.280 company if we want to learn more give us
+00:39:23.119 The quick summary on your book the book
+00:39:25.400 is the AI driven leader harnessing AI to
+00:39:27.440 make faster smarter decisions it is all
+00:39:29.280 about showing leaders the Strategic use
+00:39:32.000 cases that you can start to go from zero
+00:39:33.960 to one to make faster smarter decisions
+00:39:36.839 it's written for leaders I have prompts
+00:39:39.680 throughout the book I have pictures I
+00:39:41.440 even underline the importance sentences
+00:39:44.200 so like if you had a highlighter I've
+00:39:45.760 already done it for you it's it's crazy
+00:39:48.280 the company is AI leadership
+00:39:51.160 we help leaders think more strategically
+00:39:55.280 by harnessing AI as a thought partner so
+00:39:57.040 they can accelerate growth and build a
+00:39:58.400 competitive Advantage so the collective
+00:40:00.079 is the heartbeat of it where it's this
+00:40:03.160 Collective of AI driven leaders where we
+00:40:04.680 share all of our knowledge we do
+00:40:06.480 Consulting and we're in the process of
+00:40:08.240 building out a technology product
+00:40:09.599 that'll drive all of it and what's the
+00:40:11.359 URL of that company AI leadership.com
+00:40:14.240 ail leadership.com Jeff and this has
+00:40:17.200 been fantastic I've really enjoyed this
+00:40:19.119 conversation and you know we've talked a
+00:40:21.040 lot about AI the importance of strategic
+00:40:24.160 leadership one of my note that I wrote
+00:40:26.640 down that I'm really really looking
+00:40:28.000 forward to testing is this prompt
+00:40:29.720 structure that Jeff talked about number
+00:40:32.240 one describe the problem number two
+00:40:34.040 context number three the Persona number
+00:40:36.839 four have it interview you by asking one
+00:40:39.560 question at a time and then number five
+00:40:44.119 then the task and you know you obviously
+00:40:46.319 want to give it give it the instructions
+00:40:48.560 not to tell you the most obvious but
+00:40:50.040 haven't share the the least obvious and
+00:40:53.400 I'll give you my top five or not top
+00:40:55.480 five my top tasks yeah so here's the
+00:40:58.560 problem for context here's what you need
+00:41:00.160 to know about my company I want you to
+00:41:01.760 act as this type of person interview me
+00:41:03.599 by asking one question at a time up to
+00:41:05.440 three questions four questions five
+00:41:07.079 questions give it a limit otherwise
+00:41:08.400 it'll interview you all day okay so the
+00:41:11.200 EV additional context then I want you to
+00:41:13.160 complete the task
+00:41:14.880 of generate five nonobvious
+00:41:20.520 Solutions is one the other is tell me
+00:41:25.000 what you like about my Approach don't
+00:41:27.920 like about my Approach and the top
+00:41:30.280 changes I need to make to my
+00:41:33.079 Approach so for example I literally took
+00:41:36.040 the PDF of the cover of the book
+00:41:40.200 uploaded it and described my ideal
+00:41:42.920 reader and said as that reader I want
+00:41:45.000 you to give me feedback on what you like
+00:41:46.839 about the book don't like about the book
+00:41:48.880 and the top changes I'd have to make so
+00:41:51.040 that you would buy it for yourself and
+00:41:53.040 every person in your
+00:41:55.079 company and it literally came back and
+00:41:57.359 gave me feedback I did not agree with
+00:41:59.040 all of it some of it I did and I had my
+00:42:01.960 designer make the changes I ran that for
+00:42:05.720 times until it said I like your
+00:42:10.359 book so that was you said there was non
+00:42:13.200 obvious shout outs what you like don't
+00:42:14.800 like top changes was there anything else
+00:42:17.079 dude this is when it's up to you to
+00:42:18.839 figure out what are the creative ways
+00:42:20.000 you want to use it but I'm giving you
+00:42:21.680 lwh hanging fruit of the task of
+00:42:23.880 generating not five Solutions because
+00:42:26.040 then it's going to tell you what you're
+00:42:26.880 already no five nonobvious
+00:42:29.520 Solutions five nonobvious
+00:42:32.079 strategies five nonobvious
+00:42:34.599 ideas or here's my paper or here's
+00:42:37.599 here's the message I'm sending to the
+00:42:38.839 team but I want you to tell me what you
+00:42:40.200 like about it don't like about it and
+00:42:41.599 the top changes I need to make to it
+00:42:43.599 brilliant dude I love it all right so
+00:42:45.680 remember and then there's this other
+00:42:46.839 question that he says how can AI help me
+00:42:48.520 do this write that down he puts in a
+00:42:50.160 post note if somebody like Jeff puts it
+00:42:52.319 in a post- note to remind him about this
+00:42:54.720 every day I think it's probably
+00:42:55.839 something worthwhile for all us to
+00:42:57.640 consider so that's Jeff Woods author of
+00:43:00.040 the aid driven leader and ail
+00:43:03.000 leadership.com
+00:43:04.359 now for more tips strategies and
+00:43:06.680 information also on how to grow your
+00:43:09.520 business faster more predictably and
+00:43:10.920 less dependent on you check us out a
+00:43:13.000 predictable profits.com again this
+00:43:15.040 predictable profits.com this is Charles
+00:43:16.680 gdet with my new friend Jeff Woods and I
+00:43:18.800 will see you in another episode

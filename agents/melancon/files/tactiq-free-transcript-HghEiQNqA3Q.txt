@@ -1,0 +1,106 @@
+# tactiq.io free youtube transcript
+# Barry C. Melancon Discusses Artificial Intelligence - Conversations with Deborah Curry | FICPA
+# https://www.youtube.com/watch/HghEiQNqA3Q
+
+00:00:00.959 Hello. I'm Deborah Curry,your CEO of the FICPA and I
+00:00:06.076 want to welcome Barry Melancon,President and CEO of AICPA,
+00:00:11.125 Who's going to join us heretoday a quick conversation.
+00:00:14.517 Welcome, Barry.
+00:00:15.478 Deborah, it's great to bewith you. Thanks for having me.
+00:00:17.485 Well, we're honored to haveyou with us. And I want to say
+00:00:21.220 how intrigued I always am, byyour conversations with CPAs.
+00:00:26.639 Not only on the stateof the profession today,
+00:00:28.962 but where we're headed inthe future. And you're always
+00:00:32.466 addressing disruptivetechnologies, and within that,
+00:00:36.370 one of the maintechnologies you talk about,
+00:00:38.786 is artificial intelligence.
+00:00:40.801 So, could you share yourinsights on how you think
+00:00:43.793 artificial intelligenceis actually going to
+00:00:45.953 affect the CPA profession.
+00:00:49.097 Yeah, it's one of probablyfive major ones that are
+00:00:51.347 out there. Obviously blockchain, and we can say virtual
+00:00:53.572 reality, and augmentedintelligence and things of that
+00:00:56.572 nature. But, artificialintelligence, really is about taking
+00:01:01.969 learning to a different level.And it is really about how
+00:01:06.346 with the access to data,that certain determinations
+00:01:10.733 can be made. If we thinkabout the audit process,
+00:01:12.632 or even the tax process, andwhat we do as a profession,
+00:01:15.916 There is an aspect of, we takeinformation, we take data,
+00:01:20.182 and then we sort of makesome conclusions, or make
+00:01:22.368 recommendations, or in thecase of an audit we reach
+00:01:24.523 conclusions about accuracy.So artificial intelligence
+00:01:27.970 is already being used in someform, maybe some would argue
+00:01:31.291 a precursor of augmentedintelligence. But, artificial
+00:01:34.460 intelligence will allow us tolook at contracts, blockchain
+00:01:38.631 transactions, and beable to actually learn
+00:01:42.458 the accounting or tax aspectsof a certain set of a data.
+00:01:47.356 And that becomes, mightbecome, repetitive in a company
+00:01:50.084 and then to apply thatin a broader population.
+00:01:53.684 Artificial intelligenceis still hard to get done
+00:01:56.683 because you have to teacha system what it is that
+00:02:00.715 it needs to know. Or is hasto learn through a series
+00:02:03.388 of transactions. So withartificial intelligence, if you
+00:02:06.250 want something very simple,artificial intelligence to know
+00:02:09.499 something is a cat, you literallyhave to feed the machine
+00:02:14.423 thousands and thousands ofexamples, around the world,
+00:02:17.423 of, "this is a cat."
+00:02:18.983 Once that learning is there, it's there.
+00:02:22.359 And so the transitionperiod from worker to worker
+00:02:26.063 audit team to audit team,next generation's successors,
+00:02:31.126 you don't have that sameloss of knowledge with
+00:02:34.439 artificial intelligenceeither, so that's the other
+00:02:36.566 big part of it.
+00:02:37.863 And, do you see that theartificial intelligence will
+00:02:40.614 not only just be available tolarge companies, large firms,
+00:02:44.438 but it's actually going tobe developed such that it can
+00:02:47.494 help practitioners andcompanies at all levels.
+00:02:50.709 I just sat in a session, acouple of days before we're
+00:02:54.424 recording this, and we hadabout 60 different vendors
+00:02:58.965 that are providing differentcapabilities to the profession.
+00:03:01.998 One of the questions thatwe asked them to address
+00:03:03.926 was artificial intelligence.And everyone is looking
+00:03:07.710 at their services, at theirplatforms, and seeing how
+00:03:10.414 they can apply. So yes,it will come throughout
+00:03:13.347 I think one of the biggestconcerns that I have
+00:03:16.041 is related to theimplications of that audit.
+00:03:18.398 Is how do we take that andbring that to all size firms?
+00:03:21.630 There are about 15000 firmsthat do audits, a major issue,
+00:03:24.142 we call it "Auditing in the Future."
+00:03:26.093 And to able to build certainthings like big data and
+00:03:28.926 artificial intelligence,into a capability that's
+00:03:31.790 not just at the big firms,but in all the firms
+00:03:34.566 that choose to do auditing.
+00:03:36.104 Okay, so that means thatartificial intelligence is here,
+00:03:40.078 it's moving forward, and it'sgoing to be further developed
+00:03:42.830 and that we, as a profession,need to be adapting,
+00:03:46.506 paying attention, and accepting
+00:03:48.422 this kind of disruptive technology.
+00:03:50.108 No question about it.And it's going to happen
+00:03:52.082 probably quicker than people believe.
+00:03:54.442 You know, the Bill Gates saying is that
+00:03:56.865 "we tend to overestimatethe impact of technology
+00:03:59.962 in two years and underestimate it in 10."
+00:04:02.396 And I think that probablyapplies in the artificial
+00:04:04.857 intelligence segment. Butit will happen very quickly.
+00:04:08.433 And, we're gonna feel it in things first,
+00:04:11.402 like driverless vehicles, etcetera, which has a component
+00:04:14.447 of artificial intelligence.Ifyou think about it,
+00:04:17.185 a driverless technology,it has to recognize
+00:04:19.185 this is a green lightor a red light. And so,
+00:04:22.681 that is a notion ofthat capability, and so,
+00:04:26.647 we will feel it invarious ways in our life,
+00:04:29.068 in our technological interactions,but it clearly will be in
+00:04:33.017 business transactions as well.
+00:04:35.192 Wonderful. I know, thisis intriguing, and we
+00:04:36.856 could probably go onfor hours talking about
+00:04:38.967 artificial intelligence andhow it's going to affect
+00:04:40.895 us all. But certainly, whatthat means is that we need to
+00:04:43.495 stay tuned, there's moreto come, and that we as a
+00:04:46.679 profession need to be reallylooking into this as a
+00:04:49.783 major issue of how we'regoing to provide services
+00:04:52.431 to our clients in the future.
+00:04:54.175 Our success will be abouthow we adapt into all these
+00:04:56.951 technologies, and also, the speed.
+00:05:00.184 Excellent. Good words ofwisdom. Thank you for joining us.
+00:05:02.791 Thank you Deborah.
+00:05:03.695 Appreciate it.

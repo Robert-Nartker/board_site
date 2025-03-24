@@ -1,0 +1,1327 @@
+# tactiq.io free youtube transcript
+# Jody Padar, CPA, on Solving Accounting's Incentive Misalignment Using Radical Pricing
+# https://www.youtube.com/watch/zkzBbCiuKJQ
+
+00:00:00.080 the best way to get more profitable is
+00:00:02.040 always to change your pricing cutting
+00:00:03.919 costs only get you so far but when you
+00:00:06.240 think about profitability you always
+00:00:08.039 need to look at your pricing model yet
+00:00:10.160 why accountants haven't done that in the
+00:00:12.519 past is surprising to me I think you
+00:00:14.519 have to look at it as what do I want to
+00:00:17.680 do with my firm do I want to stay where
+00:00:20.720 I am today or do I want to build for the
+00:00:23.039 future because your competition is not
+00:00:26.279 the firm next door it's not a big firm
+00:00:28.800 across the country it's a technology
+00:00:31.119 company that's coming in and merging
+00:00:33.840 with Professional Services that is going
+00:00:36.239 to be your competition and I think so
+00:00:38.640 many firms don't even realize who their
+00:00:40.719 true competition is it's not like AI is
+00:00:43.200 going to take their jobs let's get rid
+00:00:44.600 of that thought it's the fact that the
+00:00:47.360 business model of the CPA firm is no
+00:00:49.600 longer relevant when you see private
+00:00:51.719 Equity coming in and buying up these
+00:00:53.960 firms when private Equity wants to exit
+00:00:55.960 who are they going to exit to it isn't
+00:00:57.320 going to be someone with a CPA license
+00:00:59.519 it's probably going to be an IPO or
+00:01:01.359 someone else right so the firm model is
+00:01:04.760 going away welcome to turpentine finance
+00:01:07.799 a podcast where we talk with top
+00:01:09.360 Founders and finance leaders about what
+00:01:11.200 it takes to architect success our guests
+00:01:14.040 speak candidly about big business
+00:01:16.159 inflections Market curveballs and how
+00:01:18.479 they approach decision-making so that
+00:01:20.479 you have the tactics and mental models
+00:01:22.360 for when the pressure is on I'm your
+00:01:24.479 host Sasha orlop founder CEO and
+00:01:27.280 self-professed finance nerd you ready
+00:01:29.600 let's St then I am thrilled today to
+00:01:33.520 welcome the radical CPA the Kim
+00:01:35.399 Kardashian of accounting a consistent
+00:01:37.479 top influential person in accounting
+00:01:40.040 Jodie hi so Jody started in tax at a
+00:01:44.439 public accounting firm and has been an
+00:01:46.119 outspoken advocate of bringing
+00:01:47.560 accounting into a digital age using Ai
+00:01:50.000 and automation she's experienced
+00:01:51.840 optimistic outspoken and I can guarantee
+00:01:54.840 this is going to be a fun conversation
+00:01:57.320 all right so let's go through some
+00:01:58.520 career highlights just to set the
+00:02:00.360 you are a three-time author the radical
+00:02:02.320 CPA success From Success to significance
+00:02:05.640 and you just finished your latest book
+00:02:07.759 called radical pricing in accounting and
+00:02:09.919 so this bold statement comes right from
+00:02:12.280 your book about pricing in the future
+00:02:14.879 from working in an old school firm to
+00:02:16.920 Leading a new firm for 14 years to
+00:02:18.879 working in Venture back technology
+00:02:20.360 startups I've gained multiple thoughts
+00:02:22.319 about the future through the lens and
+00:02:24.239 understanding I now truly understand the
+00:02:25.959 differences between technology companies
+00:02:27.519 that sell software and Professional
+00:02:29.120 Services firms and they are quickly
+00:02:30.800 evolving into one a new technology
+00:02:33.160 company that just so happens to be in
+00:02:34.640 the business of accounting and tax we
+00:02:36.280 need to understand how we use technology
+00:02:38.400 at the heart of our business and we'll
+00:02:39.760 only be successful if we can change our
+00:02:41.400 pricing to make sure we get paid what
+00:02:44.040 we're worth and clients get the value
+00:02:46.440 they desire so that is a big radical
+00:02:49.040 idea hence the title let's dive in Jody
+00:02:53.000 welcome to the show thanks for having me
+00:02:55.480 I'm so excited to be here all right
+00:02:57.560 let's go so you've worked as an
+00:02:58.879 accountant in a public accounting firm
+00:03:00.080 as a radio host as a Founder as a board
+00:03:01.840 member for tech companies like botkeeper
+00:03:03.560 Julene and April and you've written a
+00:03:05.319 few books so what do you think is wrong
+00:03:09.239 with accounting today so I think
+00:03:13.000 accounting firms don't have product
+00:03:14.840 Market fit so they were built in an old
+00:03:18.239 school way in an old world the world has
+00:03:20.720 changed significantly and it began when
+00:03:23.599 Cloud accounting started that there was
+00:03:25.760 definitely a disconnect in what
+00:03:27.440 consumers wanted to buy from accountants
+00:03:29.439 and what accountants were selling and
+00:03:31.280 it's only increased to make that divide
+00:03:34.840 huge and accountants are still selling
+00:03:37.200 what they used to sell in the year 2000
+00:03:40.280 and consumers don't want to buy it so
+00:03:42.159 there's a huge disconnect in the world
+00:03:44.319 and there's some new firm operators who
+00:03:46.920 are getting it and starting to get it
+00:03:50.000 but they haven't evolved as fast as they
+00:03:53.200 should and the reason they haven't
+00:03:54.840 evolved as fast as they should is
+00:03:56.239 because the technology companies who
+00:03:57.720 have created Technologies for
+00:03:59.040 accountants to use
+00:04:00.319 forget that it's a B2B Toc world and so
+00:04:04.920 they build technology for the CPA but
+00:04:08.000 they forget that ultimately those CPAs
+00:04:10.280 are serving the customer and so it's not
+00:04:12.680 consumer friendly so the accountants are
+00:04:14.760 stuck in the middle because the
+00:04:16.399 technology companies don't build us the
+00:04:18.320 software we need and the consumers want
+00:04:20.839 something different and so we're in this
+00:04:23.040 conundrum of like where do we go and
+00:04:25.680 accountants just want to serve their
+00:04:27.560 customers and you know it's a the
+00:04:29.800 chicken or the egg situation right do
+00:04:31.800 you change the CPA do you change the
+00:04:33.639 technology what happens first to get us
+00:04:36.479 to a world where we're all living
+00:04:37.960 happily together and the consumers like
+00:04:40.280 us and CPAs are happy doing advisory
+00:04:42.919 work and the technology just works can
+00:04:45.800 you solve that
+00:04:48.199 problem I don't know if I get it feels
+00:04:50.280 like this is a problem that we need to
+00:04:51.639 solve together as an industry what do
+00:04:54.160 you think were some of the driving
+00:04:56.160 inflection points that got us to where
+00:04:57.919 we are today
+00:04:59.880 so when I started years ago you know it
+00:05:03.160 was like 2010 I was a young firm owner
+00:05:07.120 and we started to use the cloud and what
+00:05:09.280 happened was is it was the internet that
+00:05:11.039 changed it real time is really the
+00:05:12.840 disruption it's not the software it's
+00:05:15.240 how do you work with as a CPA how do you
+00:05:17.680 work with a client in real time as a CPA
+00:05:20.319 you're trained as a professional to do
+00:05:22.319 the work and then someone comes on top
+00:05:24.080 of you and reviews it before anyone on
+00:05:26.560 the outside ever sees it right like and
+00:05:28.840 the real time was the disruption and
+00:05:31.199 what happened was the CPA never adapted
+00:05:33.360 to the real ESS they never figured out
+00:05:35.639 how to train they never figured out how
+00:05:37.280 to change their Professional Standards
+00:05:40.000 to meet the real-time world we live in
+00:05:42.440 and that's truly the problem it's real
+00:05:44.720 time it's not the technology it's not
+00:05:46.520 the CPA it's the real time that we need
+00:05:49.639 to figure out how to work together in I
+00:05:53.199 I have so many paths I want to go down
+00:05:55.000 but I I think what might be helpful in
+00:05:57.639 order to understand how you got to the
+00:06:00.639 place where you are today in your career
+00:06:02.560 is to start back a little bit from the
+00:06:04.360 beginning what was the reason why you
+00:06:08.360 got excited about accounting in the
+00:06:10.360 first place so it's funny because my dad
+00:06:14.400 was an accountant and this is a funny
+00:06:16.720 this is a funny story right so I grew up
+00:06:18.479 in a tax firm from the time I was six I
+00:06:20.960 you know I was part of a home office
+00:06:22.520 before they were trendy because my dad
+00:06:23.960 did 1040s at home at night right we used
+00:06:26.160 to go for ice cream in the station wagon
+00:06:27.919 during taxes and that was the only time
+00:06:29.400 I saw my dad so but I went to school and
+00:06:34.720 well in high school I liked accounting
+00:06:36.280 it clicked whatever when I went to
+00:06:37.960 college I wanted to be a psychologist
+00:06:40.319 which a lot of CPAs are psychologists
+00:06:42.639 they fill that role too and my dad said
+00:06:45.759 no I'm not paying for you to go to
+00:06:47.160 school you go to school to be an
+00:06:48.560 accountant like I'm gonna pay for
+00:06:49.720 something that's tangible right makes
+00:06:51.720 sense and so that's how I like I grew up
+00:06:54.440 in a firm right I grew up in a CPA firm
+00:06:56.879 and I went and I worked for
+00:07:00.319 what I would call traditional firms
+00:07:02.080 right seven Partners seven different
+00:07:04.360 ways of doing things and that's kind of
+00:07:06.080 where I cut my chops and I came off a
+00:07:08.400 really bad tax season and said okay like
+00:07:12.360 I'm not doing this anymore it wasn't
+00:07:14.000 conducive to My Life as a mother it
+00:07:16.599 wasn't working and I said there's got to
+00:07:18.240 be a better way and it just so happened
+00:07:20.280 that that was the time when technology
+00:07:22.360 was changing and the cloud was just
+00:07:24.960 starting to be popular and I realized
+00:07:27.400 that if you utilize technology different
+00:07:29.759 you could get your time back and you
+00:07:32.199 could actually innovate and and what
+00:07:35.199 happened was is because I had
+00:07:37.560 constrictions right like I I couldn't do
+00:07:39.800 everything because I had my young family
+00:07:42.360 at the time I did things differently and
+00:07:44.759 I iterated through changing the business
+00:07:47.199 model which nobody called it a business
+00:07:49.319 model at that point it was just I was
+00:07:51.240 running a CPA firm and I was doing
+00:07:52.919 things differently and as new technology
+00:07:54.800 came out I adopted it and played with it
+00:07:57.280 and then I realized you can't build two
+00:07:58.879 minutes so like I had to change my
+00:08:00.639 pricing structure and I had to figure
+00:08:02.720 out how the customer was going to be
+00:08:04.479 part of the firm because a lot of time
+00:08:07.520 with Cloud technology now they were
+00:08:09.000 doing the work that we used to do behind
+00:08:10.840 the scenes right so all of that stuff I
+00:08:13.080 just iterated through it to get to kind
+00:08:16.080 of where we are today and in in 2020 I
+00:08:19.280 sold my firm after owning it for 14
+00:08:21.520 years so and building it from really
+00:08:24.280 scratch I had a little bit of my dad's
+00:08:27.080 book but it it wasn't it it wasn't
+00:08:29.840 significant it was it just kind of
+00:08:31.440 evolved to be New Vision which was sold
+00:08:33.679 in 2020 and then o over the time as you
+00:08:36.360 were building your firm you talked about
+00:08:38.240 Innovation and and maybe thinking about
+00:08:40.559 sort of the cloud was there a driving
+00:08:42.919 theme behind what it was that you were
+00:08:46.000 trying to accomplish in your
+00:08:48.800 firm so it was the theme that I got to
+00:08:51.959 go home on time right so so so what I
+00:08:56.160 realized by utilizing these new
+00:08:57.959 technologies all of a sudden I had my
+00:08:59.640 time back payroll that used to take me
+00:09:01.480 hours pay cycle you know Renee ler he's
+00:09:04.399 bill.com founder right like he change he
+00:09:06.920 I always say he fundamentally changed my
+00:09:08.720 life because he invented the software
+00:09:10.480 called pay cycle where now the like the
+00:09:15.800 software just worked and it transferred
+00:09:18.360 payroll and basically instead of having
+00:09:20.279 to do all those forms that we used to
+00:09:22.000 have to do I had my clients enter the
+00:09:24.600 numbers and I build for it and I got
+00:09:26.800 paid to do payroll and all the CPA were
+00:09:30.200 caught in well I'm not going to pay I
+00:09:32.440 think it was like $29 a month at that
+00:09:34.560 time to pay for software that they
+00:09:38.320 didn't have to do anything with and I
+00:09:39.839 was like why I charged my clients more
+00:09:43.720 and I did
+00:09:45.320 nothing and they couldn't wrap their
+00:09:47.440 heads around not selling the work and
+00:09:51.360 instead of just selling the software
+00:09:53.079 that facilitated the work right and then
+00:09:55.480 what I did is I built advisory on top of
+00:09:57.519 it so then it was like well if you have
+00:09:59.560 a payroll question you call me you don't
+00:10:01.360 call them and the software did the work
+00:10:04.839 but I did the advisory for the software
+00:10:06.760 around it right and so that was the
+00:10:08.680 early days and then you know at that
+00:10:11.360 time the software only got better and
+00:10:13.720 better right so then into it QuickBooks
+00:10:16.600 well QuickBooks Online was there but
+00:10:18.040 when zero came in it made their software
+00:10:20.440 better because they pushed the market
+00:10:22.600 and so it was having the need for time
+00:10:26.880 and not wanting to work a Bazil ion
+00:10:29.519 hours a week because I couldn't work 12
+00:10:31.440 hours a day I had young kids at home
+00:10:33.160 that wasn't an option for me so I had to
+00:10:36.000 figure out how to make money and still
+00:10:38.360 go home on time and then what happened
+00:10:40.920 was is when I realized that this was
+00:10:43.720 great like I wanted to tell everyone
+00:10:45.880 about it because CPA had such a crappy
+00:10:49.000 lifestyle right it was like how could I
+00:10:50.959 tell my peers like hey you should do
+00:10:53.920 this because you're going to get to go
+00:10:56.040 home on time and you're still going to
+00:10:57.639 make money and unfortunately the
+00:11:00.399 profession saw me as a lifestyle
+00:11:02.240 business right well like you know it's
+00:11:04.000 not a real firm well my not a real firm
+00:11:06.480 was more profitable than your real
+00:11:08.959 firm so it was really just changing it
+00:11:12.639 and that's how I became kind of the Kim
+00:11:14.480 Kardashian spreading the word because it
+00:11:16.360 was about giving CPAs a better life and
+00:11:19.959 having them to to get to go home on time
+00:11:22.480 and not work the crazy hours that you
+00:11:24.279 know kind of the firm that I grew up in
+00:11:27.320 i i as I'm listening to you it's just
+00:11:29.560 sounds like something that makes sense
+00:11:33.720 you're still delivering the value to me
+00:11:37.560 or your clients which is I just want my
+00:11:40.000 payroll to run compliantly and on time
+00:11:43.320 whether you are spending three or four
+00:11:46.480 hours or six hours or 10 hours doing it
+00:11:48.600 manually or you click a button or it
+00:11:50.959 even just self runs along the way and
+00:11:53.360 you're over there then that doesn't
+00:11:55.680 matter to me I'm getting the value of my
+00:11:57.560 payroll is run and it's run the right
+00:11:59.000 way and there's somebody looking out to
+00:12:01.399 it what is holding people back what's
+00:12:05.200 the hold back for accountants I think
+00:12:07.240 it's because that's what they know how
+00:12:08.480 to do they know how to do the forms they
+00:12:10.320 know how to fill out the numbers and
+00:12:12.440 they they they didn't think Beyond it
+00:12:15.959 and they don't think in a sales way
+00:12:17.600 right like they're really technicians so
+00:12:20.600 a lot of that is like positioning in
+00:12:22.920 marketing and sales driven because I had
+00:12:25.480 to build my own book so when I joined my
+00:12:27.760 dad the first thing he said to me was go
+00:12:29.360 find your own clients I was like
+00:12:32.440 whoa a a and so if you're always used to
+00:12:35.600 being technical that's what you know and
+00:12:38.000 that's what you feel comfortable in and
+00:12:40.040 now you're asking them to kind of think
+00:12:42.079 a little bit differently have
+00:12:44.560 conversations that it's not that they're
+00:12:46.399 not capable of doing it that that
+00:12:48.240 they're just not used to that they
+00:12:49.560 haven't been trained on and so it's
+00:12:51.839 uncomfortable right so they they stick
+00:12:54.440 to what they know God it's like still so
+00:12:57.120 hard to wrap my head around I'm guessing
+00:12:59.240 you too because it gets really into the
+00:13:01.600 Crux of your latest book which is about
+00:13:05.199 selling outcomes versus selling time or
+00:13:08.000 so and it seems like it's sort of a a
+00:13:10.079 hard transition can you talk a little
+00:13:12.199 bit more about what was the impetus
+00:13:14.160 between between writing this as an
+00:13:16.320 actual book versus continuing to be just
+00:13:19.079 an outspoken Advocate
+00:13:20.800 online so I think what's been happening
+00:13:23.720 is there's a lot of people who are
+00:13:25.079 talking about pricing now right like
+00:13:26.959 they it's very trendy or topical in the
+00:13:30.800 conversation but I think there's still a
+00:13:34.120 lot of people who have tried to do
+00:13:35.839 pricing and they say it doesn't work
+00:13:38.079 well the reason pricing doesn't work is
+00:13:40.360 because it fundamentally changes your
+00:13:42.160 firm at its core and unless you're
+00:13:44.639 willing to do the work to change the
+00:13:47.199 backend pricing the old Services
+00:13:50.160 differently is like putting lipstick on
+00:13:52.199 a pig it's not going to change anything
+00:13:54.079 it's just going to make you frustrated
+00:13:55.519 your team frustrated and you're going to
+00:13:57.320 say you're going to lose money because I
+00:13:58.560 don't know how to price that or I can't
+00:14:00.199 price that it isn't until you actually
+00:14:03.560 change what it is you sell you
+00:14:05.560 productize your surf your your
+00:14:07.920 productize and standardize your
+00:14:09.480 offerings package them up and you say
+00:14:12.040 this is all I sell and this is who I
+00:14:14.000 sell it to that pricing works on a firm
+00:14:17.920 until you do that it's very hard to sell
+00:14:20.759 accounting services and the reason being
+00:14:22.759 is because they've always sold them by
+00:14:24.160 the hour so it didn't matter how the
+00:14:25.800 work came in someone would say oh I'm
+00:14:27.759 going to charge you $300 hour and you
+00:14:30.199 didn't have to be efficient you you just
+00:14:32.639 had to do the work and it didn't matter
+00:14:34.440 how you did it all the stuff for pricing
+00:14:37.480 to work in a firm has to be changed on
+00:14:40.000 the back end you can't just change the
+00:14:41.839 pricing and that's that's the business
+00:14:44.320 model change that's the hard part and so
+00:14:47.320 what's been happening over the last few
+00:14:48.839 years is everyone talks about pricing
+00:14:51.199 but nobody's actually gone into the
+00:14:53.160 Weeds on the backside that tells you all
+00:14:55.199 the things you need to do behind the
+00:14:57.000 scenes in your firm to actually make
+00:14:58.600 pricing work and that that's what my
+00:15:00.279 book is really about it's not just oh
+00:15:02.920 yeah put things in packages and you know
+00:15:05.079 call it gold silver whatever Platinum
+00:15:08.000 right it's actually okay what do you
+00:15:10.320 need to do with your Professionals in
+00:15:12.399 the back end so that they know how not
+00:15:14.079 to overwork a file what do you need to
+00:15:16.440 do with the the tools that you're going
+00:15:18.680 to use and how do you position those
+00:15:20.480 tools and how do you price to sell them
+00:15:23.040 what are you going to do with all the
+00:15:24.440 other things that happen in your firm so
+00:15:26.639 that it works right and for someone
+00:15:28.440 who's in Tech techology they'll say oh
+00:15:30.040 it's just productizing a service right
+00:15:31.720 like that's very common but in
+00:15:34.279 professional service firms it's unheard
+00:15:36.120 of right because they never productized
+00:15:38.560 anything so it it's just a different way
+00:15:41.160 of thinking it hey we'll get back to the
+00:15:43.399 conversation in a moment after a word
+00:15:45.160 from our sponsors quick math the less
+00:15:47.560 your business spends on operations on
+00:15:49.240 multiple systems on delivering your
+00:15:50.880 product or service the more margin you
+00:15:52.639 have and the more money you keep but
+00:15:54.839 with higher expenses on materials
+00:15:56.639 employees distribution and borrowing
+00:15:59.040 everything costs more so to reduce costs
+00:16:01.199 and headaches smart businesses are
+00:16:03.240 graduating to netsuite by Oracle
+00:16:05.839 netsuite is the number one Cloud
+00:16:07.279 Financial system bringing accounting
+00:16:09.519 financial management inventory HR into
+00:16:12.600 one platform that's one source of Truth
+00:16:15.560 with netsuite you reduce it costs
+00:16:17.399 because netsuite lives in the cloud with
+00:16:18.880 no Hardware required accessed from
+00:16:20.880 anywhere you cut the cost of maintaining
+00:16:22.759 multiple systems and improve efficiency
+00:16:24.720 by bringing all your major business
+00:16:26.199 processes into one platform slashing
+00:16:28.279 manual task and errors over 37,000
+00:16:31.360 businesses have graduated to netsuite so
+00:16:33.160 do the math and make the move startup
+00:16:34.959 Founders in exec running scaling
+00:16:36.319 businesses know all too well how easily
+00:16:38.240 their systems break down and expenses
+00:16:39.920 Skyrocket netsuite is a proven way to
+00:16:42.160 cut costs and boost performance and by
+00:16:44.279 popular demand netsuite has extended its
+00:16:46.120 one-of-a-kind flexible financing program
+00:16:48.079 for a few more weeks head to
+00:16:49.680 netsuite.com szen that's netsuite.com
+00:16:53.199 zen netsuite.com zen
+00:17:00.399 today I want to make a bit of a personal
+00:17:02.079 appeal to anyone working on a SAS app or
+00:17:03.920 website if you spend any time on the
+00:17:05.799 internet you probably have interacted
+00:17:07.119 with chatbots in the bottom right corner
+00:17:08.559 of sites most are really annoying AI is
+00:17:11.319 making them better but still I often
+00:17:12.839 just get really useless generic answers
+00:17:15.160 out of these and end up just wanting to
+00:17:16.720 talk to a real human it felt to me like
+00:17:18.959 AI shouldn't just make chat Bots
+00:17:20.319 marginally better at text responses but
+00:17:22.199 that they should enable a new type of
+00:17:23.599 web assistant something that feels like
+00:17:25.319 you're talking to a human support agent
+00:17:26.880 who is co-browsing alongside you command
+00:17:29.320 bar is building that user assistant
+00:17:31.080 companies embed it into their web app
+00:17:33.039 mobile app or website and they get a
+00:17:34.840 fully generative chatbot that can give
+00:17:36.360 personalized responses that refer to a
+00:17:38.080 user's past chats perform actions
+00:17:40.080 directly on behalf of the user like
+00:17:41.960 looking up account info and even start
+00:17:44.000 browsing alongside the user to show them
+00:17:45.760 how to do something like a tour guide it
+00:17:47.960 can also nudge users when they seem
+00:17:49.400 confused or frustrated I love when I
+00:17:51.200 encounter command bar in websites it's
+00:17:52.960 white labeled but at this point I can
+00:17:54.480 tell right away command bar already
+00:17:56.320 reaches more than 20 million end users
+00:17:58.080 with major customers like Hashi Corp
+00:18:00.039 Gusto freshworks 6 cents and more see
+00:18:03.760 for yourself at commandbar
+00:18:05.840 docomo or follow the link in the show
+00:18:10.919 notes I think if we take an analogy
+00:18:13.360 outside of accounting and we think back
+00:18:15.880 to an automation that most of us use
+00:18:19.360 pretty regularly not weekly is the ATM
+00:18:22.440 and if we look at the history we plot
+00:18:24.320 the history of ATM installation and
+00:18:27.159 Teller employment I think it's a good
+00:18:29.200 example where how automation can
+00:18:31.559 actually lower the cost of delivering a
+00:18:33.960 particular task but the flip side is it
+00:18:36.400 has allowed Banks to take on more
+00:18:38.760 customers and grow the category and
+00:18:40.960 provide a higher value added service to
+00:18:43.520 their customers and then we think sort
+00:18:46.159 of the the anyway so if we think about
+00:18:48.679 that what do you advice do you have for
+00:18:52.200 the counter argument which is yeah
+00:18:54.039 that's not like a good analogy this is
+00:18:56.679 this is my firm and I I might know this
+00:18:59.360 is the future but like I'm actually
+00:19:00.720 having trouble taking that first step so
+00:19:03.360 I think lots of CPAs would double count
+00:19:05.679 the cash that comes out of the machine
+00:19:07.840 and that's where they that that's where
+00:19:09.200 they get caught up that the the
+00:19:11.200 automation is doing all the work but the
+00:19:13.039 accountants don't trust it and they're
+00:19:14.520 double counting everything so even with
+00:19:16.840 the automation the accountants are
+00:19:18.640 double-checking everything and it's it's
+00:19:20.760 part of their nature so you have to help
+00:19:23.200 them get over that hurdle the funny
+00:19:25.480 thing about ATMs is so my daughter's 24
+00:19:29.320 so when she went into a bank for the
+00:19:31.760 first time she said hey Mom the teller's
+00:19:34.440 just like an ATM so like it's so funny
+00:19:38.320 because she didn't even know a world
+00:19:40.600 where an ATM didn't exist and that's
+00:19:43.080 what I think is going to happen you know
+00:19:45.880 in another 10 years where they won't
+00:19:47.799 even know the difference right so but
+00:19:50.919 but that's the thing is CPA want to
+00:19:52.600 double check everything they don't trust
+00:19:54.240 it and to be fair for many technologies
+00:19:57.640 that we've been we've been promised the
+00:19:59.480 world and then the technology didn't
+00:20:02.320 always live up to what was promised to
+00:20:04.000 us so so for them I think you know
+00:20:07.480 there's a little bit of skepticism that
+00:20:09.360 should be right and and you know is
+00:20:12.480 valid but at a certain point you have to
+00:20:15.919 trust things too so trust but verify
+00:20:19.280 trust but verify any specific examples
+00:20:21.960 of innovation if you think about over
+00:20:23.679 the past say 10 years or so that
+00:20:27.440 delivered on its promise or maybe even
+00:20:29.000 exceeded expectations and then anything
+00:20:31.159 that maybe doesn't exist anymore that
+00:20:33.039 set an expectation and hasn't been able
+00:20:34.679 to
+00:20:35.799 deliver so I think most software now
+00:20:40.760 like it's like that is rolled out to the
+00:20:44.000 market is solid enough but the problem
+00:20:47.240 is is because CPA live in this world of
+00:20:50.320 exceptions they want everything that has
+00:20:52.640 an exception and so they they don't even
+00:20:55.000 look at a technology unless it handles
+00:20:56.960 their specific exception
+00:21:01.240 and and so what what I did in my firm
+00:21:04.000 which I think they have to re kind of
+00:21:06.120 think how they think about technology is
+00:21:08.280 how do you use technology to get 85% of
+00:21:10.760 the way there and then use those only
+00:21:13.480 measure like the last 15% is the
+00:21:15.559 exceptions and that's where the human
+00:21:17.000 comes in and and fixes it or adjusts it
+00:21:19.600 or whatever but the problem is is most
+00:21:22.559 CPA say like oh we can't use it because
+00:21:26.000 it it it doesn't work for us instead of
+00:21:28.640 using it to get 85% of the way there and
+00:21:30.960 then you know just fixing it you know
+00:21:33.760 fixing the frosting on the top right so
+00:21:37.080 so I can't think of any like solid
+00:21:39.919 technology off the top of my head
+00:21:41.559 because I I think I'm a lot more
+00:21:44.120 forgiving than most CPAs but I guarantee
+00:21:47.360 whenever you show any sort of technology
+00:21:49.440 to a CPA they they always look for the
+00:21:51.880 exception to the rule instead of the you
+00:21:54.120 know doesn't do 95% of what I wanted to
+00:21:57.320 what do you think has held the industry
+00:22:00.120 back from automation more do you think
+00:22:01.880 it's do you think it's the software that
+00:22:03.760 has been trying to create or do you
+00:22:06.000 think it's fear where where if you to
+00:22:07.640 balance that on a scale of a 100 how
+00:22:10.240 would you how would you weight your
+00:22:11.440 pennies so I think it's not all the
+00:22:15.080 vendors fault I think we live in a
+00:22:17.400 deadline driven world and so for
+00:22:20.240 adoption to happen and planning and
+00:22:22.880 change management to ha happen in a firm
+00:22:25.919 you need the firm to participate and and
+00:22:28.600 you need the vendor to participate
+00:22:30.360 because we live between Seasons we live
+00:22:32.480 between tax season or we live between
+00:22:34.400 clothes right the vendors never have the
+00:22:37.679 opportunity to iterate fast enough to
+00:22:40.600 solve our problems and the CPA don't
+00:22:43.200 have the opportunity to adopt fast
+00:22:45.600 enough so I think it's an industry
+00:22:47.480 problem I don't think you can blame one
+00:22:49.400 side or the other it's kind of both
+00:22:51.840 together and then you know we've had
+00:22:54.600 these Legacy vendors for 30 it's only in
+00:22:57.279 the last two years three years that
+00:23:00.279 money has even come into the space that
+00:23:02.240 they want to kind of change things
+00:23:04.159 otherwise you know we're left with CCH
+00:23:06.559 Thompson into it and those are your
+00:23:08.840 choices and I'll say you get what you
+00:23:11.039 get and you don't throw a fit like what
+00:23:12.679 are you going to do if these are the
+00:23:14.159 tools that have been given to you you
+00:23:15.799 have to figure out how to work with the
+00:23:17.159 tools to do your job the best you can I
+00:23:21.840 you're saying that I'm I'm laughing as
+00:23:23.720 my me or my wife feet are are seven and
+00:23:26.600 nyear old it's like you get what you get
+00:23:28.200 and don't get upset it's like do you
+00:23:30.120 take it and that's that's what it is one
+00:23:32.440 of the things you mentioned before was
+00:23:34.640 that the the pandemic became a forcing
+00:23:37.360 function to have people have to move to
+00:23:39.440 be Cloud native in a world and so it
+00:23:41.720 wasn't the industry necessarily pushing
+00:23:44.480 forward as fast as it was it was a
+00:23:45.840 pandemic if we also then take a look at
+00:23:47.919 sort of some of the Wall Street Journal
+00:23:49.200 and the Ft reports is that accounting is
+00:23:51.320 becoming a decreasing major in declining
+00:23:54.640 major in college and a lot of people
+00:23:57.039 have sort of left the industry to pursue
+00:24:00.039 accounting adjacent or entirely other
+00:24:02.200 careers what do you think becomes the
+00:24:05.240 trigger point in which firms are able to
+00:24:09.840 adopt more automation or drives the the
+00:24:12.600 the industry to adopt more Innovation so
+00:24:14.960 I think the fact that you can't find
+00:24:16.520 people anymore now like a lot of people
+00:24:18.120 are going to IND the Philippines
+00:24:20.039 whatever to find talent because they
+00:24:21.840 they've run out of talent in the US but
+00:24:24.880 I think when you realize that automation
+00:24:28.440 can kind of supplement that which I
+00:24:30.360 think is a good thing that like firms
+00:24:33.120 are more open to different processes and
+00:24:37.000 to different tools and different
+00:24:39.000 automation so I think we're starting to
+00:24:41.679 get there because of a force constraint
+00:24:44.159 not because they thought about it or
+00:24:46.039 they wanted to be Innovative it's just
+00:24:48.279 at a certain point if this isn't working
+00:24:51.440 what do I do and I think that's why
+00:24:53.440 smaller firms too were Innovative faster
+00:24:56.120 because the talent problem has never
+00:24:58.399 never been like small farms have always
+00:25:01.840 had a talent problem because we can't
+00:25:03.399 recruit from the big universities so I
+00:25:05.600 think that's a lot of the reason too why
+00:25:07.320 small firms went to to technology faster
+00:25:10.440 because they couldn't find people
+00:25:11.880 whereas the big firms it's just now
+00:25:13.679 they're starting to have these problems
+00:25:15.640 that as a small firm owner you know
+00:25:17.279 we've had since the beginning of time
+00:25:20.480 because it's it's just you it's very
+00:25:22.120 hard to compete you know in in some of
+00:25:25.120 your either lessons or research in the
+00:25:27.520 in the book any sort of key insights
+00:25:30.760 that you can share either that were a
+00:25:33.520 surprise to you in sort of thinking
+00:25:35.720 about how to adopt pricing or some of
+00:25:38.399 the key insights you just want to share
+00:25:39.799 with the audience in general so I think
+00:25:42.480 the biggest thing for me was actually
+00:25:45.440 realizing that pricing was the problem
+00:25:48.279 as a whole that because I think when I
+00:25:51.679 built my firm I had I was changing my
+00:25:54.320 pricing as I built it right so it wasn't
+00:25:57.080 like I went back and put pricing on top
+00:26:00.039 of it and I think that was the big
+00:26:02.640 realization and the funny thing is is
+00:26:04.600 too is it makes sense because we're
+00:26:07.600 accountants we should know these things
+00:26:09.399 the best way to get more profitable is
+00:26:11.360 always to change your pricing like it
+00:26:13.880 cutting costs only gets you so far but
+00:26:16.360 when you think about profitability you
+00:26:18.120 always need to look at your pricing
+00:26:19.520 model yet why accountants haven't done
+00:26:22.039 that in the past is kind of surprising
+00:26:24.279 to me so I think it was surprising to me
+00:26:26.720 to realize when I went back and I kind
+00:26:28.720 of packaged everything that I've done
+00:26:30.640 over all these years and put it together
+00:26:32.399 I was like oh aha like duh
+00:26:36.120 like why why did it take me so long to
+00:26:38.960 realize that this was like the the key
+00:26:41.399 piece of it and and I'll say on the
+00:26:43.440 other side of it and you know Ron
+00:26:45.919 Baker's always said that the time sheets
+00:26:47.640 are the cancer and the firm that's the
+00:26:49.559 other side of it right like people can
+00:26:51.919 change their pricing but if you still
+00:26:54.039 track time if you still measure it
+00:26:56.240 that's what people go back to and they
+00:26:58.520 don't actually embrace a new way of
+00:27:01.320 doing things they don't Embrace The
+00:27:02.679 Innovation they don't embrace all the
+00:27:04.360 other good things that come with
+00:27:06.039 changing pricing if you're still
+00:27:07.799 tracking time and so that so that's the
+00:27:09.960 other thing I think that a lot of people
+00:27:12.039 don't want to hear but until you really
+00:27:14.200 cut off that time sheet you're still
+00:27:16.520 going to be like straddling and not
+00:27:18.960 really in the the the full opportunity
+00:27:23.360 of profitability that you could be if
+00:27:25.320 you just got rid of the time sheets if
+00:27:28.240 we think a a little bit about talking to
+00:27:32.240 the market right now which what what
+00:27:33.840 your book is doing is is trying to give
+00:27:35.679 people a blueprint and a Playbook on how
+00:27:38.200 to make that change and what was really
+00:27:40.880 nice about each chapter is broken down
+00:27:42.559 and there's some questions at the end to
+00:27:43.720 help challenge yourself and challenge
+00:27:44.960 your thinking and so is there any
+00:27:47.080 particular part in there if we're
+00:27:49.440 speaking directly to a firm owner who
+00:27:51.760 has been you know I have my book I build
+00:27:54.240 by the hour how do you start tactically
+00:27:57.440 making that
+00:27:58.840 transition to Value based pricing or
+00:28:01.440 value based outcomes so I think the
+00:28:04.080 first thing is you start with the
+00:28:05.279 clients that love you right so like
+00:28:07.159 start with your your fans you don't
+00:28:09.200 start with the people who are always
+00:28:10.880 giving you a problem right and I think
+00:28:13.559 the other thing you do is you really
+00:28:15.600 start to answer those questions and you
+00:28:18.360 think about it from the perspective of
+00:28:20.880 I'm a professional and I sell
+00:28:22.600 Professional Services and this is what
+00:28:24.720 my firm is good at and how we sell it if
+00:28:26.880 we look at the market as a whole
+00:28:28.519 everyone has kind of said oh well we're
+00:28:30.080 selling payroll and bookkeeping and tax
+00:28:32.600 returns well that's very superficial
+00:28:35.200 like it's a very superficial pricing
+00:28:37.120 model if you're a professional and you
+00:28:39.840 have superpower that you do something
+00:28:42.840 very particular that's what you should
+00:28:45.200 be kind of thinking about how you're
+00:28:47.279 going to position that so you
+00:28:48.919 differentiate yourself in the market and
+00:28:51.120 I think that's one of the key things
+00:28:53.120 that like most Professional Service
+00:28:55.960 firms haven't really conquered yet when
+00:28:59.519 you think about because they're
+00:29:01.559 professionals by Nature they have unique
+00:29:03.559 industry experience they have unique
+00:29:05.559 like they're very unique and and
+00:29:08.279 typically the firm is built around that
+00:29:11.600 Partners or if it's a bigger firm that
+00:29:14.360 partner that partner's strengths and
+00:29:17.159 what they kind of know in the
+00:29:18.720 marketplace right so I would encourage
+00:29:21.200 them to think about what it is that that
+00:29:24.039 professional person brings to the market
+00:29:27.000 and figure out how to amplify it and
+00:29:29.760 package those Services as really being
+00:29:32.320 unique and special and sell those versus
+00:29:36.519 just oh we sell accounting and payroll
+00:29:38.760 and tax because again how do you want to
+00:29:41.240 differentiate yourself in the market and
+00:29:43.279 that's what's going to bring the value
+00:29:44.840 up the price up and makes you someone a
+00:29:48.720 specialist or someone that you want to
+00:29:51.240 you know that consumer wants to talk to
+00:29:54.480 because it's different right because
+00:29:56.080 otherwise that that's the other thing
+00:29:57.880 that that most CPAs don't realize is the
+00:30:00.559 market doesn't really know if you're
+00:30:02.600 good or better than the CPA sitting next
+00:30:04.960 to you because we think oh well we're
+00:30:08.240 different because of this this and this
+00:30:10.120 but we never really have those value
+00:30:12.399 conversations or we express those things
+00:30:14.880 as to why we're unique and those are the
+00:30:16.880 things we need to think about and so
+00:30:19.159 when you go through the questions in the
+00:30:21.080 book I think what it does is it kind of
+00:30:22.840 lays that out so if you haven't
+00:30:24.919 necessarily thought about what makes you
+00:30:26.720 special or unique or your firm different
+00:30:29.320 it kind of gives you that opportunity to
+00:30:31.440 write all those things down that then
+00:30:33.240 you can go back to either your marketing
+00:30:34.880 team or you know think about how you're
+00:30:37.200 going to Market what makes you
+00:30:40.000 special hey we'll get back to the
+00:30:41.880 conversation in a moment after a word
+00:30:43.559 from our
+00:30:44.720 sponsors fast forward to the end of 2024
+00:30:47.880 think about your goals what can you do
+00:30:49.799 right now to give yourself the best
+00:30:51.039 chance of succeeding if learning a new
+00:30:53.120 language is on your list you absolutely
+00:30:55.039 need to check out Babel Babel offers a R
+00:30:58.159 of learning tools self-study app lessons
+00:31:00.679 live classes and even podcasts which
+00:31:03.240 have always been my favorite way to
+00:31:04.399 learn studies from Yale Michigan State
+00:31:06.960 University and others continue to prove
+00:31:08.799 Babel is better one study found that
+00:31:10.919 using Babble for 15 hours is equivalent
+00:31:13.039 to a full semester at College Babble
+00:31:15.240 isn't just a game to kill time and make
+00:31:16.960 you feel like you're learning a language
+00:31:18.679 it's not overly academic or rigid either
+00:31:21.399 it's all about learning language for the
+00:31:22.799 real world Babel stands out because it's
+00:31:25.200 designed by real people using a modern
+00:31:26.960 conversational teaching approach it's
+00:31:29.000 not always easy nothing worth doing ever
+00:31:31.000 is but it's straightforward and designed
+00:31:33.159 to help you start speaking in just 3
+00:31:34.960 weeks with Babel I was able to brush up
+00:31:37.200 on my intermediate Spanish to ramp up
+00:31:38.799 for travel to Argentina last year and
+00:31:40.840 was able to set clear goals based on how
+00:31:42.480 much time each week I wanted to practice
+00:31:44.919 join millions of Babel language Learners
+00:31:46.679 across all age groups here's a special
+00:31:49.039 limited time offer for our listeners
+00:31:51.200 right now get up to 60% off your Babel
+00:31:53.399 subscription but only at babel.com
+00:31:56.000 torenberg that's babel.com / torberg
+00:31:59.279 spelled
+00:32:00.360 babbel.com
+00:32:02.000 torberg rules and restrictions May
+00:32:06.799 apply I I I generally find the first one
+00:32:10.519 is always the hardest whether it's your
+00:32:12.320 first partnership or your first step out
+00:32:15.360 of the plane when you're skydiving or
+00:32:17.519 whatever that thing your first step in
+00:32:19.080 Journey and onour if we think about just
+00:32:22.120 getting that first Conversation Over The
+00:32:25.559 Line do you think that it makes sense to
+00:32:30.279 kind of try and offer the same price but
+00:32:32.960 just convert it like if you Bill by the
+00:32:34.880 hour and look back and say what are some
+00:32:36.799 just very tactics of how to get started
+00:32:38.240 on that very first conversation say
+00:32:39.519 listen I'm going to match the average
+00:32:41.200 price you paid I want to make it a fixed
+00:32:42.600 price um along the way I don't bill by
+00:32:45.039 the hour what what's that can you walk
+00:32:46.880 me through pretend I'm the client what's
+00:32:48.399 that first conversation so the funny
+00:32:50.720 thing is is a lot of CPAs are already
+00:32:53.200 doing fixed pricing in their tax work
+00:32:55.159 anyways they just don't call it that
+00:32:57.000 right so if you look at a tax return if
+00:32:59.639 you've all if let's just say you're
+00:33:01.080 selling a tax return by itself a lot of
+00:33:04.200 times CPA's just say oh what did we Bill
+00:33:06.840 them last year right and then they maybe
+00:33:09.039 up the price a little bit but that's it
+00:33:10.919 they don't really change it they don't
+00:33:12.240 really look at what was done differently
+00:33:14.159 this year or not right so in effect
+00:33:16.200 you've already been fixed pricing it you
+00:33:18.080 just didn't tell your customer it was a
+00:33:19.600 fixed price right so so that first step
+00:33:22.519 might be just be like hey take a chance
+00:33:25.440 and next
+00:33:26.760 year send out all your invoices in
+00:33:28.960 January and see who pays right before
+00:33:31.840 you do those tax returns you'd be
+00:33:34.159 surprised and and if you want to
+00:33:35.760 increase it a little bit increase it a
+00:33:37.159 little bit without even like looking at
+00:33:39.039 the differential of what's really
+00:33:40.440 changing and the CP will say well you
+00:33:43.120 know there's going to be you know
+00:33:45.279 someone who's going to come in who's
+00:33:46.519 going to have a major transaction and
+00:33:48.760 that's going to be different and you can
+00:33:51.399 always put in there a clause that says
+00:33:53.120 based on you know last year we believe
+00:33:56.320 this is you know
+00:33:58.240 you could put in some sort of caveat
+00:34:00.080 language right so that if you do have
+00:34:02.279 someone that had some crazy real estate
+00:34:04.519 transaction that now is outside of the
+00:34:06.679 scope of your regular you know your
+00:34:08.679 regular work you can step back and you
+00:34:10.280 can tell the client hey look this was
+00:34:12.119 unique and different and whatever so
+00:34:14.359 there's lots of ways to kind of inch
+00:34:16.960 your way through this but the
+00:34:19.239 interesting thing about that is is CPA
+00:34:21.399 forget that the cash flow value of
+00:34:23.440 having all that money come in in January
+00:34:26.040 is huge to them
+00:34:28.320 that they don't they don't even think
+00:34:29.839 about it and and and that was one of the
+00:34:32.520 things that I like did when I started
+00:34:34.440 the reason I started pricing up front
+00:34:36.239 was because I joined my dad in June and
+00:34:38.879 he's like go find your own clients and I
+00:34:40.960 was like well tax season's not till next
+00:34:43.159 year I got to figure out a way to get
+00:34:45.359 paid before next you know April and so I
+00:34:49.000 was like well I'm going to charge them
+00:34:50.119 upfront and so be my my Billy M right
+00:34:53.560 there's lots of different ways to do
+00:34:55.280 that and the other way you can do it is
+00:34:56.839 just start buck getting your clients and
+00:34:58.839 then like you kind of see how they they
+00:35:01.920 fall out because I would argue that most
+00:35:03.880 of you most firm owners already kind of
+00:35:07.400 have verticals that they kind of work
+00:35:09.640 with even though they haven't
+00:35:10.680 necessarily sorted them out as such and
+00:35:13.000 look at what you've build them over the
+00:35:14.320 last three years and see what the
+00:35:15.760 differences are and kind of start there
+00:35:18.839 but there's definitely practical ways to
+00:35:22.079 approach it it's just you got to get
+00:35:24.520 started and that's the part that most
+00:35:27.160 CPA kind of fall back on because they're
+00:35:30.040 so busy they don't have time you know
+00:35:32.599 there's always an excuse as to why why
+00:35:34.880 they can't change the prize at the end
+00:35:37.880 just seems to be either the same amount
+00:35:40.520 of money with a higher margin and less
+00:35:42.480 opportunity or the ability to do less
+00:35:44.839 work per client and take on more clients
+00:35:47.359 and expand the practice I'm guessing
+00:35:49.359 different firms will fall into different
+00:35:51.400 buckets either I'm like kind of good and
+00:35:53.760 it is lifestyle business or I'm trying
+00:35:56.000 to grow how should an existing firm and
+00:35:59.880 how should a new firm think about how
+00:36:03.079 technology and maybe AI can come into
+00:36:06.280 play with their firm and their pricing I
+00:36:09.640 think the cool thing about AI is it
+00:36:11.680 should be taking you less time to do the
+00:36:13.440 work that you're currently doing so by
+00:36:15.880 utilizing that technology you already
+00:36:18.040 have less uh less teamwork on that
+00:36:21.599 specific job because the technology
+00:36:23.520 should pick up the slack right so that
+00:36:26.480 that's cool so so you need to think
+00:36:28.319 about that but you also need to think
+00:36:30.280 about how you're going to build for this
+00:36:32.359 technology if you haven't changed your
+00:36:33.839 pricing are you going to build for a
+00:36:35.560 millisecond I used to say how do you
+00:36:37.000 build two minutes in the cloud well like
+00:36:38.880 AI is like you know not even a second
+00:36:42.000 and it's going to give you all this work
+00:36:44.079 so you have to change something it
+00:36:46.520 doesn't it doesn't it doesn't work
+00:36:48.480 without changing it right so I think you
+00:36:50.880 just have to look at it as an
+00:36:52.480 opportunity and I think you have to look
+00:36:54.640 at it as what do I want to do with my
+00:36:58.040 firm do I want to stay where I am today
+00:37:01.359 or do I want to build for the future
+00:37:03.200 because your competition is not the firm
+00:37:06.440 next door it's not a big firm across the
+00:37:08.960 country it's a technology company that's
+00:37:11.960 coming in and manage and merging with
+00:37:14.520 Professional Services that is going to
+00:37:16.800 be your competition and I think so many
+00:37:19.319 firms don't even realize who their true
+00:37:21.359 competition is you have the pilots of
+00:37:23.720 the world you have all these new stealth
+00:37:26.640 startups that are
+00:37:28.359 specifically targeting one piece of what
+00:37:32.079 accountants sell and they're building a
+00:37:35.480 product Market fit for it that is it's
+00:37:38.960 crazy when you think about it but it's
+00:37:41.119 also like exciting because like it's gon
+00:37:43.720 to make CPAs up their game and it it it
+00:37:47.200 has
+00:37:48.079 to it's um I I I saw on LinkedIn you you
+00:37:52.119 posted a poll that said do you think
+00:37:54.000 bookkeeping firms will exist in 2030 and
+00:37:57.520 24% of the respondents said no why why
+00:38:00.800 do you think why do you think so many
+00:38:02.640 people responded this way so it's not
+00:38:06.359 that they're going to go away from a
+00:38:08.599 professional standpoint it's the firm
+00:38:10.720 business model is going to go away right
+00:38:12.359 so it's not like AI is going to take
+00:38:14.000 their job so let's like like let's get
+00:38:16.000 rid of that thought it's the fact that
+00:38:18.680 the business model of the CPA firm is no
+00:38:21.119 longer relevant when you see private
+00:38:23.280 Equity coming in and buying up these
+00:38:25.440 firms when private Equity wants to exit
+00:38:27.560 who are they going to exit to it isn't
+00:38:28.880 going to be someone with a CPA license
+00:38:31.079 it's probably going to be an IPO or
+00:38:32.920 someone else right so the firm model is
+00:38:36.280 going away the partnership model never
+00:38:38.599 worked anyways like Partnerships
+00:38:41.079 inherently have you know so many flaws
+00:38:43.520 with them and so my my thought is is
+00:38:47.359 that F like companies we'll call them
+00:38:50.079 accounting companies are going to now be
+00:38:53.640 the
+00:38:54.440 deliverer of accounting and tax service
+00:38:57.560 services and CPA need to think about how
+00:39:01.599 we protect the profession as a whole and
+00:39:04.599 not the firm because I I the aicpa I
+00:39:08.119 believe you know now granted they get
+00:39:10.400 paid by all the firms so you have to
+00:39:11.920 remember who's paying them but they're
+00:39:15.400 protecting the firm or they're thinking
+00:39:17.040 about the firm and I'm saying what
+00:39:19.160 happens when all those firms get eaten
+00:39:20.760 up or go away who's going to protect the
+00:39:23.319 profession and I love our profession I
+00:39:25.520 think CPA are huge they offer a ton of
+00:39:28.640 value to the public and so how do we you
+00:39:32.480 know maintain that CPA are able to still
+00:39:36.160 deliver an ethical product and you know
+00:39:38.480 they they keep all their the all the
+00:39:41.160 things that we kind of we we believe and
+00:39:44.400 that they still have a place in these
+00:39:46.240 new accounting companies where they're
+00:39:47.880 just delivering Services which again the
+00:39:51.520 professional is not going away it's just
+00:39:54.240 the you know the corporate governance
+00:39:56.240 that I think is going to change and
+00:39:57.880 we've already seen it changing I mean
+00:39:59.280 you look at the big firms how many of
+00:40:01.079 them are are being eaten up by private
+00:40:02.880 equity on that thought process let's say
+00:40:05.800 you had a a magic wand and you could
+00:40:09.000 make three changes to the accounting
+00:40:12.760 industry today whether it's because
+00:40:15.680 you're deemed the new chair of the board
+00:40:17.920 of the aicpa or you got found a what is
+00:40:21.119 a lamp in the desert and you rubbed it
+00:40:22.720 and you got the genie whatever it
+00:40:23.880 happens to be but you have the magic
+00:40:25.400 wand to say there's 's no hesitation
+00:40:28.160 there's no fear these are the three
+00:40:30.520 changes that I'm making to make
+00:40:32.400 accounting exciting and relevant in the
+00:40:34.319 future to make firms whatever that sort
+00:40:36.240 of thing is what what's the goal and
+00:40:37.520 what were the changes that you'd make so
+00:40:40.640 I think I would make all the old school
+00:40:43.680 partners and everyone who's been in the
+00:40:45.520 industry for a long time go back and
+00:40:47.480 take like a data analytics class and
+00:40:49.960 like really learn what technology does
+00:40:52.119 and the power of it right because they
+00:40:54.520 talk about it but they really have no
+00:40:56.920 understanding or concept of it and how
+00:40:58.640 it could actually help their business
+00:41:00.240 the businesses that they advise if they
+00:41:02.160 really understood its capabilities so I
+00:41:04.760 would re-educate the old school
+00:41:06.800 profession right then I would take the
+00:41:10.599 next gen and I would make like a
+00:41:13.280 mandatory rule that says you do not work
+00:41:16.240 more than 50 hours a week during busy
+00:41:18.079 season right like that's it and say okay
+00:41:21.440 the rule is whatever you know you're
+00:41:23.880 going home at 50 hours and that's busy
+00:41:26.599 season which is is from January mid
+00:41:29.119 January to April 15th busy season isn't
+00:41:32.040 the whole year there's no extra sent
+00:41:34.359 like I I'm not saying you can't have a
+00:41:36.800 busy season because that's like telling
+00:41:38.240 a gardener he can't like work in the
+00:41:40.400 spring but you that busy season is a
+00:41:44.280 limited period of time right and then I
+00:41:48.040 would invite in the technology vendors
+00:41:51.880 and the and I would actually give them a
+00:41:54.240 seat at the table to help us build tools
+00:41:56.880 together because this dis this
+00:42:00.440 disjointed industry that we live in is
+00:42:03.359 not helpful to anyone and instead we
+00:42:06.640 seem to be fighting ourselves instead of
+00:42:08.960 actually moving the profession forward
+00:42:11.760 and actually helping the end user who's
+00:42:13.640 the customer who at the end of the day
+00:42:15.760 why are CPA's around to make financial
+00:42:18.000 statements so that investors can make
+00:42:19.960 good Investments so if you think about
+00:42:22.359 CPA's core purpose and I'm not saying
+00:42:25.000 audited financial statements even like
+00:42:27.160 everyday financial statements the reason
+00:42:29.119 you want a CPA or a CFO on your team is
+00:42:32.000 so that you know that you have trust in
+00:42:34.559 the numbers that you have and you know
+00:42:36.680 that if you're taking outside investment
+00:42:38.440 or investors have trust in the numbers
+00:42:41.079 that are coming that are that are given
+00:42:43.720 right they're verified and they're
+00:42:44.839 trusted right and so until we have like
+00:42:48.520 kind of this this thing working together
+00:42:52.359 that that that's what our our job is
+00:42:54.720 right and instead it seems like we just
+00:42:57.200 keep fighting each other and you know
+00:42:59.720 there's and so so that's what the CPA
+00:43:02.640 profession needs to kind of continue to
+00:43:04.520 do in the future and you know I want us
+00:43:07.119 to be relevant I I spent too many time
+00:43:09.200 too many hours studying for that exam so
+00:43:11.920 I I I think if we let's take a future
+00:43:14.520 State let's I want to paint a a future
+00:43:16.720 vision of the accountant client
+00:43:18.839 relationship whether you have your own
+00:43:20.480 firm or whether you're in-house inside
+00:43:22.200 of a a
+00:43:23.480 company let's just say we're able to
+00:43:27.160 automate and generate those financial
+00:43:29.079 statements to a high degree of accuracy
+00:43:31.319 whatever that threshold is the
+00:43:33.200 accountant they just say they can still
+00:43:35.079 double check and look everything let's
+00:43:36.480 just say we were're able to magically
+00:43:38.480 get that down to a fairly minimal amount
+00:43:41.280 of effort and pricing could stay the
+00:43:43.800 same say there's there's no change to
+00:43:45.720 the client on the end pricing it's just
+00:43:47.839 changed what do you think the future
+00:43:50.240 relationship between the accountant and
+00:43:53.319 the end client should
+00:43:55.920 be well well it should be stronger and
+00:43:58.559 it should be more humid right so the
+00:44:00.960 reason customers are frustrated with
+00:44:03.359 their accountants is because they feel
+00:44:04.680 like they don't get time they feel like
+00:44:07.000 that that they don't have the FaceTime
+00:44:08.640 that they need or the calls that they
+00:44:10.000 need or the advisory services that they
+00:44:12.079 need and the reason is is because CPAs
+00:44:14.280 are so busy doing the work and trying to
+00:44:16.319 get it right that they don't always have
+00:44:18.440 the bandwidth to help their customer
+00:44:20.839 right in the way that they should if
+00:44:22.839 automation does all this work now you
+00:44:25.720 can be the human advisor that you should
+00:44:27.760 be and really help your client and you
+00:44:30.559 have to remember you're going to be
+00:44:31.720 walking alongside them and CPA has
+00:44:34.200 learned how to do this during covid you
+00:44:36.599 know they were the financial First
+00:44:37.920 Responders when the rules were changing
+00:44:39.680 quick everybody was looking to their
+00:44:41.520 CPAs to help them guide them through
+00:44:43.480 regulations that weren't even finalized
+00:44:45.400 before right like they weren't even
+00:44:46.839 official and we were walking like that's
+00:44:49.400 what CPAs do really well is they make
+00:44:51.520 the complex easy to understand and so
+00:44:54.960 that's what that relationship should be
+00:44:57.559 and it should be walking alongside your
+00:44:59.480 business owner helping them make the
+00:45:01.440 financial decisions that they want and
+00:45:03.559 know you're I always say you're in their
+00:45:05.119 financial underwear drawer right that
+00:45:07.200 you know the detail you didn't
+00:45:09.359 necessarily tick and tie at all but you
+00:45:11.079 know the
+00:45:12.160 detail and you can help them make good
+00:45:14.720 business decisions and that they can
+00:45:16.640 feel confident and that their numbers
+00:45:18.520 are are solid and they're they're making
+00:45:20.680 the right decisions that's what a CFO or
+00:45:23.280 an accountant like if you consider like
+00:45:25.359 a CPA who's working as an adviser should
+00:45:27.359 be should be doing it's one of those
+00:45:29.720 things that I I think also could help
+00:45:32.359 invigorate a lot more excitement into
+00:45:34.400 the profession going forward there are a
+00:45:36.680 lot of people in college now thinking
+00:45:38.960 about what the major is there's a lot of
+00:45:40.440 people who like accounting it structure
+00:45:43.079 it's predictability to some degree it's
+00:45:45.079 like it makes sense and and so I think
+00:45:48.480 as we come along and evolve the
+00:45:51.280 profession evolves whether it's because
+00:45:52.480 of automation or some third party or
+00:45:54.040 some
+00:45:55.280 regulation the world of of running a
+00:45:58.200 business is much more um volatile now
+00:46:01.559 than it's ever been before and you have
+00:46:04.400 people who have studied to become an
+00:46:06.520 expert in the language of business how
+00:46:09.280 all these things fit together how to
+00:46:11.599 understand what's changing what are the
+00:46:13.359 business drivers and I always found that
+00:46:16.880 I don't really care how or when or what
+00:46:21.359 method the financial statements get
+00:46:23.079 generated I want to have a conversation
+00:46:24.880 after it's over because building a
+00:46:27.000 business is part art and part science
+00:46:28.960 and the science part is just getting
+00:46:30.599 that financial statement there the art
+00:46:32.079 part is well what do we do if this is a
+00:46:34.160 reality of a business what do we do and
+00:46:35.880 things change so fast we have a pandemic
+00:46:38.200 interest rates change debt becomes
+00:46:39.760 available Equity becomes available
+00:46:41.319 industry gets hot and gets all these
+00:46:42.960 Investments how do we provide confidence
+00:46:46.079 to the industry that you can and I'd
+00:46:49.760 actually frankly pay more for that like
+00:46:51.760 the thought of paying somebody to do the
+00:46:54.040 same work month over month to track all
+00:46:56.440 these things together manually just
+00:46:58.640 feels frankly it feels wrong I I'm
+00:47:00.839 probably biased as like a you know a
+00:47:02.240 software founder along the way but but
+00:47:04.359 those last conversations about what this
+00:47:06.599 means and how do I make my business
+00:47:08.520 better is the part that I think is this
+00:47:11.119 really big opportunity that is getting
+00:47:13.839 seeded away from accountants to finance
+00:47:17.520 people and strategic investors and or
+00:47:20.040 strategic strategic Finance people and
+00:47:22.400 business partners who are making these
+00:47:24.520 decisions how do we get account
+00:47:27.520 back into these rooms and leading these
+00:47:29.839 conversations instead of sometimes not
+00:47:31.839 even involved in these conversations or
+00:47:33.359 not having these conversations right
+00:47:35.280 which is unfortunate right because a lot
+00:47:37.599 of times you know people come in who
+00:47:39.839 don't even understand the financials and
+00:47:41.400 are giving advice
+00:47:43.720 like they they and it's like whoa whoa
+00:47:47.000 but I think it's it's training the
+00:47:49.119 accountants right so remember like real
+00:47:51.559 time was the disruption well guess what
+00:47:53.880 CPA never fixed their training after
+00:47:56.440 real time time disrupted the industry 20
+00:47:58.240 years ago they never really went back to
+00:48:00.640 case studies which I think is really
+00:48:02.599 kind of like how do you use this
+00:48:04.359 information to tell stories how do you
+00:48:06.920 really help people understand what this
+00:48:09.079 information is now Partners get it
+00:48:11.040 because they had so many years of
+00:48:12.839 experience and so they they understand
+00:48:15.160 the relationships because they've been
+00:48:16.559 around the block right but that next
+00:48:18.839 Generation they don't necessarily get it
+00:48:21.200 because they haven't had all the
+00:48:22.800 connections being made so you have to
+00:48:24.800 train them differently and we haven't
+00:48:26.800 train them differently so the first
+00:48:28.400 thing we need to do is we really need to
+00:48:30.440 teach them a different way of having
+00:48:33.240 conversations because right now all
+00:48:34.880 they've learned is technical they
+00:48:36.280 haven't learned the art of the story
+00:48:38.400 they haven't learned the art of the case
+00:48:40.440 study or all of that and so I think I I
+00:48:43.800 think that's the onus on well on the
+00:48:46.760 profession as a whole to like go back
+00:48:48.640 and say look real time disrupted our
+00:48:50.599 profession 20 years ago we never that I
+00:48:53.040 mean that was the beginning of our
+00:48:54.119 conversation right we never changed the
+00:48:56.400 way we trained our professionals and
+00:48:59.920 maybe that's what we should do maybe we
+00:49:01.960 should rethink about how we're training
+00:49:04.200 them and give them the skills that they
+00:49:05.760 need and and I would argue and this was
+00:49:08.440 again you know there's a lot of hubbub
+00:49:10.119 around the 150 hour rule when Anderson
+00:49:12.880 started Anderson Consulting they hired
+00:49:15.640 English majors and history majors and
+00:49:17.440 they taught them the financials they
+00:49:19.760 hired liberal arts people they didn't
+00:49:21.880 hire accountants and so maybe again
+00:49:25.119 that's the thing maybe we go to hiring
+00:49:27.440 if there aren't enough accountants in
+00:49:28.720 the world maybe we go find those music
+00:49:30.680 Majors those history majors those
+00:49:32.839 English majors and we teach them the
+00:49:35.119 business of accounting and then we teach
+00:49:37.440 them how to be really good advisers and
+00:49:39.599 again this is stuff like you have to
+00:49:41.680 think outside the box if you don't have
+00:49:44.040 talent so what are we going to do to
+00:49:46.880 kind of change it up well it sounds like
+00:49:49.319 we have an idea for book number four but
+00:49:51.920 in the meantime where can people find
+00:49:55.079 you and where can they find your new
+00:49:57.400 book so you can find me online and
+00:50:00.720 Linkedin is probably the best place to
+00:50:02.720 connect with me you know follow me you
+00:50:04.599 can reach out to connect to me there as
+00:50:06.280 well and then my book is being sold at
+00:50:08.440 cpat Trend lines.com and CPA trendlines
+00:50:12.119 is an amazing publisher Rick telberg
+00:50:14.040 runs it it has a lot of different books
+00:50:17.240 all about accounting in general so
+00:50:19.720 they're really like if you want to learn
+00:50:22.240 how to review a tax return you can buite
+00:50:23.920 that book there as well so it's really a
+00:50:25.960 great little book
+00:50:27.280 awesome and we will link to it in a show
+00:50:28.920 notes Jody thank you so much for being
+00:50:30.720 so generous with your time and your
+00:50:32.119 advice and writing and being an advocate
+00:50:34.720 for bringing accounting into the future
+00:50:37.240 we all appreciate it awesome thank you
+00:50:40.760 bye thanks for tuning in to turpentine
+00:50:42.680 Finance share with your executive team
+00:50:44.559 direct reports friends and family if you
+00:50:46.920 want to support the show the best ways
+00:50:48.400 are to leave a review wherever you're
+00:50:49.880 listening and subscribe turpentine
+00:50:52.040 Finance is part of turpentine the
+00:50:53.760 podcast Network behind Moment of Zen
+00:50:55.880 turpentine DC age of Miracles and more
+00:50:58.799 shows for experts by experts in Tech

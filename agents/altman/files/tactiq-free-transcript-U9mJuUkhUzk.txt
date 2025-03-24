@@ -1,0 +1,1524 @@
+# tactiq.io free youtube transcript
+# OpenAI DevDay, Opening Keynote
+# https://www.youtube.com/watch/U9mJuUkhUzk
+
+00:00:01.769 joining us today.
+00:00:03.705 Please welcome to the stage Sam
+00:00:07.609 Altman.
+00:00:07.842 [music]
+00:00:11.713 [cheers and applause]
+00:00:15.883 >> Good morning.
+00:00:16.250 Welcome to our first ever
+00:00:17.986 OpenAI DevDay.
+00:00:18.319 We're thrilled that you're here
+00:00:21.823 and this energy is awesome.
+00:00:23.891 [cheers and applause]
+00:00:27.729 And welcome to San Francisco.
+00:00:29.731 San Francisco has been our home
+00:00:30.365 since day one, the city is
+00:00:32.100 important to us and to the tech
+00:00:33.935 industry in general.
+00:00:34.369 We're looking forward to
+00:00:36.070 continuing to grow here.
+00:00:37.839 So we've got some great stuff to
+00:00:40.074 announce today, but first, I'd
+00:00:42.010 like to take a minute to talk
+00:00:44.012 about some of the stuff that
+00:00:44.579 we've done over the past year.
+00:00:46.014 About a year ago, November 30th
+00:00:49.984 , we shipped ChatGPT as a
+00:00:51.986 low-key research preview, and
+00:00:53.988 that went pretty well.
+00:00:55.757 [laughter]
+00:00:56.024 In March we followed that up
+00:00:59.761 with the launch of GPT-4,
+00:01:00.294 still the most capable model out
+00:01:02.163 in the world.
+00:01:05.767 [applause]
+00:01:09.771 And in the last few months, we
+00:01:11.973 launched voice and vision
+00:01:13.775 capabilities so that ChatGPT
+00:01:14.342 can now see, hear, and speak.
+00:01:19.914 [applause]
+00:01:20.181 There's a lot, you don't have to
+00:01:22.083 clap each time.
+00:01:22.450 [laughter]
+00:01:22.717 More recently we launched DALL·E
+00:01:24.318 3, the world's most advanced
+00:01:26.154 image model.
+00:01:26.454 You can use it, of course,
+00:01:29.924 inside of ChatGPT.
+00:01:30.324 For our enterprise customers, we
+00:01:33.861 launched ChatGPT Enterprise,
+00:01:34.429 which offers enterprise grade
+00:01:36.197 security and privacy, higher
+00:01:38.066 speed GPT-4 access, longer
+00:01:39.934 context windows, a lot more.
+00:01:41.969 Today, we've got about 2 million
+00:01:45.807 developers building on our API
+00:01:47.809 for a wide variety of use cases,
+00:01:49.744 doing amazing stuff.
+00:01:50.178 Over 92% of Fortune 500
+00:01:52.080 companies building on our
+00:01:53.948 products, and we have about 100
+00:01:55.983 million weekly active users now
+00:01:58.119 on ChatGPT.
+00:02:03.825 [applause]
+00:02:04.092 And what's incredible on that
+00:02:05.827 is, we got there entirely
+00:02:06.360 through word of mouth.
+00:02:07.962 People just find it useful and
+00:02:09.896 tell their friends.
+00:02:10.330 OpenAI is the most advanced and
+00:02:12.266 the most widely used AI platform
+00:02:14.335 in the world now.
+00:02:17.939 But numbers never tell the whole
+00:02:19.841 picture on something like this.
+00:02:20.475 What's really important is how
+00:02:22.143 people use the products, how
+00:02:23.911 people are using AI.
+00:02:25.913 So I'd like to show you a quick
+00:02:28.049 video.
+00:02:28.249 >> I actually wanted to write
+00:02:29.851 something to my dad in Tagalog.
+00:02:31.853 I want a nonromantic way to tell
+00:02:35.957 my parent that I love him and I
+00:02:38.025 also want to tell him that he
+00:02:40.061 can rely on me, but in a way
+00:02:42.096 that still has the respect of,
+00:02:47.869 like, a child-to-parent
+00:02:49.771 relationship that you should
+00:02:50.338 have in fill I teen zero culture
+00:02:52.206 and in taking a long.
+00:02:54.142 I love you very deeply and I
+00:02:56.110 will be with you no matter where
+00:02:58.112 the path he leads.
+00:03:00.014 >> I see so many possibilities,
+00:03:02.216 I'm like, who he, sometimes I'm
+00:03:03.951 not sure about some stuff, and I
+00:03:04.585 feel like the actual
+00:03:07.789 ChatGPT -- just thinking about
+00:03:08.389 giving it more confidence.
+00:03:10.091 >> The first thing that blew my
+00:03:11.959 mind was that it levels with
+00:03:13.895 you.
+00:03:14.061 That's something that a lot of
+00:03:15.797 people struggle to do.
+00:03:16.264 It opened my mind to just what
+00:03:18.132 every creative could do if they
+00:03:20.201 just had a person helping them
+00:03:22.236 out who listens.
+00:03:22.603 >> So this is to represent
+00:03:25.907 circulating hemoglobin --
+00:03:26.440 >> And you built that with
+00:03:28.242 ChatGPT.
+00:03:28.476 >> ChatGPT built it with me.
+00:03:30.211 >> I started using it for daily
+00:03:32.146 activities like, hey, here's a
+00:03:34.081 picture of my fridge, can you
+00:03:34.682 tell me what I'm missing because
+00:03:36.384 I'm going grocery shopping and I
+00:03:38.319 really need to do recipes that
+00:03:39.921 are following my Vegan diet.
+00:03:40.488 >> As soon as we got access to
+00:03:42.256 Code Interpreter, I was like,
+00:03:44.091 wow, this thing is awesome.
+00:03:46.093 It can build spreadsheets.
+00:03:48.162 It can do anything.
+00:03:48.596 >> I discovered about -- on my h
+00:03:56.103  birth date.
+00:03:58.039 Very friendly, very patient,
+00:04:00.107 very knowledgeable, and very
+00:04:02.343 quick.
+00:04:03.845 It's been a wonderful thing.
+00:04:04.412 >> I'm a 4.0 student but I also
+00:04:07.949 have four children.
+00:04:08.382 When I started using ChatGPT,
+00:04:10.117 I realized I could ask ChatGPT
+00:04:12.086 that question, and not only does
+00:04:12.720 it give me an answer, but it
+00:04:14.322 gives me an explanation.
+00:04:18.192 Didn't need computer go as
+00:04:18.726 much.
+00:04:19.961 It gave me a life back.
+00:04:22.063 I gave me time for my family and
+00:04:24.198 time for me.
+00:04:24.498 >> I have a chronic nerve pain
+00:04:26.167 on my whole left half of my
+00:04:28.236 body, nerve damage.
+00:04:30.104 I had like a spine -- brain
+00:04:31.973 surgery.
+00:04:32.206 I have limited use of my left
+00:04:32.807 hand.
+00:04:33.975 Now you can just have the
+00:04:35.977 integration of voice input, and
+00:04:38.179 the newest one where you can
+00:04:39.981 have the back-and-forth
+00:04:40.481 dialogue, that's just like
+00:04:42.083 maximum best interface for me.
+00:04:45.987 It's here!
+00:04:47.989 [music]
+00:04:48.222 [applause]
+00:04:55.997 So we love hearing the stories
+00:04:58.132 of how people are using the
+00:05:00.001 technology.
+00:05:00.301 It's really why we do all of
+00:05:00.868 this.
+00:05:02.003 Okay, so now on to the new
+00:05:04.138 stuff, and we have got a lot.
+00:05:08.109 [cheers and applause]
+00:05:10.011 First, we're going to talk about
+00:05:10.645 a bunch of improvements we've
+00:05:12.346 made, and then we'll talk about
+00:05:14.015 where we're headed Next.
+00:05:16.250 Over the last year, we spent a
+00:05:16.851 lot of time talking to
+00:05:19.921 developers around the world.
+00:05:20.488 We've heard a lot of your
+00:05:22.156 feedback.
+00:05:22.423 It's really informed what we
+00:05:24.325 have to show you today.
+00:05:26.160 Today, we are launching a new
+00:05:30.031 model.
+00:05:30.231 GPT-4 Turbo.
+00:05:32.166 [cheers and applause]
+00:05:36.203 GPT-4 Turbo will address many
+00:05:38.439 of the things that you all have
+00:05:40.207 asked for.
+00:05:42.143 So let's go through what's new.
+00:05:44.145 We've got six major things to
+00:05:46.113 talk about for this part.
+00:05:48.049 Number one, context length.
+00:05:50.184 A lot of people have tasks that
+00:05:52.253 require a much longer context
+00:05:55.957 length.
+00:05:56.190 GPT-4 supported up to 8k and
+00:05:56.757 in some cases up to 32k
+00:05:59.961 context length but we know that
+00:06:00.594 isn't enough for many of you and
+00:06:02.396 what you want to do.
+00:06:04.131 GPT-4 Turbo supports up to
+00:06:06.133 128,000 tokens of context.
+00:06:10.237 [cheers and applause]
+00:06:14.075 That's 300 pages of a standard
+00:06:16.243 book, 16 times longer than our
+00:06:18.079 8k context.
+00:06:20.081 And in addition to longer
+00:06:20.614 context length, you'll notice
+00:06:22.450 that the model is much more
+00:06:24.085 accurate over a long context.
+00:06:28.089 Number two, more control.
+00:06:30.324 We've heard loud and clear that
+00:06:32.293 developers need more control
+00:06:34.228 over the model's responses and
+00:06:36.330 outputs, so we've addressed that
+00:06:38.099 in a number of ways.
+00:06:38.532 We have a new feature called
+00:06:40.534 JSON load which ensures that the
+00:06:42.503 model will respond with valid
+00:06:44.505 JSON.
+00:06:46.107 This has been a huge developer
+00:06:48.109 request, it will make calling
+00:06:48.709 APIs much easier.
+00:06:52.113 The model is also much better at
+00:06:54.115 function calling.
+00:06:54.515 You can now call many functions
+00:06:56.384 at once.
+00:06:56.617 It will do better at following
+00:06:58.285 instructions in general.
+00:07:00.321 We're also introducing a new
+00:07:02.189 feature called reproducible
+00:07:04.125 outputs.
+00:07:04.358 You can pass the seed parameter
+00:07:06.293 and it will make the model
+00:07:08.295 return consistent outputs, which
+00:07:08.929 gives you a higher degree of
+00:07:10.531 control over model behavior.
+00:07:12.299 This rolls out in beta today.
+00:07:16.270 [cheers and applause]
+00:07:18.139 And in the coming weeks, we'll
+00:07:20.141 roll out a feature to let you
+00:07:24.145 view log probs in the API.
+00:07:26.313 [cheers and applause]
+00:07:26.781 Number three, better world
+00:07:28.482 knowledge.
+00:07:30.151 You want these models to the
+00:07:32.386 access better knowledge about
+00:07:34.055 the world, so do we.
+00:07:36.223 We're launching retrieval in the
+00:07:36.857 platform.
+00:07:37.124 You can bring knowledge from
+00:07:38.426 outside documents or databases
+00:07:40.327 into whatever you're building.
+00:07:42.329 We're also updating the
+00:07:44.165 knowledge cutoff.
+00:07:44.565 We are just as annoyed of all of
+00:07:48.169 you, probably more than, that
+00:07:50.171 GPT's knowledge of the world
+00:07:50.738 ended in 2021.
+00:07:52.339 We will try to never let it get
+00:07:54.375 that out of date again.
+00:07:58.179 GPT Turbo has knowledge of the
+00:07:58.779 world up to April 2023 and we
+00:08:00.581 will improve that over time.
+00:08:02.450 Number four, new modalities.
+00:08:06.387 Surprising no one, DALL·E 3,
+00:08:08.255 GPT-4 Turbo with Vision, and
+00:08:12.259 the new text-to-speech model are
+00:08:14.361 all going to into the API
+00:08:16.197 today.
+00:08:16.397 [cheers and applause]
+00:08:22.203 We have a handful of customers
+00:08:24.438 that have just started using
+00:08:26.107 DALL·E 3 to programmatically
+00:08:28.209 generate images and designs.
+00:08:30.377 Today, Coke is launching a
+00:08:30.911 campaign that lets its customers
+00:08:34.381 generate Diwali cards using
+00:08:36.116 DALL·E 3, and our safety systems
+00:08:38.352 help developers protect their
+00:08:40.154 applications against misuse.
+00:08:40.721 Those tools are available in the
+00:08:42.523 API.
+00:08:42.690 GPT-4 Turbo can now accept
+00:08:44.592 images as inputs via the API,
+00:08:48.329 can generate captions,
+00:08:48.796 classifications, and analysis.
+00:08:50.397 For example, Be My Eyes uses
+00:08:54.401 this technology to help people
+00:08:55.002 who are blind or have low vision
+00:08:56.570 with their daily tasks like
+00:08:58.539 identifying products in front of
+00:09:00.307 them.
+00:09:02.243 And with our new text-to-speech
+00:09:04.512 model, you'll be able to
+00:09:06.247 generate incredibly natural
+00:09:08.249 sounding audio from text in the
+00:09:10.317 API with six preset voices to
+00:09:12.253 choose from.
+00:09:12.553 I'll play an example.
+00:09:14.421 >> Did you know that Alexander
+00:09:16.423 Graham bell, the eminent
+00:09:18.459 inventor, was enchanted by the
+00:09:20.327 world of sounds?
+00:09:20.694 His ingenious mind led to the
+00:09:24.331 creation of the graphophone,
+00:09:26.500 which etched sounds onto wax,
+00:09:28.569 making voices Whisper through
+00:09:29.170 time.
+00:09:29.370 >> This is more natural than
+00:09:32.273 anything else we've heard out
+00:09:32.873 there.
+00:09:34.275 Voice can make apps more natural
+00:09:36.510 to interact with.
+00:09:38.279 It unlocks a lot of use cases,
+00:09:38.879 like language learning and voice
+00:09:42.383 assistance.
+00:09:42.683 Speaking of new modalities,
+00:09:44.485 we're also releasing the next
+00:09:46.187 verse of our open source speech
+00:09:46.820 recognition model, Whisper V3,
+00:09:50.291 today, and it will be coming
+00:09:50.858 soon to the API.
+00:09:52.393 It features improved performance
+00:09:54.495 across many languages and we
+00:09:55.062 think you're really gonna like
+00:09:56.497 it.
+00:09:56.664 Okay.
+00:09:58.299 Number five, customization.
+00:10:00.568 Fine-tuning has been working
+00:10:01.135 really well for GPT-3.5 since we
+00:10:04.605 launched it a few months ago.
+00:10:06.507 Starting today, we're going to
+00:10:07.107 expand that to the 16k version
+00:10:10.211 of the model.
+00:10:10.544 Also starting today, we're
+00:10:12.680 inviting active fine-tuning
+00:10:16.217 users to apply for the GPT-4
+00:10:18.219 fine-tuning, experimental access
+00:10:20.321 program.
+00:10:20.554 To fine fine an API is great for
+00:10:22.389 adapting our models to achieve
+00:10:24.458 better performance in a wide
+00:10:25.025 variety of applications with a
+00:10:26.660 relatively small amount of data,
+00:10:28.429 but you may want to model to
+00:10:30.497 learn a completely new knowledge
+00:10:32.333 domain or to use a lot of
+00:10:34.335 proprietary data.
+00:10:34.735 So today we're launching a new
+00:10:36.604 program called Custom Models.
+00:10:38.472 With Custom Models, our
+00:10:40.541 researchers will work closely
+00:10:42.476 with a company to help them make
+00:10:43.110 a great custom model, especially
+00:10:46.247 for them, and their use case,
+00:10:48.349 using our tools.
+00:10:48.716 This includes modifying every
+00:10:50.618 step of the model training
+00:10:54.355 process, doing additional
+00:10:56.557 domain-specific pre-training, a
+00:10:58.626 post-training process tailored
+00:11:00.361 to a specific domain.
+00:11:00.828 We won't be able to do this with
+00:11:02.863 many companies to start, it will
+00:11:04.465 take a lot of work and in the
+00:11:06.367 interest of expectations, at
+00:11:06.934 least initially it won't be
+00:11:08.435 cheap, but if you're excited to
+00:11:10.271 push things as far as they can
+00:11:10.871 currently go, please get in
+00:11:12.439 touch with us and we think we
+00:11:13.040 can do something pretty great.
+00:11:16.377 Okay.
+00:11:16.577 And then number six.
+00:11:18.379 Higher rate limits.
+00:11:18.812 We're doubling the tokens per
+00:11:20.648 minute for all of our
+00:11:21.115 established GPT-4 customers,
+00:11:22.683 so that it's easier to do more.
+00:11:24.718 And you'll be able to request
+00:11:26.587 changes to further rate limits
+00:11:28.522 and quotas directly in your API
+00:11:30.391 account settings.
+00:11:30.791 In addition to these rate
+00:11:32.626 limits, it's important to do
+00:11:34.461 everything we can do to make
+00:11:38.299 it -- you successful building on
+00:11:38.932 our platform.
+00:11:40.567 We're introducing Copyright
+00:11:42.403 Shield.
+00:11:42.636 Copyright Shield means that we
+00:11:43.237 will step in and defend our
+00:11:44.705 customers and pay the costs
+00:11:46.707 incurred if you face legal
+00:11:48.676 claims around copyright
+00:11:50.577 infringement, and this place to
+00:11:54.481 both ChatGPT Enterprise and
+00:11:56.350 the API.
+00:11:56.583 And let me be clear.
+00:11:57.017 This is a good time to remind
+00:11:58.686 people, we do not train on data
+00:12:00.654 from the API or ChatGPT
+00:12:04.425 Enterprise ever.
+00:12:06.527 All right.
+00:12:06.794 There's actually one more
+00:12:08.429 developer request that's been
+00:12:09.029 even bigger than all of these.
+00:12:10.764 So I'd like to talk about that
+00:12:14.435 now.
+00:12:14.601 And that's pricing.
+00:12:16.437 [laughter]
+00:12:18.439 GPT-4 Turbo is the industry
+00:12:22.676 leading model.
+00:12:23.010 It delivers a lot of
+00:12:24.445 improvements that we just
+00:12:26.347 covered, and it's a smarter
+00:12:26.914 model than GPT-4.
+00:12:30.584 We've heard from developers that
+00:12:32.453 there are a lot of things that
+00:12:33.053 they want to build, but GPT-4
+00:12:36.457 just costs too much.
+00:12:36.890 They've told us that if we could
+00:12:38.459 decrease the cost by 20, 25%,
+00:12:40.627 that would be great, a huge leap
+00:12:44.565 forward.
+00:12:44.798 I'm super excited to announce
+00:12:46.633 that we worked really hard on
+00:12:47.234 this, and GPT-4 Turbo, a
+00:12:50.471 better model, is considerably
+00:12:52.373 cheaper than GPT-4 by a factor
+00:12:54.775 of 3X for prompt tokens --
+00:13:04.385 [applause]
+00:13:04.651 And 2X for completion tokens,
+00:13:06.620 starting today.
+00:13:08.622 [cheers and applause]
+00:13:10.491 So the new pricing is 1 cent per
+00:13:12.926 thousand prompt tokens and $0.03
+00:13:16.663 per thousand completion tokens.
+00:13:18.832 For most customers that leads to
+00:13:20.667 a blended more than 3.75%
+00:13:22.703 cheaper to use.
+00:13:24.605 We worked super hard to make
+00:13:26.740 this happen.
+00:13:28.509 We hope you're as excited about
+00:13:30.511 it  as we are.
+00:13:32.613 [cheers and applause]
+00:13:34.681 So we've decided to prioritize
+00:13:36.717 price first because we had to
+00:13:37.317 choose one or the other but
+00:13:38.819 we're going to work on speed
+00:13:40.521 next.
+00:13:40.721 We know speed is important,
+00:13:42.523 too.
+00:13:42.689 Soon you will notice GPT-4
+00:13:44.758 Turbo becoming a lot faster.
+00:13:46.660 We're also decreasing the cost
+00:13:48.862 of GPT-3.5 Turbo 16k, also input
+00:13:52.800 tokens for 3X less, and output
+00:13:56.737 tokens are two, less.
+00:14:00.541 Which means 16k is now cheaper
+00:14:02.743 than the previous model.
+00:14:06.547 Running a fine-tune GPT-3.5 16k
+00:14:10.551 version is also cheaper than the
+00:14:12.920 old version.
+00:14:13.220 We just covered a lot about the
+00:14:14.721 model itself.
+00:14:15.055 We hope these changes address
+00:14:16.924 your feedback  , we're really
+00:14:18.826 excited to bring all of these
+00:14:20.661 improvements to everybody now.
+00:14:22.663 In all of this, we're lucky to
+00:14:24.932 have a partner who's
+00:14:26.800 instrumental in making it
+00:14:28.569 happen.
+00:14:28.802 So I'd like to bring out a
+00:14:30.571 special guest, Satya Nadella,
+00:14:34.575 the CEO of Microsoft.
+00:14:35.042 Music.
+00:14:35.242 [cheers and applause]
+00:14:36.577 >> Welcome.
+00:14:38.745 >> Thank you so much.
+00:14:39.213 >> Thank you.
+00:14:42.583 Satya, thanks so much for coming
+00:14:43.217 here.
+00:14:43.417 >> It's fantastic to be here,
+00:14:46.587 and, Sam, congrats.
+00:14:47.020 I'm really looking forward to
+00:14:48.922 Turbo and everything else that
+00:14:49.523 you have coming is, it's been
+00:14:50.824 just fantastic partnering with
+00:14:52.693 you guys.
+00:14:52.960 >> Awesome.
+00:14:53.260 Two questions, I won't take too
+00:14:55.062 much of your time.
+00:14:56.597 How is Microsoft thinking about
+00:14:57.231 the partnership currently?
+00:14:58.799 >> First --
+00:15:00.767 [laughter]
+00:15:02.603 We love you guys.
+00:15:04.705 Look, it's been fantastic for
+00:15:07.007 us.
+00:15:07.174 In fact, I remember the first
+00:15:09.076 time I think you reached out and
+00:15:10.677 said, hey, do you have some
+00:15:11.245 Azure credits, we've come a long
+00:15:13.080 way from there.
+00:15:14.748 >> Thank you for those.
+00:15:15.249 That was great.
+00:15:16.817 >> You guys have built something
+00:15:18.986 magical.
+00:15:19.219 There are two things for us when
+00:15:21.088 it comes to the partnership.
+00:15:22.623 The first is, these workloads
+00:15:24.791 and even when I was listening
+00:15:25.392 backstage to how you're
+00:15:26.827 describing what's coming even,
+00:15:28.629 it's just so different and nut.
+00:15:29.263 I've been in the infrastructure
+00:15:32.633 business for three decades --
+00:15:33.233 >> No one has seen
+00:15:34.902 infrastructure like this.
+00:15:35.435 >> The workload, the pattern of
+00:15:38.839 the workload, the training jobs
+00:15:40.941 are so synchronous and large and
+00:15:44.645 data parallel.
+00:15:44.978 The first thing we've been doing
+00:15:47.047 is building in partnership with
+00:15:47.681 you the system all the way from
+00:15:49.116 thinking from power to the DC to
+00:15:50.884 the rack, to the accelerators,
+00:15:53.020 to the network, and just really
+00:15:56.790 the shape of Azure is
+00:15:58.725 drastically changed.
+00:15:59.159 And it's changing rapidly in
+00:16:01.094 support of these models that
+00:16:02.963 you're building.
+00:16:04.831 And so our job number one is to
+00:16:06.667 build the best system so that
+00:16:07.267 you can build the best models,
+00:16:10.671 and then make that all available
+00:16:12.673 to developers.
+00:16:13.006 The other thing is, we ourselves
+00:16:14.908 are developers, building
+00:16:17.044 products.
+00:16:17.311 My own conviction of this entire
+00:16:20.681 generation of foundation models
+00:16:21.315 has completely changed.
+00:16:23.016 The first time I saw GitHub
+00:16:24.885 Copilot on GPT.
+00:16:26.787 And so we want to build our
+00:16:30.691 Copilot, GitHub Copilot, all
+00:16:31.258 as developers on top of OpenAI
+00:16:34.695 APIs so we're very, very
+00:16:35.195 committed to that.
+00:16:36.697 What does that mean to
+00:16:38.699 developers?
+00:16:38.999 I always think of Microsoft as a
+00:16:40.801 platform company, a developer
+00:16:42.703 company, and a partner company,
+00:16:43.337 and so we want to make -- for
+00:16:45.038 example, we want to make
+00:16:48.809 GitHub available --
+00:16:49.242 GitHub Copilot available,
+00:16:50.711 the enterprise he diddation to
+00:16:51.311 all the attendees here so they
+00:16:52.846 can try it out.
+00:16:53.213 >> That's awesome.
+00:16:53.614 >> We're very excited about
+00:16:58.619 that.
+00:16:58.819 [applause]
+00:16:59.086 And you can count on us to build
+00:17:02.656 the best infrastructure in Azure
+00:17:04.724 with your API support, and bring
+00:17:06.727 it to all of you, and then even
+00:17:08.729 things like the Azure
+00:17:10.731 marketplace, building out
+00:17:12.733 products here to get to market
+00:17:13.333 rapidly.
+00:17:14.734 That's sort of really our intent
+00:17:15.368 here.
+00:17:15.569 >> Great.
+00:17:16.737 How do you think about the
+00:17:17.270 future?
+00:17:17.503 Future of the partnership or
+00:17:19.071 future of AI or whatever.
+00:17:22.742 [laughter]
+00:17:23.010 Anything you want.
+00:17:24.845 >> You know, like, there are a
+00:17:26.747 couple of things for me that I
+00:17:27.347 think are gonna be very, very
+00:17:28.982 key for us.
+00:17:29.282 One is, I just described how the
+00:17:32.886 systems that are exceeded as you
+00:17:36.823 aggressively push forward on
+00:17:38.959 your roadmap, requires us to be
+00:17:40.827 on the top of our game, and we
+00:17:42.996 intend fully to commit ourselves
+00:17:45.098 deeply to making sure you all,
+00:17:46.933 as builders of these foundation
+00:17:49.069 models, have not only the best
+00:17:51.004 systems for training but the
+00:17:55.142 most compute so you can keep
+00:17:56.777 pushing forward.
+00:17:57.144 >> We appreciate that.
+00:17:57.611 >> On the frontiers because I
+00:17:59.246 think that's the way we're going
+00:18:01.114 to make progress.
+00:18:02.783 The second thing I think we both
+00:18:03.417 care about, in fact, quite
+00:18:06.787 frankly, the thing that excited
+00:18:08.789 both shades to come together is
+00:18:09.423 your mission and ours.
+00:18:10.791 Our mix is to empower every
+00:18:12.793 person and organization on the
+00:18:13.393 planet to achieve more, and
+00:18:15.095 ultimately AI is only going to
+00:18:17.097 be useful if it does empower.
+00:18:18.965 I saw the video you played
+00:18:20.801 earlier.
+00:18:21.034 That was fantastic to see
+00:18:23.103 those -- hear those voices
+00:18:25.105 describe what AI meant for them
+00:18:26.707 and what they were able to
+00:18:27.240 achieve.
+00:18:27.474 So ultimately it's about being
+00:18:29.109 able to get the benefits of AI
+00:18:31.078 broadly disseminated to
+00:18:33.080 everyone, I think is going to be
+00:18:33.714 the goal for us.
+00:18:35.048 The last thing is we're very
+00:18:36.817 grounded in the fact that safety
+00:18:37.451 matters and safety is not
+00:18:40.821 something that you care about
+00:18:41.421 later but it's something we do
+00:18:42.823 shift left on and we're very,
+00:18:43.423 very focused on that with you
+00:18:44.991 all.
+00:18:45.158 >> Great.
+00:18:45.425 I think we have the best
+00:18:48.829 partnership in tech, I'm excited
+00:18:50.964 to be working together.
+00:18:53.133 Thank you for coming.
+00:18:56.970 >> Thank you.
+00:18:57.304 [applause]
+00:18:58.839 >> Okay.
+00:19:00.941 So  we have shared a lot of
+00:19:03.110 great updates for developers
+00:19:04.845 already, and we've got a lot
+00:19:06.847 more to come, but even though
+00:19:08.849 this is a developer conference,
+00:19:10.851 we can't resist making some
+00:19:11.418 improvements to ChatGPT.
+00:19:13.019 So, a small one, ChatGPT now
+00:19:16.923 uses GPT-4 Turbo with all the
+00:19:18.859 latest improvements including
+00:19:19.459 the latest knowledge cutoff,
+00:19:21.294 which we'll continue to update,
+00:19:22.996 that's all live today.
+00:19:23.463 It can now browse the web when
+00:19:25.332 it needs to, write and run code,
+00:19:27.267 analyze data, take and generate
+00:19:29.269 images and much more, and we
+00:19:31.104 heard your feedback that model
+00:19:32.873 picker was extremely annoying,
+00:19:35.041 that's gone starting today.
+00:19:35.609 You will not have to click
+00:19:36.977 around the dropdown menu.
+00:19:37.511 All of this will just work
+00:19:42.983 together.
+00:19:43.250 [cheers and applause]
+00:19:46.887 ChatGPT will just know what to
+00:19:47.487 use and when you need it.
+00:19:49.122 But that's not the main thing.
+00:19:53.026 And neither was price, actually
+00:19:55.162 the main developer request.
+00:19:55.729 There was one that was even
+00:19:57.264 bigger than that.
+00:19:58.999 And I want to talk about where
+00:20:00.901 we're headed and the main thing
+00:20:01.535 we're here to talk about today.
+00:20:04.905 So we believe that if you give
+00:20:07.007 people better tools, they will
+00:20:07.607 do amazing things.
+00:20:09.042 We know that people want AI that
+00:20:09.676 is smarter, more personal, more
+00:20:13.013 customizable, can do more on
+00:20:15.182 your behalf.
+00:20:16.917 Eventually you'll just ask a
+00:20:17.484 computer for what you need and
+00:20:19.219 it will do all of these tasks
+00:20:21.121 for you.
+00:20:22.923 These capabilities are often
+00:20:24.925 talked in the AI field about as
+00:20:26.993 agents.
+00:20:27.227 The upsides of this are going to
+00:20:29.229 be tremendous.
+00:20:31.131 At OpenAI we really believe that
+00:20:33.266 gradual iterative deployment is
+00:20:36.837 the best way to address the
+00:20:37.404 safety challenges with AI.
+00:20:39.105 We think it's especially
+00:20:40.941 important to move carefully
+00:20:41.508 towards this future of agents,
+00:20:43.143 it's going to require a lot of
+00:20:44.945 technical work, and a lot of
+00:20:47.013 thoughtful consideration by
+00:20:48.949 society.
+00:20:49.182 So today we're taking our first
+00:20:51.251 small step that moves us towards
+00:20:53.153 this future.
+00:20:55.088 We're thrilled to introduce
+00:20:59.125 GPTs.
+00:21:00.961 GPTs are tailored versions of
+00:21:03.163 ChatGPT for a specific
+00:21:05.131 purpose.
+00:21:05.365 You can build a GPT, a
+00:21:08.869 customized version of ChatGPT,
+00:21:09.469 for almost anything, with
+00:21:11.238 instructions, expanded
+00:21:13.139 knowledge, and actions, and then
+00:21:15.141 you can publish it for others to
+00:21:17.043 use.
+00:21:17.210 And because they combine
+00:21:19.212 instructions, expanded
+00:21:20.981 knowledge, and actions, they can
+00:21:21.615 be more helpful to you.
+00:21:23.350 They can work better in any
+00:21:25.318 context and they can give you
+00:21:26.987 better control.
+00:21:27.354 They'll make it easier for you
+00:21:29.389 to accomplish all sorts of tasks
+00:21:31.324 or just have more fun and you'll
+00:21:33.193 be able to use them right
+00:21:33.727 within ChatGPT.
+00:21:37.163 You can in effect program a GPT
+00:21:39.065 with language just by talking to
+00:21:41.001 it.
+00:21:41.167 It's easy to customize the
+00:21:43.236 behaviors so that it fits what
+00:21:43.837 you want.
+00:21:45.105 This makes building them very
+00:21:45.705 accessible and it gives agency
+00:21:49.009 to everyone.
+00:21:50.911 So, we're going to show you what
+00:21:51.544 GPTs are, how to use them, how
+00:21:53.246 to build them, and then we're
+00:21:55.215 going to talk about how they'll
+00:21:57.150 be distributed and discovered.
+00:21:57.751 And then after that, for
+00:21:59.386 developers, we're going to show
+00:22:01.354 you how to build these
+00:22:03.123 agent-like experiences into your
+00:22:05.025 own apps.
+00:22:05.292 First, let's look at a few
+00:22:07.093 examples.
+00:22:07.360 Our partners at Code.org are
+00:22:09.462 working hard to expand computer
+00:22:12.933 science in schools.
+00:22:13.366 They've got a curriculum that is
+00:22:15.168 used by tens of millions of
+00:22:17.370 students worldwide.
+00:22:19.239 Code.org crafted Lesson Planner
+00:22:21.174 GPT to help teachers provide a
+00:22:23.376 more engaging experience for
+00:22:25.111 middle schoolers.
+00:22:25.512 If a teacher asks it to explain
+00:22:27.514 four loops in a creative way, it
+00:22:29.182 does just that.
+00:22:31.151 In this case, it will do it in
+00:22:31.751 terms of a video game character,
+00:22:33.520 repeatedly picking up coins,
+00:22:35.355 super easy to understand for an
+00:22:39.125 eighth grader.
+00:22:39.459 As you can see, this GPT brings
+00:22:41.261 together Code.org's extensive
+00:22:43.063 curriculum and expertise and
+00:22:45.131 lets teachers adapt it to their
+00:22:47.067 needs quickly and easily.
+00:22:49.202 Next, Canva has built a GPT that
+00:22:51.438 lets you start designing by
+00:22:53.306 describing what you want in
+00:22:55.075 natural language.
+00:22:55.475 If you say, make a poster for a
+00:22:57.410 DevDay reception this afternoon,
+00:22:59.512 this evening, and you give it
+00:23:01.348 some details, it will generate a
+00:23:03.283 few options to start with by
+00:23:05.151 hitting Canva's APIs.
+00:23:07.187 This concept may be familiar to
+00:23:07.821 some of you.
+00:23:09.189 We've evolved our plug-ins to be
+00:23:11.191 custom actions for GPTs.
+00:23:13.193 You can keep chatting with this
+00:23:15.195 to see different iterations, and
+00:23:15.829 when you see one you like, you
+00:23:17.464 can click through to Canva for
+00:23:19.265 the full design experience.
+00:23:23.103 So now, we'd like to show you a
+00:23:25.105 GPT live.
+00:23:25.372 Zapier has built a GPT that lets
+00:23:29.209 you perform actions across 6,000
+00:23:31.344 applications to unlock all kinds
+00:23:33.113 of integration possibilities.
+00:23:35.115 I'd like to introduce Jessica,
+00:23:35.715 one of our solutions architects,
+00:23:37.550 who is going to drive this
+00:23:39.119 demo.
+00:23:39.319 Welcome, Jessica.
+00:23:41.121 [cheers and applause]
+00:23:41.588 >> Thank you, Sam.
+00:23:45.125 Hello, everyone.
+00:23:45.492 Thank you all.
+00:23:49.029 Thank you all for being here.
+00:23:49.629 My name is Jessica Shay, I work
+00:23:51.364 with partners and customers to
+00:23:53.366 bring their product to life.
+00:23:55.435 Today I can't wait to show you
+00:23:57.137 how hard we've been working on
+00:23:57.737 this, so let's get started.
+00:24:01.141 To start, where your GPT will
+00:24:01.741 live is on this upper left
+00:24:03.476 corner.
+00:24:03.710 I'm going to start with clicking
+00:24:05.545 on the Zapier AI actions.
+00:24:07.547 And on the right-hand side, you
+00:24:09.582 can see that's my calendar for
+00:24:11.418 today.
+00:24:11.618 So it's quite a day.
+00:24:15.255 I've used this before so it's
+00:24:19.159 connected to my calendar.
+00:24:19.692 To start, I can ask what's on my
+00:24:21.394 schedule for today.
+00:24:23.296 We built GPTs with security in
+00:24:25.165 mind, so before it performs any
+00:24:27.434 action or shares data, it will
+00:24:29.402 ask for your permission, so
+00:24:31.438 right here I'm going to say
+00:24:33.239 allowed, so GPT is designed to
+00:24:37.243 take in your instructions, make
+00:24:39.512 a decision on which capability
+00:24:40.113 to call to perform that action,
+00:24:41.581 and then execute that for you.
+00:24:43.650 So you can see right here, it's
+00:24:45.552 already connected to my
+00:24:47.454 calendar, it pulls in my
+00:24:49.389 information, and then I've also
+00:24:51.524 prompted it to identify
+00:24:53.460 conflicts on my calendar.
+00:24:55.361 You can see right here it
+00:24:57.330 actually was able to identify
+00:24:59.365 that.
+00:24:59.566 So it looks like I have
+00:25:00.066 something coming up.
+00:25:01.401 So what if I want to let Sam
+00:25:03.503 know that I have to leave
+00:25:05.472 early?
+00:25:05.672 Right here I say, let Sam know I
+00:25:11.111 gotta go, chasing GPUs.
+00:25:13.213 [laughter]
+00:25:15.115 With that, I'm going to swap to
+00:25:17.350 my conversation with Sam, and
+00:25:19.385 then I'm going to say, yes,
+00:25:21.321 please run that.
+00:25:25.225 Sam?
+00:25:25.391 Did you get that?
+00:25:27.393 >> I did.
+00:25:29.362 [applause]
+00:25:29.629 >> Awesome.
+00:25:35.235 So, this is only a glimpse of
+00:25:37.237 what is possible, and I cannot
+00:25:39.239 wait to see what you all will
+00:25:39.839 build.
+00:25:40.039 Thank you and back to you, Sam.
+00:25:41.407 [cheers and applause]
+00:25:49.249 Thank you, Jessica.
+00:25:49.682 So those are three great
+00:25:53.253 examples, in addition to these,
+00:25:55.155 there are many more kinds of
+00:25:55.722 GPTs that people are creating
+00:25:57.490 and many, many more that will be
+00:25:59.492 created soon.
+00:26:01.361 We know that many people who
+00:26:03.463 want to build a GPT don't know
+00:26:05.532 how to code.
+00:26:05.832 We've made it so that you can
+00:26:07.600 program the GPT just by having a
+00:26:09.469 conversation.
+00:26:09.802 We believe that natural language
+00:26:11.771 is going to be a big part of how
+00:26:13.406 people use computers in the
+00:26:13.973 future, and we think this is an
+00:26:17.277 interesting early example.
+00:26:17.810 So I'd like to show you how to
+00:26:21.281 build one.
+00:26:23.283 All right.
+00:26:23.550 So I'm going to create a GPT
+00:26:27.287 that helps give founders and
+00:26:29.289 developers advice when starting
+00:26:31.291 new projects.
+00:26:31.624 I'm going to go to create a GPT
+00:26:35.528 here.
+00:26:35.728 And this drops me into the GPT
+00:26:37.363 builder.
+00:26:37.597 I worked with founders for years
+00:26:39.699 at YC and still, whenever I meet
+00:26:43.303 developers, the questions are
+00:26:43.903 always about how do I think
+00:26:45.505 about a business idea, can you
+00:26:47.373 give me some advice.
+00:26:47.807 I'm going to see if I can build
+00:26:49.475 a GPT to help with that.
+00:26:51.211 So to start, GPT builder asks me
+00:26:53.580 what I want to make, and I'm
+00:26:54.147 going to say I want to help
+00:26:57.450 start-up founders think through
+00:27:01.454 their business ideas and get
+00:27:07.327 advice.
+00:27:07.560 After the founder has gotten
+00:27:11.331 some advice, grill them --
+00:27:13.566 [laughter]
+00:27:13.833 On why they are not growing
+00:27:15.702 faster.
+00:27:19.339 [laughter]
+00:27:19.606 All right.
+00:27:19.872 So to start off, I just tell the
+00:27:21.708 GPT a little bit about what I
+00:27:23.476 want here, and it's going to go
+00:27:24.110 off and start thinking about
+00:27:25.778 that, and it's going to write
+00:27:27.680 some detailed instructions for
+00:27:29.349 the GPT.
+00:27:31.351 It's also going to ask me about
+00:27:31.985 a name.
+00:27:32.218 How do I feel about start-up
+00:27:35.355 mentor?
+00:27:35.588 That's fine.
+00:27:37.357 That's good.
+00:27:37.657 So if I didn't like the name, of
+00:27:39.525 course I could call it something
+00:27:40.159 else but it's going to try to
+00:27:41.794 have this conversation with me
+00:27:42.395 and start there.
+00:27:43.596 And you can see here on the
+00:27:47.367 right, in the preview mode, that
+00:27:48.001 it's already starting to fill
+00:27:51.271 out the GPT, where it says what
+00:27:53.339 it does, it has some ideas of
+00:27:55.441 additional questions that I
+00:27:57.410 could ask.
+00:28:01.281 It just generated a candidate.
+00:28:01.881 Of course I could regenerate
+00:28:03.683 that or change it but I sort of
+00:28:05.618 like that, so I will say, that's
+00:28:11.391 great.
+00:28:11.591 And you see now that the GPT is
+00:28:13.459 being built out a little bit
+00:28:14.027 more as we go.
+00:28:15.461 Now, what I want this to do, how
+00:28:17.764 it can interact with users, I
+00:28:19.799 can talk about style here but
+00:28:21.567 what I'm going to say is, I am
+00:28:27.340 going to upload transcripts of
+00:28:27.940 some lectures about start-ups I
+00:28:31.444 have given.
+00:28:33.546 Please give advice based off of
+00:28:35.648 those.
+00:28:37.417 All right.
+00:28:39.419 So, now it's going to go figure
+00:28:41.587 out how to do that, and I would
+00:28:43.623 like to show you the configure
+00:28:45.591 tab so you can see some of the
+00:28:46.192 things that were built out here
+00:28:47.760 as we were going by the builder
+00:28:49.629 itself and you can see there's
+00:28:53.433 capabilities here that I can
+00:28:54.000 enable.
+00:28:54.233 I could add custom actions.
+00:28:54.801 These are all feign to leave.
+00:28:59.572 I'm going to upload a file.
+00:29:01.441 Here's a lecture that I gave
+00:29:02.008 with some start-up advice, and
+00:29:03.876 I'm going to add that here.
+00:29:05.745 In terms of these questions,
+00:29:07.747 this is a dumb one.
+00:29:09.716 The rest of those are
+00:29:13.453 reasonable.
+00:29:13.753 And very much things founders
+00:29:15.722 often ask.
+00:29:15.988 I'm going to add one more thing
+00:29:17.657 to the instructions here, which
+00:29:18.291 is be concise and constructive
+00:29:21.461 with feedback.
+00:29:23.463 All right.
+00:29:25.465 So, again, if I had more time,
+00:29:27.467 I'd show you a bunch of other
+00:29:28.067 things but this is like a decent
+00:29:31.471 start, and now we can try it out
+00:29:33.539 over on this preview tab.
+00:29:35.775 So I will say -- what's a common
+00:29:37.610 question?
+00:29:39.379 What are three things to look --
+00:29:41.681 what are three things to look
+00:29:43.916 for when hiring employees at an
+00:29:47.587 early stage start-up?
+00:29:51.491 Now, it's going to look at that
+00:29:53.626 document I uploaded.
+00:29:54.060 It will also have all of the
+00:29:57.497 background knowledge of
+00:29:59.499 GPT-4.
+00:30:01.501 That's pretty good.
+00:30:01.934 Those are three things that I
+00:30:03.736 definitely have said many
+00:30:05.605 times.
+00:30:05.805 Now, we could go on and it would
+00:30:07.740 start following the other
+00:30:09.609 instructions and grill me on why
+00:30:11.644 I'm not growing faster, but in
+00:30:12.245 the interest of time, I'm going
+00:30:13.846 to skip that.
+00:30:14.180 I am going to publish this only
+00:30:16.015 to me for now.
+00:30:17.617 I can work on it later, I can
+00:30:19.585 add more content, I can add a
+00:30:20.186 few actions that I think will be
+00:30:22.021 useful, and then I can share it
+00:30:23.689 publicly.
+00:30:23.956 So that's what it looks like to
+00:30:27.527 create a GPT.
+00:30:27.860 [applause]
+00:30:28.127 Thank you.
+00:30:33.533 By the way, I always wanted to
+00:30:37.703 do that, after all of the YC
+00:30:39.672 office hours, I thought, some
+00:30:41.641 day I'll make a bot that can do
+00:30:43.676 this and that will be awesome.
+00:30:47.547 [laughter]
+00:30:47.814 With GPTs we're letting people
+00:30:48.414 easily share and discover all
+00:30:49.949 the fun ways that they use
+00:30:51.784 ChatGPT with the world.
+00:30:53.753 You can make private GPTs like
+00:30:55.855 I just did.
+00:30:57.657 Or you can share your creations
+00:30:59.559 publicly with a link for anyone
+00:31:01.561 to use.
+00:31:01.794 Or if you're on ChatGPT
+00:31:05.565 Enterprise, you can make GPTs
+00:31:06.165 just for your company.
+00:31:07.800 And later this month, we're
+00:31:09.869 going to launch the GPT Store.
+00:31:13.706 You can list a --
+00:31:15.741 [applause]
+00:31:16.008 >> Thank you, I appreciate
+00:31:17.877 that.
+00:31:18.077 [applause]
+00:31:23.583 You can list a GPT there, and
+00:31:25.785 we'll be able to feature the
+00:31:26.352 best and the most popular
+00:31:29.589 GPTs.
+00:31:29.789 Of course, we'll make sure that
+00:31:30.423 GPTs in the store follow our
+00:31:33.593 policies before they're
+00:31:35.728 accessible.
+00:31:36.028 Revenue sharing is important to
+00:31:37.830 us.
+00:31:37.997 We're going to pay people who
+00:31:39.866 build the most useful and the
+00:31:41.667 most used GPTs a portion of
+00:31:43.669 our revenue.
+00:31:45.605 We're excited to foster a
+00:31:46.138 vibrant ecosystem with the GPT
+00:31:48.007 Store just from what we've been
+00:31:49.976 building ourselves over the
+00:31:51.677 weekend, we're confident there's
+00:31:52.311 going to be a lot of great
+00:31:53.779 stuff, we're excited to share
+00:31:55.715 more information soon.
+00:31:56.182 Those are GPTs, and we can't
+00:31:57.950 wait to see what you'll build.
+00:31:59.852 But this his a developer
+00:32:01.988 conference and the coolest thing
+00:32:03.923 about this is we're bringing the
+00:32:05.691 same concept to the API.
+00:32:09.629 [applause]
+00:32:13.633 Many of you have already been
+00:32:15.868 building agent-like experiences
+00:32:17.837 on the API.
+00:32:19.739 For example, Shopify Sidekick,
+00:32:21.807 which lets you take actions on
+00:32:23.543 the platform, Discord's Clyde,
+00:32:25.945 lets Discord moderators create
+00:32:29.782 custom personalities for, and
+00:32:30.383 Snap's My AI, a custom island
+00:32:33.653 chatbot that can be added to
+00:32:35.721 group chats and make
+00:32:36.155 recommendations.
+00:32:36.522 These experiences are great but
+00:32:37.823 they have been hard to build,
+00:32:39.792 sometimes taking months, teams
+00:32:40.393 of dozens of engineers, there's
+00:32:42.028 a lot to handle to make this
+00:32:43.896 custom assistant experience.
+00:32:46.032 So today we're making it a lot
+00:32:48.134 easier with our new Assistants
+00:32:53.673 API.
+00:32:53.839 [cheers and applause]
+00:32:55.841 The Assistants API includes
+00:32:59.845 persist tents threads so they
+00:33:00.446 don't have to figure out how to
+00:33:01.881 deal with long conversation
+00:33:03.683 history, built-in retrieval,
+00:33:06.018 Code Interpreter, a working
+00:33:07.820 Python interpreter in a sandbox
+00:33:09.922 environment, and of course the
+00:33:11.891 improved function calling that
+00:33:12.491 we talked about earlier.
+00:33:15.695 So we'd like to show you a demo
+00:33:16.329 of how this works and here is
+00:33:18.097 Romain, our head of developer
+00:33:21.701 experience.
+00:33:23.703 Welcome.
+00:33:23.936 [music]
+00:33:24.170 [applause]
+00:33:24.437 >> Thank you, Sam.
+00:33:25.871 Good morning.
+00:33:27.873 Wow.
+00:33:28.040 It's fantastic to see you all
+00:33:31.711 here.
+00:33:31.911 It's been so inspiring to see so
+00:33:33.713 many of you infusing AI into
+00:33:35.848 your apps.
+00:33:36.115 Today, we're launching new
+00:33:38.050 modalities in the API, but we
+00:33:41.721 are also very excited to improve
+00:33:42.355 the developer experience for you
+00:33:44.223 all to build assistive agents.
+00:33:46.125 So let's dive right in.
+00:33:49.795 Imagine I'm building Wanderlust,
+00:33:51.931 a travel app for global
+00:33:52.431 explorers and this is the
+00:33:53.799 landing page.
+00:33:54.133 I've actually used GPT-4 to
+00:33:55.901 come up with these destination
+00:33:58.037 ideas, and for those of you with
+00:33:59.905 a keen eye, these illustrations
+00:34:01.741 are generated programmatically
+00:34:02.341 using the new DALL·E 3 API
+00:34:03.843 available to all of you today.
+00:34:06.045 So it's pretty remarkable.
+00:34:09.949 But let's add a very simple
+00:34:12.051 assistant to it.
+00:34:13.819 This is the screen, we'll come
+00:34:16.088 back to it in a second.
+00:34:17.989 I'm going to switch over to the
+00:34:19.824 assistants playground.
+00:34:20.292 Creating an assistant is easy,
+00:34:22.094 you give it a name, some initial
+00:34:25.764 instructions, the model, GPT-4
+00:34:27.766 Turbo, and I'll go ahead and
+00:34:29.935 select tools.
+00:34:30.268 I'll turn on Code Interpreter
+00:34:31.971 and retrieval and save.
+00:34:33.938 And that's it.
+00:34:34.273 Our assistant is ready to go.
+00:34:37.842 Next I can integrate with two
+00:34:39.945 new primitives of this
+00:34:41.914 Assistants API, threads and
+00:34:43.849 messages.
+00:34:44.116 Let's take a quick look at the
+00:34:47.687 code.
+00:34:47.887 The process here is very
+00:34:48.387 simple.
+00:34:48.621 For each new user, I will create
+00:34:51.924 a new thread, and as the users
+00:34:54.025 engage with their assistant, I
+00:34:54.627 will add their messages to the
+00:34:56.228 threads, very simple.
+00:34:57.930 And then I can simply run the
+00:35:00.066 assistant at any time to stream
+00:35:02.068 the responses back to the app.
+00:35:03.969 So we can return to the app and
+00:35:06.072 try that in action.
+00:35:07.940 If I say, hey, let's go to
+00:35:13.813 Paris, all right.
+00:35:14.213 That's it.
+00:35:15.881 With just a few lines of code,
+00:35:17.817 users can now have a very
+00:35:19.819 specialized assistant right
+00:35:20.386 inside the app.
+00:35:21.987 And I'd like to highlight one of
+00:35:24.156 my favorite features here,
+00:35:26.092 function calling.
+00:35:27.993 If you have not used it yet,
+00:35:28.561 function calling is really
+00:35:31.731 powerful.
+00:35:31.997 As Sam mentioned, we're taking
+00:35:32.598 it a step further today.
+00:35:33.966 It now guarantees the JSON
+00:35:35.835 output with no added latency and
+00:35:39.905 you can invoke multiple
+00:35:42.108 functions at once.
+00:35:43.843 If I say, what are the top 10
+00:35:47.847 things to do, I'm going to have
+00:35:49.849 the assistant respond to that
+00:35:51.851 again.
+00:35:52.051 And here what's interesting that
+00:35:53.853 the assistant knows about
+00:35:54.386 functions, including those to
+00:35:56.021 annotate the map that you see on
+00:35:57.857 the right, and now all of these
+00:36:01.861 pins are dropping in real-time
+00:36:03.863 hire.
+00:36:04.063 [cheers and applause]
+00:36:04.530 It's pretty cool.
+00:36:07.967 And that integration allows our
+00:36:10.269 natural language interface to
+00:36:11.937 interact fluidly with components
+00:36:14.073 and features of our app, and it
+00:36:16.008 truly showcases now the harmony
+00:36:18.010 you can build between AI and UI
+00:36:20.045 when the assistant is actually
+00:36:22.248 taking action.
+00:36:24.016 But let's talk about retrieval.
+00:36:26.352 And retrieval is about giving
+00:36:27.887 our assistant more knowledge
+00:36:31.891 beyond these immediate user
+00:36:32.458 messages.
+00:36:32.725 I got inspired and already
+00:36:34.260 booked my tickets to Paris so
+00:36:36.095 I'm going to drag and drop this
+00:36:39.899 PDF.
+00:36:40.065 While it's uploading I can sneak
+00:36:42.268 peek at it, typical united
+00:36:44.236 flight ticket, and behind the
+00:36:45.971 scene here, what's happening is
+00:36:47.907 that retrieval is reading these
+00:36:49.809 files and, boom, the information
+00:36:52.111 about this PDF appeared on the
+00:36:55.981 screen.
+00:36:56.215 [cheers and applause]
+00:36:56.682 And this is of course a very
+00:36:58.150 tiny PDF but assistants can
+00:37:01.987 parse from documents, from
+00:37:03.923 extensive texts to intricate
+00:37:06.091 product specs depending on what
+00:37:06.725 you're building.
+00:37:07.092 I booked an AirBNB so I'm going
+00:37:09.929 to drag that over to the
+00:37:10.429 conversation as well.
+00:37:12.031 We've heard from so many of you
+00:37:13.933 developers how hard that is to
+00:37:14.533 build yourself.
+00:37:16.101 You typically need to compute
+00:37:17.937 your on biddings, set up
+00:37:20.239 chunking algorithm, now all of
+00:37:22.141 that is taking care of.
+00:37:23.943 There's more than retrieval.
+00:37:24.510 With every API call, you usually
+00:37:26.412 need to resend the entire
+00:37:28.314 conversation history, which
+00:37:30.049 means, you know, setting up a
+00:37:31.951 key value store, that means
+00:37:32.518 handling the context windows,
+00:37:34.119 serializing messages and so
+00:37:36.222 forth.
+00:37:36.422 That complex it now completely
+00:37:38.257 goes away with this new stateful
+00:37:41.961 API.
+00:37:42.127 Just because OpenAI managing
+00:37:44.230 this API does not mean it's a
+00:37:46.098 black box.
+00:37:46.365 In fact, you can see the steps
+00:37:48.200 that the tools are taking right
+00:37:48.834 inside your developer
+00:37:50.135 dashboard.
+00:37:50.402 So here if I go ahead and click
+00:37:54.139 on threads, this is the thread I
+00:37:56.208 believe we're currently working
+00:37:57.977 on, and these are all the steps,
+00:38:02.114 including the functions Building
+00:38:02.748 Coded with the right parameters
+00:38:03.983 and the PDFs I've just
+00:38:06.252 uploaded.
+00:38:06.518 Let's move on to a new
+00:38:08.187 capability that many of you have
+00:38:08.821 been requesting for a while.
+00:38:10.389 Code Interpreter is now
+00:38:12.324 available today in the API as
+00:38:14.126 well.
+00:38:15.995 That gives the AI the ability to
+00:38:16.629 write and execute code on the
+00:38:18.397 fly but even generate files.
+00:38:20.266 So let's see that in action.
+00:38:22.268 If I say here, hey, we'll be
+00:38:26.238 four friends staying at this
+00:38:32.011 AirBNB.
+00:38:34.013 What's my share of it plus my
+00:38:36.215 flights?
+00:38:40.019 All right.
+00:38:42.154 Now here what's happening is
+00:38:44.089 that Code Interpreter noticed
+00:38:46.358 that it should write some code
+00:38:46.959 to answer this query so now it's
+00:38:48.327 computing, you know, the number
+00:38:50.329 of days in Paris, number of
+00:38:52.031 friends, it's doing some
+00:38:54.033 exchange rate calculations
+00:38:54.566 behind the scenes to get this
+00:38:56.035 answer for us.
+00:38:58.037 Not the most complex math but
+00:38:58.637 you get the picture.
+00:39:00.205 Imagine you're building a very
+00:39:02.141 complex finance app that's
+00:39:02.675 crunching countless numbers,
+00:39:05.945 plotting charts, so, really, any
+00:39:08.113 task that you'd normally tackle
+00:39:10.049 with code, Code Interpreter will
+00:39:12.151 work great for you.
+00:39:12.584 I think my trip to Paris is
+00:39:14.253 sorted.
+00:39:14.486 To recap here, we've seen how
+00:39:16.522 you can quickly create an
+00:39:20.059 assistant that manages states
+00:39:22.061 for your user conversations,
+00:39:24.396 leverages external tools like
+00:39:24.997 knowledge and retrieval and Code
+00:39:26.231 Interpreter and I know vocation
+00:39:26.865 your own functions to make
+00:39:30.169 things happen.
+00:39:31.971 But there's one more thing I
+00:39:32.538 wanted to show you to really
+00:39:34.073 open up the possibilities using
+00:39:36.175 function calling defined with
+00:39:38.077 our new modalities that we're
+00:39:40.279 launching today.
+00:39:41.981 While working a DevDay, I've
+00:39:42.548 built a small custom assistant
+00:39:44.383 that knows everything about this
+00:39:46.185 event.
+00:39:46.385 But instead of having the chat
+00:39:48.187 interface while running around
+00:39:48.787 all day today, I thought, why
+00:39:52.091 not use voice instead.
+00:39:52.558 So let's bring my phone up on
+00:39:54.460 screen hear so y so
+00:39:58.163 you can see it.
+00:39:58.530 On the right you see a simple
+00:40:02.234 swift app that takes microphone
+00:40:04.303 input.
+00:40:04.503 I'm going to bring up my
+00:40:06.305 terminal log so you can see
+00:40:08.240 what's happening behind the
+00:40:08.807 scenes.
+00:40:10.109 Let's give it a shot.
+00:40:10.576 Hey there, I'm on the keynote
+00:40:12.311 Stage Right now, can you greet
+00:40:14.446 our attendees here at DevDay?
+00:40:20.252 >> Hey, everyone, welcome to
+00:40:22.121 DevDay, it's awesome to have you
+00:40:24.123 all here.
+00:40:24.390 Let's make it an incredible
+00:40:26.125 day.
+00:40:26.291 [cheers and applause]
+00:40:32.131 Isn't that impressive?
+00:40:32.598 You have six unique voices to
+00:40:36.301 choose from in the API, each
+00:40:38.237 speaking multiple languages so
+00:40:40.205 you can find the perfect fit for
+00:40:42.274 your app.
+00:40:42.541 On my laptop, you can see what's
+00:40:46.345 happened behind the scene.
+00:40:46.879 I'm using whisper to converts
+00:40:48.480 the voice input into text, and
+00:40:54.219 the new SSI to make it speak.
+00:40:56.321 Function calling, things get
+00:40:58.157 even more interesting when the
+00:40:58.757 assistant can connect to the
+00:41:00.292 internet and take real actions
+00:41:02.161 for users.
+00:41:02.428 So let's  do something A even
+00:41:08.267 more exciting here.
+00:41:08.700 How about this?
+00:41:10.169 Assistant, can you  randomly
+00:41:12.337 select five DevDay attendees
+00:41:14.339 here and give them $500 in
+00:41:18.177 OpenAI credits.
+00:41:18.544 >> Yes.
+00:41:20.279 Checking the list of attendees.
+00:41:26.185 [laughter]
+00:41:26.452 Done.
+00:41:26.652 I picked five DevDay attendees
+00:41:28.487 and added $500 of API credits to
+00:41:32.191 their account.
+00:41:34.193 Congrats to: (Reading name).
+00:41:38.330 >> If you recognized yourself,
+00:41:40.632 awesome, congrats.
+00:41:42.367 That's it, a quick overview
+00:41:44.369 today of the new Assistants API
+00:41:46.538 combined with new tools and
+00:41:48.540 modalities we launched, all
+00:41:50.209 starting with the simplicity of
+00:41:50.843 a rich text or voice
+00:41:52.544 conversation for you end users.
+00:41:54.546 We really can't wait to see what
+00:41:56.515 you build and congrats to our
+00:41:58.350 lucky winners.
+00:42:00.119 Actually, you know what?
+00:42:00.619 You're all part of this amazing
+00:42:02.454 OpenAI community here so I'm
+00:42:04.423 going to talk to my assistant
+00:42:06.391 one more time before I step off
+00:42:08.293 the stage.
+00:42:08.560 Hey, assistant, can you actually
+00:42:10.529 give everyone here in the
+00:42:12.431 audience $500 in OpenAI
+00:42:16.201 credits?
+00:42:16.435 [cheers and applause]
+00:42:16.902 >> Sounds great.
+00:42:17.269 Let me go through everyone.
+00:42:24.243 [cheers and applause]
+00:42:24.710 >> All right.
+00:42:28.380 That function will keep running,
+00:42:30.415 but I've run out of time so
+00:42:30.983 thank you so much, everyone,
+00:42:32.651 have a great day.
+00:42:34.253 Back to you, Sam.
+00:42:38.257 [cheers and applause]
+00:42:40.425 >> Pretty cool, huh?
+00:42:44.463 [cheers and applause]
+00:42:48.433 So that Assistant API goes into
+00:42:50.502 beta today and we're super
+00:42:52.538 excited to see what you all do
+00:42:54.339 with it.
+00:42:56.175 Anybody can enable it.
+00:42:56.642 Over time, GPTs and assistants
+00:42:58.610 are precursors to agents, are
+00:43:02.481 going to be able to do much,
+00:43:04.183 much more.
+00:43:04.449 They'll gradually be able to
+00:43:05.017 plan and to perform more complex
+00:43:06.752 actions on your behalf.
+00:43:08.554 As I mentioned before, we really
+00:43:10.756 believe in the importance of
+00:43:14.193 gradual iterative deployment.
+00:43:16.295 We believe it's important for
+00:43:16.895 people to start building with
+00:43:18.297 and using these agents now to
+00:43:20.299 get a feel for what the world is
+00:43:20.933 going to be like as they become
+00:43:22.501 more capable.
+00:43:24.303 And as we've always done, we'll
+00:43:24.937 continue to update our systems
+00:43:26.672 based off of your feedback.
+00:43:30.475 So, we're super excited that we
+00:43:31.109 got to share all of this with
+00:43:32.711 you today.
+00:43:34.446 We introduced GPTs, custom
+00:43:38.317 versions of ChatGPT that
+00:43:40.219 combine instructions, extended
+00:43:40.819 knowledge and actions.
+00:43:42.487 We launched the Assistants API
+00:43:46.225 to make it easier to build
+00:43:46.758 assistive experiences with your
+00:43:48.493 own apps.
+00:43:48.760 These are our first steps
+00:43:50.596 towards AI agents and we'll be
+00:43:52.497 increasing their capabilities
+00:43:54.333 over time.
+00:43:54.600 We introduced a new GPT-4
+00:43:56.501 Turbo model that delivers
+00:43:58.670 improved function calling,
+00:44:00.505 knowledge, lowered pricing, new
+00:44:02.341 modalities and more.
+00:44:04.343 And we're deepening our
+00:44:06.245 partnership with Microsoft.
+00:44:08.347 In closing, I wanted to take a
+00:44:08.947 minute to thank the team that
+00:44:10.682 creates all of this.
+00:44:12.517 OpenAI has got remarkable talent
+00:44:16.355 density but it takes a huge
+00:44:16.922 amount of hard work and
+00:44:20.359 coordination to make this
+00:44:20.892 happen.
+00:44:21.126 I truly believe I've got the
+00:44:22.494 best colleagues in the world.
+00:44:24.496 I feel incredibly grateful to
+00:44:26.298 get to work with them.
+00:44:26.765 We do this because we believe AI
+00:44:28.567 is going to be a technological
+00:44:32.271 and societal revolution, will
+00:44:32.871 change the world in many wakes,
+00:44:34.506 and we're happy to get to work
+00:44:35.107 on something that will empower
+00:44:36.842 all of you to build so much for
+00:44:38.810 all of us.
+00:44:40.379 We talked about earlier how if
+00:44:40.979 you give people better tools,
+00:44:42.814 they can change the world.
+00:44:44.683 We believe that AI will be about
+00:44:46.752 individual empowerment and
+00:44:47.286 agency at a scale that we've
+00:44:48.754 never seen before, and that will
+00:44:50.756 elevate humanity to a scale that
+00:44:52.824 we've never seen before,
+00:44:54.526 either.
+00:44:56.395 We'll be able to do more, to
+00:44:56.962 create more and to have more.
+00:44:58.697 As intelligence gets integrated
+00:45:02.401 everywhere, we will all have
+00:45:02.968 superpowers on demand.
+00:45:04.536 We're excited to see what you
+00:45:05.137 all will do with this
+00:45:06.638 technology, and to discover the
+00:45:08.473 new future that we're all going
+00:45:09.107 to architect together.
+00:45:10.742 We hope that you'll come back
+00:45:14.313 next year.
+00:45:14.579 What we launch today is going to
+00:45:16.481 lack very quaint to what we're
+00:45:18.417 creating for you now.
+00:45:18.884 Thank you for all that you do.
+00:45:20.485 Thank you for coming here
+00:45:22.521 today.
+00:45:22.721 [cheers and applause]

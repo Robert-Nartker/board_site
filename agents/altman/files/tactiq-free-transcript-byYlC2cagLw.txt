@@ -1,0 +1,1397 @@
+# tactiq.io free youtube transcript
+# OpenAI CEO Sam Altman and CTO Mira Murati on the Future of AI and ChatGPT | WSJ Tech Live 2023
+# https://www.youtube.com/watch/byYlC2cagLw
+
+00:00:00.270 So here's my first question for you.
+00:00:01.779 Very,
+00:00:02.420 very simple question.
+00:00:04.469 What makes you human?
+00:00:07.340 Me?
+00:00:07.860 Both of you,
+00:00:08.500 you both have to answer what makes you human?
+00:00:10.119 Oh,
+00:00:10.319 and one word you get one word,
+00:00:12.699 humor,
+00:00:13.789 humor,
+00:00:16.420 emotion.
+00:00:17.450 OK.
+00:00:18.510 Um To confirm you're both human.
+00:00:20.299 I'm gonna need you to confirm which of these boxes have a traffic light.
+00:00:27.670 I think.
+00:00:28.340 Uh I think I can do that too now.
+00:00:29.670 Ok.
+00:00:30.299 All right.
+00:00:30.909 Well,
+00:00:31.500 Sam,
+00:00:31.969 you are actually here nine years ago at our first tech live and I actually wanna roll the 
+00:00:36.970 clip of what you said.
+00:00:39.450 Certainly the,
+00:00:40.090 the fear with,
+00:00:41.080 with A I or machine intelligence in general is that it replaces drivers or doctors or 
+00:00:45.619 whatever.
+00:00:46.290 Um,
+00:00:46.889 but the optimistic view on this and certainly what 
+00:00:51.599 backs up what we're seeing is that computers and humans are very good at very different things.
+00:00:56.319 So a computer doctor will out crunch the numbers and do a better job than a 
+00:01:00.979 human on looking at a massive amount of data and saying this.
+00:01:03.250 But on cases that require judgment or creativity or empathy,
+00:01:07.360 we are nowhere near any computer system that is any good at this.
+00:01:12.150 Ok?
+00:01:13.050 Does 2023.
+00:01:15.519 Partially right and partially wrong.
+00:01:17.000 Ok.
+00:01:17.389 It could have been worse,
+00:01:18.199 could have been worse.
+00:01:19.160 What's your outlook?
+00:01:19.900 Now,
+00:01:23.180 people,
+00:01:25.910 I think the prevailing wisdom back then,
+00:01:27.889 was that a I was gonna um do the kind of like robotic jobs really 
+00:01:32.739 well first.
+00:01:33.260 So it would have been a great robotic surgeon,
+00:01:35.019 something like that.
+00:01:35.930 Um And then maybe eventually it was gonna do the,
+00:01:39.139 the sort of like higher judgment tasks.
+00:01:41.319 Uh And then,
+00:01:42.900 you know,
+00:01:43.209 then it would kind of do the empathy and then maybe never,
+00:01:46.629 it was gonna be like a really great creative thinker and creativity has been 
+00:01:51.639 in some sense.
+00:01:52.370 And at this point,
+00:01:52.919 the definition of the word creativity is up for debate,
+00:01:55.730 but creativity in,
+00:01:56.730 in some sense has been easier for A I than people thought you can,
+00:02:00.849 you know,
+00:02:01.029 see dolly three generate these like amazing images um or write these creative 
+00:02:05.959 stories with G BT four or whatever.
+00:02:07.620 Um So that part of the answer maybe was not 
+00:02:12.630 perfect.
+00:02:13.490 Uh And GP I,
+00:02:15.720 I certainly would not have predicted GP T 49 years ago um quite how it turned 
+00:02:20.580 out.
+00:02:21.009 But a lot of the other parts about people still really want a human doctor.
+00:02:24.800 Uh That's definitely very true.
+00:02:27.309 And I wanna quickly shift to a G I,
+00:02:31.190 what is a G I,
+00:02:32.500 Mira?
+00:02:32.830 If you could just define it for everybody in the audience,
+00:02:36.429 I will say it's a system that can generalize 
+00:02:41.070 across many domains that,
+00:02:44.699 you know,
+00:02:45.220 would be equivalent to human work.
+00:02:49.169 Um They produce a lot of uh productivity and economic value.
+00:02:54.410 And,
+00:02:54.770 but you know,
+00:02:55.089 we're talking about one system that can generalize across a lot of 
+00:02:59.740 digital domains of human work.
+00:03:02.699 And Sam,
+00:03:03.199 why is a G I the goal,
+00:03:08.130 the,
+00:03:08.419 the two things that I think will matter most over the next decade or 
+00:03:13.399 few decades um to improving the human condition,
+00:03:17.639 the most giving us sort of just more of what we want.
+00:03:21.570 Our uh abundant and inexpensive intelligence.
+00:03:25.350 Um The more powerful,
+00:03:26.759 the more general,
+00:03:27.350 the smarter,
+00:03:27.789 the better.
+00:03:28.630 Uh I think that is A G I and then,
+00:03:30.110 and then abundant and cheap energy.
+00:03:31.940 And if we can get these two things done in the world,
+00:03:34.839 then uh it's almost like difficult to imagine how much else we could 
+00:03:39.559 do.
+00:03:40.160 Uh We're,
+00:03:40.589 we're big believers that you give people better tools and they do things that astonish you.
+00:03:44.389 And I think A G I will be uh the best tool humanity has yet created uh 
+00:03:49.350 with it,
+00:03:50.039 we will be able to solve all sorts of problems.
+00:03:52.389 We'll be able to express ourselves in new creative ways.
+00:03:54.979 We'll make just incredible things um for each other,
+00:03:58.119 for ourselves,
+00:03:58.839 for the world,
+00:03:59.470 for,
+00:04:00.220 for kind of this unfolding human story.
+00:04:02.240 Uh And you know,
+00:04:04.330 it's new and anything new comes with change and changes,
+00:04:07.740 uh not always all easy.
+00:04:10.880 Um But I think this will be just absolutely tremendous upside and 
+00:04:16.488 gonna,
+00:04:17.790 you know,
+00:04:18.178 we're gonna nine more years.
+00:04:20.228 If you're nice enough to invite me back,
+00:04:21.558 you'll roll this question and people will say,
+00:04:23.889 like,
+00:04:24.588 how could we have thought we didn't want this?
+00:04:26.398 Like,
+00:04:27.619 how,
+00:04:28.109 I guess two parts to that?
+00:04:29.720 My next question.
+00:04:31.320 When will it be here and how will we know it's here from?
+00:04:35.910 Well,
+00:04:36.089 either one of you,
+00:04:36.839 I mean,
+00:04:37.359 you can both predict how long I think we'll call you in 10 years and we'll tell you you're wrong than that.
+00:04:41.690 I mean,
+00:04:42.019 yeah,
+00:04:42.250 I,
+00:04:42.339 yeah,
+00:04:42.619 probably in the next decade,
+00:04:43.980 but I would say it's a bit tricky because we,
+00:04:47.160 you know,
+00:04:47.519 when will it be here?
+00:04:49.209 Right.
+00:04:49.440 And I just kind of give you a definition but then often we talk about intelligence and you know,
+00:04:54.200 how intelligent is it or whether it's conscious and sentient and all of these terms.
+00:04:59.029 And,
+00:04:59.420 you know,
+00:04:59.640 they're not quite right because they sort of define our,
+00:05:04.170 our own intelligence and we're building something slightly different and you can kind of see 
+00:05:08.869 how the definition of intelligence evolves from,
+00:05:12.709 you know,
+00:05:12.940 machines that were really great at chess and off ago and now the GP T series 
+00:05:17.950 and then what's next,
+00:05:19.040 but it continues to evolve and it pushes what,
+00:05:22.440 how we define intelligence.
+00:05:24.690 We,
+00:05:25.040 we,
+00:05:25.399 we kind of define a G I as like the thing we don't have quite yet.
+00:05:29.570 So we've moved I mean,
+00:05:30.480 there were a lot of people who would have 10 years ago said art if you could make something like G BT four G BT five,
+00:05:34.920 maybe that would have been an A T I and,
+00:05:37.160 and now people are like,
+00:05:38.200 well,
+00:05:38.559 you know,
+00:05:38.799 it's like a nice little chat bot or whatever.
+00:05:40.519 And I think that's wonderful.
+00:05:41.630 I think it's great that the goalposts keep getting moved.
+00:05:43.679 It makes us work harder.
+00:05:44.980 Um But I think we're getting close enough to whatever that 
+00:05:49.899 A G I threshold is gonna be that we no longer get to hand wave at it and the definition is gonna 
+00:05:54.899 matter so less than a decade for some definition.
+00:05:59.869 OK.
+00:06:00.869 All right.
+00:06:01.970 The goalpost is mo moving.
+00:06:04.089 Um Sam,
+00:06:05.399 you've used the word.
+00:06:06.619 Um,
+00:06:07.250 and,
+00:06:07.579 and,
+00:06:07.750 and previously,
+00:06:08.450 when describing a G I,
+00:06:09.750 the term median human,
+00:06:12.609 can you explain what that is?
+00:06:15.959 Um I,
+00:06:18.880 I think there are experts in areas that are gonna you 
+00:06:24.279 better than A I systems for a long period of time.
+00:06:27.579 Um And so like,
+00:06:28.730 you know,
+00:06:28.910 you could come to like some area where I'm like,
+00:06:31.029 really an expert at some task and I,
+00:06:32.829 I'll be like,
+00:06:33.339 all right,
+00:06:33.929 you know,
+00:06:34.540 GP T four is doing a horrible job there.
+00:06:36.820 GP T 56,
+00:06:37.839 whatever,
+00:06:38.079 doing a horrible job there.
+00:06:39.260 But you can come to other tasks where I'm ok,
+00:06:42.839 but certainly not an expert.
+00:06:44.329 I'm kind of like,
+00:06:45.489 maybe like an average of what different people in the world could do with something.
+00:06:49.720 And for that,
+00:06:50.970 uh then I might look at it and say,
+00:06:52.709 oh,
+00:06:52.730 this is actually doing pretty well.
+00:06:54.519 So what we mean by that is that the in any given area,
+00:06:59.619 expert,
+00:07:00.220 humans may uh like experts in any area can 
+00:07:05.109 like just do extraordinary things.
+00:07:06.670 And that may take us a while to be able to do with these,
+00:07:09.049 these systems.
+00:07:10.480 But for kind of the more average case performance.
+00:07:13.290 So,
+00:07:13.470 you know,
+00:07:13.630 me doing something that I'm like,
+00:07:14.980 not very good at.
+00:07:15.700 Anyway,
+00:07:16.359 maybe our future versions can help me with that a lot.
+00:07:19.420 So am I a median human uh at some tasks?
+00:07:23.250 I'm sure.
+00:07:23.910 And it's some clearly at this,
+00:07:25.329 you're a very expert human and no GP T is taking your job anytime soon.
+00:07:29.059 Ok.
+00:07:29.609 That makes me feel that makes me feel a little better.
+00:07:32.059 Uh Mira,
+00:07:33.540 how's the G BT five going?
+00:07:37.679 Um We're not there yet,
+00:07:40.769 but it's kind of need to know basis.
+00:07:43.369 I'll let you know that's such a diplomatic answer.
+00:07:46.239 I'm gonna make merry to all of this.
+00:07:48.390 I would have no,
+00:07:49.209 I would have just said,
+00:07:49.910 oh yeah,
+00:07:50.130 here's what's happening.
+00:07:50.649 That's great.
+00:07:51.489 No,
+00:07:51.690 no,
+00:07:52.429 we're not sending him back here.
+00:07:53.880 Pair of these two who paired,
+00:07:55.559 whose idea was this?
+00:07:56.839 Um You're working on it,
+00:07:58.899 you're training it.
+00:08:00.260 We're always working on the next thing.
+00:08:05.769 Just do a staring contest.
+00:08:08.660 That's what makes us human.
+00:08:11.209 Um All of these steps though,
+00:08:14.149 with GP T,
+00:08:14.750 right?
+00:08:15.019 Is it,
+00:08:15.429 or,
+00:08:15.820 you know,
+00:08:15.970 GP T 33.5 for our steps towards A G I with 
+00:08:20.850 each of them?
+00:08:21.390 Are you looking for a benchmark?
+00:08:22.899 Are you looking for?
+00:08:24.089 This is what we want to get to?
+00:08:25.809 Yeah.
+00:08:26.119 So,
+00:08:27.200 you know,
+00:08:27.709 before we had the product,
+00:08:29.750 we were sort of looking at academic benchmarks and how well these models were doing a 
+00:08:34.308 academic benchmarks and,
+00:08:36.429 you know,
+00:08:37.099 open A I is known for betting on scaling,
+00:08:40.808 you know,
+00:08:40.950 throwing a ton of compute and data on this uh neural networks 
+00:08:45.609 and seeing how they get better and better at predicting the next token.
+00:08:50.530 But it's not that we really care about the prediction of the next token,
+00:08:53.799 we care about the tasks in the real world to which this correlates 
+00:08:58.549 to.
+00:08:59.190 And so that's actually what we started seeing once we put out um 
+00:09:03.840 research in the real world and we,
+00:09:07.140 we build out products through the API eventually through A G BT as well.
+00:09:11.260 And so now we actually have real world examples.
+00:09:15.250 We can see how our customers do in um specific domains,
+00:09:19.849 how it moves the needle for specific businesses.
+00:09:23.020 Um And of course,
+00:09:24.929 with GP T four,
+00:09:25.799 we saw that it did really well in um exams like 
+00:09:30.229 SAT and LS A and so on.
+00:09:33.059 So it kind of goes to our earlier point that we're,
+00:09:36.090 you know,
+00:09:36.650 continually evolving our definition of what it means for these 
+00:09:41.270 models to be more capable.
+00:09:43.530 Um But you know,
+00:09:45.780 as we increase the the capability vector,
+00:09:48.799 what we really look for is reliability and safety.
+00:09:53.020 Uh these are very interweaved and it's very important to make systems that 
+00:09:58.150 of course,
+00:09:58.809 are increasingly capable,
+00:10:00.270 but that you can truly rely on and they are robust and that 
+00:10:05.140 you can trust the output of the system.
+00:10:07.659 So we're kind of pushing in uh both of these vectors at the same time.
+00:10:12.450 And um you know,
+00:10:14.440 as we build the next model,
+00:10:17.000 the next set of technologies,
+00:10:18.880 we're both betting continuing to bet on scaling.
+00:10:22.010 But we're also looking at,
+00:10:24.710 you know,
+00:10:25.039 this other uh element of multimodality.
+00:10:28.429 Um because we want these models to kind of perceive the world in a 
+00:10:33.280 similar way to how we do and,
+00:10:36.179 you know,
+00:10:36.469 we per perceive the world,
+00:10:37.789 not just in text but images and sounds and so on.
+00:10:41.700 So we want to have robust representations of the 
+00:10:46.150 world um in,
+00:10:47.500 in these models will G BT five solve the 
+00:10:51.719 hallucination problem?
+00:10:54.070 Well,
+00:10:54.650 I mean,
+00:10:55.450 actually,
+00:10:56.229 maybe like,
+00:10:57.289 let's see,
+00:10:58.219 um we've made a ton of progress on the hallucination issue um 
+00:11:03.580 with G BT four,
+00:11:05.179 but we're still quite uh we're not where,
+00:11:08.530 where we need to be,
+00:11:09.729 but,
+00:11:09.979 you know,
+00:11:10.190 we're sort of on the right track and it's,
+00:11:13.250 it's unknown,
+00:11:13.900 it's research,
+00:11:14.690 it,
+00:11:14.849 it could be that uh continuing in this path of reinforcement learning with human 
+00:11:19.679 feedback,
+00:11:20.369 we can get all the way to really reliable outputs.
+00:11:24.609 And we're also adding other elements like retrieval and search.
+00:11:29.059 So you can um you have the ability to,
+00:11:32.460 to provide more factual answers or to get more factual outputs from the model.
+00:11:37.380 So there is a combination of technologies that we're putting together to kind of reduce 
+00:11:42.369 the hallucination issue.
+00:11:44.719 Sam,
+00:11:45.109 I'll,
+00:11:45.229 I'll ask you about the data,
+00:11:47.099 the training data.
+00:11:47.919 Obviously,
+00:11:48.510 there's,
+00:11:48.830 there's been,
+00:11:49.570 you know,
+00:11:49.669 maybe maybe some people in this audience who may not be thrilled about some of the data that you guys have 
+00:11:54.630 used to train some of your models.
+00:11:56.150 Not too far from here in,
+00:11:57.429 in Hollywood,
+00:11:58.119 people have not been thrilled.
+00:11:59.940 Uh publishers when you're,
+00:12:01.950 when you're considering now as you're as you're walking through and to going to work towards this 
+00:12:06.789 these next models,
+00:12:08.489 what are the conversations you're having around the data?
+00:12:12.219 So a few thoughts in different directions here,
+00:12:15.289 one,
+00:12:15.849 we obviously only wanna use data that people are excited about us 
+00:12:21.020 using.
+00:12:21.450 Like we don't,
+00:12:23.169 we,
+00:12:23.530 we want the model of this new world to,
+00:12:25.960 to work for uh everyone.
+00:12:28.599 And we wanna find ways to make people say like,
+00:12:31.229 you know what I see why this is great.
+00:12:32.840 I see why this is like gonna be a new,
+00:12:34.940 it may be a new way that we think about some of these issues around data ownership 
+00:12:39.489 and uh like how economic flows work.
+00:12:42.270 But we want to get to something that everybody feels really excited about.
+00:12:45.609 But one of the challenges has been people,
+00:12:48.119 you know,
+00:12:48.390 different kinds of data owners have very different pictures.
+00:12:50.940 So we're just experimenting with a lot of things we're doing partnerships of different shapes.
+00:12:55.380 Um And we think that like with any new field,
+00:12:58.729 we'll find something that sort of just becomes a,
+00:13:01.409 a new standard also,
+00:13:03.690 uh I think as these models get 
+00:13:08.150 smarter and more capable,
+00:13:11.000 we will need less training data.
+00:13:13.200 So I think there's this view right now,
+00:13:14.619 which is that we're just gonna like,
+00:13:17.669 you know,
+00:13:17.940 models are gonna have to like train on every word humanity has ever produced or whatever.
+00:13:22.710 And I,
+00:13:23.359 I technically speaking,
+00:13:24.780 I don't think that's what's gonna be the long term path here,
+00:13:27.669 like we have existential proof with humans that that's,
+00:13:30.380 that's not the only way to become intelligent.
+00:13:32.619 Um And so I think the conversation gets a little bit um 
+00:13:38.380 led astray by this because what,
+00:13:41.150 what really will matter in the future is like particularly valuable data.
+00:13:45.400 You know,
+00:13:45.590 people want people trust the Wall Street Journal and they want to see content from 
+00:13:50.500 that.
+00:13:50.650 And the Wall Street Journal wants that too.
+00:13:51.900 And we find new models to make that work.
+00:13:54.260 But I think the,
+00:13:55.880 the conversation about data and the shape of all of this uh because of the technological 
+00:14:00.849 progress we're making,
+00:14:01.849 it's about to,
+00:14:02.479 it's about to shift.
+00:14:04.190 Well,
+00:14:04.349 publishers like my mine who might be out there somewhere.
+00:14:08.059 They want money for that data is the future of this 
+00:14:12.390 entire race about who can pay the most for the best data.
+00:14:16.710 Um No,
+00:14:18.330 that was sort of the point I was trying to make,
+00:14:20.130 I guess in elegantly the,
+00:14:22.440 but you still need some,
+00:14:25.280 you will need some.
+00:14:26.409 But the core,
+00:14:27.409 like the thing that is the thing that people really like about a GP T model uh 
+00:14:32.219 is not fundamentally that it has that it knows particular knowledge,
+00:14:36.369 there's better ways to find that it's that it has this larval reasoning capacity and that's 
+00:14:41.210 gonna get better and better.
+00:14:42.169 But that's,
+00:14:42.880 that's really what this is gonna be about.
+00:14:44.570 And then there will be ways that you can set up all sorts of economic arrangements as a user or as a company 
+00:14:49.530 making the model or whatever to say.
+00:14:50.770 All right.
+00:14:51.010 Now,
+00:14:51.599 you know,
+00:14:52.059 I,
+00:14:52.210 I understand that you would like me to go get this data from the Wall Street Journal.
+00:14:55.799 I can do that,
+00:14:56.400 but here's the deal that's in place.
+00:14:58.219 So there will be things like that.
+00:14:59.270 But,
+00:14:59.669 but the fundamental thing about these models is not that they memorize a lot of data.
+00:15:03.760 So sort of like the model where also you right now you've got being integrated,
+00:15:07.500 it goes out looks for some of that data and can bring back some of that.
+00:15:10.409 And that's,
+00:15:10.760 you know,
+00:15:10.950 on the internet,
+00:15:11.520 we decided again,
+00:15:13.229 back in the early days the internet,
+00:15:14.169 there were a lot of conversations about the different models could be and we all kind of decided on,
+00:15:18.130 you know,
+00:15:18.359 here's the,
+00:15:19.070 the core framework and there's different pieces in there.
+00:15:21.000 Of course.
+00:15:21.929 And we're all gonna have to figure that out for a I,
+00:15:24.659 well,
+00:15:24.799 speaking of bing,
+00:15:26.140 you and Satya Nadella,
+00:15:27.309 your $10 billion friends or frenemies friends.
+00:15:30.929 Yeah,
+00:15:32.200 I won't pretend that it's like a perfect relationship but nowhere near the front of me category.
+00:15:37.020 It's really good.
+00:15:37.989 Like we have our squabbles.
+00:15:40.500 It just seems like increasingly as you guys are releasing more and more products that they,
+00:15:45.299 they seem to compete in some places.
+00:15:48.049 Um 
+00:15:53.760 I mean,
+00:15:54.109 I think that that's,
+00:15:55.539 that there's something core about this language interface that is a big 
+00:16:00.469 deal and so there's gonna be a lot of people doing things for that and,
+00:16:05.700 and then there's other places like,
+00:16:06.969 you know,
+00:16:07.119 we offer a version of API,
+00:16:08.489 they offer a version of API but like that just,
+00:16:11.010 that's like a very friendly thing and we all,
+00:16:14.159 we like,
+00:16:14.390 we work it out so that we all benefit and we're all happy and,
+00:16:16.609 and we just want like we jointly want as much usage of our models uh 
+00:16:21.570 of our as,
+00:16:22.289 as possible.
+00:16:22.919 So we're super aligned there.
+00:16:24.440 Um But yeah,
+00:16:27.520 it's like it makes sense,
+00:16:30.609 friends,
+00:16:31.369 friends that text.
+00:16:32.900 We do a lot.
+00:16:34.280 OK.
+00:16:34.869 All right.
+00:16:35.359 All right.
+00:16:36.210 Um Mira,
+00:16:37.859 you,
+00:16:38.380 you over the last number of months have started to roll out a lot more 
+00:16:42.320 personalization to the model,
+00:16:44.099 right?
+00:16:44.400 You can put in custom instructions.
+00:16:46.320 You get a,
+00:16:46.909 get the voice now and we're gonna bring out one of the,
+00:16:50.020 bring down the screen to hear one of these clips.
+00:16:52.099 But I wanted to play one of these conversations I had with chat GP TS 
+00:16:56.900 just yesterday.
+00:17:00.840 It's a,
+00:17:00.960 it's a slow screen that G BT responds quicker.
+00:17:05.310 That's really embarrassing.
+00:17:07.339 Yeah.
+00:17:08.430 We're gonna get that better though.
+00:17:11.400 We'll get it faster that I can't help you with.
+00:17:13.189 But we'll get chas G BT.
+00:17:15.329 No,
+00:17:15.479 I'm saying cha G BT is faster than this.
+00:17:17.489 But,
+00:17:18.010 and I'm saying that's like a,
+00:17:19.618 it's not often that people say chag BT is faster than X.
+00:17:25.130 I've got a big interview with Open A I executives and I'm nervous.
+00:17:28.760 Any advice.
+00:17:32.290 Absolutely.
+00:17:33.209 Given your background as a technology columnist,
+00:17:36.430 you're well equipped for this.
+00:17:38.469 Just be yourself.
+00:17:39.849 Do your homework on Open A's latest developments and trust in your expertise.
+00:17:44.290 Remember,
+00:17:45.099 they'll likely appreciate thoughtful and well researched questions and hey,
+00:17:49.040 everyone gets nervous.
+00:17:51.089 Take a deep breath and rock it.
+00:17:55.160 Am I rocking it?
+00:17:56.829 I'm rocking it.
+00:17:57.569 All right.
+00:17:58.439 Are we rocking it up here?
+00:18:00.160 Ok.
+00:18:02.609 But what's so striking about that?
+00:18:04.380 First of all I want every,
+00:18:05.310 that's,
+00:18:05.589 that's the voice of Chat GP.
+00:18:07.859 T they have one of five.
+00:18:09.569 Yeah.
+00:18:10.010 Yeah.
+00:18:10.219 That,
+00:18:10.489 I mean,
+00:18:10.709 that is the voice.
+00:18:11.520 It,
+00:18:11.689 it is,
+00:18:11.939 it sounds so human.
+00:18:13.420 It sounds so natural.
+00:18:15.079 It knows about me because I've already put into custom instructions.
+00:18:17.760 I'm a tech journalist.
+00:18:19.000 It also knows I'm allergic to avocado.
+00:18:20.520 It's always putting that in there.
+00:18:21.869 Don't eat avocado.
+00:18:22.760 I'm like,
+00:18:22.989 I'm not asking about avocado.
+00:18:26.640 We got some work to do.
+00:18:27.579 Is there,
+00:18:28.150 is there a,
+00:18:28.849 a future and this is what you're maybe trying to build here where we have deep 
+00:18:33.380 relationships with this type of bo it's going to be a 
+00:18:37.969 significant relationship,
+00:18:39.489 right?
+00:18:39.780 Because,
+00:18:40.459 you know,
+00:18:40.890 we're,
+00:18:41.290 we're building the systems that are going to be everywhere in,
+00:18:44.650 at your home,
+00:18:45.319 in your educational environment,
+00:18:46.770 in your work environment.
+00:18:48.319 And maybe,
+00:18:49.170 you know,
+00:18:49.420 when you're having fun.
+00:18:50.540 And so that's why it's actually so important to get it right?
+00:18:55.135 And we have to be so careful about how we design this interaction so 
+00:18:59.964 that ultimately,
+00:19:01.185 it's,
+00:19:01.435 you know,
+00:19:01.925 elevating and it's fun and it's uh it,
+00:19:04.785 it makes productivity better and it enhances creativity.
+00:19:08.574 Um And,
+00:19:09.885 you know,
+00:19:10.165 this is ultimately where we're trying to go.
+00:19:12.564 And as we increase the capabilities of the technology,
+00:19:15.844 we also want to make sure that,
+00:19:17.724 you know,
+00:19:17.925 on,
+00:19:18.324 on the product side,
+00:19:19.895 um we feel in control of this,
+00:19:24.359 these systems in the sense that we can steer them to do the things that we want 
+00:19:29.290 them to do and the output is reliable,
+00:19:32.209 that's very important.
+00:19:33.430 And of course,
+00:19:34.979 we want it to be personalized,
+00:19:36.869 right?
+00:19:37.250 And as,
+00:19:38.069 as it has more information about your preferences,
+00:19:41.859 the things you like,
+00:19:42.750 the things you do um and the capabilities of the models 
+00:19:47.609 increase and other features like memory and so on.
+00:19:50.810 It has,
+00:19:51.680 of course,
+00:19:52.280 it will become more personalized and that's,
+00:19:54.739 that's a goal,
+00:19:55.290 it will become more useful and it's,
+00:19:57.280 it's going to become uh more fun and more creative and it's not just one 
+00:20:01.839 system,
+00:20:02.479 right?
+00:20:02.839 Like you can have many such systems personalized for specific 
+00:20:07.250 domains and tasks.
+00:20:08.939 That's a big responsibility though.
+00:20:10.619 And you guys will be in the sort of control of people's friends,
+00:20:15.020 maybe people's,
+00:20:16.380 it gets to being people's lovers.
+00:20:18.270 Uh How do you,
+00:20:19.060 how do you guys think about that control?
+00:20:23.089 First of all,
+00:20:23.739 I think there's,
+00:20:25.910 we're not gonna be the only player here,
+00:20:27.619 like there's gonna be many people.
+00:20:28.859 So we have,
+00:20:29.500 we have,
+00:20:30.140 we get to put like our nudge on the trajectory of this technological development and we've got 
+00:20:34.880 some opinions.
+00:20:35.939 Uh but a we really think that the decisions belong to sort of humanity,
+00:20:40.589 society as a whole,
+00:20:41.329 whatever you wanna call it.
+00:20:42.150 And b we will be one of many actors building sophisticated systems here.
+00:20:46.290 So it's gonna be a society wide discussion.
+00:20:50.079 It's,
+00:20:50.310 and,
+00:20:50.469 and there's gonna be all of the normal forces,
+00:20:52.150 there'll be competing products that offer different things,
+00:20:54.189 there will be different kind of like societal embraces and pushbacks,
+00:20:58.800 there'll be regulatory stuff.
+00:21:00.160 Uh It's gonna be like the same complicated mess that any new 
+00:21:04.239 technological birthing process goes through and then we,
+00:21:07.989 we pretty soon will turn around and we'll all feel like we had smart A I in our lives forever.
+00:21:12.089 And,
+00:21:12.359 you know,
+00:21:12.800 that's just,
+00:21:13.400 that's,
+00:21:13.709 that's the way of progress and I think that's awesome.
+00:21:15.949 Um I personally have deep misgivings 
+00:21:20.920 about this vision of the future where everyone is like super close to A I friends and not like more so than human 
+00:21:25.910 friends or whatever.
+00:21:26.510 I personally don't want that.
+00:21:28.000 Uh I accept that other people are gonna want that.
+00:21:31.180 Um And you know,
+00:21:33.510 some people are gonna build that and if that's what the world wants and what we decide makes sense,
+00:21:38.079 we,
+00:21:38.199 we're gonna get that.
+00:21:40.079 I,
+00:21:40.150 I personally think that personalization is great.
+00:21:44.130 Personality is great,
+00:21:45.739 but it's important that it's not like person this and,
+00:21:50.069 and at least that,
+00:21:50.750 you know,
+00:21:51.089 when you're talking to A I and when you're not,
+00:21:53.130 uh you know,
+00:21:53.430 we named it Chat G BT and not,
+00:21:55.339 it's a long story behind that,
+00:21:56.310 but we name it Chat G BT and not a person's name very intentionally.
+00:22:00.079 And we do a bunch of subtle things in the way you use it to like,
+00:22:03.270 make it clear that you're not talking to a person.
+00:22:06.020 Um And I,
+00:22:07.890 I think what's gonna happen is that in the same way that people 
+00:22:12.989 have a lot of relationships with people,
+00:22:14.949 they're gonna keep doing that.
+00:22:15.959 And then there will also be these like a is in the world but you kind of know they're just a different thing 
+00:22:22.410 when you're saying this is another question for you.
+00:22:24.930 What is the ideal device that we'll interact with these on?
+00:22:28.939 And I'm wondering if you,
+00:22:30.020 I hear you and Johnny Ive have been talking,
+00:22:33.819 you bring something to show us.
+00:22:36.920 Um,
+00:22:38.160 I think,
+00:22:38.699 I think there is something great to do but I don't know what it is yet.
+00:22:42.380 You must have some idea,
+00:22:43.569 a lot of ideas.
+00:22:45.239 I mean,
+00:22:45.430 I'm interested in this topic.
+00:22:47.020 I think it is possible.
+00:22:48.420 I think most of the current thinking out there in the world is quite 
+00:22:53.119 bad about what we can do with this new technology in terms of a new computing platform.
+00:22:58.270 And I do think every sufficiently big new technology uh 
+00:23:03.579 it enables some new computing platform.
+00:23:06.819 Um but lots of ideas but like in the very nascent 
+00:23:11.410 stage.
+00:23:12.619 So it doesn't,
+00:23:14.290 I guess the question for me is is there something about a smartphone or ear 
+00:23:18.989 buds or a laptop or a speaker that doesn't quite work right now.
+00:23:23.619 Of course,
+00:23:24.199 so much smartphones are great.
+00:23:26.189 Like I have no interest in trying to go compete with a smartphone.
+00:23:31.719 Like it's a phenomenal thing uh at what it does.
+00:23:36.060 But I think the way what A I enables 
+00:23:41.040 is so fundamentally new um that it is possible to and maybe 
+00:23:45.989 we won't like,
+00:23:46.959 you know,
+00:23:47.739 maybe,
+00:23:48.589 maybe it's just like for a bunch of reasons doesn't happen.
+00:23:51.089 But I think it's like,
+00:23:51.790 well worth the effort of talking about or thinking about,
+00:23:55.109 you know,
+00:23:55.599 what can we make?
+00:23:56.630 Now that before we had computers that could think was,
+00:24:00.630 uh,
+00:24:01.329 or computers that could understand whatever you wanna call it was not possible.
+00:24:04.170 And if the answer is nothing,
+00:24:06.579 it would be like a little bit disappointed.
+00:24:10.010 Well,
+00:24:10.140 it sounds like it doesn't look like a humanoid robot,
+00:24:12.079 which is good.
+00:24:14.140 Definitely not.
+00:24:17.319 I don't think that quite works.
+00:24:18.790 Ok.
+00:24:19.520 Speaking of hardware,
+00:24:21.630 are you making your own chips?
+00:24:24.369 You want an answer now?
+00:24:26.300 Um Directed here.
+00:24:28.989 Uh Are we making our own chips?
+00:24:30.819 We are trying to figure out what it is going to take to 
+00:24:35.020 scale to,
+00:24:36.140 to deliver at the scale that we think the world will demand.
+00:24:40.109 Um And at the model scale that we think that the research can support,
+00:24:43.750 um that might not require any custom hardware.
+00:24:49.349 Um And we have like wonderful partnerships right now with people who are doing amazing work.
+00:24:54.329 Um So the default path would certainly be not to,
+00:24:59.199 but I wouldn't,
+00:25:00.010 I would like,
+00:25:00.849 I would never rule it out.
+00:25:02.479 Are there any good alternatives to NVIDIA out there?
+00:25:06.630 Uh NVIDIA certainly has something amazing,
+00:25:09.640 amazing.
+00:25:10.510 Uh But,
+00:25:11.449 you know,
+00:25:11.719 I think like the magic of capitalism is doing its thing and a lot of other people are trying and 
+00:25:16.949 we'll see where it all shakes out.
+00:25:17.949 We had Renee Haas here from arms.
+00:25:19.849 I hear you guys have been talking his friends.
+00:25:24.040 Oh,
+00:25:24.119 you said hello?
+00:25:25.500 Not as close as Sata.
+00:25:26.780 You're not,
+00:25:27.150 you're not as close as,
+00:25:28.050 not as,
+00:25:28.569 ok.
+00:25:28.770 Got it,
+00:25:29.140 got it.
+00:25:29.770 Um um this is where we're getting.
+00:25:34.430 Yeah,
+00:25:34.550 we're getting to the hard,
+00:25:35.329 we actually we're about to get to the hard hitting.
+00:25:36.920 So um my colleagues recently reported you guys are,
+00:25:40.430 are,
+00:25:40.849 are,
+00:25:41.260 are actually looking at the valuation is 80 to 90 billion and that you're 
+00:25:45.869 expected to reach a billion in revenue.
+00:25:48.670 Are you raising money?
+00:25:50.109 No.
+00:25:50.849 Well,
+00:25:51.189 I mean,
+00:25:51.479 always but not like this minute.
+00:25:54.079 Not right now,
+00:25:54.709 not,
+00:25:55.239 not right now.
+00:25:55.680 There's the people here with money.
+00:25:57.250 All right,
+00:25:57.699 let's talk.
+00:26:00.160 Um We,
+00:26:00.880 we will need huge amounts of capital to complete our mission and we have 
+00:26:05.650 been extremely upfront about that.
+00:26:08.430 Um There has got to be something more interesting to talk about in our limited time 
+00:26:13.359 here together than our future capital raising plans,
+00:26:16.699 but we will need a lot more money.
+00:26:18.280 We don't know exactly how much we don't know exactly how it's gonna be structured,
+00:26:21.030 what we're gonna do.
+00:26:21.839 But um you know,
+00:26:24.880 it shouldn't come as a surprise because we have said this all the way through.
+00:26:29.560 Like it's just a tremendously expensive endeavor where,
+00:26:32.900 which part of the business though right now is growing the most mirror you can also 
+00:26:37.760 jump in.
+00:26:38.079 Definitely in the product side.
+00:26:39.680 Yeah,
+00:26:39.869 with,
+00:26:40.270 with the research team is very important to have,
+00:26:42.859 you know,
+00:26:43.040 density of talent,
+00:26:44.560 small teams that innovate quickly the product side,
+00:26:47.670 you know,
+00:26:48.040 we're doing a lot of things.
+00:26:49.829 We're trying to push great uses of A I out there both on platform side and first 
+00:26:54.650 party and work with customers.
+00:26:56.750 So that's certainly,
+00:26:58.150 and,
+00:26:58.469 and the revenue is coming mostly from that api 
+00:27:03.439 the the revenue for the company revenue.
+00:27:05.609 Oh,
+00:27:06.729 I'd say both sides,
+00:27:07.869 both sides.
+00:27:08.780 Yeah.
+00:27:09.280 So my,
+00:27:10.180 my subscription to Chat G BT Plus.
+00:27:12.150 Is that?
+00:27:13.410 Yeah,
+00:27:13.969 yeah.
+00:27:14.719 How many people here actually are subscribers to Chat G BT Plus?
+00:27:17.750 Thank you all very much.
+00:27:19.319 Ok.
+00:27:19.800 You guys make a family plan.
+00:27:22.229 It's serious.
+00:27:24.000 It's serious because I'm spending on two and we'll talk about it.
+00:27:27.790 Ok.
+00:27:28.030 This is what we're really here for tonight.
+00:27:29.900 Um,
+00:27:31.199 moving out a little bit into policy and,
+00:27:33.430 and some of the fears it's not like super cheap to run if we had a way to like 
+00:27:38.280 say like,
+00:27:38.829 hey,
+00:27:39.189 you know,
+00:27:39.589 you can have this for like we can give you like way more for the 20 bucks or whatever we would like to 
+00:27:44.550 do that.
+00:27:45.199 And as we make the models more efficient,
+00:27:46.810 we'll be able to offer more,
+00:27:47.989 but it's,
+00:27:48.869 it's not for like lack of us wanting more people to use it that we don't do things like family,
+00:27:53.229 family plan for like $35 for two people that the kind of 
+00:27:58.329 haggling,
+00:27:58.640 you know.
+00:27:59.670 Well,
+00:27:59.760 I gave you the sweatshirt.
+00:28:00.969 And so,
+00:28:01.250 you know,
+00:28:01.760 it's,
+00:28:02.079 there's,
+00:28:02.560 there's something we can do there.
+00:28:04.189 How do we go from the chat that we just heard that told me to rock it to one 
+00:28:08.930 that I don't know,
+00:28:09.680 can rock the world and end the world.
+00:28:13.599 Well,
+00:28:13.819 I don't think we're gonna have like a chat bot that ends the world.
+00:28:16.750 But how do we go to this idea of?
+00:28:18.199 We have,
+00:28:18.680 uh,
+00:28:18.699 we,
+00:28:19.119 we've got simple chat bots are not simple.
+00:28:20.910 They're,
+00:28:21.109 they're advanced what you guys are doing.
+00:28:22.400 But how do we go from that idea to this fear that is now 
+00:28:26.680 pervading everywhere.
+00:28:31.079 If,
+00:28:32.939 if we are right about the trajectory,
+00:28:34.660 things are going to stay on and if we are right about,
+00:28:37.089 not only the kind of like scaling of the GP TS but new techniques that we're interested in that 
+00:28:42.030 could help generate new knowledge and someone with access to a,
+00:28:46.310 a system like this can say,
+00:28:47.729 like help me hack into this computer system or help me design 
+00:28:52.609 uh you know,
+00:28:53.449 like a new biological pathogen that's much worse than COVID or any number of other things.
+00:28:57.979 It seems to us like it doesn't take much imagination to think about 
+00:29:02.410 scenarios that deserve great caution.
+00:29:05.170 And,
+00:29:05.930 and again,
+00:29:06.530 we,
+00:29:06.869 we,
+00:29:07.180 we all come and do this because we're so excited about the tremendous upside 
+00:29:11.969 and that the incredibly positive impact.
+00:29:14.489 And I think it would be like a moral failing not to go pursue that for humanity,
+00:29:18.930 but we've got to address and this happens with like many other technologies,
+00:29:22.890 we've got to address the downsides that come along uh with this.
+00:29:27.089 And it doesn't mean you don't do it,
+00:29:28.900 it doesn't mean you just say like this A A I thing.
+00:29:31.699 We,
+00:29:31.819 we're gonna like,
+00:29:32.849 you know,
+00:29:33.089 we're gonna like go like full dune and like blow up,
+00:29:35.489 you know,
+00:29:35.689 and have not have computers or whatever.
+00:29:37.270 Um But it means that you like,
+00:29:39.300 are thoughtful about the risks.
+00:29:41.119 You try to measure what the capabilities are and you try to build your own 
+00:29:45.869 technology in a way and that,
+00:29:49.369 that mitigates those risks.
+00:29:50.400 And then when you say like,
+00:29:51.390 hey,
+00:29:51.589 here's a new safety technique,
+00:29:52.780 you make that available to others.
+00:29:55.119 And as you guys are thinking about building in,
+00:29:59.250 in,
+00:29:59.290 in this direction,
+00:30:02.160 what are some of those specific safety risks you're looking to put in?
+00:30:06.880 I mean,
+00:30:07.849 like Sim said,
+00:30:09.739 you've got the capabilities and then there is always a downside whenever you have such 
+00:30:14.520 immense and great capability,
+00:30:16.729 there's always a downside.
+00:30:17.930 So we've got a fierce task ahead of us to figure 
+00:30:22.589 out what are these downsides,
+00:30:24.430 discover,
+00:30:25.270 understand them,
+00:30:26.329 build the tools to mitigate them.
+00:30:29.170 And it's not,
+00:30:29.910 you know,
+00:30:30.209 like a single fix,
+00:30:32.109 you usually have to intervene everywhere from the data to the 
+00:30:36.579 model to um the tools in the product.
+00:30:40.670 And of course,
+00:30:41.790 policy.
+00:30:42.630 And then thinking about the entire regulatory and um um 
+00:30:46.989 societal infrastructure that can kind of keep up with these technologies that 
+00:30:51.959 we're building.
+00:30:52.469 Because ultimately,
+00:30:53.500 what we want is to slowly roll out these capabilities 
+00:30:58.510 in a way that makes sense and allow society to adapt.
+00:31:02.869 Um because,
+00:31:03.810 you know,
+00:31:04.040 the the progress is incredibly rapid and we 
+00:31:08.910 want to allow for adaptation and for the whole 
+00:31:13.459 infrastructure that's needed for these technologies to actually be absorbed 
+00:31:18.310 productively to exist and be there.
+00:31:20.969 So,
+00:31:21.510 you know,
+00:31:21.780 when you think about what are sort of the concrete safety 
+00:31:26.520 um uh measures along the way,
+00:31:30.469 I would say,
+00:31:31.099 number one is actually rolling out the technology um 
+00:31:36.099 and slowly making contact with reality,
+00:31:38.739 understanding how it affects um uh certain use cases 
+00:31:43.729 and industries and actually dealing with the implications of that,
+00:31:47.390 whether it's regulatory copyrights,
+00:31:49.930 um you know,
+00:31:50.939 whatever the impact is actually absorbing that and dealing with that 
+00:31:55.709 and moving on to more and more capabilities.
+00:31:58.540 I don't think that building the technology in a lab in a vacuum without contact with the 
+00:32:03.439 real world and with the friction that you see with reality is a 
+00:32:07.670 good way to actually deploy it safely and this might be where you're 
+00:32:12.589 going.
+00:32:12.849 But it,
+00:32:13.199 it seems like right now you're also policing yourself,
+00:32:16.219 right?
+00:32:16.430 You're setting this better and,
+00:32:17.979 and Sam,
+00:32:18.300 that's where I was gonna ask you.
+00:32:19.589 I mean,
+00:32:19.810 you seem to spend more time in Washington than Joe Biden's dogs right now and I'm sure 
+00:32:24.839 I've only been twice this year.
+00:32:26.150 Really,
+00:32:26.459 that's,
+00:32:26.640 I think his dog like three days or so.
+00:32:28.449 Anyway.
+00:32:29.020 Um,
+00:32:29.430 but what is it specifically that you would rather the government and our 
+00:32:33.569 regulators do versus you have to do?
+00:32:36.469 First?
+00:32:37.359 The point I was making,
+00:32:38.709 I think is,
+00:32:38.979 is really important that,
+00:32:40.209 that it's very difficult to make a technology safe in the lab.
+00:32:45.349 Um,
+00:32:46.050 society uses things in different ways and adapts in different ways.
+00:32:49.819 And I think the more we deploy A I,
+00:32:52.170 the more A I is used in the world,
+00:32:53.300 the safer A I gets and the more we kind of like,
+00:32:55.380 collectively decide,
+00:32:56.680 hey,
+00:32:56.939 here's a thing that is not an acceptable risk tolerance and this other thing that people are worried about,
+00:33:01.300 that's,
+00:33:01.540 that's totally ok.
+00:33:02.949 Um,
+00:33:03.750 and,
+00:33:04.810 you know,
+00:33:05.099 like we see this with many other technologies,
+00:33:08.280 airplanes have gotten unbelievably safe.
+00:33:10.770 Um,
+00:33:11.160 even though they didn't start that way and it was,
+00:33:13.910 uh,
+00:33:14.079 it was like careful,
+00:33:15.040 thoughtful engineering and,
+00:33:17.099 um,
+00:33:17.660 understanding why when something went wrong it went wrong and how to address it.
+00:33:21.699 And,
+00:33:22.050 you know,
+00:33:22.300 the shared best practices there,
+00:33:24.709 I think we're gonna see in all sorts of ways that the things that we worry about with A I in theory don't 
+00:33:29.699 quite play out in practice.
+00:33:31.339 Um,
+00:33:32.900 you just like a ton of talk right now about deep fakes and,
+00:33:36.199 you know,
+00:33:36.750 the,
+00:33:37.109 the,
+00:33:37.199 the impact that's gonna have on uh,
+00:33:40.900 society in all these different ways.
+00:33:43.709 I think that's an example of where we were thinking about the last generation too much and a 
+00:33:48.589 I will disrupt society in all of these ways.
+00:33:51.000 But,
+00:33:51.449 you know,
+00:33:51.780 we all kind of are like they're like,
+00:33:53.839 oh,
+00:33:53.859 that's a deep fake or oh,
+00:33:54.959 it might be a deep fake.
+00:33:55.810 Oh,
+00:33:55.900 that picture or video or audio like we,
+00:33:58.280 we learn quickly but,
+00:33:59.699 but maybe the real problem,
+00:34:01.099 this is like speculation.
+00:34:02.160 This is hard to know in advance is not the deep fake ability,
+00:34:06.500 but the sort of customized one on one persuasion.
+00:34:09.469 And that's where the influence happens.
+00:34:10.860 It's not,
+00:34:11.219 it's not like the fake image.
+00:34:12.379 It's the this thing has a subtle ability,
+00:34:15.228 these things have a subtle ability to influence people and then we learn that that's the problem and we,
+00:34:19.799 we adapt.
+00:34:20.849 Uh So in terms of what we'd like to see from governments,
+00:34:24.908 uh I think we've been like very mischaracterized here.
+00:34:27.569 We do think that international regulation is gonna be important for the most 
+00:34:32.489 powerful models.
+00:34:33.489 Nothing that exists today,
+00:34:34.688 nothing that will exist next year.
+00:34:36.478 Uh But as we get towards a real super intelligence,
+00:34:39.638 as we get towards a system that is like more capable uh than like 
+00:34:44.520 any humans.
+00:34:45.780 Um I think it's very reasonable to say we need to treat that with like caution 
+00:34:50.679 and uh and a coordinate approach.
+00:34:52.918 But like we think what's happening with open source is great.
+00:34:55.760 We think start ups need to be able to train their own models and deploy them into the world and a regulatory 
+00:35:00.689 response on that would be a disastrous mistake for this country or others.
+00:35:05.270 Um So the message we're trying to get across is you gotta embrace what's happening 
+00:35:10.260 here.
+00:35:10.459 You gotta like make sure that we get the economic benefits and the societal benefits of it.
+00:35:15.629 But let's like,
+00:35:17.459 look forward at where this,
+00:35:18.989 where we believe this might go and let's not be caught flat footed if that happens.
+00:35:24.379 You mentioned deep fakes and I,
+00:35:25.620 I wanna talk about A I generated content that's all over the internet.
+00:35:29.530 Now,
+00:35:30.270 who do you guys think is responsible or,
+00:35:33.770 or should be responsible for policing some of this or not policing but 
+00:35:38.040 detection of some of this is this on the social media companies?
+00:35:41.209 Is this on open A I and all the other A I companies,
+00:35:46.100 we're definitely responsible for the technologies that we develop and put out there and 
+00:35:51.090 uh you know,
+00:35:51.580 misinformation and that's,
+00:35:53.870 that's clearly a big issue as we create more and more capable models.
+00:35:58.000 And we've been developing technologies to deal with um uh the 
+00:36:02.409 provenance of an image or a text and detect output,
+00:36:07.169 but it's a bit complicated because,
+00:36:09.000 you know,
+00:36:09.689 you want to give the user sort of flexibility and 
+00:36:14.239 they,
+00:36:14.719 you also don't want them to feel monitored.
+00:36:16.639 And so you have to consider the user and you also have to consider people that are impacted by the 
+00:36:21.639 system that are not users.
+00:36:23.520 And so these are quite nuanced issues that require um a 
+00:36:28.330 lot of interaction and input from not just your users of the product but also 
+00:36:33.280 of society more broadly and figuring out,
+00:36:37.229 you know,
+00:36:37.629 also with partners um that,
+00:36:39.989 that bring on this technology and integrate it,
+00:36:42.669 what are the best ways to,
+00:36:44.310 to deal with these issues?
+00:36:45.610 Because right now there's no way or no tool from open A I,
+00:36:49.290 at least that I,
+00:36:50.409 that I can put in an image or some of the text.
+00:36:53.659 And ask,
+00:36:54.040 is this A I generated for image?
+00:36:56.889 We have actually technology that's uh really good almost,
+00:37:01.850 you know,
+00:37:02.010 99% reliable,
+00:37:04.169 but we're still testing it.
+00:37:05.449 It's early and we want to be sure that it's going to work.
+00:37:09.899 And even then it's not just a technology problem,
+00:37:12.510 misinformation is such a nuanced and broad problem.
+00:37:15.719 So you still have to be careful about how you roll it out where you integrate 
+00:37:20.379 it.
+00:37:20.780 Um But we're certainly working on the research side and for,
+00:37:24.620 for image,
+00:37:25.120 at least we have a very reliable tool in,
+00:37:28.100 in the early stages.
+00:37:29.219 Yeah,
+00:37:30.909 and say it's worth,
+00:37:32.929 when might you release this?
+00:37:35.129 You said you,
+00:37:35.659 you said you're,
+00:37:36.229 you're working on this right now.
+00:37:37.760 Is this something you plan to release?
+00:37:39.300 Oh,
+00:37:40.000 yes,
+00:37:41.030 yes.
+00:37:41.399 For both images and text,
+00:37:43.000 for text,
+00:37:44.260 we're trying to figure out what actually makes sense.
+00:37:47.750 Um For,
+00:37:48.860 for images,
+00:37:49.669 it's a bit more straight,
+00:37:51.780 straightforward problem.
+00:37:53.100 Um But in either case,
+00:37:55.110 we definitely test it out because we don't have all the answers,
+00:37:58.100 right?
+00:37:58.340 Like we're building these technologies first,
+00:38:00.500 we don't have all the answers.
+00:38:01.899 So often we will experiment,
+00:38:04.110 we will put out something,
+00:38:05.330 we will get feedback,
+00:38:06.510 but we want to do it in a controlled way,
+00:38:08.899 right?
+00:38:09.419 Um And sometimes we'll take it back and we'll make it better and 
+00:38:14.409 roll it out again.
+00:38:15.699 I,
+00:38:15.719 I'll also add that.
+00:38:16.729 I think this idea of watermarking content is not something that everybody has the 
+00:38:21.580 same opinion about what is good and what is bad.
+00:38:23.909 There's a lot of people who really don't want their generated content watermarked and that's understandable in many 
+00:38:28.260 cases.
+00:38:29.120 Uh Also it's not,
+00:38:30.229 it's not gonna be super robust to everything.
+00:38:32.370 Like maybe you could do it for images,
+00:38:34.610 maybe for longer text,
+00:38:35.699 maybe not for short text.
+00:38:37.120 But over time there will be systems that don't put the watermarks in.
+00:38:40.929 And also there will be people who really like,
+00:38:44.590 you know,
+00:38:44.899 this is like a tool and up to the human user,
+00:38:47.709 how you use the tool.
+00:38:48.550 And I don't like this is why we want to engage in the conversation.
+00:38:52.629 Like we,
+00:38:52.939 we are willing to sort of like follow the the collective wishes of 
+00:38:57.760 society on this point.
+00:38:59.110 And I don't think it's a black and white issue.
+00:39:02.739 Uh at least think people are still evolving as they understand all the different ways we're gonna use these tools,
+00:39:07.439 they're still evolving,
+00:39:08.169 their thoughts about what they're gonna want here also to Sim's earlier point.
+00:39:12.389 It's not,
+00:39:12.909 you know,
+00:39:14.030 um it's not just about truthfulness,
+00:39:17.100 right?
+00:39:17.449 And what's,
+00:39:18.750 what's real and what's not real.
+00:39:21.050 Actually,
+00:39:21.610 I think in the world that we're going towards marching towards the,
+00:39:25.520 the bigger risk is really this individualized pers uh persuasion 
+00:39:30.229 and,
+00:39:30.550 and how to deal that and that's going to be a very tricky problem to deal with,
+00:39:35.510 right?
+00:39:35.750 I realize I have five minutes left and we were gonna do some audience questions so we can get to one 
+00:39:40.500 audience or two audience questions.
+00:39:42.100 I'm gonna finish 111 last thought here.
+00:39:45.659 Um I can actually not see a thing out there.
+00:39:48.500 So um I will ask one last question,
+00:39:50.870 then we'll,
+00:39:51.169 we'll hopefully have time for one or two.
+00:39:53.800 So 10 years you were here 10 years ago.
+00:39:57.129 What we,
+00:39:58.669 we touched on this as we were,
+00:39:59.850 we're starting here.
+00:40:00.580 But what is your biggest fear about the future?
+00:40:04.189 And what is your biggest hope with this technology?
+00:40:08.129 II,
+00:40:08.399 I think the future is gonna be,
+00:40:09.959 be like amazingly great.
+00:40:11.439 Uh We,
+00:40:11.840 we wouldn't come work so hard on this if we didn't,
+00:40:14.709 I,
+00:40:14.729 I think this is gonna be like,
+00:40:17.159 I think this is one of the most significant inventions humanity has yet 
+00:40:21.989 done.
+00:40:22.689 Um So I'm super excited to see it all play out.
+00:40:27.179 Uh I think like things can get so much better for people than,
+00:40:32.030 uh,
+00:40:32.050 than they are right now.
+00:40:33.419 And I'm,
+00:40:34.550 I feel very hopeful about that.
+00:40:36.239 We,
+00:40:36.550 we covered a lot of the fears.
+00:40:37.709 It,
+00:40:37.870 it,
+00:40:37.989 like,
+00:40:38.399 again,
+00:40:38.729 we're clearly dealing with something very powerful that's gonna impact all of us in ways we,
+00:40:43.179 we can't perfectly foresee it.
+00:40:45.729 Um,
+00:40:46.699 but like what a time to be alive and,
+00:40:49.750 and,
+00:40:49.790 and get to witness this.
+00:40:52.090 You're not so fearful that I,
+00:40:53.429 I was gonna actually ask this,
+00:40:54.419 but I'll,
+00:40:54.649 I'll ask him.
+00:40:55.080 Now,
+00:40:55.580 do you have a bunker?
+00:40:58.949 This is the,
+00:40:59.520 this is,
+00:40:59.750 this is the question,
+00:41:00.860 the question,
+00:41:01.530 not better than you.
+00:41:02.270 I'm gonna let that clock run.
+00:41:03.409 I'm not gonna pay attention to that.
+00:41:04.699 But as we're thinking about fears,
+00:41:06.739 I just,
+00:41:07.110 I'm wondering what if you have a bunker and what I would say that you have that you say I have like 
+00:41:11.989 structures,
+00:41:12.790 but I wouldn't say like a bunker structures.
+00:41:15.570 None of this is gonna help if a G I goes wrong.
+00:41:18.149 This is a,
+00:41:18.439 it's a ridiculous question to be honest.
+00:41:20.320 OK.
+00:41:20.560 Good,
+00:41:20.909 good,
+00:41:21.189 good,
+00:41:22.729 Mira.
+00:41:23.040 What's your hope and fear?
+00:41:26.330 I mean,
+00:41:26.729 the hope is definitely to push our civilization ahead with 
+00:41:31.479 augmenting um,
+00:41:33.010 our collective intelligence and the fears.
+00:41:36.110 We talked a lot about the fears,
+00:41:37.489 but,
+00:41:37.719 you know,
+00:41:37.919 we've got this opportunity right now.
+00:41:40.350 Um,
+00:41:40.919 and we've got summers and winters in A I and so on.
+00:41:45.510 But,
+00:41:45.889 you know,
+00:41:46.540 when we look back 10 years from now,
+00:41:48.330 I hope that we get this right.
+00:41:51.919 And I think there are many ways to,
+00:41:54.879 to mess it up.
+00:41:55.830 Um And we've seen that with many technologies,
+00:41:59.100 so I hope we get it right.
+00:42:01.979 All right.
+00:42:02.520 We've got time right here.
+00:42:05.540 Hi.
+00:42:06.370 Um Pam Dylan,
+00:42:07.389 preferably uh sensory consumer products.
+00:42:11.129 A I my question has to do with the inflection point.
+00:42:14.840 We are where we are with respect to A I and A G I.
+00:42:19.639 What is the inflection point?
+00:42:21.760 How do you define that moment where we go from where we are now 
+00:42:26.750 to however you would choose to define what is 
+00:42:31.729 A G I,
+00:42:34.929 I think it's,
+00:42:37.090 it's gonna be much more continuous than that.
+00:42:39.820 We're just on this beautiful exponential curve.
+00:42:42.800 Whenever you're on a curve like that,
+00:42:44.219 you look forward,
+00:42:44.770 it looks vertical,
+00:42:45.850 you look back,
+00:42:46.679 it looks horizontal.
+00:42:47.979 That's true at any point on there.
+00:42:49.699 So a year from now we'll be in a dramatically more impressive place than a year ago.
+00:42:54.439 We were in a dramatically less impressive place,
+00:42:56.669 but it'll be hard to point.
+00:42:58.020 People will try and say,
+00:42:59.020 oh,
+00:42:59.080 it was Alphago that did it,
+00:43:00.580 it was GP T three that did it,
+00:43:01.590 it was GP T four that did it,
+00:43:03.000 but it's just brick by brick,
+00:43:04.699 1 ft in front of the other up climbing this exponential curve 
+00:43:10.669 right here in the front.
+00:43:15.770 Thank you.
+00:43:16.679 My name is Mariana Michael.
+00:43:18.250 I'm the chief information officer at the Port of Long Beach,
+00:43:20.810 but I'm also a computer scientist by training a few decades ago.
+00:43:24.100 I'm older than you.
+00:43:25.090 I remember working with some of the early A I people.
+00:43:27.709 I have a general question.
+00:43:28.899 I agree with you.
+00:43:29.590 This is one of the most significant innovations to happen.
+00:43:34.540 One of the things I've struggled with over the last 20 years in thinking about this,
+00:43:38.959 we're about to change the nature of work.
+00:43:41.610 This is that significant and I feel that people are not talking about it,
+00:43:46.409 there will be a significant,
+00:43:47.800 there'll be a transition,
+00:43:48.659 time period where significant population in the world and in this country 
+00:43:53.719 will not have had the types of discussion and the sense that we have.
+00:43:56.989 So they can,
+00:43:57.590 like you mentioned,
+00:43:58.239 society needs to be a part of it.
+00:43:59.879 There's a large portion of society that's not even in this discussion.
+00:44:03.899 So the nature of work will change.
+00:44:06.310 It used to be that things that were just um gonna be automated.
+00:44:10.239 There will be a time where people who define themselves by work 
+00:44:15.459 since thousands of years will not have that and we're hurtling towards it.
+00:44:20.370 What can we do to make sure that we take that into account?
+00:44:23.370 Because when we talk about society,
+00:44:25.090 it's not like they're all together,
+00:44:26.469 ready to discuss this.
+00:44:27.899 Some of the effects of some of the technologies that we brought into the world have actually made people 
+00:44:32.620 separate from each other.
+00:44:33.989 How do we get some of those not regulations but how do we come up with some of 
+00:44:38.969 those frameworks and voluntarily bring things about that will actually result in a 
+00:44:43.659 better world that doesn't leave everybody else behind.
+00:44:46.679 Thank you.
+00:44:50.739 OK.
+00:44:52.610 I,
+00:44:52.639 I'll give you my perspective.
+00:44:54.189 I,
+00:44:54.300 I think I completely agree with you that it's one of,
+00:44:59.060 it's the ultimate technology that could really increase inequality and make,
+00:45:03.500 make things so much worse for us as human beings and civilization.
+00:45:08.199 Or it could be,
+00:45:09.729 you know,
+00:45:09.969 really amazing and it could bring along a lot of creativity and 
+00:45:14.300 productivity and enhance us and,
+00:45:16.790 you know,
+00:45:17.489 maybe a lot of people don't want to work um eight hours or 100 hours a 
+00:45:22.149 week,
+00:45:22.570 maybe they want to work four hours a day and do a bunch of other things and,
+00:45:27.510 you know,
+00:45:28.139 um I,
+00:45:28.979 I think it's certainly going to lead to a lot of disruption in the 
+00:45:33.229 workforce and we don't know exactly the scale of that,
+00:45:36.959 um or,
+00:45:37.870 or the trajectory along the way,
+00:45:40.600 but that's,
+00:45:41.489 that's for sure.
+00:45:42.590 And one of the things that,
+00:45:45.229 um I,
+00:45:46.239 in retrospect,
+00:45:47.899 it's not that we specifically planned it,
+00:45:50.120 but in retrospect I'm happy about is that with the release of Child G BT,
+00:45:53.790 we sort of brought a I into the,
+00:45:56.449 um you know,
+00:45:57.290 collective consciousness and people are kind of paying attention because they're not reading 
+00:46:02.199 about it in the press.
+00:46:03.590 Um People are not just telling them about it but they can play with it.
+00:46:07.540 They can interact with it and get a sense for the capabilities.
+00:46:11.530 And so I think it's actually really important to bring these technologies into the 
+00:46:16.179 world and make them as widely accessible as possible.
+00:46:19.969 Um You know,
+00:46:20.820 Sam mentioned earlier,
+00:46:21.909 like we're working really hard to make these models cheaper and faster,
+00:46:26.169 so they're accessible very broadly.
+00:46:29.104 But I think that's key for people themselves to actually interact with the 
+00:46:33.675 technology and experience it.
+00:46:35.784 Um And sort of visualize how it might change their way of life,
+00:46:40.205 their way of being and participate uh as you know,
+00:46:44.564 uh as,
+00:46:45.685 as in providing uh product feedback.
+00:46:48.264 But also,
+00:46:49.254 you know,
+00:46:50.004 I institutions need to actually prepare for these changes in the workforce and 
+00:46:54.985 economy.
+00:46:57.169 I'll give you the last word.
+00:46:57.929 Yes,
+00:46:58.290 I,
+00:46:58.770 I think it's a super important question.
+00:47:00.629 Um e every technological revolution affects the job market uh and 
+00:47:05.629 over human history,
+00:47:07.070 you know,
+00:47:07.310 every maybe 100 years,
+00:47:08.989 you feel different numbers for this 150 years,
+00:47:11.149 half the kind of jobs go away,
+00:47:12.860 totally change whatever.
+00:47:14.270 Um I'm not afraid of that at all.
+00:47:16.129 In fact,
+00:47:16.489 I think that's good.
+00:47:17.149 I think that's the way of progress and we'll find new and better jobs.
+00:47:20.679 The thing that I think we do need to confront as a society is the speed at which this is going to happen.
+00:47:25.830 It seems like over,
+00:47:26.979 you know,
+00:47:27.149 two maximum three,
+00:47:28.629 probably two generations we can adapt,
+00:47:30.780 society can adapt to almost any amount of,
+00:47:32.770 of job market change.
+00:47:34.820 But a lot of people like their jobs or they dislike change and 
+00:47:39.649 going to someone and saying,
+00:47:40.669 hey,
+00:47:40.919 the future will be better.
+00:47:41.709 I promise you and society is gonna win but you're gonna lose here.
+00:47:44.409 That,
+00:47:44.780 that doesn't work.
+00:47:45.679 That's not a,
+00:47:46.350 that's not cool.
+00:47:47.040 Like that's,
+00:47:47.879 that's not a nice,
+00:47:48.830 that's not an easy message to get across.
+00:47:51.110 And al although I tremendously believe that we're not gonna run 
+00:47:56.100 out of things to do people that want to work less fine,
+00:47:58.229 they'll be able to work less.
+00:47:59.199 But,
+00:47:59.699 you know,
+00:48:00.139 probably many people here don't need to keep working and,
+00:48:02.459 and we all do like,
+00:48:03.209 we,
+00:48:03.439 we,
+00:48:03.780 there's like great satisfaction in expressing yourselves in,
+00:48:06.860 in being useful and sort of contributing back to society that's not going away.
+00:48:10.800 Uh That,
+00:48:11.290 that is such an innate human desire like evolution doesn't work that fast.
+00:48:14.939 Uh Also the sort of ability to creatively express yourself and to sort of 
+00:48:19.659 leave something to,
+00:48:20.659 to,
+00:48:21.110 to add something back to the trajectory of the species is 
+00:48:25.870 that,
+00:48:26.419 that's,
+00:48:27.129 that's like a wonderful part of the human experience.
+00:48:29.629 So we're gonna keep finding things to do and the people in the future will probably 
+00:48:34.320 think some of the things that we,
+00:48:36.040 we think some of the things those people do are very silly and not real work in a way that like a hunter 
+00:48:40.840 gatherer probably wouldn't think this is real work either.
+00:48:43.639 You know,
+00:48:43.889 we're just trying to like entertain ourselves with some silly status game.
+00:48:46.600 That's fine with me,
+00:48:47.370 that's how it goes.
+00:48:48.379 Um The,
+00:48:51.330 but we are gonna have to really do something about this transition.
+00:48:55.439 It is not enough to just give people a universal basic income.
+00:48:59.149 People need to have agency,
+00:49:02.439 the ability to influence this.
+00:49:03.570 They need,
+00:49:04.010 we need to sort of jointly be architects of the future.
+00:49:06.699 And one of the reasons that we feel so strongly about de deploying this technology as 
+00:49:11.699 we do,
+00:49:12.479 as you said,
+00:49:13.260 not everybody is in these discussions but more and more every year.
+00:49:16.149 And by putting this out in people's hands and making this super widely available and getting billions of people to use chat G 
+00:49:20.820 BT,
+00:49:21.790 not only do people have the opportunity to think about what's 
+00:49:26.770 coming and participate in that conversation.
+00:49:28.800 Um but people use the tool to push the future forward.
+00:49:32.159 Um And that's really important to us.

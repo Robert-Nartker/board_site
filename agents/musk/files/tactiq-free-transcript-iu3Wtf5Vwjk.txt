@@ -1,0 +1,779 @@
+# tactiq.io free youtube transcript
+# SCARY WORK ETHIC - Elon Musk Motivational Video
+# https://www.youtube.com/watch/iu3Wtf5Vwjk
+
+00:00:01.079 I'm available 24 7 to help solve issues
+00:00:04.859 right call me 3 A.M on a Sunday morning
+00:00:07.020 I don't care
+00:00:10.860 the way that I usually describe myself
+00:00:13.559 is an engineer uh because that's mostly
+00:00:16.740 what I I most of what I do is
+00:00:18.240 engineering
+00:00:19.439 um so I spend most of the week with my
+00:00:22.039 engineering and design team working on
+00:00:25.460 you know the current car and future cars
+00:00:28.619 and the rockets and spacecraft and that
+00:00:30.660 kind of thing you know when I was a kid
+00:00:31.859 I didn't really have any Grand designs I
+00:00:34.200 mean the reason I started programming
+00:00:36.239 computers is because I like computer
+00:00:38.100 games and I play lots of computer games
+00:00:40.800 and
+00:00:42.079 I learned that if I wrote software and
+00:00:44.879 sold it then I could get more money and
+00:00:46.440 buy better computers so it wasn't really
+00:00:48.600 you know with some Grand Vision or
+00:00:50.700 anything when I was growing up I'd read
+00:00:53.460 lots of books and uh they were very
+00:00:56.640 often set in the United States and it
+00:00:59.399 seemed like a lot of new technology was
+00:01:01.440 being developed in the United States so
+00:01:02.940 I I thought okay I really want to work
+00:01:04.979 on new technology so I want to get to
+00:01:07.500 Silicon Valley foreign
+00:01:10.340 at first to convince my parents to move
+00:01:13.260 to the US but uh Neil of them were they
+00:01:16.799 were divorced and and So eventually I
+00:01:19.799 was able to get my Canadian citizenship
+00:01:21.479 because my mom had been born in Canada
+00:01:23.040 so I moved first to Canada by myself
+00:01:26.340 when I was 17 and then a few years later
+00:01:28.979 I moved to the U.S
+00:01:31.680 the reason I came out to Istanbul was
+00:01:33.960 actually to work on energy storage
+00:01:36.060 Technologies for electric cars at that
+00:01:38.040 suburb of 95. I was looking at the the
+00:01:42.360 internet and it seemed to me like the
+00:01:44.579 internet was going to have a big effect
+00:01:46.079 on Humanity so I I thought well I can
+00:01:50.040 either work on electric vehicle
+00:01:52.200 technology and do my PhD at Stanford
+00:01:55.399 and once the internet get built or I
+00:01:58.619 could put my studies on hold and try to
+00:02:00.600 be part of the internet
+00:02:03.020 and at first I try to get a job at
+00:02:05.340 Netscape because that was the only
+00:02:06.479 internet company and they didn't respond
+00:02:08.878 to me so and I was like okay if I can't
+00:02:11.879 get a job at the only internet company
+00:02:13.260 then I better try starting something but
+00:02:16.440 I talked to my professor and I said look
+00:02:17.879 I'm going to try starting a company I'm
+00:02:20.040 probably not going to succeed and if it
+00:02:22.800 doesn't succeed can I come back he said
+00:02:24.480 sure no problem
+00:02:25.760 and so I put my studies on hold and I
+00:02:28.860 started the company
+00:02:30.920 did some internet stuff one of which was
+00:02:33.540 PayPal I think maybe it's helpful to say
+00:02:36.420 one of the things that was important
+00:02:38.099 then in the creation of PayPal was whisk
+00:02:41.280 was kind of how it started because
+00:02:42.379 initially the initial I thought was with
+00:02:45.540 PayPal was to create an agglomeration of
+00:02:47.879 financial services so if you have one
+00:02:50.099 place where all your financial services
+00:02:52.319 needs would be seamlessly integrated and
+00:02:55.379 um and and work smoothly and then we had
+00:02:57.599 like a little feature which was to do
+00:02:59.220 email payments
+00:03:00.680 and whenever we we should show the
+00:03:03.540 system off to someone we'd show the hard
+00:03:05.700 part which was the um the agglomeration
+00:03:08.519 of financial services which was quite
+00:03:09.959 difficult to put together nobody was
+00:03:11.940 interested then we'd show people email
+00:03:14.040 payments which was actually quite easy
+00:03:15.360 and everybody was interested I think
+00:03:17.159 it's important to take feedback from
+00:03:19.019 your environment do you want to be as
+00:03:20.459 closed loop as possible we focused on
+00:03:22.319 email payments and really try to make
+00:03:23.819 that work and and that's what really got
+00:03:25.920 things to take off
+00:03:27.900 um
+00:03:28.500 but if we hadn't if we hadn't responded
+00:03:30.540 to what people said then we probably
+00:03:32.940 would not have been successful
+00:03:35.040 going from PayPal I thought it will
+00:03:38.400 what what are some of the the other
+00:03:40.560 problems that are likely to most affect
+00:03:43.500 the future of humanity
+00:03:45.780 um it really wasn't from the perspective
+00:03:47.519 of what's the rank ordered best way to
+00:03:50.340 to make money
+00:03:51.780 um which which is which is okay but it
+00:03:53.939 was really what I think is going to most
+00:03:56.220 affect the future Humanity so the I
+00:03:59.459 think the the biggest terrestrial
+00:04:01.140 problem we've got is uh sustainable
+00:04:03.540 energy but the production and
+00:04:05.760 consumption of energy in a sustainable
+00:04:07.140 manner if we don't solve that this the
+00:04:09.060 sensory is the century we're we're in
+00:04:11.159 deep trouble
+00:04:12.959 um and then the other one being the
+00:04:15.120 extension of life beyond Earth to make
+00:04:16.798 life multi-planetary
+00:04:18.899 um so the latter is the basis for for
+00:04:21.180 SpaceX and the former is the basis for
+00:04:23.520 Tesla and Silver City
+00:04:25.979 foreign
+00:04:27.960 I started SpaceX it actually initially I
+00:04:33.180 thought that well there's no way one
+00:04:35.639 could possibly start a rocket company I
+00:04:37.680 wasn't that crazy but but then I thought
+00:04:40.199 well what is a way to increase NASA's
+00:04:43.800 budget that was actually my initial goal
+00:04:45.660 so I actually went to I went to Russia
+00:04:47.759 three times to look at buying a
+00:04:49.979 refurbished icvm I can tell you it was
+00:04:52.199 very weird going there in in 2000 late
+00:04:54.540 2001 2002 going to the Russian rocket
+00:04:57.720 forces and saying I'd like to buy two of
+00:05:00.120 your biggest Rockets but you can keep
+00:05:01.860 the nuke they thought I was crazy but
+00:05:03.840 but I did have money so that was okay
+00:05:05.920 [Music]
+00:05:08.160 particularly if you're starting a
+00:05:09.479 company you need to work super hard
+00:05:11.280 so what what does Super heart mean well
+00:05:13.860 when my brother and I were starting our
+00:05:15.780 first company instead of getting an
+00:05:18.180 apartment we just rented a small office
+00:05:20.400 and we slept on the couch and we
+00:05:22.740 showered at the YMCA and uh we're so hot
+00:05:26.699 up we had just one computer so the the
+00:05:29.699 website was up during the day and I was
+00:05:32.639 coding at night
+00:05:34.020 seven days a week all the time
+00:05:36.600 briefly had a girlfriend in that period
+00:05:38.220 and in order to be with me she had to
+00:05:40.500 sleep in the office
+00:05:41.580 so work hard like every waking hour
+00:05:44.880 that's that's the the thing I would I
+00:05:46.860 would say
+00:05:49.440 do simple math to say like okay if
+00:05:51.180 somebody else is working 50 hours and
+00:05:52.860 you're working 100 uh you'll get twice
+00:05:55.139 as done as much done in the course of
+00:05:56.639 year as the as the other company work
+00:05:59.160 like hell I mean just have to put in you
+00:06:02.340 know 80 hour 80 to 100 hour weeks every
+00:06:05.639 week
+00:06:09.259 that all those things improve the odds
+00:06:11.699 of success if other people are putting
+00:06:13.380 in 40-hour work weeks and you're putting
+00:06:15.180 in 100 hour work weeks then even if uh
+00:06:19.500 you're doing the same thing you know
+00:06:21.180 that in in one year you will achieve
+00:06:23.639 what they achieve you you will achieve
+00:06:25.919 in four months when it takes them a year
+00:06:28.979 to achieve
+00:06:29.720 [Music]
+00:06:31.680 then it's just you have to apply a lot
+00:06:33.780 of hours to actual working actually
+00:06:35.340 working so the way I generally do it is
+00:06:38.160 I'll be
+00:06:39.680 working at SpaceX on Monday and then
+00:06:43.740 Monday night fly to Bay Area
+00:06:46.880 I spent Tuesday and Wednesday at Bavaria
+00:06:51.259 then at Tesla and then fly back on
+00:06:54.240 Wednesday night spend Thursday and
+00:06:55.800 Friday at SpaceX
+00:06:58.860 um in in the last several months then I
+00:07:01.080 would fly back here on a Saturday
+00:07:03.780 um and either spent Saturday and Sunday
+00:07:05.220 at Tesla uh or spend Saturday at Tesla
+00:07:09.840 and Sunday at SpaceX so seven days a
+00:07:12.000 week sleeping in the factory
+00:07:14.099 I worked everything I worked in the
+00:07:15.960 Paint Shop General Assembly Body Shop
+00:07:18.539 you ever worry about yourself imploding
+00:07:20.639 like it's just too much absolutely no
+00:07:22.979 one should
+00:07:24.620 put this many hours into work
+00:07:28.979 this is not good
+00:07:31.319 control should not work this hard I'm
+00:07:33.000 not they should not do this this is very
+00:07:35.580 painful
+00:07:36.780 painful in what sense it's because my it
+00:07:39.720 hurts my brain and my heart
+00:07:43.319 this is not recommended for anyone I
+00:07:46.440 just did it because if I didn't do it
+00:07:48.240 then Tesla your chassis would die
+00:07:51.880 [Music]
+00:07:55.020 basically both SpaceX and Tesla from the
+00:07:57.479 beginning a probability of less than ten
+00:07:59.699 percent of like we've elected to succeed
+00:08:02.280 in the beginning I wouldn't actually
+00:08:03.599 wouldn't even let my friends invest
+00:08:04.800 because I don't want to lose their money
+00:08:06.240 I thought it was like
+00:08:08.639 I don't lose my own money we almost did
+00:08:10.979 die at SpaceX actually so we I budgeted
+00:08:13.979 for three flights
+00:08:16.560 um I mean technically I didn't have a
+00:08:18.060 plan where I had to have the money from
+00:08:20.340 PayPal I had like about 180 million from
+00:08:22.020 PayPal I thought you know
+00:08:24.139 I'll I'll allocate half of that to
+00:08:27.360 SpaceX and Tesla and SolarCity and um
+00:08:30.720 that should be fine I'll have 90 million
+00:08:32.580 likes just Flats you know but but then
+00:08:36.479 what happened is um things cost more and
+00:08:39.059 took longer than I thought so I had a
+00:08:41.760 choice of either put the rest of the
+00:08:43.919 money in or the companies are going to
+00:08:45.959 die
+00:08:47.040 um
+00:08:48.600 for example I ended up putting all the
+00:08:50.640 money in and borrowing money for rent
+00:08:53.160 from France if you want to try to come
+00:08:55.380 up with an Innovative breakthrough
+00:08:57.540 um that's kind of that's going to be how
+00:08:59.160 it is
+00:09:00.779 anything which is significantly
+00:09:03.839 Innovative is going to come with a
+00:09:05.519 significant risk of failure you've got
+00:09:07.080 to take big chances in order for the
+00:09:09.120 potential for a big positive outcome if
+00:09:12.000 the outcome is exciting enough then
+00:09:14.700 taking a big risk is worthwhile
+00:09:18.000 really I approach it but but then once
+00:09:21.540 executing down a path I actually do my
+00:09:23.399 absolute best to reduce uh risk you know
+00:09:26.760 because or to improve the another way of
+00:09:29.279 saying to improve the probability of
+00:09:30.660 success because uh when you try to do
+00:09:33.480 something that is very
+00:09:35.700 um very risky uh that you hate you you
+00:09:39.779 have to spend a lot of effort trying to
+00:09:41.760 reduce that risk as you've been blocked
+00:09:44.339 down that path I mean I I think I'm kind
+00:09:46.560 of constitutionally just geared to to
+00:09:49.500 just keep going I don't know
+00:09:51.540 um
+00:09:52.440 it's a
+00:09:53.880 [Music]
+00:09:55.680 yeah I mean it just like I
+00:09:58.800 I don't know I mean it certainly there
+00:10:01.260 are times when
+00:10:02.459 things don't go well and then that's
+00:10:05.700 quite desperating for sure
+00:10:08.220 um and so then it's difficult to proceed
+00:10:10.740 with the same level of enthusiasm but I
+00:10:13.019 do think like I do think the things that
+00:10:14.579 we're doing are you know pretty
+00:10:17.399 important to the Future
+00:10:19.860 um and if we don't succeed then you know
+00:10:22.980 there's well there's there's not it's
+00:10:25.980 not clear what other things would
+00:10:27.300 succeed and if if we don't succeed then
+00:10:30.300 we'll be certainly pointed to as a
+00:10:32.040 reason why people shouldn't even try for
+00:10:34.019 these things
+00:10:35.040 so I think it's important that we do
+00:10:38.160 whatever is necessary to keep going so
+00:10:40.800 how do you keep your focus on the big
+00:10:42.899 picture when you're constantly faced
+00:10:44.640 with we could be out of business in a
+00:10:46.500 month well it's just a very small
+00:10:48.360 percentage of mental energies on the on
+00:10:51.180 the big picture like you know you know
+00:10:52.620 where you're generally heading for
+00:10:55.560 and the actual path is going to be some
+00:10:57.360 sort of zigzaggy thing in that direction
+00:11:00.899 um I try not to deviate too far from the
+00:11:03.300 path that that you want to be on but
+00:11:05.880 you're going to have to do that some
+00:11:06.899 degree one of the most difficult choices
+00:11:08.220 I ever faced
+00:11:09.600 in life was was in 2008
+00:11:13.540 [Music]
+00:11:16.500 I think I had
+00:11:20.339 maybe 30 million dollars left or 30 or
+00:11:22.980 41 left in 2008 I had two choices
+00:11:26.940 put it all into one company
+00:11:29.160 and then the other company would
+00:11:30.480 definitely die
+00:11:31.620 or splitter
+00:11:33.600 between the two companies and but if I
+00:11:36.000 split it between the two companies they
+00:11:37.320 both might die
+00:11:40.320 and you know when you put your
+00:11:42.420 Blood Sweat and Tears into creating
+00:11:44.339 something
+00:11:45.240 we're building something it's like a
+00:11:46.560 child
+00:11:47.519 it's like which one
+00:11:48.839 am I going to let one stop to death
+00:11:51.660 I can bring myself to do it so I put I
+00:11:53.480 split the money between the two
+00:11:56.220 fortunately thank goodness they both
+00:11:58.200 came through
+00:12:00.899 was it a great feeling
+00:12:06.060 well I certainly have lost many battles
+00:12:08.700 uh so far I've not lost the war but I've
+00:12:10.860 certainly lost many battles oh yeah more
+00:12:13.920 than I could count probably
+00:12:15.660 um
+00:12:16.560 I mean we had many
+00:12:20.040 at Tesla came many times close to
+00:12:22.459 bankruptcy
+00:12:24.019 in fact at the end of 2008 we were only
+00:12:27.240 a few days from bankruptcy it was
+00:12:29.339 literally two days three days maybe
+00:12:32.940 because in general what do you think of
+00:12:34.260 the Silicon Valley Mantra fail fast fail
+00:12:36.360 often or as Esther Dyson says always
+00:12:38.220 make new mistakes as if failure is The
+00:12:40.560 Crucible of learning I'm curious if you
+00:12:42.720 had any further thoughts on that and
+00:12:43.860 that maybe off the cuff comment you made
+00:12:45.240 out there
+00:12:46.260 I mean there are many bits of I mean I
+00:12:49.620 think it's sort of there's like some
+00:12:51.060 entropic basis with us like there are
+00:12:53.160 many more ways to fail than to succeed
+00:12:55.200 so you I mean you have to explore I mean
+00:12:57.959 particularly like for a rocket there's
+00:12:59.399 like a thousand ways to think and fail
+00:13:00.959 in like one way it can work so uh you
+00:13:04.079 could you could have a lot of Rocket
+00:13:05.220 failures to explore all the ways in
+00:13:07.079 which you can fail
+00:13:08.279 um so but I do think that one great
+00:13:10.680 thing about this Silicon Valley is that
+00:13:13.560 failure is not a not a big stigma so
+00:13:15.899 it's like if you if you try hard and it
+00:13:18.120 doesn't work out uh that's okay like you
+00:13:20.760 can learn from that and you know do
+00:13:24.360 another company and it's not a big deal
+00:13:25.980 I mean I think it's it's like quite
+00:13:28.320 quite painful and difficult honestly
+00:13:30.380 and it feels terrible
+00:13:34.019 um but uh yeah I mean the the company's
+00:13:37.800 sort of looking to you know me to you
+00:13:41.459 know rally them and so I do but I
+00:13:44.579 honestly feel super bad place was hard
+00:13:46.680 and Rockets tend to fail unfortunately
+00:13:49.800 um and even when you've got like a lot
+00:13:51.959 of really smart people working super
+00:13:53.339 hard to minimize the probability of
+00:13:55.139 failure it's still still there and it's
+00:13:57.779 um
+00:13:58.620 and it's you know it's quite significant
+00:14:00.660 you know people have asked me like well
+00:14:02.160 why why are Rockets you know especially
+00:14:04.199 hard
+00:14:05.040 um and and the you know part of it is
+00:14:06.779 like everything has to work the first
+00:14:09.360 time like there's there's no you can't
+00:14:11.040 do a recall you can't patch it it's got
+00:14:13.440 It's like nine minutes to orbit or it's
+00:14:15.120 over
+00:14:17.060 that mindset that Embraces failure how
+00:14:20.820 do you personally I mean it that those
+00:14:24.959 kinds of failures would drive a lot of
+00:14:26.760 us in this room nuts but it doesn't seem
+00:14:29.220 to drive you nuts seems like you're very
+00:14:31.440 comfortable with it can you talk about
+00:14:33.000 the mindset that requires for you to be
+00:14:35.459 that accepting of that kind of failure
+00:14:37.800 well I think of the there's a certain
+00:14:40.260 amount of time and within that time you
+00:14:43.560 want the the best net outcome so for
+00:14:49.680 you know all the set of actions that you
+00:14:51.899 can do there's going to be uh and some
+00:14:55.980 which will fail some which will succeed
+00:14:57.779 and you want the the net useful
+00:15:02.339 output of your set of actions to be the
+00:15:05.160 highest so I could use like a baseball
+00:15:07.980 analogy like
+00:15:09.839 you know Facebook they don't let you
+00:15:11.220 just sit there and wait for the perfect
+00:15:12.839 pitch until you get a real easy one that
+00:15:16.260 you're gonna give you three shots the
+00:15:18.300 third one and they say okay and they get
+00:15:21.360 off the go back to the
+00:15:23.820 put somebody else up there
+00:15:25.740 um so these three strikes on on baseball
+00:15:30.959 so
+00:15:35.399 what you're really looking for is like
+00:15:37.560 what's your batting average
+00:15:39.420 you know how you doing on
+00:15:41.940 on tour
+00:15:43.279 and it just there's going to be some
+00:15:46.079 amount of failure but you want your net
+00:15:48.600 output that useful output to be
+00:15:51.180 maximized failure is essentially
+00:15:53.880 relevant unless it is catastrophic
+00:15:57.800 for SpaceX first three launches failed
+00:16:02.459 and uh we're just barely able to scrape
+00:16:06.180 together enough parts and money to do
+00:16:09.240 the fourth launch that fourth launch had
+00:16:11.759 failed we would have been dead
+00:16:13.199 so multiple failures along the way
+00:16:16.259 um
+00:16:17.279 I tried very hard to get the right
+00:16:19.320 expertise in for SpaceX I tried hard to
+00:16:22.920 to find a great cheap engineer for the
+00:16:25.079 rocket but it's not the good Chief
+00:16:27.420 Engineers would join and the bad ones
+00:16:29.579 when there was no no point in hiring
+00:16:30.959 them so I ended up being chief engineer
+00:16:32.220 of the rocket so if I could have found
+00:16:34.920 somebody better than we would have maybe
+00:16:36.720 had less than three failures
+00:16:39.079 how do you think about making a decision
+00:16:42.120 when everyone tells you this is a crazy
+00:16:43.500 idea where do you get the internal
+00:16:45.060 strength to do that well first of all
+00:16:47.579 I'd say I actually think I I think I
+00:16:49.380 feel feel fear quite strongly
+00:16:52.320 um so it's not as though
+00:16:54.420 I just have the absence of fear I feel
+00:16:56.699 quite strongly
+00:16:58.019 um but there are just times when
+00:17:00.540 something is important enough you
+00:17:02.459 believe in it enough that you do it in
+00:17:05.280 spite of fear
+00:17:07.160 there are people who've been in the
+00:17:09.059 rocketry business for decades
+00:17:11.400 yeah who say about you
+00:17:13.679 that you don't know what you don't know
+00:17:16.260 well I suppose that's true of anyone how
+00:17:18.539 can anyone know what they don't know
+00:17:20.839 but when critics say you can't do this
+00:17:23.699 your answer to them is we've done it
+00:17:27.359 you know there are American Heroes who
+00:17:30.480 don't like this idea Neil Armstrong Gene
+00:17:33.720 cernan have both testified against
+00:17:36.299 commercial space flight in the way that
+00:17:38.400 you're developing it and I wonder what
+00:17:40.440 you think of that
+00:17:42.419 I was very sad to see that because those
+00:17:45.240 guys are yeah
+00:17:46.580 [Music]
+00:17:48.360 you know those guys are heroes of mine
+00:17:49.919 so it's really tough
+00:17:51.600 no I I wish they would come and visit
+00:17:53.280 and see the hardware that we're doing
+00:17:56.280 and I think that would change their mind
+00:17:58.980 they inspired you to do this didn't they
+00:18:01.380 yes
+00:18:04.020 and to see them casting stones in your
+00:18:06.480 direction
+00:18:10.620 it's difficult
+00:18:12.539 did you expect them to cheer you on
+00:18:16.559 so they hoping they would
+00:18:18.600 what are you trying to prove to them
+00:18:20.160 what I'm trying to do is to make a
+00:18:22.740 significant difference in
+00:18:25.020 in space flight and and and help make
+00:18:27.960 space flight accessible to to almost
+00:18:30.419 anyone
+00:18:31.440 so many people try to choke me out of
+00:18:33.240 starting a ride company it was it was
+00:18:34.860 crazy what did they tell you one good
+00:18:36.900 friend of mine collected a whole series
+00:18:39.539 of of videos of rockets blowing up and
+00:18:43.320 made me watch those you just didn't want
+00:18:45.299 me to lose all my money we're doing
+00:18:46.740 these things that seemed unlikely to
+00:18:49.679 succeed and we've been fortunate and at
+00:18:52.380 least thus far they have succeeded
+00:18:56.280 generally starting a business I'd say
+00:18:58.980 number one is have a high pain threshold
+00:19:01.880 that's it
+00:19:03.679 there's a friend of mine who's got a
+00:19:05.640 good saying which is that starting a
+00:19:07.260 company is like eating glass and staring
+00:19:08.940 into the abyss okay that's that's
+00:19:12.120 generally what happens because
+00:19:14.940 um when you first start a company
+00:19:16.140 there's lots of optimism and things that
+00:19:18.120 things are great and then so happiness
+00:19:20.340 at first is high then you encounter all
+00:19:22.799 sorts of issues and happiness will
+00:19:25.140 steadily Decline and then you'll go
+00:19:26.760 through a whole world of hurt and then
+00:19:28.380 eventually you'll if you succeed and in
+00:19:31.500 most cases you will not succeed
+00:19:33.419 and Tesla almost didn't succeed came
+00:19:36.179 very close to failure um
+00:19:38.220 then if you succeed then after a long
+00:19:41.160 time you will finally get back to
+00:19:43.080 happiness
+00:19:44.280 frankly the starting company
+00:19:46.799 you I would advise people to have a high
+00:19:49.500 pain tolerance it is definitely true
+00:19:51.480 that I mean maybe they're occasionally
+00:19:53.820 companies that get created where where
+00:19:56.160 there's not an extended period of
+00:19:57.900 extreme pain
+00:19:59.400 um but I'm not aware of you know very
+00:20:01.799 many of such instances but I do think
+00:20:04.500 that
+00:20:05.840 your new great entrepreneurs are born of
+00:20:09.059 every day and we'll continue to see
+00:20:12.000 amazing companies get built but I I
+00:20:14.280 would uh definitely advise people for
+00:20:17.580 starting a company to expect
+00:20:20.840 a long period of quite High difficulty
+00:20:24.419 it's really not that fun I mean there
+00:20:25.980 are periods of fun and there are periods
+00:20:28.320 of where where's the store for
+00:20:30.360 um and particularly if you're a CEO of
+00:20:32.820 the company
+00:20:34.080 um you actually have a distillation of
+00:20:36.240 all the worst problems in the company
+00:20:38.780 there's no point in spending your time
+00:20:41.159 on things that are going right so you
+00:20:43.140 only spend on things on your time and
+00:20:44.820 things that are going wrong
+00:20:46.140 and and the things that are going wrong
+00:20:47.760 that other people can't can't take care
+00:20:49.919 of so you're like the worst you have a
+00:20:52.080 filter for the Crafters problems in the
+00:20:53.880 company the most pernicious and painful
+00:20:56.760 problem I think you have to feel quite
+00:20:58.559 compelled to do it and have a fairly
+00:21:00.600 High pain professional I mean as long as
+00:21:02.400 people stay super focused on creating
+00:21:05.100 the absolute best product or service
+00:21:06.559 that really Delights their end customer
+00:21:09.059 like if they stay focused on that then
+00:21:11.880 basically if if you get a search that
+00:21:13.799 your customers want you to succeed then
+00:21:16.559 then you probably will if your customers
+00:21:18.480 love you your Art's a success or
+00:21:20.940 dramatically higher
+00:21:23.100 for somebody who's just starting out as
+00:21:24.600 an entrepreneur I think the internet is
+00:21:26.400 a great place to start because if you're
+00:21:29.760 just starting out unless you've got a
+00:21:31.080 ton of capital that you somebody gave
+00:21:33.059 you or you're inherited or something you
+00:21:34.679 have to do something you have to start a
+00:21:36.059 company that requires a small amount of
+00:21:37.980 capital where it's heavily awaited
+00:21:39.840 towards the intellectual capital in your
+00:21:41.400 head
+00:21:42.360 um so I think anything to do with with
+00:21:44.159 sort of software and you know the
+00:21:46.440 internet is is a really good starting
+00:21:49.320 point you know it would have been
+00:21:51.299 impossible for me to to have done
+00:21:53.640 electric cars or Rockets you know right
+00:21:57.600 from the start because I would have
+00:21:59.400 those require money to get anything done
+00:22:01.380 being focused on something that you're
+00:22:04.320 confident will have high value to
+00:22:06.059 someone else
+00:22:07.860 um and just being really rigorous in
+00:22:09.840 making that assessment because people
+00:22:12.799 tend to natural human tendency is
+00:22:15.900 wishful thinking
+00:22:17.700 um so a challenge for entrepreneurs is
+00:22:19.980 to say well what's the difference
+00:22:21.000 between really believing in your ideals
+00:22:23.280 and sticking sticking to them
+00:22:25.740 versus pursuing some unrealistic dream
+00:22:28.620 that doesn't actually have Merit and
+00:22:30.720 it's it's that is a that is a really
+00:22:32.640 difficult thing to to tell you can you
+00:22:34.679 tell the difference between those two
+00:22:35.700 things you know so you need to be sort
+00:22:37.320 of very rigorous in yourself
+00:22:39.919 self-analysis a successful entrepreneur
+00:22:42.900 has probably come in all sides of shapes
+00:22:44.820 and flavors and obsessive
+00:22:47.419 nature with respect to the quality of
+00:22:49.620 the product
+00:22:51.059 thank you
+00:22:51.720 it is very important but even if you if
+00:22:54.240 you're the best the best there's always
+00:22:56.039 a chance of failure so I think it's
+00:22:57.960 important that you really like whatever
+00:22:59.280 you're doing if you don't like it life
+00:23:02.100 is too short if you like what you're
+00:23:03.780 doing you think about it even when
+00:23:05.520 you're not working I mean it'll just
+00:23:07.919 it's something that your mind is drawn
+00:23:10.020 to
+00:23:11.100 um and and if you don't like it
+00:23:13.559 just really can't make it work I think
+00:23:15.659 if you're creating a company or if
+00:23:17.400 you're joining a company
+00:23:18.620 the most important thing is to uh is to
+00:23:23.220 attract great people so either be with
+00:23:25.020 join a group that's amazing that you
+00:23:26.940 really respect or if you if you're
+00:23:29.220 building a company you've got to gather
+00:23:30.419 great people I mean all the company is
+00:23:31.980 is a group of people that are gathered
+00:23:34.020 together to create a product or service
+00:23:35.460 and so depending upon how talented and
+00:23:38.220 hard-working that group is and the
+00:23:40.020 degree to which they're focused uh
+00:23:41.880 cohesively in a good direction that will
+00:23:44.880 determine the success of the company so
+00:23:47.279 do everything you can to to gather great
+00:23:49.559 people if you're creating a company then
+00:23:53.039 I'd say focus on on signal over noise
+00:23:56.960 a lot of companies get get confused they
+00:23:59.640 spend money on things that don't
+00:24:01.799 actually make the product better
+00:24:03.900 so for example at a Tesla we've we've
+00:24:08.400 never spent any money on Advertising we
+00:24:11.340 put all the money into r d and
+00:24:14.400 Manufacturing and design to try to make
+00:24:16.620 the car as good as possible and I think
+00:24:20.159 that's that's the way to go so
+00:24:23.640 for any given company just could keep
+00:24:26.580 thinking about are these efforts that
+00:24:29.340 people are expanding are they resulting
+00:24:31.440 in a better product or service if
+00:24:33.720 they're not stop those efforts
+00:24:35.380 [Music]
+00:24:37.919 don't just follow the trend so um
+00:24:41.220 you may have heard me say that it's good
+00:24:43.320 to think in terms of the physics
+00:24:45.360 approach your first principles which is
+00:24:48.900 rather than reasoning by analogy you
+00:24:51.240 boil things down to the most fundamental
+00:24:53.580 truths you can imagine and you reason up
+00:24:55.620 from there and this is a good way to
+00:24:58.200 figure out if
+00:25:00.299 if something really makes sense or if
+00:25:02.880 it's just what everybody else is doing
+00:25:05.240 it's hard to think that way you can't
+00:25:07.500 think think that way about everything it
+00:25:09.240 takes a lot of effort but if you're
+00:25:12.240 trying to do something new it's the best
+00:25:13.980 way to think and that framework was
+00:25:16.260 developed by by physicists to figure out
+00:25:19.620 counter-intuitive things like quantum
+00:25:22.799 mechanics so it's really a powerful
+00:25:25.500 powerful method
+00:25:29.279 I think that's the final thing I would
+00:25:30.779 encourage you to do is
+00:25:32.220 now is the time to take risk you don't
+00:25:34.500 have kids as you get older your
+00:25:36.059 obligations increase so and once you
+00:25:39.960 have a family you start taking risks not
+00:25:42.059 just for yourself but for your family as
+00:25:43.799 well it gets much harder to do things
+00:25:46.620 that might not work out
+00:25:48.120 so now is the time to do that uh before
+00:25:52.140 you before you have those obligations so
+00:25:54.360 I would encourage you to take risks now
+00:25:56.279 do something bold
+00:25:58.679 um you won't regret it
+00:26:02.480 I think when I was I don't know five or
+00:26:05.100 six or something I thought I was insane
+00:26:08.460 it was just strange
+00:26:12.120 because it was clear that other people
+00:26:13.440 did not
+00:26:15.179 their mind wasn't exploding with ideas
+00:26:18.059 it was like
+00:26:20.340 hmm and strange
+00:26:24.960 I don't think
+00:26:26.580 I don't think you'd necessarily want to
+00:26:28.020 be me
+00:26:29.279 it's very hard to turn it off
+00:26:33.299 it's like a never-ending explosion
+00:26:37.260 all the time
+00:26:38.700 when I was a kid I was wondering kind of
+00:26:41.580 what's the meaning of life why are we
+00:26:43.200 here what's it all about came to the
+00:26:45.659 conclusion that work really matters is
+00:26:48.720 trying to understand the right questions
+00:26:50.700 to ask
+00:26:53.340 the more that we can increase the scope
+00:26:55.980 and scale of human consciousness the
+00:26:59.640 better we are able to ask these
+00:27:01.020 questions
+00:27:02.880 there's certain things that are
+00:27:04.320 necessary to ensure that the future is
+00:27:06.539 good
+00:27:07.559 some of those things are in the long
+00:27:10.080 term having long-term sustainable
+00:27:12.120 transport and sustainable energy
+00:27:13.980 generation
+00:27:16.080 be a space-bearing civilization
+00:27:18.480 and for Humanity to be out there among
+00:27:20.460 the stars and be a multi-planetary
+00:27:22.980 species
+00:27:25.020 being a multiplayer species and being
+00:27:26.520 out there Among the Stars is important
+00:27:27.960 for the long-term survival of humanity
+00:27:32.399 the part that I find personally most
+00:27:35.520 motivating is that it creates a sense of
+00:27:38.700 adventure
+00:27:40.020 and it makes people excited about the
+00:27:41.940 future
+00:27:43.860 how many things can you buy that you
+00:27:45.539 really love that
+00:27:47.279 really give you Joy
+00:27:49.440 so rare So Rare I wish there were more
+00:27:51.840 things
+00:27:53.220 that's what we're trying to do is make
+00:27:54.899 things that somebody loves
+00:27:59.340 the universe as we know it will
+00:28:01.799 dissipate
+00:28:03.539 into a fine mist
+00:28:05.539 of cold nothingness eventually
+00:28:09.659 I don't want to sound like like things
+00:28:11.220 are too dark because I think like you
+00:28:12.840 kind of have to
+00:28:14.580 be optimistic about the future there's
+00:28:16.620 no point in being pessimistic like what
+00:28:20.279 are the set of things that can be done
+00:28:22.260 to make the future better I think that a
+00:28:24.720 future where we are a space-faring
+00:28:26.520 civilization and out there Among the
+00:28:29.220 Stars
+00:28:30.720 this is very exciting this makes me look
+00:28:33.179 forward to the future
+00:28:35.039 it makes me want that future
+00:28:37.880 I need to be things that make you look
+00:28:41.100 forward to waking up in the morning you
+00:28:43.320 wake up in the morning you look forward
+00:28:44.399 to the day look forward to the future
+00:28:48.179 that second version is incredibly
+00:28:50.460 exciting and inspiring
+00:28:52.799 you know life can't just be about
+00:28:54.120 solving problems otherwise what's the
+00:28:56.340 point
+00:28:57.120 there's got to be things that people
+00:28:58.559 find inspiring and make life worth
+00:29:01.200 living
+00:29:03.720 in a future where we are space-bearing
+00:29:05.460 civilization and out there Among the
+00:29:06.779 Stars I think that's very exciting that
+00:29:08.820 is a thing we want
+00:29:11.539 whereas if if you knew we would not be a
+00:29:14.580 space-frying civilization but forever
+00:29:16.020 confined to Earth this would not be a
+00:29:17.820 good future that would be very sad I
+00:29:19.620 think
+00:29:20.670 [Music]
+00:29:23.220 there are two futurists and one future
+00:29:25.080 as we're out there among the stars and
+00:29:27.000 things we read about and see in science
+00:29:29.100 fiction movies the good ones are true
+00:29:31.860 we have these starships and we're
+00:29:34.520 [Music]
+00:29:36.179 going to see what other planets are like
+00:29:39.419 we're a multi-penet species and the
+00:29:41.159 scope and scale of
+00:29:42.659 Consciousness is expanded
+00:29:45.600 across many civilizations and many
+00:29:47.820 planets and many Star systems this is a
+00:29:50.640 great future
+00:29:51.540 [Music]
+00:29:52.980 this is a wonderful thing to me and
+00:29:56.340 that's what we should strive for

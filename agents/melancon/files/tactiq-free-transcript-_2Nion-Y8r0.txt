@@ -1,0 +1,1845 @@
+# tactiq.io free youtube transcript
+# Reimagining the Profession for a Digital World with Barry Melancon
+# https://www.youtube.com/watch/_2Nion-Y8r0
+
+00:00:00.390 hello everybody I'm glad to be with you
+00:00:03.000 in Michigan and not really in Michigan
+00:00:06.269 because our whole world is virtual today
+00:00:08.039 but as as you know my annual trips to
+00:00:12.060 Michigan have been fantastic and there's
+00:00:14.460 so many friends that I have in an
+00:00:16.230 acquaintance's and so I'm happy to start
+00:00:18.869 a touch base with you again even though
+00:00:21.029 it is virtually I do I do want to just
+00:00:24.509 say a couple things first about Bob I
+00:00:27.359 want to personally welcome Bob to all of
+00:00:31.019 these activities that he's involved with
+00:00:32.640 I've had a chance to meet with him
+00:00:34.350 virtually Peggy did a great job was
+00:00:36.090 setting that up and we've had some
+00:00:38.129 discussion from that standpoint and
+00:00:39.899 we've been on some group calls but I
+00:00:41.969 really look forward to working with you
+00:00:43.379 Bob and really carrying on the the great
+00:00:46.500 relationship that's existed between the
+00:00:49.649 Michigan Association and the AICPA and
+00:00:52.199 and I know that's what the volunteer
+00:00:54.390 leaders who were members of both AICPA
+00:00:56.550 and and Michigan want and that's
+00:00:58.410 certainly something that I know we're
+00:00:59.999 both committed to I know that you know
+00:01:04.438 missing Peggy is something that we're
+00:01:06.299 all experiencing and Bob certainly
+00:01:08.430 understands following somebody like
+00:01:10.229 Peggy's a tough job but I don't know if
+00:01:13.439 Peggy's actually watching this but I
+00:01:15.240 just wanted to acknowledge Peggy another
+00:01:18.090 time as it relates to her great career
+00:01:20.250 and her great friendship and as I said
+00:01:23.220 look forward to building that with Bob
+00:01:24.780 as well going forward
+00:01:26.360 what a crazy time right what a what an
+00:01:29.780 unbelievable set of facts and
+00:01:31.920 circumstances that we're dealing with as
+00:01:34.020 a profession and as individuals that
+00:01:36.259 frankly you know when I was with you
+00:01:38.729 last year or any interactions we've had
+00:01:40.890 with many of you during the there in the
+00:01:43.229 past year none of us would have even a
+00:01:46.079 couple months ago predicted exactly the
+00:01:48.450 facts and circumstances that we're
+00:01:49.979 dealing with today and I guess my
+00:01:51.990 overarching message to you to start is
+00:01:54.299 is that you know our profession is I
+00:01:57.840 think extraordinary well positioned for
+00:02:00.090 these extraordinary events and I think
+00:02:03.780 the men and women who make up our
+00:02:05.640 profession they're ethical components
+00:02:07.770 their commitments their quality in
+00:02:09.568 general really is very very important to
+00:02:13.410 where
+00:02:13.800 we are as a country as we are to a
+00:02:16.290 global business environment and how we
+00:02:19.200 recover from this if you've had the
+00:02:21.450 opportunity to watch any of the videos
+00:02:22.950 that I've done or done with some other
+00:02:25.020 members of our team that have been
+00:02:26.730 posted on our resources and I'm going to
+00:02:28.320 talk about a lot of those topics one of
+00:02:30.720 the consistent messages that I delivered
+00:02:32.610 in those is that you know we're in a
+00:02:35.340 world right now we're in a point of time
+00:02:37.800 right now that clearly is not only
+00:02:41.910 unusual but opportunistic and not in a
+00:02:44.850 negative sense but in importance of our
+00:02:47.790 profession sense medical professionals
+00:02:50.310 have been phenomenal and they've been on
+00:02:52.440 the front lines of keeping us as healthy
+00:02:54.450 as possible but as we now shift to an
+00:02:59.160 era of economic recovery our skills will
+00:03:04.260 be the same are needed the same way as
+00:03:07.350 the medical professional skills were on
+00:03:09.660 the health side you know restoring our
+00:03:12.210 economy to health restoring our business
+00:03:15.120 cultures to health restoring our own
+00:03:17.760 confidence economically as individual
+00:03:20.760 investors to health will be critically
+00:03:24.060 important to how quickly this recovery
+00:03:26.489 actually occurs and if if you take
+00:03:29.280 nothing else away and I look forward to
+00:03:31.140 doing Q&A at the end of this timeframe
+00:03:32.760 with you but if you if you take nothing
+00:03:35.340 else away I think you know living
+00:03:39.180 everyday for now for as long as we can
+00:03:41.670 proceed with that mindset as a member of
+00:03:44.820 our profession I think it's absolutely
+00:03:46.410 essential and I hope with some of the
+00:03:48.720 things that I'm going to cover that it
+00:03:50.610 will reinforce it wouldn't reinforce
+00:03:52.920 exactly that thinking you know just to
+00:03:56.940 sort of set the stage obviously people
+00:04:00.450 worry you know when you think about and
+00:04:02.190 this is a couple of weeks whole now so
+00:04:04.020 these statistics have probably changed
+00:04:05.670 but you know forty eight percent are
+00:04:07.380 worried about financial harm I'm
+00:04:10.080 surprised it's not higher and you know a
+00:04:12.600 quarter of workers think it's likely
+00:04:15.660 that they will get laid off in the next
+00:04:17.820 year and hopefully we won't get to that
+00:04:20.668 high we're obviously very high but
+00:04:23.100 hopefully the series of business
+00:04:25.440 interactions I think including
+00:04:27.820 business interactions with our
+00:04:29.050 profession the work of programs from
+00:04:32.200 government and that positive mental
+00:04:34.180 attitude can make the ceiling quite a
+00:04:38.500 little bit lower than that but more
+00:04:40.450 importantly make the recovery faster so
+00:04:42.760 clearly you know we live in a world that
+00:04:44.950 is is phenomenally you know questioning
+00:04:49.600 where everything is headache and that is
+00:04:51.580 is true and you know many of you live in
+00:04:54.970 you know obviously Detroit areas has
+00:04:57.730 been a you know a hotspot so to speak
+00:05:00.880 there are several hot spots around and
+00:05:02.680 and obviously you know each state is
+00:05:05.470 reacting differently and as we watch the
+00:05:07.630 news and we probably get tired of
+00:05:09.100 watching the news each night it's a
+00:05:11.110 critical component there I think I think
+00:05:14.830 as we think about this the trust point
+00:05:17.140 is is important you know for those of
+00:05:19.540 you who have heard me speak in the past
+00:05:21.160 you know I always talk about trust being
+00:05:24.250 a critical calling card for our
+00:05:25.990 profession and and for goodness sakes we
+00:05:29.680 have a lack of trust today because we
+00:05:31.420 you know it's very hard to figure out
+00:05:32.680 what to trust and clearly there is this
+00:05:35.950 sort of overwhelming lack of trust for
+00:05:37.900 the media today you've heard me talk
+00:05:39.400 about that and it doesn't really matter
+00:05:41.230 where you are on the political spectrum
+00:05:42.900 there is a lack of trust and what comes
+00:05:45.580 out through the media process and
+00:05:47.260 something that the media you know if we
+00:05:49.900 think back a few decades that the media
+00:05:52.450 really had is sort of a a really really
+00:05:56.530 significant calling card for themselves
+00:05:58.540 has certainly because of a lot of
+00:06:00.640 reasons the internet being a major part
+00:06:02.410 of it has certainly dissipated and you
+00:06:06.190 know as I look at it from our
+00:06:07.390 professions standpoint and I think about
+00:06:09.100 our ability to be that objective advisor
+00:06:11.790 whether we work for a company or whether
+00:06:14.170 we're in public accounting or whether
+00:06:15.670 we're at I could earn a khadeem the
+00:06:17.800 trusted adviser is so critical critical
+00:06:20.770 component and never more critical than
+00:06:23.650 in times like this you know in healthy
+00:06:26.500 times and times when things are moving
+00:06:28.980 obviously they're moving fast today but
+00:06:31.120 extraordinarily fast in a positive way
+00:06:33.780 you know the room for era is greater
+00:06:36.640 frankly
+00:06:37.420 and the room for error today is a lot
+00:06:39.940 narrower and so our Trust's perspective
+00:06:42.550 is a critical component of what we bring
+00:06:44.910 to the business world today and I so I
+00:06:47.620 think as you you think about just the
+00:06:49.510 walk in the shoes of the people who are
+00:06:52.660 you know really suffering most and also
+00:06:56.350 think about the trust component to help
+00:06:58.030 them come out of that I think they're
+00:06:59.800 really two critical components for the
+00:07:02.470 profession to speak about you know one
+00:07:04.780 of the things that we point a point to
+00:07:07.150 is about being the trusted adviser and
+00:07:08.950 listen if you're auditing pública
+00:07:10.570 companies there's a different context of
+00:07:12.670 what you know trusted adviser means or
+00:07:15.400 can mean because of independence rules
+00:07:17.200 but for the most part our profession
+00:07:18.960 44,000 firms you know in this country
+00:07:22.660 you know four hundred twenty five
+00:07:24.040 thousand men and women working in
+00:07:25.600 businesses and in firms the most part
+00:07:28.180 they're that trusted advisor they're the
+00:07:30.100 people who can step back who can be I
+00:07:32.680 think forward-looking and not just
+00:07:35.110 overly conservative but put the pieces
+00:07:37.330 together thinking of systems environment
+00:07:39.580 to help make better decision making it's
+00:07:43.120 just this is an inflection point this is
+00:07:45.760 an our opportunity to really prove those
+00:07:48.670 words trusted advisor to really prove
+00:07:50.650 that word trust in in the world today
+00:07:54.160 people will remember some of the things
+00:07:56.170 that I have said to firms that I've
+00:07:57.370 talked to many many many leaders of
+00:07:59.260 firms and a lot of seminars and virtual
+00:08:02.380 programs but you know one of the things
+00:08:04.780 that I say about the client firm
+00:08:06.940 relationship is this is the opportunity
+00:08:08.710 to create 20-year clients this is the
+00:08:11.410 opportunity to submit a next generation
+00:08:13.750 of leadership and build a 20-year client
+00:08:16.810 relationship the things we do today how
+00:08:19.840 we go about them how accessible we are
+00:08:21.880 how we're you know positioning them how
+00:08:25.660 we're reacting are critically important
+00:08:27.640 and likewise in our business and
+00:08:28.960 industry component you know how we step
+00:08:31.330 up how we get business leaders that we
+00:08:33.250 work for or work with to make the right
+00:08:35.770 decisions how we come up with the
+00:08:37.390 creative ideas these are the things that
+00:08:40.299 are really an inflection point for us
+00:08:42.490 today and there isn't a you know a sort
+00:08:45.880 of a simple answer to any one of those
+00:08:47.830 things it requires judgment and it
+00:08:50.630 requires us I think to really step back
+00:08:53.660 and get away from you know the seventeen
+00:08:56.690 subchapters in a text code or the detail
+00:09:00.350 rules that we expect in certain
+00:09:02.270 compliance aspects of accounting and
+00:09:04.160 auditing and the like and to think at a
+00:09:06.560 different level and I again I would
+00:09:09.140 challenge all of us as we think about
+00:09:11.270 some of these issues that I'm going to
+00:09:13.190 cover as we think about those to really
+00:09:15.770 be at that different level and we've
+00:09:18.320 talked I'll talk about the PPP program
+00:09:20.360 here in a moment but it has been it's
+00:09:22.010 been amazing to me how so many of our
+00:09:24.890 members just want the precise answers
+00:09:27.890 instead of you know embracing some of
+00:09:31.880 the uncertainty and the flexibility that
+00:09:34.100 allows us to be that trusted advisor to
+00:09:37.610 a particular client facing a decision
+00:09:39.740 that they might have to make and I think
+00:09:43.400 as we reflect back on today's times we
+00:09:46.550 have been you know as state societies as
+00:09:49.010 the AICPA as firm leaders we have been
+00:09:51.590 all about the fast pace of change in
+00:09:53.480 technology re-engineering our profession
+00:09:55.490 rethinking our profession none of those
+00:09:57.470 things go away and I'm going to talk
+00:09:59.390 about some of the things we're pushing
+00:10:00.620 continuing and not taking they the sort
+00:10:03.860 of the the the the the pedal off the gas
+00:10:06.980 off those issues because we cannot just
+00:10:09.140 stop everything but at the same time
+00:10:11.840 this notion of competencies and skill
+00:10:14.840 sets to think in a in a more systemic
+00:10:17.480 way and make the right types of
+00:10:19.550 decisions as opposed to just the precise
+00:10:21.650 answers we used to talk about that in
+00:10:24.260 the context that that's where technology
+00:10:25.850 can displace us as a profession that
+00:10:28.460 doesn't go away that's still the case
+00:10:30.770 but as a trusted professional to take
+00:10:34.100 the uncertainty to take the ambivalence
+00:10:37.190 in some case around certain things of
+00:10:39.200 guidance that has not come out and to
+00:10:41.570 apply it with best judgment and with
+00:10:43.850 reason thinking is really where the
+00:10:46.550 relevance and the value of our
+00:10:48.440 profession and the makeup the DNA of us
+00:10:51.650 as individual CPAs really will pay
+00:10:54.380 dividends and how we handle this will be
+00:10:57.410 a big statement about how our profession
+00:10:59.960 is positioned in the years and decades
+00:11:02.870 to come
+00:11:03.939 because how we deal with this today is a
+00:11:06.970 critical component and I think you will
+00:11:09.099 see some of that that really will play
+00:11:11.289 out I'd like to give you sort of a sense
+00:11:13.569 of how I think firms in general
+00:11:15.399 obviously our members in business it
+00:11:17.799 depends a lot on what business you're in
+00:11:19.539 and what size business you're in and you
+00:11:22.839 know where that business is in its own
+00:11:25.029 risk matrix and so it's impossible with
+00:11:28.689 me obviously there's industries that are
+00:11:30.399 dramatically impacted negatively and
+00:11:32.379 dramatically impacted positively and so
+00:11:35.799 it's harder to really spend this amount
+00:11:37.839 of time really focused on those other
+00:11:39.789 questions or whatever I'm happy to
+00:11:42.039 address some thoughts I might have about
+00:11:43.539 those but really from a public
+00:11:45.849 accounting perspective I'd like to give
+00:11:47.709 you a sense you know there's a lot of
+00:11:49.659 things that get written and we do a lot
+00:11:51.369 of interaction with firm leaders we
+00:11:53.139 focus on the top you know top eight the
+00:11:55.539 top 100 the top 500 the 44,000
+00:11:58.529 predominantly very small firms and when
+00:12:01.689 I speak about PPP I'm going to tell you
+00:12:03.519 the story of PPP which is about the
+00:12:05.319 small business component and why that's
+00:12:06.939 so critical but it's so tall it also
+00:12:10.299 applies to the different sizes of firms
+00:12:12.429 out there and so how how a firm is doing
+00:12:15.849 look I think firms are doing reasonably
+00:12:18.729 well I'll give you an analogy that I've
+00:12:21.339 had with that I've heard and discussing
+00:12:23.319 or came to with a bunch of CEOs of firms
+00:12:25.749 this is a little different than the 2008
+00:12:28.359 economic times if you think about 2008
+00:12:30.639 the lock-up of our financial system the
+00:12:32.499 lack of liquidity at a big company
+00:12:34.929 perspective the fact of the matter is as
+00:12:38.229 it related to our profession the most
+00:12:40.809 intense impact in that time was really
+00:12:43.929 in the largest firms and obviously their
+00:12:46.449 clients that were in the you know really
+00:12:48.609 affected by liquidity type of issues but
+00:12:51.220 the larger firms had had really
+00:12:53.049 significant issues and it didn't yet we
+00:12:55.569 went through some some negative economic
+00:12:57.639 times but it didn't cascade down to the
+00:13:00.970 smaller business environment quite in
+00:13:02.649 the same way and so big impact at the
+00:13:06.459 largest firms small impact at the small
+00:13:09.489 at the smaller firms today is almost an
+00:13:12.309 inverse of that it's not a perfect
+00:13:13.600 inverse but it's somewhat of an inverse
+00:13:15.690 today if you think about you know
+00:13:18.460 publicly traded companies global
+00:13:20.440 footprint the capabilities of having
+00:13:22.630 been diversified for many of them
+00:13:24.690 obviously certain industries that this
+00:13:27.400 is not true but certainly financial
+00:13:29.170 services it probably is true technology
+00:13:32.110 it probably is true any of the
+00:13:34.210 innovation space companies not
+00:13:36.280 hospitality and Airlines of course but
+00:13:39.060 you know they're sort of notion from a
+00:13:41.620 compliance perspective tax compliance
+00:13:43.750 audit compliance and and that they do
+00:13:45.610 with those publicly listed companies it
+00:13:48.610 doesn't insulate those firms but it is
+00:13:50.950 it is somewhat of a buffering as you get
+00:13:54.010 down in the size spectrum there is more
+00:13:56.350 risk you know a lot more percentage-wise
+00:13:59.410 small businesses actually shut down by
+00:14:01.690 government edict there are economic
+00:14:04.450 circumstances that apply so that the the
+00:14:08.290 the profile the risk profile I think
+00:14:11.260 skews to smaller firms today versus the
+00:14:14.530 larger firms I would say if we look sort
+00:14:17.110 of as as the I don't know the top
+00:14:19.030 thousand firms I think generally
+00:14:20.770 speaking those firms have taken some
+00:14:24.700 actions they're probably not as
+00:14:26.650 universal actions as some of the you
+00:14:29.590 know some things that get reported in an
+00:14:31.150 internet and things of that nature but
+00:14:32.800 some have certainly done layoffs and
+00:14:34.480 some have certainly done pay adjustments
+00:14:36.220 a high percentage of them have certainly
+00:14:38.320 affected partner you know partner
+00:14:40.750 drawers and partner investments you know
+00:14:42.760 liquidity issues inside their firms
+00:14:44.710 through you know relying on partners to
+00:14:47.230 be able to achieve that but for the most
+00:14:50.560 part the attitude of the leaders of
+00:14:52.960 firms today is that they believe they
+00:14:54.700 will be critically important to their
+00:14:56.140 clients and therefore their people their
+00:14:58.900 staffs are critically important to being
+00:15:01.120 able to serve those clients now we all
+00:15:03.340 hope that the ramp up will be fairly
+00:15:05.170 quick and that's why they really want to
+00:15:08.530 hold on to their people because their
+00:15:10.330 clients their ability to be that trusted
+00:15:12.430 advisor is directly impacted by their
+00:15:15.040 ability to have the competencies on
+00:15:16.960 their teams regardless of the size
+00:15:19.030 because it's all relative but the the
+00:15:21.520 competencies under teams to help clients
+00:15:23.470 through this and then of course things
+00:15:25.360 like the different programs PPP
+00:15:28.270 being the most voluminous one is is
+00:15:31.630 clearly things that they need to be
+00:15:33.460 doing for their clients and so firms
+00:15:35.740 have tried to do I think position
+00:15:38.020 themselves in that type of way I think
+00:15:40.720 you know all firms are worried about
+00:15:42.820 liquidity and whether their clients will
+00:15:44.860 be able to pay them for the work that's
+00:15:46.270 being done and when when will the next
+00:15:48.490 shoe drop I think generally speaking
+00:15:50.040 they've done pretty well today now there
+00:15:52.570 are some exceptions and in the way I
+00:15:54.040 would say it there's a huge geography
+00:15:56.740 place here as I've talked to verbs I can
+00:16:00.490 pretty much take the Rockies to the
+00:16:02.260 Appalachians and with the exception of a
+00:16:05.080 few hot spots in that you know in
+00:16:08.290 between those two mountain ranges firms
+00:16:10.540 are doing reasonably well they're there
+00:16:12.640 their clients are in this sort of Mid
+00:16:15.760 America southern you know
+00:16:18.420 entrepreneurial spirit clearly Detroit's
+00:16:20.920 a hot spot clearly Chicago has been a
+00:16:23.260 hot spot clearly New Orleans has been a
+00:16:25.090 hot spot the other places have not been
+00:16:27.580 at that same intensity as those three in
+00:16:29.950 between in between those two mountain
+00:16:32.680 ranges and when you speak to firms that
+00:16:34.300 predominantly operate in that space
+00:16:36.100 their outlook is much more positive from
+00:16:38.980 that from that sample when we get to the
+00:16:40.840 two coasts it's a little bit more of a
+00:16:43.210 mixed bag if you're on the coast for
+00:16:46.990 instance if you know California has had
+00:16:48.700 very significant lock down rules state
+00:16:51.340 of Washington Seattle was the first to
+00:16:53.350 really experience a lot of what the
+00:16:56.050 country is as a whole is experienced so
+00:16:58.270 you have a little bit different
+00:16:59.590 perspective you may be a little bit more
+00:17:01.300 pessimistic there are exceptions on the
+00:17:03.430 on the west coast if your clientele is
+00:17:06.280 just really heavily in the technology
+00:17:08.109 space most of the technology companies
+00:17:09.970 are doing very well from that standpoint
+00:17:12.339 and so their clients therefore doing
+00:17:14.560 well if you're in entertainment and real
+00:17:16.150 estate much harder in those environments
+00:17:18.579 and obviously the hospitality you know
+00:17:21.550 restaurants bars hotels type of
+00:17:23.880 environments on the East Coast and it
+00:17:27.459 pretty much is the entire East Coast I
+00:17:29.410 mean Miami has been it's been a hot spot
+00:17:31.360 and you can certainly go all the way up
+00:17:33.250 certainly to Boston you get a little bit
+00:17:35.890 of different take it you know in some of
+00:17:37.390 them I
+00:17:38.049 main areas but the you know the the east
+00:17:41.440 the east coast has got sort of it's it's
+00:17:43.570 a tale of two cities or two stories if
+00:17:46.239 you will you know if you have clients
+00:17:48.940 now that's heavily into the financial
+00:17:51.549 services area and certainly New York and
+00:17:53.799 Boston and the DC area have huge
+00:17:57.009 financial services components and
+00:17:59.080 related activities that that is so
+00:18:02.289 critical to recovery that you know
+00:18:04.690 they've been a little bit less impacted
+00:18:06.429 but then a lot of the other things that
+00:18:08.019 have been so tremendously shut down much
+00:18:10.480 like Metro Detroit it becomes you know
+00:18:14.139 problematic more problematic from a
+00:18:16.059 client perspective I think generally
+00:18:18.940 firms have been pretty happy about how
+00:18:20.470 they've adjusted as it relates to work
+00:18:22.480 from home I saw a statistic on the top
+00:18:26.619 100 for instance ninety eight percent
+00:18:28.779 felt like they had done that very well
+00:18:30.340 one CEO told me wasn't a top 100 but top
+00:18:33.190 500 firm he said you know it was really
+00:18:36.580 funny I've been trying to get our tax
+00:18:38.139 team to work virtually for the last four
+00:18:40.059 years and they had all these reasons why
+00:18:41.739 they couldn't do it but interestingly
+00:18:43.330 they figured out how to do it in 48
+00:18:45.340 hours as we were going through this I
+00:18:47.019 thought that was sort of a little bit of
+00:18:48.909 levity on on thinking about it but it
+00:18:51.279 sort of told the story of about
+00:18:52.869 necessity being the mother of invention
+00:18:54.580 and clearly I think firms have adapted
+00:18:57.340 to this very well all sized firms and in
+00:18:59.289 many instances smaller firms might have
+00:19:01.539 been even more equipped to be able to do
+00:19:03.220 it certainly firms that were cloud
+00:19:04.840 focused early on I think we've been
+00:19:07.450 seeing a very significant element of a
+00:19:11.399 movement to cloud-based services you
+00:19:13.869 know through CPI comm that's been a big
+00:19:15.789 if it's an emphasis for more than a
+00:19:17.350 decade now you've heard me many of you
+00:19:19.749 talked about that in the top 100 firms
+00:19:21.850 what we call cast services client
+00:19:24.399 advisory services that are cloud-based
+00:19:26.279 now constitutes on average about 10
+00:19:29.019 percent of their revenue base when a
+00:19:30.879 decade ago it was 0% and so that's a
+00:19:33.580 pretty big shift when you're looking at
+00:19:35.019 the 100 largest firms and so but but the
+00:19:39.100 story is is that when you look at firms
+00:19:40.899 there are some that have embraced that
+00:19:42.159 and some that have not we are clearly
+00:19:43.749 seeing the firms that have not embraced
+00:19:45.700 that rapidly run to embracing it for in
+00:19:48.580 their business operations today
+00:19:50.510 and the firm's that have embraced that
+00:19:52.370 have a mixed story with their clients
+00:19:54.140 they have some clients that have
+00:19:55.250 certainly embraced it and they had some
+00:19:57.260 clients that were not and we're seeing
+00:19:58.760 even those in what I'd call embracing or
+00:20:00.830 previously embracing firms have really
+00:20:03.800 seen an uptick from their clients in in
+00:20:06.920 that particular sort of commitment if
+00:20:09.980 you will and so we're seeing this rapid
+00:20:12.590 movement to a more virtual relationship
+00:20:16.190 in that space and I think that that will
+00:20:20.000 be here forever
+00:20:21.470 frankly and I think when we talked about
+00:20:23.870 the technological you know impacts
+00:20:26.450 through our profession like robotics and
+00:20:28.790 artificial intelligence blockchain and
+00:20:31.550 the light that comes about we've been
+00:20:33.500 talking about for years the
+00:20:35.180 manifestation of kovat 19 will actually
+00:20:38.990 make those things that we've been
+00:20:40.790 talking about happen quicker in our
+00:20:42.500 profession so this is not a time to say
+00:20:44.360 well compliance has brought me and you
+00:20:47.570 know I still got the audit and tax work
+00:20:49.790 thank God I have for that yes thank God
+00:20:52.130 you have that but it doesn't turn down
+00:20:54.800 the change management dial as to where
+00:20:57.230 our profession is going and I really
+00:20:59.300 think that's another very important
+00:21:01.010 takeaway because the technology
+00:21:03.280 adaptation that's happening is actually
+00:21:06.080 going to fuel that I believe going
+00:21:08.480 forward in a more in a much more
+00:21:10.010 significant significant way obviously so
+00:21:16.640 let's talk a little bit about the path
+00:21:18.230 forward but I wanted to just give you a
+00:21:19.610 sense of the profession I'm gonna come
+00:21:20.900 back to a couple other points in the
+00:21:22.340 human capital side and here in a little
+00:21:24.110 bit let me let me speak a little bit
+00:21:27.020 about where we've seen the talks not
+00:21:29.900 just tax but the issues forward both the
+00:21:32.030 US and globally and then go into a bit
+00:21:33.770 more detail first off the first main
+00:21:36.680 issue for us was tax you know we were
+00:21:39.080 staring in April 15th really a March
+00:21:41.030 15th and then an April 15 deadline it
+00:21:43.850 was sort of an interesting process we
+00:21:46.430 actually had a lot of our members when
+00:21:48.290 we took the position to move the tax
+00:21:50.210 deadline from April 15th to June 15th
+00:21:52.660 really not happy with us on that point
+00:21:55.250 oh no don't do that you know that
+00:21:57.560 deadline keeps things moving for me and
+00:21:59.960 be
+00:22:00.200 helps me manage my clients I'm sure none
+00:22:02.809 of you in the listening to this were in
+00:22:04.700 that group no one will admit that now
+00:22:07.279 but the fact is is that there was a lot
+00:22:10.760 of firms that were pushing back from
+00:22:12.470 that standpoint and I understand it but
+00:22:14.899 we knew we knew that that was not the
+00:22:17.029 right answer given where this was going
+00:22:18.799 and it we had to do something and it
+00:22:21.110 really came in two stages the I have to
+00:22:24.019 say just upfront as it relates to tax
+00:22:26.210 the IRS is working at about 20% capacity
+00:22:29.450 right now so there's obviously
+00:22:30.350 frustration out there the IRS cannot
+00:22:32.450 work at home in the same way that a firm
+00:22:34.700 can or your business can there are all
+00:22:37.130 sorts of taxpayer confidentiality issues
+00:22:40.820 that are just phenomenally difficult to
+00:22:44.960 think about when you start bringing you
+00:22:46.760 know their type of work force which is
+00:22:49.519 you know is a very dispersed and very
+00:22:52.990 variant work force different types of
+00:22:55.669 skills and things into a work at home
+00:22:58.029 environment and actually IRS workers are
+00:23:00.860 unionized and you know they've had to
+00:23:02.690 manage through Union expectations and
+00:23:04.639 the like so it's been very difficult for
+00:23:07.190 the IRS but as it related to the April
+00:23:09.919 15th issue and moving it to July 15th
+00:23:12.409 all indications were that the IRS
+00:23:14.690 totally agreed with us and in fact we
+00:23:16.370 made a lot of points about the IRS
+00:23:17.840 capacity to deal with things was a
+00:23:19.970 really critical component we we actually
+00:23:22.700 had some trouble moving getting sort of
+00:23:24.500 an amaz issue and and I will acknowledge
+00:23:27.460 there were some legitimacy to those
+00:23:29.750 concerns secretary minuchin was very
+00:23:32.389 direct in his office with us was very
+00:23:34.250 direct that the secretary again put us
+00:23:37.279 back into I don't know March 15 16 17 18
+00:23:41.120 type of time frame the secretary was
+00:23:44.330 very committed to having as many people
+00:23:46.549 who had refunds do when their returns
+00:23:48.200 file timely as possible because he felt
+00:23:51.139 and he was right that he wanted that
+00:23:53.120 money to be part of the economic
+00:23:55.340 recovery stimulus it took us ultimately
+00:23:59.029 the state societies were fantastic
+00:24:01.669 it took us ultimately you know to use
+00:24:03.889 grassroots pressure to really say this
+00:24:06.889 is not the right answer and ultimately
+00:24:10.010 the secretary set policy by tweet he
+00:24:12.830 tweeted
+00:24:13.460 the movement from April 15 to July 15
+00:24:15.770 and I don't tweet a lot I don't like
+00:24:20.029 setting policy through tweet or having
+00:24:22.610 over impact on things through treat
+00:24:24.320 that's just you know there's some
+00:24:25.730 ramifications by who tweets and how we
+00:24:28.669 certainly see that play out with
+00:24:29.960 political leaders today but the the the
+00:24:34.039 fact of the matter is I did follow his
+00:24:35.899 the policy by tweet back with a
+00:24:38.210 statement encouraging all firms to
+00:24:40.370 encourage clients that would do refunds
+00:24:43.700 to file timely but with the
+00:24:46.039 acknowledgement that that couldn't
+00:24:47.390 happen for every refund return the
+00:24:50.120 problem of course is when he did the
+00:24:51.500 tweet policy by tweet it wasn't
+00:24:53.179 all-encompassing and there was a whole
+00:24:54.590 host of other returns that that fell in
+00:24:57.980 including estimated taxes let's say a
+00:25:00.020 June 15th estimated tax even though the
+00:25:02.059 return was July 15 very complicated
+00:25:04.640 stuff and ultimately ultimately we again
+00:25:08.809 were able to push that over the finish
+00:25:11.600 line where we got a ruling and a
+00:25:13.970 guidance from the IRS that said
+00:25:15.440 everything that was due from that you
+00:25:17.419 know March 15 1617 timeframe to July
+00:25:21.020 15th was extended to July 15 it was
+00:25:24.500 essential and you know frankly where
+00:25:27.409 we're dealing with the issue of what
+00:25:28.789 about July 15th October 15 because you
+00:25:32.149 know there's still a lot of uncertainty
+00:25:33.730 and we we think a wholesale sought a
+00:25:38.779 blanket July 15 to October 15 unless
+00:25:41.750 things get worse instead of the gradual
+00:25:44.360 startup of the economy and if things got
+00:25:47.000 worse what I'm gonna say might not be
+00:25:48.950 applicable but with the startup of the
+00:25:50.690 economy I think there's going to be a
+00:25:52.909 hesitancy to go from July 15th Hamas to
+00:25:56.809 some other date October 15 that doesn't
+00:26:00.470 mean that you as a practitioner can't
+00:26:02.390 extend on an individual basis to October
+00:26:05.210 15 that was as would normally be the
+00:26:07.039 case but the mechanics of actually
+00:26:09.380 filing a return come into play from that
+00:26:11.149 standpoint
+00:26:12.020 so I are filing an extension I should
+00:26:14.510 say and so that is a you know that's the
+00:26:17.480 likely outcome and I think it is part
+00:26:20.330 about you know restarting the economy
+00:26:22.860 in that space small business was a big
+00:26:25.260 component I'm going to come to PPP in
+00:26:26.880 the next slide but you know what we made
+00:26:29.400 a decision was you know internally was
+00:26:32.730 that you know the big major industry
+00:26:34.710 verticals the airlines the hotels they
+00:26:37.110 were going to be taken care of in the
+00:26:39.630 thinking process of Washington DC but we
+00:26:42.960 were really concerned about the engine
+00:26:45.030 of our economy which is the small
+00:26:46.560 business economy and you know the tens
+00:26:50.670 of millions of small businesses that are
+00:26:52.410 out there and and we said we're going to
+00:26:56.460 be you know as much focused in that
+00:26:58.590 space as we can because we think our
+00:27:01.230 voice in this and how we can represent
+00:27:03.090 the voice of the 44,000 firms is
+00:27:05.730 critical and the fact is that the 10
+00:27:08.400 million or so small businesses that have
+00:27:10.110 employees almost every one of those
+00:27:12.540 businesses has a CPA relationship and so
+00:27:15.270 our voice which is and was very critical
+00:27:18.780 component of how this is looked at and
+00:27:21.990 we really took a focal point on that I
+00:27:23.700 would say as you know we have a global
+00:27:25.350 footprint that has been the case
+00:27:27.570 throughout the world as we have worked
+00:27:30.150 for instance with the UK government the
+00:27:31.830 Malaysian government etc with our teams
+00:27:34.260 on the ground there and so it has been a
+00:27:37.140 universal notion I will tell you the
+00:27:39.360 u.s. small business environment we were
+00:27:41.340 a consumption based economy you might
+00:27:44.640 say an excessive consumption based
+00:27:46.890 economy and that notion of the that's
+00:27:49.920 being fueled from small business is a
+00:27:52.020 critical component to recovery in fact
+00:27:54.870 it's a critical component not only to
+00:27:56.550 the US economy recovery but because of
+00:27:58.590 our you know our insatiable appetite to
+00:28:03.240 consume as Americans it's a huge element
+00:28:06.210 to the global economy as well and so
+00:28:09.150 that was thought of the the major
+00:28:11.040 thinking process that we had in that
+00:28:14.010 environment and you know so clearly
+00:28:17.610 keeping people up-to-date
+00:28:19.500 real-time even with lack of clarity in
+00:28:23.280 many instances was driven drove our
+00:28:25.860 whole sort of information center Koba 19
+00:28:28.560 information set they just the incredible
+00:28:31.560 amount of resources that we have been
+00:28:33.420 able to put forward and
+00:28:35.100 frankly the member response to it has
+00:28:36.690 been just phenomenal
+00:28:38.460 we've had other organizations link ours
+00:28:40.980 our material other national
+00:28:43.169 organizations link our material the
+00:28:45.510 international organizations link our
+00:28:47.549 material as it relates to just this sort
+00:28:51.059 of our team has just been phenomenal and
+00:28:54.570 the ability to push this out there to
+00:28:56.910 gather it to to understand it and then
+00:29:01.080 to put it out there in a very serious
+00:29:03.419 way and I'm very proud of our our team
+00:29:05.809 has approached we have certainly not
+00:29:08.220 been perfect and no one can be perfect
+00:29:10.260 in this environment
+00:29:11.940 but I think the response has been
+00:29:14.340 phenomenal we do for instance on PPP we
+00:29:17.130 do weekly seminars town halls we call
+00:29:20.700 them that that have you know thousands
+00:29:22.559 and thousands and thousands of people
+00:29:23.970 participating on them just to get the
+00:29:26.490 current just absolute you know
+00:29:29.390 up-to-the-minute type of information and
+00:29:31.799 we bring Outsiders into to express views
+00:29:34.890 from different perspectives and that
+00:29:36.929 leads me to the PPP program and I will
+00:29:39.539 just take a few minutes here I think
+00:29:41.280 it's very important for all of you to
+00:29:43.350 understand first off let's put it in
+00:29:45.120 context the as I said our focus was on
+00:29:48.240 small business we what we were
+00:29:50.669 articulating and again it feels it was
+00:29:53.250 only you know a little bit over a month
+00:29:54.809 ago it feels like about five six seven
+00:29:56.640 years ago but hits it you know it was
+00:29:59.460 just a few months just a month or so ago
+00:30:01.559 about five or six weeks ago actually and
+00:30:04.370 what we began to articulate very
+00:30:07.110 directly to Congress and this particular
+00:30:09.360 bill was led in the Senate was that if
+00:30:11.850 you were focused what you should be
+00:30:13.890 focused on the small business
+00:30:15.150 environment you had to think differently
+00:30:16.650 about it another one and the key factors
+00:30:19.289 we said was look it has to be fast it
+00:30:23.280 has to be something that we whatever you
+00:30:26.370 know I would say what bail out for small
+00:30:28.440 business would occur they don't use that
+00:30:30.059 term but if you think about bailouts of
+00:30:31.890 industries in the past think of small
+00:30:33.960 business as an industry vertical unto
+00:30:36.090 itself and so the financial resources of
+00:30:38.700 the federal government to to buttress
+00:30:41.070 that particular area we said it has to
+00:30:43.559 be fast it can't be overly red taped
+00:30:46.440 oriented and you saw to have a choice to
+00:30:48.330 make
+00:30:48.870 you can either think about all the
+00:30:50.760 protections you want to put in the rigor
+00:30:52.740 that you want to put that will by
+00:30:55.140 definition not be fast when you're
+00:30:57.150 talking about millions 10 millions 30
+00:31:00.210 million
+00:31:00.840 when you including businesses that do
+00:31:02.730 not have employees so it it that won't
+00:31:06.570 that will meet the fast test and the
+00:31:10.710 exchange for fast means that you're
+00:31:12.360 going to have more imperfections you're
+00:31:14.010 going to have more uncertainty but
+00:31:16.559 that's the trade-off in that issue so
+00:31:19.350 fast versus sort of the perfection my
+00:31:21.890 our staff gets tired of hearing a but I
+00:31:24.450 always say the pursuit of perfection is
+00:31:26.070 the enemy of progress fast progress we
+00:31:29.370 said was critically important we also
+00:31:31.620 said that it had to have a grant notion
+00:31:34.800 not just the typical disaster relief
+00:31:36.809 grant notion and had to have a more
+00:31:38.309 massive grant notion we could call it
+00:31:41.070 forgiveness that's the term that's being
+00:31:42.600 used now but we said entrepreneurs are
+00:31:45.750 not going to want to be signing loans
+00:31:47.809 you know very rapidly again on the fast
+00:31:50.820 point entrepreneurs small business
+00:31:52.610 operators are going to be hesitant to do
+00:31:54.900 that because they're going to be
+00:31:56.700 thinking about how do I pay this back I
+00:31:58.950 couldn't afford to pay this back will
+00:32:00.360 that affect my ability for this business
+00:32:02.070 to survive it's sort of you know the the
+00:32:04.860 ability to survive now or the ability to
+00:32:06.960 not be able to pay back the loan and
+00:32:09.420 people are very sensitive to that if
+00:32:11.370 you're an entrepreneur how you manage
+00:32:13.620 debt is a very critical component of an
+00:32:15.510 important an important component of a
+00:32:18.380 small business person's mindset and so
+00:32:22.260 we said that had to be a very strong
+00:32:24.000 component we actually said the target it
+00:32:26.010 need to be on small businesses with a
+00:32:27.690 hundred or less employees the Senate
+00:32:30.179 ultimately decided to make that five
+00:32:32.190 hundred we said that we thought the
+00:32:34.559 appropriate time cutoff would have been
+00:32:36.570 around a hundred for a program that
+00:32:38.160 ultimately became the PPP and what was
+00:32:40.050 being discussed and so ultimately we had
+00:32:42.600 a lot of influence there we'll never get
+00:32:44.160 credit for it that's not important but
+00:32:45.780 we did have a lot of influence in this
+00:32:48.390 being of forgiveness being fast and we
+00:32:51.720 actually we could have taken a
+00:32:53.250 self-serving interest we could have said
+00:32:54.750 no you ought to have financial
+00:32:56.100 information in financial reports and a
+00:32:58.350 whole lot of you know calculations as it
+00:33:01.380 relates to a small biz
+00:33:02.550 taking that and we said no that's not
+00:33:05.130 the right answer if you think economic
+00:33:07.470 recovery it's got to be fast and oh by
+00:33:09.870 the way Congress there's going to be
+00:33:11.490 errors there's going to be abuses it's
+00:33:13.590 not going to be perfect
+00:33:14.730 and we were very clear and saying that
+00:33:16.860 to our members as this program first was
+00:33:18.900 enacted there and there it actually was
+00:33:22.710 very fast it could have been even faster
+00:33:25.020 if the decisions on unemployment might
+00:33:26.850 have been a little different but it you
+00:33:29.400 know there was a convergence of timing
+00:33:31.380 where government was shutting down
+00:33:32.550 activities like restaurants the original
+00:33:34.590 idea was okay government's going to shut
+00:33:36.810 down restaurants we're gonna give
+00:33:38.070 restaurants money to pay their payroll
+00:33:41.060 don't let the people go to unemployment
+00:33:43.560 we're gonna give people money it's gonna
+00:33:45.180 be forgiven keep you people we
+00:33:47.130 understand they may not have much to do
+00:33:48.900 but keep your people keep the small
+00:33:51.480 business operating for this 60-day later
+00:33:54.360 because it came eight weeks eight week
+00:33:56.550 period of time while we get through this
+00:33:58.440 shutdown process and then the economy is
+00:34:00.510 going to be ready to go that was the
+00:34:02.040 concept of what was envisioned now
+00:34:05.640 unfortunately as part of the legislative
+00:34:07.680 process not unfortunately from the
+00:34:10.080 recipient standpoint but unfortunately
+00:34:12.330 the unemployment supplement changed some
+00:34:14.550 of the economics of that and it took a
+00:34:16.889 little bit longer than what anybody
+00:34:19.230 really wanted to get the PPP program up
+00:34:21.570 and running in actuality the extended
+00:34:25.320 through PPP today you know approaching
+00:34:28.860 six hundred billion dollars you know I'm
+00:34:31.380 basically 2/3 of a trillion dollars with
+00:34:34.830 millions of loans the and it's it was
+00:34:37.679 set up to go through the SBA
+00:34:39.360 as opposed to anyplace else which added
+00:34:42.929 a little bit of confusion in the process
+00:34:44.580 but more than 5,000 financial
+00:34:46.290 institutions working to it to execute on
+00:34:49.440 the loans millions of loans the vast
+00:34:52.800 majority to small businesses and
+00:34:54.719 basically two-thirds of a trillion
+00:34:56.850 dollars put out into the economy through
+00:35:00.480 this process basically in four weeks the
+00:35:05.760 amount of loans that were processed
+00:35:07.380 would equal 40 years of activity from
+00:35:09.510 the SBA just an just an incredible
+00:35:12.510 effort and while people complained about
+00:35:14.910 banks they were
+00:35:15.940 it was handed to them and and you know
+00:35:18.760 we did a lot of video I did a lot of
+00:35:20.319 videos saying look we understand that
+00:35:22.060 pressures they're under and they don't
+00:35:23.619 want to be second-guessed later and so
+00:35:25.690 we have to understand that it's
+00:35:27.099 difficult for them to to execute as well
+00:35:29.740 and to make it happen as best as we
+00:35:31.450 could now a couple of key components our
+00:35:34.359 original recommendation to the gut to
+00:35:36.220 the Congress which was not adopted was
+00:35:38.619 to do this through payroll we said the
+00:35:42.310 most accurate information is the payroll
+00:35:45.760 processes of this country is actually a
+00:35:48.130 concentration probably of about 50 that
+00:35:50.800 the predominance of all small businesses
+00:35:52.839 used for paying their payroll there's
+00:35:54.460 it's more than 50 if you add people that
+00:35:57.010 do a very small number and some people
+00:35:58.839 still write their own checks and they
+00:36:00.640 would have had to been alternative
+00:36:01.960 processes for that but we said think
+00:36:03.970 about it those payroll processors they
+00:36:06.760 know the companies exist they're real
+00:36:08.980 because they're processing people's
+00:36:10.540 payroll every two weeks or whatever
+00:36:11.890 they're getting checks from them they
+00:36:13.869 know that in most cases the the checking
+00:36:16.660 accounts of the individual employees
+00:36:18.400 because it's electronically deposited
+00:36:20.369 you know we have these sort of built-in
+00:36:22.960 checks and balances by using the payroll
+00:36:25.359 processes from that standpoint and we
+00:36:27.579 actually built a coalition to articulate
+00:36:30.310 that point literally a coalition that we
+00:36:32.560 built and I'll show you a slide on that
+00:36:34.119 in a moment in about 36 hours over a
+00:36:38.650 weekend with with just an incredible
+00:36:41.410 effort to pull that through to try to
+00:36:44.920 really explain to Congress that this was
+00:36:46.810 the way to go because of the loan in the
+00:36:49.300 end the forgiveness process they decided
+00:36:51.490 to go through SBA and obviously we shift
+00:36:53.380 it to working with them now there was
+00:36:57.069 not a lot of guides now by design there
+00:37:00.460 was not a lot of guides and we obviously
+00:37:02.680 issued guidance and I'm happy to answer
+00:37:04.660 in the Q&A things on the agent issues
+00:37:06.760 and signing the form but really pretty
+00:37:09.339 simply it was a self-assessment by the
+00:37:11.410 entrepreneur that says that this company
+00:37:13.960 is being impacted by this current
+00:37:16.150 uncertainty of economic times pretty low
+00:37:18.849 bar by design why because the concept
+00:37:22.960 was to get the money out to the small
+00:37:24.730 businesses by design so that you could
+00:37:27.880 affect employment get the
+00:37:29.590 to the people and the rules for
+00:37:31.120 forgiveness heavily skewed to payroll
+00:37:33.250 again why because the money the
+00:37:37.000 objective was to flow the money to the
+00:37:38.710 individual employees and so ultimately
+00:37:42.250 when we were looking for guidance on the
+00:37:44.140 application we felt that needed to be
+00:37:45.790 some guidance but still very high level
+00:37:48.300 you know treachery they were doing a lot
+00:37:51.610 of things well meeting people looking at
+00:37:53.380 all kind of different programs we
+00:37:54.640 ultimately issued guidance
+00:37:55.860 recommendations we called him without
+00:37:58.420 the the government's started stamp of
+00:38:00.880 approval on them sought of some winks
+00:38:02.680 and nods that we were probably in the
+00:38:04.120 right spot and we and we had the
+00:38:06.670 coalition weigh in to see if we thought
+00:38:08.290 we had you know any glaring errors or
+00:38:10.750 whatever because we tried to give that
+00:38:12.220 guidance as quickly as we could and we
+00:38:14.050 were successful ultimately the Treasury
+00:38:16.870 adopted rules that were very similar to
+00:38:19.090 what we had communicated to the
+00:38:20.350 profession as a whole it was a huge risk
+00:38:21.880 on our part because we could have been
+00:38:23.590 you know 180 degrees from what the
+00:38:25.540 Treasury ultimately did decided to do
+00:38:27.760 and that would have been a big problem
+00:38:29.430 and so that leads us to where PPP is
+00:38:32.650 today and there's been some high-profile
+00:38:36.010 things where some public companies and
+00:38:37.960 some others have taken PPP money and
+00:38:40.150 it's sort of the moral outrage kicks in
+00:38:42.880 from people about whether that should be
+00:38:44.710 the case or not and that has become a
+00:38:47.650 big media issue now I will say that we
+00:38:49.630 did a video very early on in the process
+00:38:52.210 Eric Oscarson and ion from CPA comm and
+00:38:55.420 we told firms as part of their trusted
+00:38:57.460 advisor role they should advise their
+00:38:59.140 clients this is going to be made public
+00:39:00.640 this was before this switch was even
+00:39:02.980 flipped for the money to flow that this
+00:39:05.230 was going to be public either through
+00:39:07.600 Freedom of Information or other means
+00:39:09.310 and the public relations aspect should
+00:39:12.250 be considered that's some of the risk
+00:39:14.440 management you should consider in
+00:39:16.390 applying but consider it it shouldn't
+00:39:19.750 wort truly needy people who were
+00:39:22.240 impacted outcomes from that standpoint
+00:39:24.990 there's been some guidance that has come
+00:39:27.220 out we have we have a matrix that's out
+00:39:29.290 on the forgiveness a tool that we're
+00:39:31.900 ready to push out we're still waiting on
+00:39:34.030 true guidance from the from the Treasury
+00:39:37.420 the
+00:39:38.170 there are some wide disparities of what
+00:39:40.180 that guidance might be and so it's a
+00:39:42.280 little bit it's sort of beyond our
+00:39:44.140 ability to just take the risk and put
+00:39:46.090 that out there although we have given
+00:39:48.160 our answers to the government we haven't
+00:39:50.470 gotten the government to actually adopt
+00:39:52.300 all of those at some point if they just
+00:39:53.980 cannot ever get to them we'll probably
+00:39:56.050 do that as well well there's a few
+00:39:58.540 things that we have lobbied for we think
+00:40:00.430 that the start date on the eight weeks
+00:40:01.810 needs to be changed and we've been very
+00:40:04.360 vocal on that with Congress there are
+00:40:06.100 trade groups that are lobbying for all
+00:40:07.900 sorts of things you know changing the
+00:40:09.880 eight weeks to 16 weeks changing a June
+00:40:12.040 30 a day to December 31st counting not
+00:40:15.460 just the four categories of expenses but
+00:40:17.590 any type of expense we think those are
+00:40:20.080 not going to get enacted very easily by
+00:40:22.150 Congress but we did think that the eight
+00:40:24.400 week start date was a problem that given
+00:40:27.760 the timing of the program you're eight
+00:40:29.920 weeks to make the test for forgivness
+00:40:32.140 started when you were funded that was
+00:40:33.850 the rule one of the things we said is
+00:40:36.250 you don't split payroll start using the
+00:40:38.590 payroll that's closest to that date
+00:40:40.150 we've issued that recommendation but the
+00:40:42.700 other thing is is that we felt if you
+00:40:44.440 were shut down that was the wrong
+00:40:45.730 interpretation of the intent of the law
+00:40:47.790 that if you were shut down by government
+00:40:50.440 rule that's that not the entrepreneurs
+00:40:52.030 decision to shut down that the start
+00:40:54.640 date should actually begin when
+00:40:56.920 government gives you the green light to
+00:40:58.240 operate again we think that's a much
+00:41:00.160 fairer outcome and it is it is
+00:41:02.050 consistent with the recovery to the to
+00:41:04.930 the economy that was the intent of this
+00:41:07.780 program now in this process the Treasury
+00:41:11.080 under pressure because of some of the
+00:41:14.170 high-profile issues did issue a question
+00:41:17.230 and answer that said you did address
+00:41:19.630 liquidity that implied well maybe if you
+00:41:21.850 have liquidity you shouldn't be eligible
+00:41:23.530 for PPP it wasn't specific it just said
+00:41:26.290 you have to consider it liquidity
+00:41:28.320 without any definition of liquidity now
+00:41:31.150 immediately I will tell you and probably
+00:41:33.430 people in this room have asked this
+00:41:34.870 question we need guidance on what do
+00:41:37.300 they mean by acquittee because we want
+00:41:39.250 to know the answer to that now I would
+00:41:41.080 just tell you and look you know answers
+00:41:44.560 can come can can come at any moment and
+00:41:46.660 there are rumors that answers will come
+00:41:48.310 at any moment
+00:41:49.869 but I will tell you that answering that
+00:41:52.779 question don't matter how it's answered
+00:41:55.839 will in fact cause a lot of small
+00:41:59.289 businesses to be disqualified I could
+00:42:01.569 take the five smartest of you in this
+00:42:03.969 room and put you in a room or on this
+00:42:06.669 virtual room and put you in a different
+00:42:08.319 virtual room and say let's come up with
+00:42:10.059 the definition of liquidity as a test at
+00:42:12.549 inception now a month ago six weeks ago
+00:42:15.759 for application of the PPP loans you
+00:42:18.339 come up with a definition of liquidity
+00:42:20.049 and no matter how smart you are if you
+00:42:23.829 come up with some you know rational
+00:42:26.140 definition we're going to exclude a lot
+00:42:28.449 of people a lot of small businesses and
+00:42:30.789 have an expectation of them paying back
+00:42:32.829 and there will be unintended
+00:42:34.079 consequences to that companies have paid
+00:42:36.159 their payroll they'll be out of pocket
+00:42:38.519 they'll they'll do that and then they'll
+00:42:40.959 do another round of layoffs that is not
+00:42:44.199 the intent of this program so I'm
+00:42:45.880 actually hopeful that we as CPAs can
+00:42:48.039 apply some judgment in this particular
+00:42:50.650 process and I've heard all sorts of
+00:42:52.619 examples you know I I heard an example
+00:42:56.019 of a of a hotel you're a small business
+00:43:00.339 owner of a hotel the hotel shut down
+00:43:02.979 they've kept their employees on because
+00:43:05.109 they got a PPP loan we have a very
+00:43:07.089 strong balance sheet fairly unusual for
+00:43:09.039 a hotel and they have several million
+00:43:11.019 dollars of cash on their balance sheet
+00:43:13.569 and no debt and you know the CEO of the
+00:43:16.329 firm is talking to me and says well you
+00:43:18.099 know I do you think Treasury is gonna
+00:43:19.479 pass a rule that says that this is a
+00:43:21.309 liquidity problem and I said let's step
+00:43:22.959 back if we step back and we are that
+00:43:26.499 entrepreneur here we are we own a hotel
+00:43:28.269 it's shut down I've got let's just say
+00:43:32.169 ten million dollars on my on my assets
+00:43:34.449 I'd know dead I'm sitting here in this
+00:43:37.239 environment I have no idea when I'm
+00:43:40.719 gonna be able to have customers and
+00:43:41.890 revenue come back in through my hotel
+00:43:43.499 what is going to be the rational
+00:43:45.759 entrepreneur a decision making process I
+00:43:47.829 think it's going to be that I need that
+00:43:50.140 ten million dollars to help start this
+00:43:51.969 business back up and help it survive
+00:43:53.349 going forward if I don't have those PPP
+00:43:56.799 funds I'm going to lay off people that's
+00:43:58.779 what the entrepreneurs decision is going
+00:44:00.640 to be
+00:44:00.920 I need to preserve that liquidity so
+00:44:03.980 that I can make this business survive
+00:44:06.110 into the future the uncertain future
+00:44:09.970 instead that hotel took PPP money and
+00:44:13.670 they kept and have kept and still to
+00:44:16.190 today have kept their employees
+00:44:18.970 obviously it's not an operating hotel on
+00:44:21.680 on payroll there these are people that
+00:44:24.620 are not on the unemployment lines and so
+00:44:28.190 you know if you think about it that's a
+00:44:30.680 good example clearly ten million dollars
+00:44:33.050 if that's the number and I'm changing
+00:44:34.700 the facts to protect the innocent
+00:44:36.950 the you know that's a liquidity a
+00:44:39.280 situation and so does that mean that
+00:44:41.900 this company should pay back their PPP
+00:44:43.760 loan and weren't eligible with
+00:44:45.350 retrospect and I think if you go to the
+00:44:48.020 intent the intent of the program the
+00:44:51.680 intent of what Congress did then I think
+00:44:54.440 you can clewd know that this that this
+00:44:56.390 should not this company should not pay
+00:44:57.890 back to PPP loans they've kept their
+00:45:00.170 people on they've done what was in the
+00:45:02.150 best interest of the economy as a whole
+00:45:04.070 that's my opinion based on a lot of
+00:45:07.130 input from a lot of people obviously but
+00:45:09.560 I think I think we have to hope for the
+00:45:12.140 intent to still be the focal point of
+00:45:14.570 this program just one other point the
+00:45:17.540 the IRS is determined that at this point
+00:45:20.440 against that intent that the expenses
+00:45:23.870 against PPP loans are not deductible and
+00:45:26.120 I know tax people in the room will say
+00:45:27.890 well from an equity perspective and from
+00:45:30.110 a philosophy perspective as a lot of
+00:45:32.570 precedent of that and the tax law I get
+00:45:34.550 it and if we you know there's might even
+00:45:37.640 be based on your political persuasion
+00:45:40.880 you might think well the government's
+00:45:42.380 got a you know deal with deficits etc I
+00:45:44.270 get that as well if we go to the intent
+00:45:46.700 the intent was to support small business
+00:45:49.190 and the intent actually was and the
+00:45:51.530 Senate is weighing in on a bipartisan
+00:45:53.210 way and there will be legislation
+00:45:54.530 offered to go back to the deductibility
+00:45:58.090 if secretary minuchin doesn't change
+00:46:00.890 that particular position whether it
+00:46:04.370 passes who knows I think it's a
+00:46:05.840 reasonable chance it will pass because
+00:46:07.760 the intent was no we're going to give
+00:46:09.830 the financial support and if this
+00:46:11.870 creates NOLs and tax
+00:46:13.530 fit that's just another aid in helping
+00:46:16.110 the small business survive and so I
+00:46:18.270 would just encourage us again to think
+00:46:20.100 about this from the standpoint of intent
+00:46:22.050 just a couple of things on exams did you
+00:46:24.270 ship off a PPP and I'm happy to answer
+00:46:26.160 questions on it I could as you can tell
+00:46:28.230 is probably speak for the next I don't
+00:46:29.580 know day and a half on PPP the on cpa
+00:46:34.710 exam this test centers we're closed back
+00:46:36.750 May one they're back open with you know
+00:46:40.370 distancing rules so volume is impacted
+00:46:43.760 but we're back up and working we are
+00:46:46.290 looking at long term whether there are
+00:46:48.270 more biometrics capabilities to allow
+00:46:51.180 internet-based testing and the like in a
+00:46:53.460 high-stakes exam like the CPA exam it's
+00:46:56.100 not fully cooked to be able to do that
+00:46:58.440 with an exam like CPA exam yet but we
+00:47:02.850 are that this was already in the process
+00:47:04.650 and but it's not yet cooked from that
+00:47:07.770 standpoint our CJ ma exams actually we
+00:47:11.010 have the ability to do remote proctoring
+00:47:12.840 and we've been able with the only
+00:47:13.950 professional count see body in the world
+00:47:15.390 that's been able to shift at least for
+00:47:17.340 part of our process the CGA exam CGA
+00:47:19.890 exams which is predominantly in the rest
+00:47:22.680 of the world we are offering them in a
+00:47:24.930 virtual way and it's going very well so
+00:47:28.290 just to give you a sense of this sort of
+00:47:30.000 moving forward we have been very focused
+00:47:32.220 on the stakeholder management process
+00:47:35.070 the government the business advisers
+00:47:37.020 which are the firms and trying to really
+00:47:40.440 impact that obviously our members in
+00:47:42.840 industry or the target of a lot of this
+00:47:44.610 and so we've done a lot of work
+00:47:46.380 communicating with our members in
+00:47:47.850 industry we've brought you know the
+00:47:49.890 coalition together the payroll
+00:47:51.360 processors people that deal with tax
+00:47:54.120 forms the tax processes the technology
+00:47:56.370 people other data technology companies
+00:47:58.710 because that all affects the ability for
+00:48:00.950 business and business advisers to
+00:48:03.660 execute on this and we have been very
+00:48:06.300 closely connected with large national
+00:48:08.610 banks as well as the banking
+00:48:10.080 representative groups a b a.type talking
+00:48:13.290 with that FinTech lenders which were
+00:48:14.940 stood up in the PPP process we have had
+00:48:17.700 tentacles into all of these different
+00:48:19.760 environments frankly i think some banks
+00:48:23.430 of law excuse me some CPA firms have
+00:48:25.950 learned that with their local community
+00:48:27.390 banks they probably needed to build
+00:48:28.740 better relationships and that probably
+00:48:31.230 is on the to deem to do moving forward
+00:48:32.970 to you know as you think about engaging
+00:48:35.400 in stakeholders because they would might
+00:48:37.710 have had a better time with some of
+00:48:39.119 those take some of their clients if that
+00:48:41.400 was true in that particular environment
+00:48:42.960 but we've tried to manage it thinking in
+00:48:45.690 this context of these of these four
+00:48:48.599 boxes I said I would just mention the
+00:48:50.510 funding the small business funding
+00:48:53.880 coalition that we put together we meet
+00:48:56.819 with this group we were meeting twice a
+00:48:58.079 week and now I think we're at a one week
+00:49:00.299 once a week environment some of the
+00:49:02.640 stuff that we were taking positions on
+00:49:04.319 we would share from a fatal flaw
+00:49:05.819 perspective some of the stuff we would
+00:49:07.230 do jointly you know we have we have led
+00:49:10.680 this it's an AI CPA led coalition you
+00:49:13.680 can see big-name players paychecks ADP
+00:49:16.079 into a type of it would franchise
+00:49:17.789 Association and a lot of
+00:49:19.619 technology-based some of which you may
+00:49:21.630 not know but they have big footprints in
+00:49:23.220 them in the business center and the
+00:49:25.019 business environment because their
+00:49:26.339 technology providers in this particular
+00:49:30.150 space now let me shift ooh with the time
+00:49:33.569 that we have remaining to the to the
+00:49:35.519 issues of services talent and reputation
+00:49:37.319 and influence and you know just to give
+00:49:39.930 you some things to think about in this
+00:49:42.299 space number one one of the things that
+00:49:45.059 we have not slowed down as our project
+00:49:46.769 called a - dynamic audit solution that's
+00:49:49.410 on the right-hand side of this slide
+00:49:52.549 this is the project that we're doing
+00:49:54.720 with a consortium of monetary support
+00:49:57.809 with some of the larger firms the idea
+00:50:00.240 is to reinvent the audit from scratch
+00:50:02.069 using technology well how would we
+00:50:04.950 create the audit today using the modern
+00:50:07.079 technologies that are out there we
+00:50:09.150 actually think this is even more
+00:50:10.559 important than it was even a year ago or
+00:50:12.809 18 months ago when this started we
+00:50:15.150 actually think the willingness to
+00:50:17.009 embrace it will be greater going forward
+00:50:19.890 than what we might have even imagined
+00:50:21.569 and the project is is essentially on
+00:50:23.880 track it is actually a project that has
+00:50:26.609 been using a lot of human resources from
+00:50:28.650 a lot of different firms in a virtual
+00:50:30.960 way predominantly in a virtual way even
+00:50:32.970 prior to kovat 19 it continues to be a
+00:50:35.730 priority it continued
+00:50:37.110 to be worked on on the left-hand side it
+00:50:40.200 is about the real-world issues of today
+00:50:42.450 how do you conduct an audit when you can
+00:50:44.160 visit a client what are the ways to
+00:50:45.900 comply with the audit and assurance
+00:50:47.850 standards what are some of the
+00:50:50.580 implications to accounting standards
+00:50:52.260 some of the accounting standards have
+00:50:53.970 been delayed with pressure of Congress
+00:50:55.710 and the like so Cecil in the financial
+00:50:57.840 institutions area how do you do an
+00:51:00.120 inventory observation what things should
+00:51:02.490 you think about from a risk perspective
+00:51:04.080 when you're doing alternative procedures
+00:51:06.780 to overcome that or if you for the first
+00:51:08.610 time using drone technology to observe
+00:51:11.520 inventories and things of that nature we
+00:51:14.280 have early on we did a series of
+00:51:16.920 webinars on this particular space with
+00:51:19.770 different topics and each one we they
+00:51:23.310 sold out frankly and not as in just the
+00:51:28.020 capacity sold out in other words they
+00:51:29.910 were essentially free but they you know
+00:51:32.760 we had capacity limitations we've
+00:51:34.290 recorded them they've been available
+00:51:35.310 online we're still getting a lot of
+00:51:39.060 questions we were we're we're providing
+00:51:41.940 resources in this space if you're
+00:51:44.730 auditing in this space you need I think
+00:51:46.800 you need to refer to this information
+00:51:49.170 it'll help you think through the things
+00:51:50.940 that you might not have thought through
+00:51:52.200 before but firms are executing audits
+00:51:55.310 fairly well in this environment I'm not
+00:51:58.320 saying there's some degradation of
+00:51:59.640 efficiency yes I'm sure
+00:52:02.160 but we have proving this and many
+00:52:03.930 instances what I'm hearing from firms
+00:52:05.550 it's actually the clients capabilities
+00:52:07.950 that are more in you know more of a
+00:52:10.350 timing implication than really the
+00:52:12.870 ability of the firms to execute and so I
+00:52:15.750 would I would just say that that is a
+00:52:18.350 critical component in in that area a
+00:52:21.780 whole host of things in the trusted
+00:52:23.640 adviser area first off lots of others
+00:52:26.400 SBA programs the idle program which is
+00:52:29.460 thus aster relief might not be top of
+00:52:32.400 mind main street lending for larger
+00:52:34.950 companies is probably going to be a
+00:52:37.170 cares for package which is going to have
+00:52:40.230 we're actually providing input on a
+00:52:41.760 white paper that's being circulated now
+00:52:43.530 as to how can you know larger types of
+00:52:46.500 companies how can the government help
+00:52:47.940 them
+00:52:48.260 what would be effective from lending and
+00:52:50.450 credit programs we've actually offered
+00:52:54.230 an idea on a counselor seeable factoring
+00:52:56.870 program that the government could help
+00:52:58.300 make sure liquidity is in the
+00:53:00.440 marketplace they're going to be they're
+00:53:04.520 going to be a lot of activities clearly
+00:53:06.440 firms are doing a lot of advice on how
+00:53:08.150 to maximize the forgiveness of the
+00:53:10.220 payroll protection program I would say
+00:53:12.800 on the left hand side here business
+00:53:14.360 models are critical if you're not
+00:53:15.800 familiar with the notions of how to
+00:53:17.300 advise on business model a lot of the
+00:53:19.730 work we've done in CG ma there's a lot
+00:53:22.070 of free guidance out there and really
+00:53:24.320 helping your client or if you work in
+00:53:26.240 business in industry helping your
+00:53:28.460 company think through what truly is our
+00:53:30.920 business model where is value created
+00:53:33.050 what do we and what can we and what do
+00:53:35.330 should we be emphasizing how can we make
+00:53:37.520 modifications in a very thoughtful
+00:53:41.180 business model notion not on an
+00:53:43.400 intuitive way and intuition is important
+00:53:45.620 but but more of a formalized way of
+00:53:49.400 thinking about this and hopefully making
+00:53:51.350 the right types of decisions so I call
+00:53:52.940 your attention to that on the right hand
+00:53:54.890 side obviously the caught acknowledge
+00:53:56.690 ease cybersecurity huge work that firms
+00:53:59.480 are doing for clients in this area a
+00:54:01.220 heightened awareness of these I think
+00:54:03.800 not-for-profits by the way 501 C 6 is
+00:54:07.100 are not included in the in the PPP
+00:54:11.450 program we have lobbied for that we have
+00:54:13.520 actually with us with an organization
+00:54:15.320 called ASAE been the lead of that there
+00:54:17.540 is a chance in the neck that's
+00:54:19.040 bipartisan support for it there is a
+00:54:20.720 chance in the next go-around for that
+00:54:22.340 there is also some employee employee
+00:54:25.040 credit programs out there that might be
+00:54:26.720 beneficial for state-based
+00:54:28.550 not-for-profits 501 C 6 is are a little
+00:54:31.280 bit politically dicey because they do
+00:54:33.380 lobby we have actually suggested maybe
+00:54:35.660 the answer should be just state based
+00:54:37.250 state and local based not-for-profits
+00:54:39.260 that or 501 C 6 is not Nationals and so
+00:54:42.830 that government doesn't get into this
+00:54:44.570 notion of all of the national
+00:54:46.390 organizations that are lobbying for
+00:54:47.990 different things right now and also
+00:54:49.490 providing funding from that sort of a
+00:54:51.230 conflict of interest issue so that's a
+00:54:54.800 big one
+00:54:55.160 I think local government is a big one
+00:54:56.570 you know local government revenues
+00:54:58.550 or in the state and local government or
+00:55:00.460 or you know very significantly and maybe
+00:55:04.220 permanently impacted and and I think a
+00:55:07.940 lot of firms are focusing on this as an
+00:55:09.650 opportunity to do business
+00:55:11.180 transformation advisory you know we know
+00:55:13.040 local governments are not always the
+00:55:14.480 most efficient or technologically astute
+00:55:16.570 well-meaning but you know never having
+00:55:19.490 the political will or the resources to
+00:55:21.950 do things but this may be a catalyst to
+00:55:24.770 say we have to be more efficient we have
+00:55:27.320 to provide technology and use technology
+00:55:29.480 in different ways we have to not be
+00:55:31.610 redundant and a lot of the firm's
+00:55:33.800 certainly the firms in the top 100 group
+00:55:36.020 I think are focused on this in a lot of
+00:55:39.500 ways and I think that will be an ongoing
+00:55:42.130 opportunity Healthcare restructuring
+00:55:44.360 Hospital restructuring huge issues you
+00:55:48.170 know physicians different more impacted
+00:55:50.930 physicians and support personnel more
+00:55:53.600 impacted you know but the hospitals or
+00:55:56.960 will probably survive but there's gonna
+00:55:58.640 probably be some business transformation
+00:56:00.230 stuff that needs to go in that space so
+00:56:03.650 that's just some ideas that we've been
+00:56:05.090 hearing pretty consistently fraud will
+00:56:07.580 be an element of this there's already
+00:56:08.900 been some fraud identified in PPP and
+00:56:11.870 when I talk about judgment that's
+00:56:13.760 different than fraud the fraud is people
+00:56:15.590 making up businesses that don't exist
+00:56:17.150 and applying for money there will be a
+00:56:19.100 lot of those types of things where
+00:56:20.480 people will have opportunities economic
+00:56:21.980 damages clearly unfortunately
+00:56:24.620 bankruptcies in that space the whole
+00:56:26.570 valuation part of our profession will be
+00:56:29.420 an emphasis point I think going forward
+00:56:31.370 and then even the systems of controls
+00:56:33.830 we're going to see even more concern we
+00:56:35.870 just produce some more guidance on
+00:56:37.250 supply chain controls and supply chain
+00:56:39.680 management as you know we have a special
+00:56:41.870 assurance service on cyber we think that
+00:56:44.030 we'll get a lot more play as the cyber
+00:56:46.340 risk as companies operate more in a
+00:56:48.380 cyber environment I think will will rise
+00:56:52.580 in very significant areas on the on the
+00:56:56.030 personal and on the financial and tax
+00:56:58.490 planning areas may be the greatest
+00:57:01.520 opportunity certainly on the on the
+00:57:03.860 notion of
+00:57:05.810 certainly on the notion of tax and
+00:57:08.610 financial planning in this environment
+00:57:10.020 and different generation plant plenty of
+00:57:12.630 tax opportunities and estate planning
+00:57:14.520 opportunities valuations being down new
+00:57:17.010 opportunities from a trust perspective
+00:57:18.930 very sophisticated stuff in play we're
+00:57:22.290 continuing to provide a lot of guidance
+00:57:23.790 on this and we do think that it's it's
+00:57:26.040 one in which a lot of firms as they were
+00:57:28.080 talking about repositioning their tax
+00:57:30.030 structures this is probably a point in
+00:57:33.090 time to really look at this in a
+00:57:35.070 holistic way going forward as well and
+00:57:38.040 the finance professionals may be called
+00:57:39.840 upon them more so than anything else
+00:57:41.970 I'll remind you of our CGM a framework
+00:57:43.950 that's that came out of what are we
+00:57:46.320 caught our future of finance work and if
+00:57:48.600 you see technical skills or only about
+00:57:50.250 20% of that wheel with digital
+00:57:52.380 leadership people and business skills
+00:57:54.060 you can wrap risk in there too ethics
+00:57:57.480 integrity and professionalism obviously
+00:57:59.280 is the key thing that we bring as
+00:58:01.610 professionals to the table but you know
+00:58:04.470 who would argue today that these
+00:58:06.300 business skills people skills and
+00:58:07.890 leadership skills and digital skills or
+00:58:10.280 a substantive part of what needs to be
+00:58:13.020 brought to the table versus just the
+00:58:15.000 technical accounting and auditing skills
+00:58:16.620 and I think that applies we believe this
+00:58:18.570 applies on the public accounting size as
+00:58:21.180 well and I think it it just it just
+00:58:24.240 points to a lot of the things that we
+00:58:25.770 have been building and embedding into
+00:58:27.750 the profession as being right to deal
+00:58:30.180 with you know a very unfortunate fact
+00:58:32.820 pattern talent size you know this is
+00:58:36.570 survey work from business leaders of
+00:58:38.910 flexibility and agility and adaptability
+00:58:40.620 being the most rewarding skill set the
+00:58:43.710 number one skill set businesses one you
+00:58:46.830 can look at this this was a 20-18
+00:58:48.360 response of 5600 executives from around
+00:58:50.820 the world I would say if you did that
+00:58:53.520 survey right now and that would those
+00:58:55.560 three attributes would be very high so
+00:58:58.470 you know there's a message there to our
+00:59:00.210 profession why we bring you know we have
+00:59:02.280 this incredible advantage we can bring
+00:59:04.590 the discipline we can bring the
+00:59:07.140 understanding of the detail we can bring
+00:59:09.660 the discipline of the decision making
+00:59:11.160 around that but if we can add to
+00:59:13.890 the adaptability and agility skills that
+00:59:17.550 really people want man we're going to be
+00:59:20.310 like the best position to set of people
+00:59:22.740 possible and and I really hope that
+00:59:25.740 organization leaders and stuff can
+00:59:27.600 really focus on that particular issue
+00:59:29.870 we've talked about the need to unlearn
+00:59:32.670 so that we can relearn well there's
+00:59:35.010 certainly a lot of proofs in that as
+00:59:37.020 well today you know the notion of what
+00:59:39.660 we need to unlearn about say rigid
+00:59:42.960 definitions on applications for PPP
+00:59:45.330 loans and the applicability instead of
+00:59:47.490 judgment in a much different way that's
+00:59:50.250 about unlearning biases and how we act
+00:59:52.860 and learning new things and then a whole
+00:59:54.690 new stuff opportunities and tax laws and
+00:59:56.910 and support programs and business models
+01:00:00.240 and so the ability to relearn today and
+01:00:03.990 which means letting go of some things
+01:00:06.200 has never been more important and
+01:00:11.630 frankly we've done a lot to change who
+01:00:13.950 we are
+01:00:14.850 we essentially all of well over half of
+01:00:17.580 our conferences have been converted to
+01:00:19.050 virtual likely by the end of the year
+01:00:20.490 probably all will be the social
+01:00:22.230 distancing create a problem we have
+01:00:23.670 conferences with 1,500 2,000 5,000
+01:00:26.310 people you don't you know we'd have to
+01:00:28.560 do it and you know the the the
+01:00:32.190 University of Michigan football stadium
+01:00:34.020 in order to be able to you know have
+01:00:36.270 enough space to keep people six feet
+01:00:38.460 apart in every direction it's a real
+01:00:40.170 problem and until you know vaccines and
+01:00:43.800 things of that nature or accepted or at
+01:00:46.050 least treatments are accepted it is
+01:00:47.850 unlikely that we're gonna see those so
+01:00:49.410 we've converted conferences a whole host
+01:00:53.040 of programs webcast real-time
+01:00:56.460 information flows and and they've been
+01:00:58.500 incredibly well received by our
+01:00:59.880 membership we think that will continue
+01:01:01.320 we think firms will invest in virtual
+01:01:03.900 training as there's up and downs and
+01:01:06.440 work responsibilities today we think
+01:01:09.660 this will be again become pretty close
+01:01:12.990 to a new norm maybe not a totally new
+01:01:14.730 neural conferences will come back
+01:01:15.930 because that sort of relationship
+01:01:18.480 building is critically important but but
+01:01:21.150 clearly a nooner
+01:01:22.289 gnorm from the stand point as it relates
+01:01:24.900 to the future of the profession one of
+01:01:27.359 the things again we have not slowed down
+01:01:29.099 is this notion we've called CP evolution
+01:01:31.759 we know the body of knowledge has
+01:01:33.929 changed technology has to be in I've
+01:01:35.910 discussed this with you other presenters
+01:01:37.469 that have been the Michigan in the past
+01:01:39.749 year we've had you know more than two
+01:01:41.999 thousand places of input we've had
+01:01:45.660 multiple multiple discussions with our
+01:01:47.849 council and we will ask our council to
+01:01:50.249 approve a resolution and NASPA board
+01:01:52.739 will be asked to approve a resolution
+01:01:54.749 basically in the next 45 days and to
+01:01:59.369 move this project forward it will be a
+01:02:01.799 multi-year project to make the changes
+01:02:03.709 if we anticipate the beginning of 2024
+01:02:07.169 January 1 2024 I like to say December 31
+01:02:10.410 2023 just sounds better will be where
+01:02:13.619 this you know this evolution will
+01:02:17.459 hopefully take place and it's
+01:02:18.569 fundamentally to bring technology in and
+01:02:21.779 to think about our profession with three
+01:02:23.609 disciplines those disciplines being
+01:02:25.259 accounting and auditing that's been
+01:02:26.849 there from day one tax hasn't always
+01:02:29.849 been there from day one but it's been
+01:02:31.349 there a long time and the third now is
+01:02:33.749 technology at this technology acumen
+01:02:35.999 that's necessary even in our core
+01:02:37.739 services at test and assurance and tax
+01:02:40.469 as an example and so this technological
+01:02:43.650 innovation in the demands and the
+01:02:45.659 marketplace are not changing they're
+01:02:47.309 probably going to accelerate and how do
+01:02:49.439 we evolve the licensing process of CPAs
+01:02:52.949 so that the people come in or CPAs
+01:02:55.739 they're part of our profession they're
+01:02:57.119 hired by firms and they bring the needed
+01:02:59.819 disciplines and skill sets to the table
+01:03:01.890 into the future and so the model is
+01:03:05.099 essentially this instead of you know
+01:03:08.009 just saying that you know our
+01:03:09.599 predominant testing is about accounting
+01:03:11.699 and auditing in tax and regs that you
+01:03:14.369 know that we need to think of the third
+01:03:15.689 leg of that stool
+01:03:16.859 tech and what we need to do is is have a
+01:03:19.799 core that we can test all the basics in
+01:03:22.589 all these areas and then a candidate
+01:03:24.269 they can dis they can take one of the
+01:03:27.299 disciplines but everybody comes out as a
+01:03:29.309 CPA on the other
+01:03:30.600 the same but their education their
+01:03:32.940 interest their how they apply their
+01:03:35.670 knowledge
+01:03:36.270 you know once they go to work is
+01:03:38.520 critically component and so you would
+01:03:40.440 take still will be a four part exam
+01:03:42.420 it'll still test the number same number
+01:03:44.250 of hours but it's a reconfiguration
+01:03:46.580 everyone will take the core including
+01:03:50.040 people who might be coming from a tax
+01:03:51.510 perspective and have maybe a little bit
+01:03:53.220 less dive in detailed accounting and
+01:03:56.010 auditing they may not know how to do a
+01:03:58.320 complex you know business consolidation
+01:04:01.350 or they may not know derivatives
+01:04:02.700 accounting but they'll bring other skill
+01:04:04.950 set to the table and we have to be able
+01:04:06.960 to deal with that the explosion in our
+01:04:10.010 traditional disciplines and bring that
+01:04:12.960 down and then allow us to do detailed
+01:04:15.060 training our testing in those areas
+01:04:17.460 while also bringing technology into the
+01:04:21.240 definition and so it's a strong core
+01:04:23.580 with accounting auditing tax and
+01:04:24.840 technology deeper knowledge in the three
+01:04:27.000 disciplines one CPA license enhances
+01:04:29.420 adaptivity and flexibility of our
+01:04:31.620 profession and it models us something
+01:04:34.710 very close to what's the engineering
+01:04:36.210 licensing model we have we were hand in
+01:04:39.300 glove with the NASPA folks all right
+01:04:41.400 there we had good feedback from our
+01:04:43.110 council and in two weeks or a week and a
+01:04:46.410 half our council will be asked to pass a
+01:04:48.720 resolution of support to move this
+01:04:50.310 forward after about two years of work
+01:04:51.930 and as I said I don't have a multiple
+01:04:54.890 multiple year implementation as you
+01:04:57.120 change the exam and you educate with
+01:04:59.310 universities and brings me to the
+01:05:01.440 university component of our pipeline and
+01:05:04.310 look we all know universities in the
+01:05:06.660 world have heard we're seeing
+01:05:08.360 significant there will be many
+01:05:09.990 universities that probably go bankrupt
+01:05:11.580 the ability to bring students back is
+01:05:13.740 being debated some are stepping out now
+01:05:16.110 and doing that resources huge issues you
+01:05:21.030 know dorm rooms paying bonds on those
+01:05:22.920 dorm
+01:05:23.490 dorm rooms but as it relates to our
+01:05:25.410 profession you know one of the things
+01:05:26.880 that we were seeing is a slight down
+01:05:29.340 tick in interest in accounting programs
+01:05:31.530 now why was that a current happening
+01:05:33.540 well one was because of the demand side
+01:05:36.780 because firms because technology wasn't
+01:05:39.300 part of it they were hiring fewer
+01:05:42.050 students
+01:05:43.280 with true with traditional accounting
+01:05:44.690 and auditing as intact skills and more
+01:05:47.150 with pure technology CPA evolution
+01:05:49.130 addresses that but on this on the
+01:05:51.650 student side on the student side
+01:05:54.380 students are smart and they were hearing
+01:05:57.020 a lot and seeing a lot of how technology
+01:05:58.340 will impact our profession and while the
+01:06:00.920 profession was looked at this stable
+01:06:03.350 place that I can have a great career for
+01:06:05.300 a life a life long of work will it D be
+01:06:09.620 that way and in the future will it be
+01:06:11.540 that way for me as a high school student
+01:06:12.890 and should I think differently well this
+01:06:15.920 this this sort of crisis what we believe
+01:06:19.700 change that we think when you step back
+01:06:22.660 you will see firms having done pretty
+01:06:26.240 well firms have pretty much you know
+01:06:28.820 listen the living up to their student
+01:06:31.250 offers they're living up to their intern
+01:06:33.530 programs to a large degree that image of
+01:06:36.380 the profession will be very powerful to
+01:06:38.270 high school students as they think about
+01:06:39.800 where they go with their university
+01:06:42.200 education in the next year in two years
+01:06:45.500 we think it's a critical role for state
+01:06:48.440 societies we think you know you know
+01:06:50.930 communicating that we have the high
+01:06:52.610 school honors program now an academic
+01:06:54.710 champions obviously we have work to do
+01:06:57.980 again state societies can be can be
+01:07:00.380 leaders on that at the university level
+01:07:02.030 as they evolve to meet the new vision
+01:07:04.880 for CPA with the CPA evolution project
+01:07:07.580 but we think we have an incredibly
+01:07:09.560 positive story to tell at the high
+01:07:11.930 school level and at the university level
+01:07:13.730 it always was positive we think it
+01:07:16.070 actually may be more positive when you
+01:07:17.990 combine how well the profession we think
+01:07:20.210 will do in his crisis and and the CPA
+01:07:25.100 evolution project and so that's a very
+01:07:27.710 powerful situation those of you who know
+01:07:31.340 me you would know that you're not going
+01:07:33.260 to get away with listening to me even if
+01:07:34.790 it's virtual and not have at least a
+01:07:36.410 word about diversity in our profession
+01:07:39.070 advancement of women etc we have great
+01:07:43.880 programs on the advancement of women we
+01:07:46.190 have made progress as a profession we
+01:07:48.710 still have work to do the percentage of
+01:07:51.020 women who are equity owners in firms
+01:07:52.730 needs to increase again I am
+01:07:55.950 not taken away from the progress that
+01:07:57.329 has been made but it needs to be you
+01:08:00.180 know in the top of the thinking for
+01:08:01.890 leaders of firms and the like
+01:08:03.450 likewise on ethnic diversity
+01:08:06.020 underrepresented minorities remain a
+01:08:08.400 problem as to the numbers and then
+01:08:11.790 inclusion remains an issue that has to
+01:08:14.310 be focused upon including unconscious
+01:08:16.950 bias and if there is shrinkage going on
+01:08:19.410 we need to be very you know very
+01:08:21.439 cognizant that we do not have
+01:08:23.390 unconscious bias in how we determine who
+01:08:26.759 are the the best performers we want to
+01:08:28.710 stay with and I keeping our firm and
+01:08:30.689 those that are not so and also frankly
+01:08:35.460 as we talk about the high school and
+01:08:37.439 college programs critical components
+01:08:40.229 from a minority perspective economic
+01:08:42.930 ownership will be diverse it is growing
+01:08:45.359 it is growing and growing as to the
+01:08:48.060 amount of diversity in that our
+01:08:49.560 profession has to continue to reflect
+01:08:52.049 that and so we're committed to
+01:08:55.469 supporting members in each of these
+01:08:57.420 areas you know we will continue to build
+01:09:00.870 the resource centers we will continue to
+01:09:04.380 keep that up to date we'll continue to
+01:09:05.969 be leaders and to take leadership
+01:09:08.339 positions on these programs and
+01:09:10.640 including if we have members that get
+01:09:12.750 displaced we now have probably the most
+01:09:14.819 powerful global job connectivity process
+01:09:19.500 and it is global with as you can see
+01:09:21.660 more than 600,000 jobs listed in that
+01:09:24.719 that we have been able to position as
+01:09:26.640 we've come together in a global stage a
+01:09:28.500 very powerful option if you know someone
+01:09:30.839 who is facing those issues and finally I
+01:09:35.250 just want to call our attention to the
+01:09:37.020 firms that one of the things we have not
+01:09:40.620 slowed down is dot CPA we now own dot
+01:09:43.109 CPA we have a program to bring that out
+01:09:45.899 for a digital identity of firms licensed
+01:09:48.029 CPA firms that ultimately will be global
+01:09:50.339 it has to be global by definition of how
+01:09:52.560 the internet works but there will be
+01:09:54.630 opportunities first in the United States
+01:09:56.880 and people will be able to protect for
+01:09:59.550 the most part their intellectual brands
+01:10:01.110 particularly have they have IP
+01:10:02.489 associated with it that will rolled out
+01:10:05.460 you know in the in the summer and in the
+01:10:08.130 latter part of the summer
+01:10:09.120 we're entering this summer we delayed it
+01:10:11.910 we were going to roll that out after tax
+01:10:13.500 season for obvious reasons we delayed it
+01:10:15.830 be on the lookout for that if you run a
+01:10:18.600 firm put this on your list to be on the
+01:10:20.310 lookout for this is coming and you know
+01:10:23.190 they're there their procedures and
+01:10:24.690 processes through that and we think it
+01:10:26.850 will be a very important component going
+01:10:29.460 forward I said last thing I missed the
+01:10:31.590 slide here you know in the tax side we
+01:10:33.810 have put together you you may have seen
+01:10:36.690 just last week on Friday a series of
+01:10:39.450 recommendations to aid small business in
+01:10:41.610 the tax area we're continuing to doing a
+01:10:45.030 lot of work on the local area you're
+01:10:46.800 going to see a lot of pressures for tax
+01:10:48.570 on the local area and the nine the
+01:10:51.540 things that we've recommended there
+01:10:53.070 things like you know looking at the
+01:10:55.830 state deduct the deductibility of
+01:10:57.780 business taxes from a state and local
+01:10:59.910 perspective clarification of home office
+01:11:02.910 deduction rules because obviously that's
+01:11:04.860 going to be a big issue the some AMT
+01:11:09.390 points that we think are very important
+01:11:11.790 to be addressed in this situation that
+01:11:13.380 could have unintended consequences some
+01:11:15.510 different definitions in 199 a those are
+01:11:18.300 probably the ones on the top of the list
+01:11:19.800 along with the deductibility of the PPP
+01:11:21.990 role so in wrapping this up we are
+01:11:25.080 clearly we have been through obviously
+01:11:27.030 the the personal health part the
+01:11:28.800 shutdown how do you do that
+01:11:30.420 we work really hard to have firms be
+01:11:32.360 essential capabilities we've been into
+01:11:35.520 these major programs of business relief
+01:11:37.620 both the applicability and now the
+01:11:39.270 forgiveness and compliance part the
+01:11:40.980 trusted adviser role and really how we
+01:11:43.560 leverage that moving into the future
+01:11:45.990 about how we really as a profession lead
+01:11:49.020 to restart and the recovery of our
+01:11:53.450 economies particularly led by we think
+01:11:56.520 small business which will be critical so
+01:11:59.040 thank you all for listening I look
+01:12:00.600 forward after the break to to doing Q&A
+01:12:03.960 with you and I I thank you for all your
+01:12:07.680 support and feedback we've had a lot of
+01:12:09.600 interaction with members you know I want
+01:12:12.540 to again wish Bob all the best tough
+01:12:14.490 circumstances to be starting in so we're
+01:12:16.560 here for you as well and just remember
+01:12:19.890 that opening part this is a point in
+01:12:22.260 time
+01:12:22.739 this is a point in time for our
+01:12:24.059 profession to really be that profession
+01:12:27.449 that helps drive this recovery thank you
+01:12:29.999 very much

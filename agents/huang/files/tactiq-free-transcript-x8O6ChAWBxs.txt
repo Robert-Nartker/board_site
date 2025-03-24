@@ -1,0 +1,1295 @@
+# tactiq.io free youtube transcript
+# Jensen Huang Special Address from NVIDIA AI Summit Japan
+# https://www.youtube.com/watch/x8O6ChAWBxs
+
+00:00:55.833 Build me car on an empty road.
+00:01:24.366 Hello, I'm James, a digital human.
+00:01:26.533 Feel free to ask me anything about NVIDIAand its products.
+00:02:28.400 Ladies and gentlemen, please take your seats
+00:02:32.400 and welcome to the stage, 
+00:02:36.466 NVIDIA Founder and CEO, Jensen Huang.
+00:02:41.800 Hello, Japan!
+00:02:46.233 Hello, Japan.
+00:02:49.100 Welcome to NVIDIA AI Summit.
+00:02:52.133 Everything you saw just now was simulated.
+00:02:55.733 Everything was simulation.
+00:02:57.233 No animation. 
+00:02:58.700 At the core, NVIDIA is asimulation technology company.
+00:03:02.466 We simulate physics.
+00:03:04.666 We simulate virtual worlds,
+00:03:07.100 we simulate intelligence.
+00:03:09.933 Through our simulations,
+00:03:11.933 we help you predict the future.
+00:03:14.533 So in many ways, NVIDIA
+00:03:17.200 builds time machines.
+00:03:20.066 Today we're going to talk to youabout some of our latest breakthroughs.
+00:03:24.600 But most importantly, this is an eventabout the Japan ecosystem.
+00:03:29.566 We have so many partners here.
+00:03:31.633 350 startups, 250,000 developers, hundreds of companies.
+00:03:37.666 We've been cominghere for a very long time.
+00:03:40.933 Japan has been very dear to ussince the very early foundings of our company.
+00:03:48.500 It is here in Japan we did many firsts,many firsts for NVIDIA.
+00:03:54.533 It was our first game developerthat worked with us.
+00:03:57.766 SEGA, Yu Suzuki, the famous developer,
+00:04:01.500 3D game developer,who first worked with us to port
+00:04:05.966 SEGA's incredible3D games to NVIDIA's GPUs.
+00:04:11.266 It was the first time
+00:04:13.766 that someone used NVIDIA CUDAto build a supercomputer.
+00:04:18.132 The Tsubame 1.2 at Tokyo Tech, which enabled NVIDIAto utilize our GPUs to advance scientific computing.
+00:04:30.333 Japan has been first in so many ways.
+00:04:33.533 It was also the first time thatwe were able to create mobile processors,
+00:04:38.700 which led to one of our very, very dear projects,the Nintendo Switch.
+00:04:44.600 So many firsts.
+00:04:46.500 Now we're in the beginning of a new age.
+00:04:51.433 The AI revolution: a new industry,extraordinary technology changes.
+00:04:58.800 This is a time that is very exciting,but it's also very critical.
+00:05:05.066 So we're here to partnerwith the Japan ecosystem,
+00:05:08.800 the amazing companies here,to bring AI to Japan. So that we can
+00:05:13.766 all together take advantage of thisextraordinary opportunity ahead of us.
+00:05:18.733 We have many partners here todaythat I would like to thank
+00:05:21.766 GMO Internet Group,Hewlett Packard Enterprise,
+00:05:25.200 Microsoft Azure, MITSUI and Companyare the platinum sponsors.
+00:05:29.366 I want to thank all of you for that.
+00:05:30.900 Thank you.
+00:05:37.200 And 56 other sponsors.
+00:05:38.933 Thank you all for comingand thank you for supporting us.
+00:05:42.733 NVIDIA invented accelerated computing.
+00:05:46.033 Accelerated computing
+00:05:49.133 does not replace the CPU.
+00:05:52.066 In fact, we were just about the only companyin computing
+00:05:57.866 who did not want to replace the CPU,but to augment the CPU,
+00:06:02.266 so that we can take the workloadsthat are very computationally intensive
+00:06:07.433 and offload them onto the GPU.
+00:06:10.766 These are GPUs, that's the CPU. 
+00:06:13.866 Working together,
+00:06:15.300 we can take advantage of the bestcapabilities of both processors,
+00:06:20.066 one that is extremely good atsequential processing, the CPU, 
+00:06:24.366 and a processor that's incredibly goodat parallel processing, called the GPU.
+00:06:30.033 This I'll talk about in just a second.
+00:06:31.966 But this is accelerated computing.
+00:06:34.600 Not just parallel computing,but accelerated computing.
+00:06:37.500 CPU and GPU working together.
+00:06:40.666 This computing model is brand new to the world.
+00:06:45.433 In fact, just using the CPU has been around since 1964,the year after my birth. 60 years in the making.
+00:06:53.300 The vast majority of everything we see in the world todayrunning on computers are running on CPUs.
+00:06:59.500 But there's a new change, a fundamentalchange in the computing model.
+00:07:04.133 But in order to do that,you cannot just take the CPU software
+00:07:08.300 that's running sequentiallyand put it on a GPU to run parallel.
+00:07:13.066 We have to create a whole bunch of newalgorithms.
+00:07:16.900 Just as OpenGL
+00:07:19.600 made it possible for computergraphics applications
+00:07:22.566 to connect to accelerationthrough the graphics processor,
+00:07:26.500 we had to create many domain-specific libraries
+00:07:31.200 like OpenGL,but for many different applications.
+00:07:35.200 These are some of the
+00:07:37.333 350 different libraries
+00:07:39.533 we have in our company,some very, very important libraries.
+00:07:43.400 CuLitho was for computational lithography,takes computational lithography.
+00:07:47.900 Making the mask of chips
+00:07:51.133 may require many, many weeksbecause there are so many layers.
+00:07:55.800 We take many weeks of computationand reduce it down to hours.
+00:08:00.233 We could, of course,speed up the cycle time of building chips,
+00:08:03.433 but very importantly,we also make it possible
+00:08:08.033 to advance the algorithms of lithographymuch, much
+00:08:11.800 more sophisticated so that we canadvance semiconductor physics
+00:08:14.833 well beyond two nanometers,one nanometer and beyond.
+00:08:18.233 So computational lithographyis going to be accelerated by cuLitho.
+00:08:22.333 CuDSS for Sparse Solver, AI Aerial—
+00:08:25.233 I'll talk about that today.
+00:08:26.900 An incredible new library that makes it possiblefor this computer to run the 5G radio stack.
+00:08:35.732 Basically a radio in real timerunning on the CUDA accelerator.
+00:08:40.533 CUDA-Q for quantum simulation, quantumcircuit simulations,
+00:08:44.366 Parabricks for gene sequencing, 
+00:08:47.166 cuVS for vector storage,or vector databases
+00:08:51.633 for indexing and queryingvector databases that is used for AI.
+00:08:56.100 CuPyNumeric
+00:08:57.866 is a numerical processing library.
+00:09:00.433 NumPy is the most popularnumerical processing library in the world.
+00:09:05.666 Five million different developers use it.
+00:09:09.700 It has been downloaded 30 million timesjust last month.
+00:09:14.000 Incredible number of downloads.
+00:09:15.600 It is now fully accelerated for multi-GPUmulti-node.
+00:09:20.066 CuPyNumeric, please go look it up.It's incredible.
+00:09:22.800 CuDF for data frame processing, 
+00:09:25.766 structured data processinglike SQL, Pandas, Polars.
+00:09:30.333 CuOPT, the classic incredibly complicatedtraveling salesperson problem.
+00:09:37.166 This problem has now been acceleratedfor CuOPT, hundreds of times faster. 
+00:09:42.533 Modulus for AI physics,
+00:09:44.633 and then one of the most importantlibraries we ever created,
+00:09:48.233 called cuDNN. CuDNN for deepneural networks, which processes
+00:09:50.400 CuDNN for deepneural networks, which processes
+00:09:54.066 the different layers, the various layersof the deep learning stack.
+00:09:58.200 It enabled usto do something extraordinary.
+00:10:01.766 By creating cuDNN, and acceleratingand democratizing deep learning,
+00:10:06.700 we made it possible in the last decade
+00:10:10.633 to scale artificial intelligence and scale
+00:10:14.033 machine learning by 1 million times.
+00:10:19.133 Increasing the scale of machine learningby 1 million times enabled,
+00:10:24.366 of course, the incredible breakthroughthat we now know—ChatGPT.
+00:10:29.266 The advent of artificial intelligence.
+00:10:32.833 CuDNN did something very special.
+00:10:35.100 It enabled a change in the way that software is done.
+00:10:39.966 This is the way that software was donebefore.
+00:10:42.366 Software 1.0.
+00:10:44.100 Software programmers writing code
+00:10:47.966 to describe an algorithm—that's a function.
+00:10:50.766 That function is software.
+00:10:53.133 You then apply input, it predicts an output.
+00:10:56.800 That code written by human runsbest on CPUs.
+00:11:01.766 Software 1.0 was coding, writing software that runs on CPUs. 
+00:11:09.466 Software 2.0, because the computer is now so incredibly fast,
+00:11:14.900 you can give it an enormous amount of examples—observed data—
+00:11:19.500 so that it can learn, it can predictwhat the function is by itself.
+00:11:24.800 We call that software 2.0.
+00:11:27.033 So instead of coding,it is now machine learning.
+00:11:32.000 Instead of code running on CPU,it is now neural networks running on GPUs. 
+00:11:38.500 And neural networks,
+00:11:39.966 these neural networksthat are running on GPUs
+00:11:43.800 is now the formation of a new operating system,
+00:11:48.400 a new way of using computers.
+00:11:51.033 The operating system of the moderncomputer, Large Language Models.
+00:11:56.566 This machine learning approach has proven to be incredibly scalable.
+00:12:01.966 You can use it for all kinds of things.
+00:12:04.166 Of course, digitized text, languages, 
+00:12:08.633 of course, digitized sound,speech, images, video.
+00:12:13.833 It could be multimodal.
+00:12:16.033 You could teach it amino acid sequences.
+00:12:18.466 You could teach it to understandjust about anything,
+00:12:22.233 anything where you have large observed data.
+00:12:27.266 Well, that was the first step,
+00:12:29.633 was to understandthe meaning of the data.
+00:12:33.066 Just by studying an enormousamount of text on the internet,
+00:12:35.933 we were able to understand the words,
+00:12:38.366 the vocabulary, syntax, grammar,
+00:12:41.166 and even the meaning of the words.
+00:12:44.500 by finding patterns and relationships. 
+00:12:47.366 Using the same approach, we're now able to not only
+00:12:51.700 understand the meaningof the different data types,
+00:12:55.600 connect it to different modalities—for example words and images.
+00:13:00.100 Connect the image of the word 'cat'
+00:13:02.800 and the image of a catare now connected together,
+00:13:05.600 learning a multi-modality.
+00:13:08.233 We can now even translate and generate,
+00:13:12.433 so we can understand data of all kinds,
+00:13:15.233 and we can generate
+00:13:17.933 intelligent information,intelligence of all kinds.
+00:13:22.566 Well, if you look at
+00:13:25.200 all the amazing startupsthat are being created and the amazing
+00:13:28.700 applications that are being created,you can find it in this slide
+00:13:32.866 in one of the two combinations.
+00:13:34.566 One side to the other side,
+00:13:37.133 Text to text, would be summarization,
+00:13:41.833 question and answering, text generation, storytelling.
+00:13:49.000 Video to text wouldbe captioning.
+00:13:53.266 Image to text—image recognition.
+00:13:58.300 Text to images—
+00:14:01.866 image generation like Midjourney. 
+00:14:04.600 Text to video—video creationlike Runway ML.
+00:14:08.933 All of these different combinationsare truly breakthrough.
+00:14:14.266 You can even have proteins to text,
+00:14:18.433 explain what a protein does.
+00:14:21.033 Text to chemicals,describe properties of a chemical
+00:14:25.400 that might be a successful drugfor drug discovery.
+00:14:30.500 You can even have video and textto machine articulation, robotics.
+00:14:38.833 Each one of these combinations is a new industry,new company, new application use case,
+00:14:46.500 incredible Cambrian explosionof the number of applications have now been created.
+00:14:53.100 And we're just at the beginning.
+00:14:55.000 One of the properties of machine learning,of course, is that the larger the brain,
+00:15:00.066 the more data we can teach it, the smarter it becomes.
+00:15:05.433 We call it the scaling law.
+00:15:07.600 There's every evidence that as we scale up
+00:15:11.133 the size of the models,the amount of training data,
+00:15:14.800 the effectiveness,
+00:15:16.533 the quality, the performanceof the intelligence improves.
+00:15:21.566 Every single year,
+00:15:23.833 the industry is scaling upthe size of the models by 2X or so,
+00:15:29.133 which correspondingly need 2X the data,
+00:15:32.166  and therefore we need 4Xthe amount of compute.
+00:15:35.666 The amount of computing resource necessaryto drive to the next level
+00:15:40.233 of artificial intelligenceis extraordinary.
+00:15:44.133 We call that the scaling law, the training scaling law.
+00:15:47.633 Pre-training is part of it, post-training is part of it.
+00:15:51.100 Post-training with reinforcementlearning, human feedback,
+00:15:54.400 reinforcement learning, AI feedback.
+00:15:58.300 So many different ways now of using
+00:16:01.033 synthetic data generationin the post-training stage.
+00:16:05.200 So training, pre-training,post-training is enjoying very significant
+00:16:09.733 scaling and we're continuingto see excellent results.
+00:16:13.266 Well, when Strawberry orOpenAI’s o1 was announced,
+00:16:19.066 it exposed the worldto a new type of inference.
+00:16:23.300 Inference is when you interact with the AI, just like ChatGPT.
+00:16:29.133 But ChatGPT is one shot.
+00:16:32.333 You ask it a question,you ask it to do something for you.
+00:16:36.366 Whatever question you have, whatever prompts you provide,
+00:16:40.333 through one shot,it delivers an answer.
+00:16:43.566 However, we know
+00:16:45.033 that thinking is oftentimesmore than just one shot,
+00:16:49.833 and thinking requires us to maybe domulti-plans,
+00:16:54.033 multiple potential answersthat we choose the best one from.
+00:16:58.533 Just like when we're thinking.
+00:17:00.166 We might reflect on the answerbefore we deliver the answer.
+00:17:04.333 Reflection. 
+00:17:05.599 We might take a problem
+00:17:07.032 and break it down into step by stepby step, chain of thought.
+00:17:11.000 There are many different technologiesthat we've invented that makes it possible
+00:17:15.733 for inference to perform better and better
+00:17:19.532 as we apply more and more compute.
+00:17:22.665 Now we have the second scaling law:
+00:17:25.133 inference scaling law.
+00:17:27.066 Not just generation of the next word,but thinking, reflecting, planning.
+00:17:34.133 These two simultaneous scale lawsare going to require us
+00:17:37.200 to drive computing at extraordinary speeds.
+00:17:40.500 Every single time when we deliver a new generation,a new architecture,
+00:17:45.666 we increase the performance by X factors,
+00:17:49.166 but we also decrease the powerby the same X factor.
+00:17:53.366 We decrease the cost by the same X factor.
+00:17:56.966 So driving up
+00:17:58.300 performance is exactlythe same as reducing cost.
+00:18:02.166 Driving up the performance is exactlythe same as reducing energy.
+00:18:06.800 And so therefore as the world continuesto absorb and embrace artificial intelligence,
+00:18:13.000 it is our mission, it is our duty, 
+00:18:15.366 it is our duty, to continue to drive theperformance up as fast as we can.
+00:18:19.966 In the process, expanding the reach
+00:18:22.466 of artificial intelligence,driving up its effectiveness,
+00:18:25.966 driving down its cost,driving down its power consumption.
+00:18:30.133 That's the reasonwhy we went to a one year cycle.
+00:18:33.600 However, AI is not a chip problem.
+00:18:39.200 These AI systems are enormous.
+00:18:42.766 This is the Blackwell system.
+00:18:45.733 Blackwell is the name of a GPU, but it'salso the name of this entire system.
+00:18:50.900 The GPU is extraordinary in itself.
+00:18:55.400 There are two Blackwell dies.
+00:18:57.566 Each Blackwell die is the largest chipthe world's ever made. 
+00:19:01.400 104 billion transistors made by TSMC and their mostadvanced four nanometer node.
+00:19:07.733 Two of these Blackwell dies are connected togetheracross 10TB/s, low energy link.
+00:19:16.866 Right in the middle,right there, that line, that seam.
+00:19:22.266 Thousands of interconnections between the two dies.Ten terabytes per second.
+00:19:27.400 It's connected by eight HBM3E memories from SK Hynixand from Micron.
+00:19:34.333 And these memories togetherrun at 8 TB/s.
+00:19:40.533 And 8 TB/s, these two GPUs are connected to the CPU with another low, very low energy,
+00:19:48.133 very energy efficient series, 1 TB/s.
+00:19:53.733 Each one of the GPUs are connectedthrough NVLink at 1.8 TB/s.
+00:19:58.766 That's a lot of terabytes per second.
+00:20:01.066 And the reason for thatis because this system cannot work alone.
+00:20:06.500 Even the most advanced computerthe world has ever made
+00:20:11.666 cannot work alonefor artificial intelligence.
+00:20:14.800 Sometimes it has to work with thousandsof other computers like this,
+00:20:20.133 nodes like this, together as one computer,and sometimes they have to work
+00:20:25.933 separately because they are respondingto a different customer, different query.
+00:20:30.966 So sometimes separately,sometimes as one.
+00:20:34.800 In order to enable the GPUs to work as one,we of course have networking,
+00:20:41.666 two ConnectX-7s that connect
+00:20:44.600 this GPU with thousands of other GPUs,
+00:20:48.433 but we still need this NVLink.
+00:20:51.200 This NVLink allows us to connect the few
+00:20:54.366 GPUs in one rackthat's standing behind me.
+00:20:57.766 That one rack behind me,that one rack is connected to,
+00:21:02.533 with this NVLink 5.0, 1.8TB per second,
+00:21:07.133 35 times higher bandwidth than the highestbandwidth networking in the world,
+00:21:13.266 which allows us to connectall of these GPUs together
+00:21:18.133 to this NVLink switch.
+00:21:20.900 There are nine NVLink switches in one rack.
+00:21:26.933 Each rack has 72 computers like this connected through this spine.
+00:21:34.633 This is the NVLink spine.
+00:21:37.933 This is cables, copper.
+00:21:41.466 50 pounds of copper,
+00:21:43.933 driven directly by this incredible series,
+00:21:47.900 incredible IO we call NVLink.
+00:21:51.733 They connect into,
+00:21:55.666 connect into the computer,
+00:21:56.933 into NVLink this way,
+00:21:59.900 and this switch connects
+00:22:04.533 all of these computers together as one.
+00:22:09.766 And so what results,
+00:22:12.666 are 72 of these computers
+00:22:16.233 connected as one large GPU.
+00:22:19.733 One incredibly large GPU.
+00:22:22.500 From the software perspective,it is just one giant chip,
+00:22:27.166 and these racks, these NVLinked 72 systems.
+00:22:37.766 This one rack.
+00:22:39.200 This one rack is 3,000 pounds.
+00:22:44.366 It is impossible to put on this stageotherwise I'd show it to you.
+00:22:48.466 That is 3,000 pounds and 120kW.
+00:22:56.866 That is,
+00:22:58.166 I have my my friends here.
+00:22:59.466 That's many, many Nintendo Switch power.
+00:23:03.500 It is not portable but it's very powerful.
+00:23:07.033 And so this is the Blackwell system.
+00:23:09.266 We designed this so that it can beconfigured as one superpod like this,
+00:23:15.300 or one entire gigantic data center
+00:23:18.866 with thousands and thousands of them,hopefully hundreds of thousands of them,
+00:23:22.666 And they're connected to themby the switches.
+00:23:25.833 Some of them are Quantum InfiniBand switches.
+00:23:28.633 If you want to have a dedicated AI factoryor a Spectrum-X,
+00:23:34.100 NVIDIA Spectrum-X revolutionary ethernet system
+00:23:37.633 that you can integrate into your existing ethernet environments. 
+00:23:42.400 We can build AI supercomputers with these,
+00:23:44.800 we can integrate them into enterprisedata centers, into hyperscalers, or
+00:23:51.566 configure them for the edge.
+00:23:54.066 The Blackwell systemis not only incredibly powerful,
+00:23:57.600 it is also incredibly adaptable,so that it can fit
+00:24:02.333 into every corner of the world'scomputing infrastructure.
+00:24:07.266 So this is this is Blackwell.
+00:24:10.733 On top of Blackwell,of course, is the computer.
+00:24:15.000 But most importantly,without all of the software that runs on
+00:24:18.333 top of it, this computer is justsimply impossible to operate.
+00:24:23.533 When you see these computerswith all of the liquid cooling,
+00:24:27.966 all of the wiring,the mind will blow up.
+00:24:33.233 How do you programsuch an incredible computer?
+00:24:36.100 This is where NVIDIA's software stack,this is where all of our effort in CUDA,
+00:24:40.633 NCCL, all of our Megatron, Megatron-Core,
+00:24:44.566 all of the software that we created,TensorRT LLM, Triton,
+00:24:48.900 all of the software that we created overthe years integrated
+00:24:52.700 into the system,makes it possible for everyone,
+00:24:55.900 anyone, to deployAI supercomputers around the world.
+00:24:59.833 And then, of course, on top we have AI softwarethat makes it easy for people to build AI.
+00:25:07.833 And so what is AI?
+00:25:10.700 What is AI?
+00:25:12.666 We talk about AIin a lot of different ways,
+00:25:15.700 but I think there are two types of AIsthat will be extremely popular.
+00:25:23.566 And there are two mental modelsthat I think are very helpful.
+00:25:26.133 It's very helpful to me.
+00:25:28.466 The first AI is basically a digital AI worker.
+00:25:36.766 These AI workers can understand,
+00:25:40.966 they can plan and they can take action.
+00:25:45.000 Sometimes the digital AI workers
+00:25:49.000 are being asked to execute
+00:25:51.266 a marketing campaign, support a customer,
+00:25:55.466 come up with a manufacturing supplychain plan,
+00:26:00.033 optimize a chip,
+00:26:02.433 help us write software.
+00:26:06.066 Maybe be a research assistant, a lab assistant in the drug discovery industry.
+00:26:14.233 Maybe this agent you know is a tutor to the CEO.
+00:26:22.200 Maybe there's a tutorfor all of our employees.
+00:26:25.333 These AI, these digital AI workers,we call them AI agents
+00:26:31.566 are essentially like digital employees.
+00:26:35.800 And just like digital employees,you have to train them.
+00:26:39.033 You have to create datato welcome them to your company,
+00:26:42.533 teach them about your company.
+00:26:44.500 You train them for their particular
+00:26:46.000 skills, depending on what functionyou would like them to have,
+00:26:49.800 you evaluate themafter you're done training them
+00:26:52.800 to make sure that they learnedwhat they're supposed to learn,
+00:26:56.033 you guardrail themto make sure that they perform the job
+00:26:59.766 they're asked to do, and not the jobsthey're not asked to do.
+00:27:03.933 And of course, you operate them, you deploy them.
+00:27:09.966 Provide them energy from Blackwell, the AI tokens from Blackwell.
+00:27:16.733 And they interact with other agentsto work as a team to solve problems.
+00:27:24.700 Well, you're goingto see all kinds of different agents.
+00:27:27.866 And we created several thingsto make it easier for the ecosystem
+00:27:31.733 to be ableto build AI agents for companies.
+00:27:35.800 NVIDIA is not in the service business.
+00:27:37.866 And we don't create, we don't deliverfinal product, we don't deliver solutions,
+00:27:43.066 but we do deliver the enabling technologyto make it possible for the ecosystem
+00:27:48.100 to create AI, to deliver AI,
+00:27:51.433 to continuously improve AI.
+00:27:54.133 The AI agent lifecycle libraries,
+00:27:59.766 the lifecycle platform is called NeMo,
+00:28:02.766 and NeMo has libraries for each
+00:28:05.100 one of the stages that I mentioned,from data curation to training, to fine
+00:28:09.766 tuning to synthetic data generationto evaluation, to guard railing.
+00:28:16.500 And these libraries are integrated into workflowsand frameworks all over the world.
+00:28:22.600 We're working with AI startups,
+00:28:25.066 service providerslike Accenture and Deloitte,
+00:28:28.433 companies all over the world to bring thisto all of the large companies.
+00:28:34.966 We also work with ISVs like ServiceNow
+00:28:40.100 so that they can create agentsthat use ServiceNow.
+00:28:45.200 Today, you use ServiceNowby licensing the platform
+00:28:49.333 and your employees interact
+00:28:52.100 with the ServiceNow platformto get assistance.
+00:28:56.466 In the future, ServiceNow will also provide
+00:29:01.666 a large number of AI agentsthat you can rent.
+00:29:05.400 Essentially digital employees that you canrent to help you solve problems.
+00:29:11.366 We're working with ServiceNow,we're working with SAP,
+00:29:15.400 Cadence, Ansys, companiesall over the world,
+00:29:18.733 Snowflake, companies all over the worldso that we can all build agents
+00:29:23.200 that can be helpful to youin driving productivity in your company.
+00:29:27.366 Now, these agents are able to understand, reason, plan, take action.
+00:29:36.366 And these agents are collections or systems of AI models.
+00:29:42.066 It's not just one AI model, but a system of AI models.
+00:29:46.133 And NeMo helps us build those.
+00:29:49.366 We also create pre-trained AI models that we package up inwhat is called a NIM.
+00:29:56.766 And so these NIMs are microservices.
+00:29:59.633 They're basically AI packaged.
+00:30:02.266 In the old days,software was packaged in a box
+00:30:06.300 and they'd come delivered with CD-ROMs.
+00:30:09.166 Today, AI is packaged in a microservice andinside the software is smart.
+00:30:16.266 You could talk to the softwareand you could talk to the software
+00:30:19.766 because it understands what you mean,and you can connect the software
+00:30:23.566 with other software.
+00:30:24.900 You can connect thisAI with other AI, and together
+00:30:27.933 you could createessentially an agent, an AI agent.
+00:30:31.933 So this is the first thing.
+00:30:33.066 Let me give youan example of some of these agents.
+00:30:37.366 Agenetic AI is transforming
+00:30:39.833 every enterprise using sophisticatedreasoning and iterative
+00:30:43.833 planning to solve complex,multi-step problems.
+00:30:48.066 AI agents help marketing campaigns
+00:30:50.833 go live faster with instant insights,helping optimize supply chain operations,
+00:30:56.433 saving hundreds of millions in costs,and reduce software security processes
+00:31:01.233 from days to seconds by helping analyststriage vulnerabilities.
+00:31:06.033 What makes agenticAI so powerful is its ability
+00:31:09.233 to turn data into knowledge,and knowledge into action.
+00:31:13.266 A digital agent in this examplecan educate individuals with insights
+00:31:17.766 from a set of informationally denseresearch papers.
+00:31:21.533 It was built using NVIDIA AI Blueprints.
+00:31:24.133 These are reference workflowsfeaturing NVIDIA acceleration libraries,
+00:31:28.566 SDKs, and NIM microservices
+00:31:31.533 that help you rapidly buildand deploy AI apps.
+00:31:34.833 The multi-modal PDF Data ExtractionBlueprint helps build
+00:31:38.433 a data ingest pipeline,while the Digital Human Blueprint
+00:31:42.366 provides smooth, human-like interactions.
+00:31:46.066 “Hi, I’m James.”
+00:31:47.833 A digital agent ingests PDF researchpapers,
+00:31:51.366 including complex data like images, chartsand tables, and generates
+00:31:56.333 a high level summary delivered throughan interactive digital human interface.
+00:32:00.566 “What an exciting breakthrough in weatherforecasting.
+00:32:03.533 The development of CorrDiff,a new generative model,
+00:32:06.633 is a significant step forwardin accurately predicting weather patterns
+00:32:10.766 by combining a U-Net regression modelwith a diffusion model.”
+00:32:14.966 James can also answer questions
+00:32:17.633 or generate new contentbased on the papers.
+00:32:20.833 NVIDIA AI gives enterprisesthe power to automate processes, tap
+00:32:25.466 into real timeinsights, and enhance workflow efficiency.
+00:32:30.933 AI agents.
+00:32:33.933 Three parts: NeMo, NIMs, and Blueprints.
+00:32:39.400 These are all references.
+00:32:41.700 They're available to you in source formso that you could use it as you like
+00:32:46.700 and build your AI agent workforce.
+00:32:51.133 None of these agents can do 100% of anyone's task.
+00:32:55.966 Anybody's job.
+00:32:57.633 None of the agents can do 100%.
+00:33:00.400 However, all of the agents will be able
+00:33:03.200 to do work for 50% of your work.
+00:33:06.366 This is the great achievement.
+00:33:09.066 Instead of thinking about AI as replacingthe work of 50% of the people,
+00:33:16.900 you should think that AI will do50% of the work for 100% of the people.
+00:33:21.966 By thinking that way,you realize that AI will help
+00:33:25.266 boost your company'sproductivity, boost your productivity.
+00:33:30.466 You know, people have asked me,you know, is AI going to take your job?
+00:33:34.233 And I always say, because it's true,
+00:33:36.500 AI will not take your job.
+00:33:38.666 AI used by somebody else,
+00:33:40.933 will take your job.
+00:33:42.500 And so be sure to activateusing AI as soon as you can.
+00:33:47.100 So the first is digital AI agents.
+00:33:50.600 Digital.
+00:33:52.066 These are digital AIs.
+00:33:53.633 The second application is physical AI.
+00:33:58.866 The same basic technology is now embodied,
+00:34:02.466 sits inside a mechanical system.
+00:34:04.966 Of course, robotics
+00:34:07.266 is going to be one of the most importantindustries in the world.
+00:34:10.900 Until now, robotics has been limited and the reason is very, very clear.
+00:34:17.132 In fact, here in Japan, 50% of the world'smanufacturing robots are built.
+00:34:22.699 Kawasaki, FANUC, Yaskawa, Mitsubishi.
+00:34:27.400 Four of the leaders that buildhalf of the world's robotic systems.
+00:34:31.866 As much as robots have driven
+00:34:34.933 the productivity of manufacturing,it has been very difficult to expand.
+00:34:38.833 The robotics industryhas been largely flat for a long time.
+00:34:42.233 And the reason for thatis because it is too specific.
+00:34:47.000 It is not flexible enough.
+00:34:49.366 It is not flexible enoughto be able to apply to different
+00:34:52.800 scenarios and different conditionsand different work.
+00:34:56.266 We need AI that is much, much
+00:34:58.700 more flexible,that it can adapt and learn by itself.
+00:35:03.000 Notice the technology that we described upuntil now, agentic AI.
+00:35:10.033 Irrespective of who you are, you should beable to interact with the agents.
+00:35:15.066 It can give you response.
+00:35:17.100 Of course, sometimes the response is not as goodas the response that you would produce,
+00:35:22.366 but many of them are in facteven better than what we can produce.
+00:35:26.400 And so we can now apply this generalAI technology into the world
+00:35:31.666 of embodied AI or physical AI,or otherwise known as robotics.
+00:35:36.533 In order to enable robotics to happen,we need to build three computers.
+00:35:40.700 The first computer is training the AI,
+00:35:44.433 just like we did with all of the examplesI've given you so far.
+00:35:47.900 Second is to simulate the AI,
+00:35:51.566 you need to give theAI a place to practice,
+00:35:54.966 a place to learn, a place to retreat,
+00:35:58.800 to receive synthetic datathat it can learn from.
+00:36:02.800 We call that Omniverse.
+00:36:05.333 Omniverse is our virtual worlddigital twin suite of libraries
+00:36:10.666 that could be used for creating physical AIs, robotics. 
+00:36:16.200 Omniverse, then, after validation,after training, after evaluation,
+00:36:21.333 then you can take the modeland put it into a physical robot.
+00:36:25.800 Inside that we have processorsthat are designed for robotics.
+00:36:30.500 We call it Jetson Thor.
+00:36:33.133 Thor is a robotics processordesigned for humanoid robots.
+00:36:37.233 This loop goes on and on and on.
+00:36:39.300 Just as there is a NeMo AI agent life cycle platform,
+00:36:47.333 there is this Omniverse platform that enables you to create AI.
+00:36:53.166 Well, ultimately, what you want is the AI—notice on the left—it sees a world,
+00:36:58.133 tt sees the video,it sees the surrounding, the circumstance.
+00:37:02.100 You tell it what you want.
+00:37:03.733 And this AI will generate
+00:37:06.433 articulation motion.
+00:37:08.500 Just as we take text,we can generate video,
+00:37:13.766 we can take textand generate chemicals for drugs.
+00:37:18.666 We can take text and generate
+00:37:22.600 articulation motion. 
+00:37:24.900 So this concept is very similarto generative AI.
+00:37:29.866 And this is the reason why we think
+00:37:32.766 that now we have the necessary technologybetween Omniverse
+00:37:38.300 and all the computersthat we built, these three computers and
+00:37:42.800 the latest generative AI technology,
+00:37:45.300 that the time has come for humanoid robotics.
+00:37:49.266 Now, why is humanoid robotics so hard?
+00:37:52.466 Well, obviously the software developedfor humanoid robots is extremely hard.
+00:37:57.200 However, the benefit is incredible.
+00:37:59.500 There are only two robotic systems thatcan be easily deployed into the world.
+00:38:04.233 The first robot is a self-driving car,and the reason
+00:38:07.400 for that is because we created the worldto adapt to cars.
+00:38:11.133 The second is humanoid robots.
+00:38:13.800 These two robotic systemscould be deployed
+00:38:17.100 in brownfields anywhere in the world.
+00:38:19.433 Because we created the world for us.
+00:38:22.366 This is both extraordinarilyhard technology
+00:38:25.566 that the time has come,but the impact can be enormous.
+00:38:29.800 Well, this last week at the Conferencefor Robotics Learning,
+00:38:34.533 we announced a new frameworkthat is super important.
+00:38:38.633 It's called Isaac Lab.
+00:38:40.266 Isaac Lab is a reinforcementlearning virtual simulation system
+00:38:44.833 that allows you to teach humanoid robotshow to be humanoid robots.
+00:38:49.833 And on top of it, we have severalworkflows that we have created.
+00:38:53.800 The first workflow is Groot-Mimic.
+00:38:56.800 Groot-Mimic is a frameworkfor demonstrating to the robot
+00:39:02.633 how to perform a task.
+00:39:04.500 You use human demonstration and then mimic that environment,
+00:39:09.866 using domain randomization generates
+00:39:12.533 hundreds of other exampleslike your demonstration.
+00:39:17.100 So that the robot can learn to generalize.
+00:39:19.766 Otherwise it can only performthat very specific task.
+00:39:24.133 Using Mimic,we can generalize its learning.
+00:39:26.566 The second is Groot-Gen. 
+00:39:29.566 Groot-Gen, using generativeAI technology in Omniverse,
+00:39:34.766 we can create an enormous number of
+00:39:41.333 random, domain randomized
+00:39:45.266 examples of environments and the actionsthat we would like the robot to perform.
+00:39:50.266 And so we're generating a whole bunchof tests, evaluation systems,
+00:39:54.666 evaluation scenariosthat the robot can try
+00:39:58.600 to perform and improve itself, learnhow to be a good robot.
+00:40:02.700 And the third is Groot-Control.
+00:40:05.766 Groot-Control is a model distillationframework that allows us to take
+00:40:10.500 all of the skills that we've learnedand distill it into one unified model
+00:40:15.800 that allows the robot to performkinematic skills.
+00:40:19.433 Not only will robots be autonomous,
+00:40:23.133 but remember thatthe future factories will also be robotic.
+00:40:28.033 And so these factoriesare going to be robotic factories
+00:40:31.433 that are orchestrating robots, buildingmechanical systems that are robotic.
+00:40:36.166 Let me show it to you.
+00:40:40.233 Physical AI embodies robots
+00:40:42.333 like self-driving carsthat safely navigate the real world,
+00:40:46.566 manipulators that perform complex industrial tasks,
+00:40:50.800 and humanoid robotswho work collaboratively alongside us.
+00:40:55.533 Plants and factories will be embodiedby physical AI capable of monitoring
+00:41:00.200 and adjusting its operationsor speaking to us.
+00:41:04.200 NVIDIA builds three computers
+00:41:05.966 to enable developersto create physical AI.
+00:41:08.966 The models are first trained on DGX,
+00:41:11.466 then the AI is fine-tuned and tested using reinforcementlearning physics feedback in Omniverse.
+00:41:17.366 And the trained AI runs on NVIDIA Jetson
+00:41:20.866 AGX robotics computers.
+00:41:24.233 NVIDIA Omniverse is a physics-basedoperating system for physical AI simulation.
+00:41:29.900 Robots learn and fine tune their skills in Isaac Lab,a robot gym built on Omniverse.
+00:41:35.300 And with GR00T workflows
+00:41:37.100 like GR00T-Gen to generate diverselearning environments and layouts,
+00:41:40.966 GR00T-Mimic to generate large scalesynthetic motion datasets 
+00:41:44.966 based on a small number of real-world captures,
+00:41:48.200 and GR00T-Controlfor neural whole body control.
+00:41:53.033 This is just one robot.
+00:41:54.900 Future factories will orchestrate teamsof robots and monitor
+00:41:58.733 entire operationsthrough thousands of sensors.
+00:42:03.100 For factory digital twins,
+00:42:04.800 they use an Omniverseblueprint called Mega. 
+00:42:07.733 With Mega, the factory digital twin is populatedwith virtual robots and their AI models—the robots' brains.
+00:42:15.733 The robots execute a task by perceivingtheir environment, reasoning,
+00:42:20.233 planning their next motion,and finally converting it to actions.
+00:42:24.533 These actions are simulated in the environmentby the World Simulator in Omniverse,
+00:42:29.400 and the results are perceived by the robot brainsthrough Omniverse sensor simulation.
+00:42:34.533 Based on the sensor simulations,the robot brains decide the next action
+00:42:38.766 and the loop continues
+00:42:40.433 while Mega precisely tracks the state and positionof everything in the factory digital twin.
+00:42:46.533 This software in the looptesting brings software defined processes
+00:42:50.800 to physical spaces and embodiments,letting industrial enterprises
+00:42:54.900 simulate and validate changesin an Omniverse digital twin
+00:42:59.266 before deploying to the physical world,saving massive risk and cost.
+00:43:05.533 The era of physical AI is here,
+00:43:07.766 transforming the world'sheavy industries and robotics.
+00:43:16.300 Incredible times.
+00:43:18.000 So we have two robotic systems.
+00:43:19.966 One that's digital.
+00:43:21.366 We call AI agents,and you use them in your office,
+00:43:25.866 collaborating with your employees.
+00:43:28.700 And then the second is a physical AI,physical AI system, robotics.
+00:43:34.300 And these physical AIs will be productsthat the company's built.
+00:43:38.333 And so companies will use AI to increasethe productivity of our employees.
+00:43:44.766 And we will use AI to drive
+00:43:47.800 and power the products that we sell.
+00:43:51.066 Car companies will have two factoriesin the future
+00:43:54.000 one factory to build cars, one factory
+00:43:58.266 to produce the AI that runs in the car.
+00:44:01.766 Well, this is the robotics revolution.
+00:44:04.933 So much activity is going around the worldand I can't imagine a better country
+00:44:13.833 to lead the roboticsAI revolution than Japan.
+00:44:18.466 And the reason for that is, as you know,
+00:44:21.100 this country loves robots.
+00:44:25.766 You love robots.
+00:44:27.366 You have created
+00:44:29.733 some of the world's best robots.
+00:44:33.866 These are the robots we grew up with.
+00:44:36.766 These arethe robots we've loved our whole lives.
+00:44:40.266 I didn't even show some of my favorites,
+00:44:43.800 Mazinger Z,
+00:44:47.666 Gundam.
+00:44:49.433 I hope that Japan will take advantageof the latest breakthroughs
+00:44:54.800 in artificial intelligence and combinethat with your expertise in mechatronics.
+00:45:02.233 No country in the world has greater skills
+00:45:05.933 in mechatronics than Japan.
+00:45:08.733 This is an extraordinaryopportunity that you must seize.
+00:45:13.433 And so I hope that we can work togetherto make that dream possible.
+00:45:18.300 NVIDIA AI inJapan is doing incredibly well.
+00:45:20.833 We have so many partners here.
+00:45:23.333 We have partners that are building large languagemodels.
+00:45:26.833 Institute of Science Tokyo, Rakuten,
+00:45:30.733 SoftBank Intuitions, NTT, Fujitsu,
+00:45:34.400 NEC, Nagoya University,
+00:45:38.466 Kotoba Technologies.
+00:45:40.433 We also have if you go to the upper right,the AI clouds.
+00:45:45.900 AIST, SoftBank, Sakura Internet,
+00:45:49.833 GMO Internet Group, HIGHRESO, KDDI,
+00:45:55.333 Rutilea, building AI clouds herefor the ecosystem to flourish here in Japan.
+00:46:02.466 So many roboticscompanies are starting to understand
+00:46:05.733 the capabilities that AI is now providingto take advantage of the opportunity,
+00:46:10.933 Yaskawa, Toyota, Kawasaki, Rapyuta.
+00:46:17.233 Medical imaging systems—
+00:46:19.466 Canon, Fuji Films, Olympus—all taking advantage of AI
+00:46:23.066 because in the future, these medicalinstruments will be much more autonomous.
+00:46:27.033 It's almost like a nurseAI agent inside the medical instrument,
+00:46:33.033 helping the nurse guide the diagnosis.
+00:46:37.433 So many different ways, the drugdiscovery industry, 
+00:46:40.566 so many different ways that AI is being used.
+00:46:42.866 And so I'm delighted.
+00:46:44.033 I'm delighted by the advancements here.
+00:46:46.833 And we want to go even fasterto take advantage of the revolution of AI.
+00:46:52.200 Well, this industry is changing.
+00:46:56.366 As I said earlier,
+00:46:57.533 the computer industryhas fundamentally changed.
+00:47:01.300 From coding that runs on CPU to now
+00:47:06.400 machine learning running on GPUs.
+00:47:10.100 From an industry that produced software,
+00:47:13.000 we have now become an industry
+00:47:15.566 that is manufacturingartificial intelligence,
+00:47:20.500 and the artificial intelligenceis produced in factories.
+00:47:25.500 They're running 24/7.
+00:47:28.233 When you license software, you install it onto your computer.
+00:47:32.933 The manufacturing, the distributionof that software is complete.
+00:47:37.366 However, intelligence is never complete.
+00:47:40.466 And you're interacting with all of the AIs,
+00:47:43.266 whether they're AI agents or AI robots.
+00:47:47.466 And the tokens,
+00:47:49.333 the intelligence is expressed in tokens,which is the unit of intelligence.
+00:47:55.100 It's a number.
+00:47:56.066 And these numbers are constituted.
+00:47:58.633 These tokens are constituted in waysthat becomes intelligence and words,
+00:48:02.933 intelligence in steering wheels,intelligence for self-driving cars,
+00:48:07.900  intelligence in motors to articulate human robots,
+00:48:12.633 intelligence in proteins and chemicalsand drug discovery.
+00:48:16.900 All of these tokens are being producedin these factories,
+00:48:21.200 these infrastructure,these factories never existed before.
+00:48:26.366 It's a brand new thing,
+00:48:27.900 which is the reason why we're seeingso much development around the world.
+00:48:31.733 For the very first time,
+00:48:33.300 we have a new industry,
+00:48:35.733 a new factory producing somethingbrand new,
+00:48:39.833 that we call artificial intelligence.
+00:48:42.400 These factorieswill be built by companies.
+00:48:45.766 They'll be built.
+00:48:46.866 Every company will be an AI manufacturer.
+00:48:49.033 Of course,
+00:48:50.300 no company can afford not to manufacture,produce, artificial intelligence.
+00:48:55.266 How can any company affordnot to produce intelligence?
+00:48:58.866 How can any country affordnot to produce intelligence?
+00:49:04.033 You don't have to produce chips.
+00:49:06.033 You don't have to produce software,but you have to produce intelligence.
+00:49:10.433 It is vital.
+00:49:11.233 It is core to who you are.
+00:49:13.033 It is core to who we are.
+00:49:14.966 And so we have the new industry, AI factories.
+00:49:19.366 And that's the reason why I call it.
+00:49:21.066 It's a new industrial revolution.
+00:49:23.600 The last time this happenedwas 300 years ago
+00:49:28.466 when electricity was discovered,the generation of electricity
+00:49:32.633 and the distribution of electricityand a new type of factory was created.
+00:49:37.300 And that new factory was a power plant.
+00:49:40.433 And then a new industrywas created called energy.
+00:49:44.500 Several hundred years ago, there was no such thingas an energy industry.
+00:49:48.300 It happenedduring the Industrial Revolution.
+00:49:50.666 Now we have a new industry,never existed before.
+00:49:54.033 Artificial intelligence sits on top
+00:49:56.833 of the computer industry,but it's utilized,
+00:50:00.766 it is created by every industry.
+00:50:03.566 You have to create your own AI.
+00:50:06.033 The drug industry—creates your own AI.
+00:50:08.266 The automotive industry—creates your own AI.
+00:50:10.366 The robotics industry—creates your own AI.
+00:50:12.833 Every industry, every company,every country must produce your own AI.
+00:50:19.000 A new industrial revolution.
+00:50:21.833 I have a very big announcement to make.
+00:50:26.800 Today we're announcing that we're partneringwith SoftBank
+00:50:32.000 to bring and to build an AI infrastructure for Japan.
+00:50:37.666 Together, we're going to buildJapan's largest AI factory.
+00:50:41.733 It's going to be built out of NVIDIA DGX.
+00:50:45.166 When it's built, it'll have 25 AI exaflops.
+00:50:49.233 Just remember, the largest supercomputer in the world just recently was 1 exaflop.
+00:50:56.500 This is 25 exaflops
+00:50:59.000 for an AI factory to produce the AI.
+00:51:03.133 But in order to distribute the AI,SoftBank is going to integrate NVIDIA's Aerial,
+00:51:09.833 which was the engine that I mentioned earlier,running the 5G radio on CUDA.
+00:51:18.166 By doing that, we can unify and combine
+00:51:22.433 the radio computers, the basebands
+00:51:27.266 and the AI computers from 5G-RAN.
+00:51:32.133 We can now evolve and reinventthe telecommunications network into AI-RAN.
+00:51:39.533 It will be able to carry voice,data, video, but in the future
+00:51:44.233 we will also carry AI, a new type,
+00:51:48.233 a new type of information: intelligence.
+00:51:51.933 This will be distributed across SoftBank's200,000 sites here in Japan,
+00:51:59.066 serve 55 million customers.
+00:52:02.666 AI factoryand to produce the AI,
+00:52:07.766 and AI distributionnetworks to distribute
+00:52:11.466 AI-RAN to distribute the AI.
+00:52:13.900 We're also going to put on top of it
+00:52:16.766 a new type of store, an AI store,
+00:52:19.900 so that the AIs that were createdby SoftBank and the AIs created by third
+00:52:24.366 parties could be providedto the 55 million customers.
+00:52:29.266 So we will build those applications
+00:52:31.800 on top of NVIDIA AI enterprise,as I mentioned, showed you before
+00:52:35.333 and there will be a new storethat makes AI available to everybody.
+00:52:39.766 This is just a magnificent development.
+00:52:42.400 What will result is an AI grid
+00:52:46.066 that runs across Japan.
+00:52:48.500 Now this AI grid will be part of infrastructureand one of the most important infrastructures.
+00:52:56.500 Remember, you need factories and roads,part of the infrastructure
+00:53:02.733 so that you could just make and distributegoods.
+00:53:05.866 You need energy and communications,it's part of the infrastructure.
+00:53:10.300 Every time you create somethingfundamentally new for the infrastructure,
+00:53:14.866 new industries and new companies are created, new economic opportunities, new prosperity.
+00:53:21.866 If not for roads and factories,how would we have the Industrial Revolution?
+00:53:26.700 If not for energy and communications, how would we have the IT revolution?
+00:53:32.766 Each one of these new infrastructuresopen up new opportunities,
+00:53:37.300 and so it's incredibly excitingfor me to partner with SoftBank
+00:53:42.100 to make this possible in Japan.
+00:53:44.733 Miyakawa-san's team, they should be in the audience.
+00:53:49.533 Partnering with you is incredible.
+00:53:51.433 And, really, really happythat we're doing this.
+00:53:53.866 This is completely revolutionary.
+00:53:55.533 This is the first of its kind to transform
+00:53:59.566 the telecommunications network,the communications network,
+00:54:03.433 into an AI network.
+00:54:05.966 Well, let me show you what you can do.
+00:54:09.166 There's some amazing things you could do.
+00:54:11.233 For example, I'm standing underneath one of the base stations,
+00:54:16.266 one of the radio towers,
+00:54:17.900 and the car has video,
+00:54:20.800 and the car’s video is streamed to the radio tower
+00:54:23.800 and the radio tower has AI.
+00:54:26.233 This radio tower has video intelligence.
+00:54:30.566 It has vision intelligence.
+00:54:32.666 So it could see what the car sees
+00:54:36.500 and it can understandwhat the car is seeing.
+00:54:40.100 That AI model may be too heavyto put inside the car,
+00:54:45.133 but it's not too heavy to put in the base station.
+00:54:48.233 And using the videothat's streamed to the base station,
+00:54:52.100 it can understand anything that'shappening to the car and surrounding.
+00:54:56.300 Okay, so this is just one example of using
+00:54:59.133 AI at the edge to keep people safe.
+00:55:02.233 Or maybe this is the air traffic control, essentially, for self-driving cars.
+00:55:08.433 The applications are endless.
+00:55:10.433 We can also use this basic concept
+00:55:13.500 to turn a whole factory into an AI.
+00:55:16.900 This is a factory on this side.
+00:55:19.733 Lots of cameras.
+00:55:21.200 The cameras are streamed to the base station.
+00:55:23.766 And what's amazing is this: because of all the cameras
+00:55:27.333 and the AI model in the AI-RAN,
+00:55:30.700 now this factory became an AI.
+00:55:33.600 You can talk to the factory.
+00:55:35.800 Ask the factory, what is happening?
+00:55:38.233 Ask the factory, were there any accidents?
+00:55:40.766 Is there anything abnormal happening?
+00:55:42.800 Was anybody injured today?
+00:55:45.566 Could it give you a daily report?
+00:55:48.266 You just have to ask the factory, becausethe factory now has turned into an AI.
+00:55:53.400 That AI model doesn'thave to run in the factory.
+00:55:55.666 That AI model can run in the SoftBank radio.
+00:56:00.400 Okay, so that's another example.
+00:56:01.866 But the countless examples,you can basically turn every single
+00:56:07.200 physical object into an AI,
+00:56:09.833 a stadium, a road, a factory,a warehouse, an office, a building.
+00:56:15.233 They can all become AIs and you can justtalk to it, just like you can talk to ChatGPT.
+00:56:19.766 Okay. What's the condition of the aisles?
+00:56:22.500 Any obstruction or spills?
+00:56:24.400 You're just talking to the factory.
+00:56:27.266 And the factory has observed everything.
+00:56:29.333 It understands what it sees.
+00:56:32.500 It can reason and it can plan an action or just talk to you.
+00:56:37.466 And here it says "No, the aisles in the warehouse 
+00:56:39.333 did not have any obstruction, spills or hazards.
+00:56:42.266 The conditions of the aisles in the video appears
+00:56:44.200 to be well-organized, clean, and free of obstacles or hazards."
+00:56:48.166 Okay, so you're talking to the factory.
+00:56:49.966 It's incredible.
+00:56:50.600 You're talking to the warehouse.
+00:56:52.100 You're talking to the car.
+00:56:54.166 Because all of thesehave now become intelligent.
+00:56:57.933 Well, I have a very special guestto talk about our announcement today
+00:57:02.800 and also to talk aboutbringing AI to Japan.
+00:57:06.833 And this friend of mine,this friend of mine.
+00:57:11.366 You might know him.
+00:57:12.866 That's the two of us.
+00:57:16.200 You might know him.
+00:57:16.966 This friend of mine is really,genuinely unique.
+00:57:22.266 Where is Masa?
+00:57:23.866 Where is Son-san? Is he here?
+00:57:26.766 He’s here.
+00:57:27.400 Hey! Son-san.
+00:57:32.033 Ladies and gentlemen.
+00:57:37.200 The great Masa.
+00:57:38.800 Great Jensen.
+00:57:40.633 Let me let me tell you something.
+00:57:42.400 I don't know if you know this.
+00:57:44.300 So we've been in, I've been in thetechnology industry a long time.
+00:57:48.633 Started in the PC revolution.
+00:57:52.133 The computer industry went from PC to Internet, to cloud, to mobile cloud, to AI.
+00:58:05.100 Long journey.
+00:58:06.400 Masa is the only entrepreneuronly entrepreneur, only innovator
+00:58:12.400 in the world that has selected
+00:58:15.033 the winner and partnered with the winner,
+00:58:18.300 in every single generation.
+00:58:22.200 Remember, it was Masa thatbrought Bill Gates to Japan.
+00:58:27.100 It was Masa that invented or brought,Jerry Yang to Japan.
+00:58:33.566 It was Masa that made it possible for China'scloud industry to happen— Alibaba.
+00:58:40.433 It was Masa that brought Steve Jobsto Japan and the iPhone.
+00:58:47.033 And maybe many of you probably don't know this, but at one point Masa was the largest shareholder of NVIDIA.
+00:58:57.833 Yes. Oh.
+00:59:03.500 It’s okay.
+00:59:07.800 We can we can cry.
+00:59:09.166 We can cry together. Yeah.
+00:59:13.200 Sit down. Sit.
+00:59:18.500 How did you do it?
+00:59:20.166 How did you pick the innovators, the creators 
+00:59:28.200 of each one of the technology revolutionsin the history of computing? 
+00:59:33.466 100% record.
+00:59:36.533 Well, I think I was just lucky.
+00:59:40.133 I was born in the right time,
+00:59:43.066 and I met with great entrepreneurslike yourself, right?
+00:59:50.766 It's a passion.
+00:59:52.800 It's a dream.
+00:59:54.333 And it's an instinct that you smell,
+00:59:59.100 is the real pioneer who is a real,
+01:00:01.800 you know, innovator. And,
+01:00:07.166 I really think I was lucky,
+01:00:09.966 but it's the same visionthat we can smell, right?
+01:00:14.900 It's like, wolf smell wolf.
+01:00:18.300 I think we smell each other.
+01:00:25.700 I have two puppies.
+01:00:29.366 I don't like that mental image.
+01:00:33.466 No. No.
+01:00:34.900 Masa, each, as you think back on the history. 
+01:00:39.566 Yes.- How is this
+01:00:41.300 transition, this platform shift,this revolution,
+01:00:45.866 how is this one differentthan the previous ones?
+01:00:48.233 How does it feel different to you?
+01:00:50.733 Well, I say this is the most exciting,most dynamic, front end of the future.
+01:01:01.333 This is 100 times, a thousand times bigger.
+01:01:05.300 This is the biggest wave.
+01:01:08.266 I thought that's how it feels.
+01:01:09.433 Yeah, yeah.
+01:01:10.500 I think mathematicallyor from an industrial perspective,
+01:01:14.333 the important thing to realizeis that 
+01:01:16.466 although AI is software,it is a very different type of software.
+01:01:21.900 Yeah.
+01:01:22.666 The software industry you and I created,
+01:01:26.433 and are part of is an industry of tools.
+01:01:30.700 It's tools used by humans.
+01:01:33.000 Yeah.
+01:01:33.833 For the very first time,this new type of software, neural network,
+01:01:37.600 Large Language Models, agents, robots
+01:01:41.933 are not tools, but they are skills.
+01:01:45.200 They're tasks.
+01:01:46.733 They do work. - Yeah.
+01:01:48.733 They can perform work.
+01:01:50.333 And the industry, the market,the industry of work is not
+01:01:55.666 $1 trillion, it is $100 trillion.
+01:01:58.733 And that's the reason why we realized
+01:02:01.900 that this industry is, in fact,
+01:02:04.833 not a transition of the IT industry.
+01:02:08.033 But this is a transition of every industry.- Yes.
+01:02:11.900 Which is the reason why it’s such a big deal.
+01:02:14.766 Yeah. Mankind is the only animal
+01:02:18.400 that has the super braincompared to any other species.
+01:02:24.700 Because of brain power, mankind is so powerful.
+01:02:31.133 If you compare just the muscles, lions
+01:02:34.500 and the elephants,they have a bigger muscle.
+01:02:38.166 But mankind has the smartest brain.
+01:02:43.233 And every activity of GDPs today is based onmankind's type of brain activity.
+01:02:53.233 So I think every industry
+01:02:55.666 will be affected by this revolution.
+01:02:59.766 And one of the one of the amazing things,of course, is that, in the industry that is governed by atoms,
+01:03:09.100 the size of the industry is limited.
+01:03:13.566 Because there's only so much atomsyou can move around.
+01:03:16.066 It's heavy. - That's right.
+01:03:17.866 But the industry of AIis industry of electrons.
+01:03:24.266 Exactly.
+01:03:25.900 It's governed by quantum mechanics.
+01:03:28.433 Right, right, right.
+01:03:29.600 It can be infinitely large.
+01:03:31.566 Yeah. And intelligence.
+01:03:34.333 Intelligence is so much more valuable
+01:03:39.300 compared to just moving things.
+01:03:41.133 You know, you think, chain of thought, reasoning.
+01:03:45.166 It's amazing. It's amazing.
+01:03:48.366 Yeah, Masa one of the things
+01:03:49.800 that we announced todaytogether is building the AI grid of Japan.
+01:03:54.933 Yeah, yeah.
+01:03:55.800 And the AI grid will have AI factoriesfor developing the AI models.
+01:04:01.400 It will have AI-RAN distribute
+01:04:04.600 the AI models all over Japan.
+01:04:07.766 The architecture of theAI factory in the AI-RAN
+01:04:10.933 that we worked on togetheris revolutionary.
+01:04:13.966 Yeah. The world has nothing like this.
+01:04:16.300 Japan will be the world's first.
+01:04:18.133 Yeah, every other telco will have to follow thisnew wave.
+01:04:21.500 Yeah. And. And so several things thatthat I want to ask you.
+01:04:27.300 So one, how would SoftBank use this yourselffor SoftBank and your subsidiaries?
+01:04:35.066 And how do you imagine this AI gridwill revolutionize AI here in Japan?
+01:04:41.633 Yeah, as you just mentioned our cell towersused to just carry bits 
+01:04:51.766 for the telecommunication and internetsurfing and so on.
+01:04:57.600 However, now with this intelligence network
+01:05:02.766 that we densely connect each other,
+01:05:06.800 becomes one big neural brain, right?
+01:05:10.666 For the infrastructureof intelligence for Japan.
+01:05:15.733 That will be amazing. - Yeah.
+01:05:17.666 You know, and of course, you could use itfor your subsidiaries like LINE, Yahoo Japan.
+01:05:24.100 And PayPay.
+01:05:25.466 That's right.- Yeah.
+01:05:26.600 And so it will create AIs to make all of your servicesmore enjoyable and more useful to your consumers.
+01:05:33.566 But one of the things that I'm very excited about ismaking this resource available so that, 
+01:05:39.833 so that, researchers and students,startup companies can flourish here in Japan.
+01:05:48.500 Yes, definitely.
+01:05:50.066 And with your support, we are creating the largest AI data center here in Japan, which,
+01:05:58.200 I'm talking with Miyakawa that we should providethis platform to many of those researchers,
+01:06:06.100 the students, the startups, so that we, we can encourage
+01:06:11.800 with, we are trying to subsidize so thatthey have a better access, much more compute.
+01:06:20.300 Yeah.
+01:06:21.000 Well, building infrastructureis very capital intensive.
+01:06:24.533 And you're making a very big bet on Japan. - Yes.
+01:06:27.400 You know that you and I have spokenabout this before. 
+01:06:31.133 In a lot of ways, Japan technology leddoing the mechatronics era.
+01:06:38.966 Yes.- During that industrial revolution
+01:06:41.100 when when mechanical technologyelectronics came together.
+01:06:45.533 In fact, even consumer electronics,
+01:06:48.400 during that age, Japanreally led the world, right?
+01:06:52.700 And then when, when theIT industry came and software came,
+01:06:57.533 there was a, there was a missthat I think the last three decades,
+01:07:02.233 as the software industries flourishedin the West and in China,
+01:07:08.200 really, Japan could have beenmore aggressive.
+01:07:12.433 Totally agree. Totally. Yeah.
+01:07:14.700 And back in those days,even to some extent today,
+01:07:20.766 big enterprise, the medias, the big grown up guys,
+01:07:26.066 they used to say, 'monozukuri'—meaning, ‘making physical stuff.’
+01:07:32.533 Physical stuff has the real value and the real meaning.
+01:07:38.166 And software is something virtualthat they don't trust, the value of software.
+01:07:44.733 That has been the mentality for many, many years in Japan that led
+01:07:52.366 young, startup guys, the young,you know, generations discouraged, 
+01:07:58.866 especially after the net bubble crash. 
+01:08:01.466 Everybody criticized. I was criticized a lot.
+01:08:06.100 And that really, you know, was sort oflike a punishment to the young stars.
+01:08:13.733 Made, you know, the, depressed feeling.
+01:08:19.000 I think we have to revive this passionwhich the robotics is bringing with AI.
+01:08:27.100 As you say, you know,bring AI intelligence into robotics.
+01:08:34.300 Astro Boy, in Japan, we call ‘Tetsuwan Atomu.’My favorite cartoon.
+01:08:42.800 You cannot just have the muscle.
+01:08:45.366 It has to have, intelligenceso that the robot can talk.
+01:08:49.765 Robot can have a passion,as a friend, you know.
+01:08:54.966 I think that kind of, front end challengeis, is very, very needed here.
+01:09:03.000 Yeah.
+01:09:03.966 Yeah, I think the software era was, is now,
+01:09:09.500 The good news is thatthis is the beginning of a new era.
+01:09:14.265 Yeah. Reset.
+01:09:15.533 Once more, reset. Reset button.
+01:09:17.666 That’s right.
+01:09:18.832 The industry is in reset.
+01:09:21.366 And you could see that the entire stackis being reset because the companies
+01:09:26.366 of the last generation arenot doing so well in this new generation.
+01:09:30.899 That's right.
+01:09:31.500 And so there's an emergence of a wholenew stack, a whole new opportunity.
+01:09:35.933 Right.
+01:09:36.200 Japan must take advantage.Must take advantage of this time.
+01:09:40.765 And artificial intelligence is verydifferent than software.
+01:09:45.265 Artificial intelligence requiresthat you have data,
+01:09:48.600 that you have domain expertise. Yes.
+01:09:51.700 If you are an artist,you have domain expertise, 
+01:09:55.633 if you develop video games,you have domain expertise.
+01:09:58.200 If you look for drugs, you discover drugs,you have domain expertise.
+01:10:02.933 If you have domain expertise,you can describe your expertise in data.
+01:10:08.300 That data could be used to trainan AI model.
+01:10:11.066 That AI model becomesyour artificial intelligence.
+01:10:14.066 That's right. At least, Japanese government is not trying to,
+01:10:20.233 you know, depress the, this AI revolution.
+01:10:24.300 Some of the other countries, they try to be overprotective
+01:10:29.733 of the, intelligence, artificial intelligence,
+01:10:34.066 so the regulation goes a little crazy. 
+01:10:37.800 Here in Japan, at least we are lucky that this time Japanese government
+01:10:43.133 seems not, you know, trying to,depress, at least no handicap.
+01:10:51.800 So I think,
+01:10:55.600 but they should encourage more.
+01:10:57.600 They should encourage more.
+01:10:59.233 As you said, this is the reset.
+01:11:01.933 This is the catch up momentfor this new revolution.
+01:11:06.800 We can't miss this time.
+01:11:08.700 Cannot miss this time.
+01:11:09.700 And of course, in order to be partof the AI revolution, you need, this time,
+01:11:15.200 you need infrastructure.- Right.
+01:11:17.066 This type of software,because it's machine learning.
+01:11:20.066 We’re gonna buy a lot of your chips.
+01:11:21.800 Well, thank you, thank you. - Yes.
+01:11:26.100 And and, you need infrastructure. You need AI factories. 
+01:11:32.033 Without the infrastructure,it's not possible to create AI.
+01:11:35.133 Totally.
+01:11:36.633 That's the reason why SoftBank is buildingthe AI grid in Japan. 
+01:11:40.866 And you will catalyze, you will activate,you’ll turbocharge all of the activity that's here already.
+01:11:47.066 We're going to show by our example.
+01:11:49.433 Yeah.
+01:11:50.266 And hopefully, todaywe have 350 startups in Japan.
+01:11:55.666 350 startups that we work with out of 22,000 in the world.
+01:12:01.433 Yeah.
+01:12:02.733 It makes no sense.
+01:12:04.466 That's right.
+01:12:05.800 And so we we must encourage,the young entrepreneurs, the innovators.
+01:12:11.100 Yeah, yeah.
+01:12:11.500 To jump, to leap, to engage AI.
+01:12:15.166 The infrastructure is coming.
+01:12:17.100 Yeah. So as I said,
+01:12:19.866 Miyakawa and I are discussing,
+01:12:22.133 we're going to create the largestAI data center here in Japan.
+01:12:27.500 So we are going to provide
+01:12:30.133 a lot of encouraging program.
+01:12:33.166 Subsidize the compute power,
+01:12:36.633 so that they can they can use almost free.
+01:12:41.266 Okay, almost free to try out the new models,
+01:12:46.600 try out the, you know, whatever, the applications of AI.
+01:12:52.766 You should also help with some donation, right?
+01:12:57.766 Okay.
+01:12:58.966 Hey, Jensen! For some sort of startup, and researchers—
+01:13:05.000 This is the last time I'm inviting myself to—Every time I see Masa, it costs me money.
+01:13:15.866 Yeah. That's good for everybody. 
+01:13:19.000 Yes, yes. Yeah. Very happy about that.
+01:13:21.400 Masa, what are you most excited aboutfor the future of AI in Japan?
+01:13:25.766 What do you hope? What is your dream?
+01:13:28.533 Well, look, you know, as you say,I am passionate about, AI robotics.
+01:13:36.566 I think the medical solutions, I think medical agents is definitely coming.
+01:13:48.633 I think a lot of, new agents.
+01:13:57.000 You know, so we have LINE,
+01:13:59.866 we have Yahoo and other services, Paypay.
+01:14:04.000 We can make many specific AI agents for, for helping Japanese lifestyle.
+01:14:16.033 That cannot just come from
+01:14:18.700 US, you know,we know about Japanese behaviors,
+01:14:22.800 the cutures, the local intelligence and APIs
+01:14:30.800 to many, many, sites in Japan.
+01:14:35.000 So that I think, agents,
+01:14:39.500 I think every—you mentioned about, enterprise AI agents,
+01:14:46.733 definitely I support that.
+01:14:48.300 I'm excited about that.
+01:14:49.566 But also, I think personal agents willreally come to every one of us.
+01:14:58.533  Bill gates said, the PC on every desktop.
+01:15:04.000 Steve said, a smartphone in every hand.
+01:15:10.600 I think now we should say, AI agents to everybody.
+01:15:16.966 So each of usshould have our own personal agents.
+01:15:20.333 That's right.
+01:15:21.200 That will help make our plans for trips,vacations. Right? Education.
+01:15:28.933 And it follows you your whole life.
+01:15:30.500 Yeah. Yeah.
+01:15:31.833 Could you imagine an AI agentthat knows you your whole life?
+01:15:35.633 Exactly.
+01:15:37.200 Our grandkids, they grow up with, iPhones from, you know, age one, right?
+01:15:45.633 They talk, and every timethey see some picture, they do this
+01:15:51.233 even with a still picture.
+01:15:54.900 Right?
+01:15:55.900 Because they are born the,you know, with two fingers, they can
+01:16:00.466 they think, you know,every picture can be, blown up.
+01:16:04.333 In the future, they'll see a picture,they'll talk to it.
+01:16:06.700 Right. They talk. 
+01:16:07.600 They'll hope it talks back.You can ask it questions.
+01:16:10.166 They will have agent, their personal agentssince the age of one
+01:16:15.133 and their personal agent, like your,you know, second buddy to see you
+01:16:22.933 grow together with you knows everything.
+01:16:27.066 You are sick. You know, your health.
+01:16:29.433 Your tutor.
+01:16:29.966 Yeah. Yeah.
+01:16:31.033 Since you were a child.
+01:16:32.300 Exactly.
+01:16:33.033 Yeah. Remember everything that you read?
+01:16:34.633 Remember everything that it taught you,right?
+01:16:36.966 That. Yeah. Your personal Aristotle.
+01:16:40.400 Totally, totally digital twin. You know?
+01:16:44.000 I think that is really coming and having, you know, 
+01:16:50.066 Japanese domestic knowledge, culture and so on, homegrown agents will have a huge, amazing future. 
+01:17:03.633 You know, one of the thingsMasa, that countries are awakening to
+01:17:08.333 is that the data of their country,
+01:17:12.466 their, their citizens' data,
+01:17:16.500 encodes the country's knowledge,
+01:17:19.700 its culture, its intelligence.
+01:17:23.400 And that data belongs to the countrylike its national resources.
+01:17:27.866 National security, national security.
+01:17:30.666 So that country, every country,should process that data, process
+01:17:35.233 and turn it into itsAI for its own people.
+01:17:38.233 Totally, totally.
+01:17:39.566 Makes no sense to outsourcethat to somebody else.
+01:17:42.066 Oh, this is this is very, very important.It's a sovereign data center. 
+01:17:48.200 Their each sovereign, each country, each governmenthave to migrate, their national security data
+01:17:59.300 into their own data center,AI data center.
+01:18:03.833 That becomes the,
+01:18:06.866 something that you have to havein your own country.
+01:18:10.266 Each country have to havenational security, data security.
+01:18:16.266 I think that will become, regulated to each protection of each country.
+01:18:21.433 Yeah. Every country, every countrywill produce its own intelligence.
+01:18:25.933 Of course, every companywill produce their own intelligence.
+01:18:29.066 Their own AI.
+01:18:30.166 How is it possible that a company,
+01:18:33.466 does not create its own AI?
+01:18:35.633 Yeah.
+01:18:36.000 A company doesn't— 
+01:18:36.966 It’s like giving your brain away to somebody else.
+01:18:39.333 That's right, that's right.
+01:18:41.133 And so I think, I think,the world is awakening to this idea.
+01:18:45.666 And the most important part is the first part, is that a national grid, an AI grid, has to exist.
+01:18:52.833 Right.
+01:18:53.400 You cannot have an automotive industryif there are no roads.
+01:18:57.800 Totally, totally.
+01:18:59.433 You know, and so so now you havebuilt the AI roads for Japan. 
+01:19:05.166 On top of it, you know, all kinds of new services,new companies can flourish.
+01:19:10.933 Totally.
+01:19:11.266 So really, really excited about that.
+01:19:13.733 Well, Masa-san.
+01:19:17.633 Could you imagine
+01:19:20.533 if today,
+01:19:23.400 you were the largest shareholder.
+01:19:25.600 Oh my God.
+01:19:30.166 [laughs]
+01:19:32.033 Yeah. We tried this.
+01:19:34.133 We tried, we tried to.
+01:19:35.466 It was three times.
+01:19:36.900 Was it three times?I thought it was two times.
+01:19:38.000 No, no. The first time, we became yourshareholder by ourselves buying from the market.
+01:19:45.900 We talked about the, you know, the...
+01:19:51.933 We even talked about.
+01:19:53.766 Some things we can share.- Right?
+01:19:56.433 You and I had a private talk.
+01:19:59.066 I don't want, don't say it.
+01:20:02.200 You know, ten years ago—- Oh, I know. I have regretted it. 
+01:20:05.900 —in my garden.
+01:20:07.200 All right. There's nothing. Okay, let me tell you what Masa said.
+01:20:12.000 Are you guys ready?
+01:20:13.766 So Masa said, “Jensen, the market does notunderstand the value of NVIDIA.
+01:20:24.466 Your future is incredible. But the marketdoesn't understand it.”
+01:20:29.433 That was ten years ago.
+01:20:30.733 “And your journey of suffering will continue for some time.Because you are inventing this future.”
+01:20:41.600 “ So, let me give you the money to buy NVIDIA.”
+01:20:50.000 He wanted to lend me money to buy NVIDIA.
+01:20:52.700 All of it.
+01:20:56.500 Now I regret not taking you up on it.
+01:21:01.000 That was a great idea.
+01:21:03.500 Oh, that was a great idea right?
+01:21:05.400 Now, now we're both sad. 
+01:21:07.833 That was one month after I acquired Arm.
+01:21:11.666 Yes, yes.
+01:21:13.466 And then we talked aboutcombining the two companies.
+01:21:16.433 That was another. Another.That was a good dream too.
+01:21:19.700 That was the third one.That was the third attempt.
+01:21:22.400 Yeah, right.
+01:21:23.866 The first we talked about this privatizing
+01:21:28.833 and then second was weI just bought from the market.
+01:21:34.166 And then the third time was merging.
+01:21:37.366 Three attempts!
+01:21:40.300 Oh my god.
+01:21:44.800 Well now we are going to
+01:21:47.300 we're going to createincredible value together.
+01:21:50.033 So NVIDIA and SoftBankare going to partner together.
+01:21:52.533 Yeah. The market is so huge!
+01:21:54.300 It's incredible.
+01:21:55.733 So huge, so huge.
+01:21:57.566 And so I am so happy.
+01:21:59.333 I'm so happy that that we're doingsomething of this great significance.
+01:22:03.433 Yeah.
+01:22:04.066 Here in Japan, I, I am very hopeful.
+01:22:07.600 Well, this is just the beginning.
+01:22:08.833 We're going to do many,many things together.
+01:22:11.100 Thank you.
+01:22:11.533 And the industry is so big and, you know,Arm has lots of mobile and IoTs and autos.
+01:22:21.100 And you have a great datacenters and games and so forth.
+01:22:26.500 Many, many things that we can collaborate.
+01:22:29.933 I'm looking forward to it. Yeah.Masa-san!
+01:22:32.500 Ladies and gentlemen, Son-san.
+01:22:35.433 Yeah.
+01:22:37.666 Unquestionably one of the great entrepreneursthe world ever seen.
+01:22:43.033 No, no. You are the greatest. - Thank you so much, thank you.
+01:22:47.000 Thank you. Masa-san.
+01:22:57.533 You could seeyou could see his passion for AI.
+01:23:00.566 The work, the partnership that we'redeveloping is going to bring an AI grid
+01:23:04.733 throughout Japan from the factoryto the distributed AI-RANs.
+01:23:09.333 Before I before I leave, I wantto welcome all of you to AI Summit.
+01:23:14.500 We have so many sessions here,so many partners here.
+01:23:17.100 Our purpose.
+01:23:18.600 Our purpose is to partner with you,
+01:23:21.133 to bring AI, to activate AI here in Japan,
+01:23:24.600 and to use this reset, this opportunity,where technology has reset
+01:23:31.633 for us to transform the companies
+01:23:35.033 and to create the nextgreat companies here in Japan.
+01:23:38.033 Japan has always been dear to me.
+01:23:40.333 Most of you do not know
+01:23:43.266 that if not for Japan
+01:23:47.400 and I mean this very seriously,
+01:23:49.600 if not for Japan,NVIDIA would not be here today.
+01:23:53.300 And there's a reason for that.
+01:23:55.500 If not for Japan,we would have not seen the first
+01:23:59.266 AI supercomputer, CUDA supercomputer built.
+01:24:02.566 So Japan has been very dear to mefor a very long time.
+01:24:06.333 I'm very grateful for our partnership.
+01:24:07.966 I'm very grateful for your friendship.
+01:24:10.100 And I made a small videoto share with you.
+01:24:14.966 Please run it.
+01:24:19.966 “If there is a heart in the fish, there is a heart in the water.”
+01:24:27.000 Our friendship with Japan began 30 years ago.
+01:24:32.000 “Ready? Go!”
+01:24:34.000 We had a dream to reinvent 3D graphics.
+01:24:37.200 SEGA, with its groundbreaking 3D games,
+01:24:40.800 chose NVIDIA to build its next game console.
+01:24:44.000 But it became clear our unconventional approach
+01:24:47.800 would not live up to our vision.
+01:24:50.933 With humility, we asked SEGA’s Irimajiri-San
+01:24:54.400 to release us from our obligations.
+01:24:57.200 He generously agreed,
+01:24:59.133  giving us the time needed to invent the GPU,
+01:25:02.833 a chance for success — saving our company.
+01:25:07.400 In the years since, we've worked with Japan to redefine gaming
+01:25:13.033 on the PlayStation 3,
+01:25:16.333 SEGA Arcades,
+01:25:19.633 and the Nintendo Switch.
+01:25:22.300 And created a medium for telling beautiful stories.
+01:25:29.533 With the invention of CUDA,
+01:25:31.200 we transitioned from a gaming company
+01:25:33.600 to a computing company.
+01:25:37.133 As we expanded into the world of Supercomputing and AI,
+01:25:40.733 it was Japan's then Tokyo Tech
+01:25:43.300 that first saw the promise of GPU accelerated computing.
+01:25:50.633 “It’s just the beginning of GPU acceleration becoming mainstream.”
+01:25:54.600 Less than a decade after Tsubame,
+01:25:57.000 we introduced DGX-1.
+01:26:00.100 The AI computer that changed the world.
+01:26:03.600 “A GPU is not just a GPU anymore.”
+01:26:06.933 NVIDIA and AI are now at the center
+01:26:09.600 of a new industrial revolution.
+01:26:17.466 From the beginning,
+01:26:19.366 Japan has been a friend on the NVIDIA journey.
+01:26:23.066 And our story together is just getting started.
+01:26:41.600 Thank you, Japan. Have a great AI Summit. Thank you.

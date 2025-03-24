@@ -1,0 +1,1388 @@
+# tactiq.io free youtube transcript
+# The Winding Path of Progress | Sam Altman | Talks at Google
+# https://www.youtube.com/watch/iRwk9UajXFg
+
+00:00:00.000 [MUSIC PLAYING]
+00:00:02.904 
+00:00:07.747 JORGE CUETO: Hi, everyone.
+00:00:08.830 Welcome to our Talksat Google event.
+00:00:11.070 I'm going to go throughsome logistics first.
+00:00:13.140 This is a fire sidechat style talk.
+00:00:15.440 So it will take about 40 minutesto talk through some questions.
+00:00:19.240 And then in the last 20 minutes,we'll open up to the audience
+00:00:22.890 to submit questions, bothin person here through a mic
+00:00:26.250 in the back of the room and alsothrough the Dory at go/ask-sam.
+00:00:32.340 And I'd like to thankeveryone who has helped out
+00:00:34.950 to make this talk possible,including our facilities
+00:00:37.710 team and everyone on the PMspeaker series organizing team.
+00:00:43.580 So it's great to have SamAltman here with us today
+00:00:45.920 for Talks at Google.
+00:00:47.960 Sam is the Presidentof Y Combinator, which
+00:00:50.750 is widely regarded asone of the top startup
+00:00:53.420 incubators in Silicon Valley.
+00:00:55.700 He went to Stanford andstudied computer science
+00:00:58.280 and was the founder and CEO ofa mobile location-based startup
+00:01:04.730 called Loopt, which wasfunded by YC as part
+00:01:07.700 of its first classof startups in 2005
+00:01:10.670 and acquired by a financialservices company Green
+00:01:14.180 Dot in 2012.
+00:01:15.950 In 2014, he was namedpresident of Y Combinator.
+00:01:19.700 And since then, he's workedon a wide range of initiatives
+00:01:22.550 from YC Research, which isa non-profit branch of Y
+00:01:26.150 Combinator that focuseson doing pure research
+00:01:29.090 around moon-shot ideas,like universal basic income.
+00:01:32.780 And he's also worked on OpenAI,which is a non-profit AI
+00:01:36.560 research company lookinginto finding ways
+00:01:39.950 to create safe, friendlyartificial intelligence that
+00:01:43.280 can actually helpall of humanity.
+00:01:46.590 And it's great to have you here.
+00:01:48.360 SAM ALTMAN: Thanksfor having me.
+00:01:49.800 JORGE CUETO: Sojust as I mentioned,
+00:01:51.300 you're involved in a wide rangeof things from YC to OpenAI.
+00:01:54.470 And most recently, youreleased The United Slate
+00:01:57.800 So I wanted to ask you howyou think about prioritizing
+00:02:01.040 the projects that you work on.
+00:02:04.078 SAM ALTMAN: You know, Ithink optimal time allocation
+00:02:06.830 is probably like anAI complete problem.
+00:02:10.130 I think if you can get tospending like 1% of your time
+00:02:12.860 perfectly, that's really good.
+00:02:14.960 And so I think this idea offiguring out what to focus on
+00:02:18.440 and what not to focus on isboth really hard and still
+00:02:24.770 significantly under-invested in.
+00:02:27.170 The frameworks thatI have used, the sort
+00:02:29.230 of two big frameworks thatI've used to figure out
+00:02:32.330 how to allocate time, oneis impact maximization
+00:02:37.480 slash regret minimisation.
+00:02:39.850 So I try to look at thosetwo curves together.
+00:02:42.370 And I try to think aboutwhere I can have the biggest
+00:02:45.505 net impact on the world, netpositive impact on the world.
+00:02:50.680 Easy to have a big impact.
+00:02:54.610 And then, also, justregret minimization.
+00:02:56.380 You know, you get to live once.
+00:02:58.222 It's really important thatyou do what you want to do
+00:03:00.430 and that you spend timewith the people you'd
+00:03:02.394 like to work with andwork on the things
+00:03:04.060 that you findpersonally fulfilling.
+00:03:05.559 And so if I think I'm going toreally regret doing something
+00:03:08.740 or regret not doingsomething, even
+00:03:11.530 if I think it's not the bestuse of my time for a pure sort
+00:03:14.620 of net impact onthe world, I'm still
+00:03:17.320 willing to take thatreally seriously.
+00:03:20.230 And I think thatmakes me do better
+00:03:21.940 at the things I dothat do help the world.
+00:03:24.410 So you know, thebroad things that I've
+00:03:27.370 learned that I like to do--
+00:03:28.840 one is teach people.
+00:03:31.240 Another is createeconomic growth.
+00:03:33.610 I really do believe that oneof the things that is most
+00:03:36.970 fundamentally going wrongright now in the country
+00:03:39.640 is that we don't haveenough economic growth.
+00:03:41.830 And the little that we do isnot evenly distributed at all.
+00:03:45.020 And so I think in ademocracy you really
+00:03:48.910 want everyone's lives toget better every year.
+00:03:50.920 We're basically insensitiveto the absolute quality
+00:03:54.070 of our lives andextremely sensitive
+00:03:55.720 to relative differences yearover year to our neighbors.
+00:03:58.930 And it's really importantthat everyone's life
+00:04:00.970 is getting better constantly.
+00:04:02.920 And I think economic growthis important in that.
+00:04:05.380 I think that AI isgoing to be the most
+00:04:09.310 important technologicaltrend of our lifetime.
+00:04:11.330 So I spend a lotof my time on that.
+00:04:16.029 And you know, I tryto think about things
+00:04:18.610 on those two strategies.
+00:04:20.500 The other framework besides thesort of impact maximization,
+00:04:23.350 regret minimization thatI found really useful
+00:04:26.230 is spend a little bit ofeffort trying a lot of things,
+00:04:30.670 and then relentlessly prunedown and focus quickly
+00:04:33.379 on the ones that youlike and the ones that
+00:04:35.170 seem to be working.
+00:04:36.680 So in some sense, this is the YCombinator model of fund a lot
+00:04:40.810 of startups with alittle bit of money.
+00:04:43.480 And then, you know,most don't work out,
+00:04:45.247 and some work really well.
+00:04:46.330 You spend more time and moremoney on the ones that do.
+00:04:50.810 Hey, guys.
+00:04:52.030 This is the thing that I'vetried to apply to my life more
+00:04:56.620 generally is this idea thatI can try a lot of things
+00:05:00.220 with a little bit of effort.
+00:05:01.510 It's very hard to predictexactly what's going to work
+00:05:03.760 and what hasn't.
+00:05:05.050 But then the hardpart about that,
+00:05:07.151 the thing that mostpeople don't do,
+00:05:08.650 is you really want torelentlessly focus down
+00:05:11.050 on the ones that do work.
+00:05:12.670 
+00:05:15.101 And the last thing I'llsay about prioritization
+00:05:17.100 is the other hackI have learned is
+00:05:19.350 if you can get one reallygreat partner with you
+00:05:23.370 on every project, that willcover up a lot of the slack.
+00:05:26.820 Because if you try to domultiple things at once,
+00:05:29.160 crises come at the same times.
+00:05:30.830 And that's really hard if youhave to do it all yourself.
+00:05:33.489 JORGE CUETO: And focusingmore specifically
+00:05:35.280 on productivity, whatare some life hacks maybe
+00:05:38.160 you apply to make youreveryday more productive?
+00:05:41.652 SAM ALTMAN: I mean,I think there's
+00:05:43.110 like a lot of crap writtenabout productivity,
+00:05:45.470 secrets on the internet.
+00:05:46.470 And people sort of likeget into this thing
+00:05:49.080 where they spendmore time trying
+00:05:50.970 to be productive abouttheir productivity system
+00:05:52.455 than actuallygetting things done.
+00:05:53.871 
+00:05:59.000 Well, say two, Ithink, pieces of advice
+00:06:01.100 that aren't that obvious.
+00:06:03.200 One is, I think,far more important
+00:06:06.080 than any particular systemis just figuring out
+00:06:08.360 the right things to work on.
+00:06:09.584 And so all of thetime that people
+00:06:11.000 spend with this newproductivity app or that
+00:06:13.970 or whatever wouldbe better spent
+00:06:16.130 like really trying tothink diligently about I
+00:06:19.620 have the same number ofhours as anybody else.
+00:06:22.055 What am I goingto spend them on?
+00:06:23.430 And getting that right ismore important than exactly
+00:06:26.009 like being perfectlyproductive with those hours.
+00:06:28.050 
+00:06:30.660 A big part of that is notdoing things that waste time.
+00:06:33.540 I think if you can just focuson the things that are important
+00:06:36.960 and not do the thingsthat waste time,
+00:06:39.150 you can be fairly sloppywith productivity otherwise,
+00:06:41.390 and you'll still get farmore done than most people.
+00:06:44.070 
+00:06:47.339 It's really hard to do, though.
+00:06:48.630 The other thing that I thinkpeople don't think about enough
+00:06:52.100 is figuring out yourown personal rhythms
+00:06:55.100 of productivity.
+00:06:56.840 And there's hugevariance, I've noticed,
+00:06:58.520 between people thatfigured this out and don't.
+00:07:01.400 So for me personally,it turns out
+00:07:03.710 that I am most productive if Igo to sleep late, wake up late,
+00:07:07.970 and then keep the first likethree or four hours of the day
+00:07:10.550 and don't schedule anymeetings, like work from home,
+00:07:13.400 get there my list ofstuff then, and then pack
+00:07:15.800 all my meetings when I'm kindof less productive at just
+00:07:18.230 grinding stuff out or thinkingcreatively in the afternoon.
+00:07:22.460 And it took me some numberof years to figure out,
+00:07:25.820 because it didn't fitwell with the work
+00:07:28.400 schedule I was naturally in.
+00:07:29.619 But then I was like, all right.
+00:07:30.910 If this is the thing thatmakes me most productive,
+00:07:34.520 then I'm going to make my wholeschedule work to support that.
+00:07:38.610 And that was a reallyimportant change for me.
+00:07:40.950 So I think figuring out yourown personal optimal times
+00:07:45.290 to work on what kindof different things,
+00:07:47.452 people don't reallytalk about that much.
+00:07:49.160 And at least for me,it had a huge impact.
+00:07:51.320 JORGE CUETO: Shiftinggears a little bit,
+00:07:53.028 but still trying to get yourperspective on different things
+00:07:56.630 related to day to day, butone of the key issues that
+00:07:59.030 has come up recently isbias in the workplace.
+00:08:02.780 and both consciousand unconscious bias.
+00:08:05.630 And I wanted to getyour perspective
+00:08:07.130 on what are some of thestrategies that you implement
+00:08:09.860 personally, whether inthe way you interact
+00:08:12.200 with people that you encounteror in how you approach
+00:08:15.320 the decision making processand using strategies
+00:08:19.070 to minimize your own bias.
+00:08:22.940 SAM ALTMAN: Look,I think this is
+00:08:24.440 an important conversationhappening in Silicon Valley
+00:08:26.750 right now.
+00:08:27.270 And there's a lot ofopinions on a lot of sides.
+00:08:28.790 But I would just liketo say the following.
+00:08:30.581 I think no matter what youbelieve about biology, no one
+00:08:37.070 that I respect doesnot believe that women
+00:08:40.700 and racial minorities anda number of other groups
+00:08:43.070 face an absolutelyunfair playing field
+00:08:46.940 their entire lives.
+00:08:47.850 I think people start gettingtold directly or indirectly
+00:08:50.330 from the very young age thisis the kind of thing you should
+00:08:53.900 do or can do or whatever.
+00:08:55.670 And that has an effect, a[INAUDIBLE] effect on anyone.
+00:08:58.680 And I think trying to counterthat is really important.
+00:09:02.240 And again, I thinkthere are things
+00:09:07.000 reasonable well-meaningpeople can disagree on.
+00:09:09.497 I think, unfortunately, wespend all of our time talking
+00:09:11.830 about the disagreements.
+00:09:13.150 And we don't focusenough on the agreements.
+00:09:15.320 And I think almost allsmart, reasonable people will
+00:09:19.030 agree that thesociety we grew up in
+00:09:22.480 has a hugely unfairplaying field.
+00:09:27.580 And I think becauseof that, it is not
+00:09:30.010 enough to talk aboutunconscious bias.
+00:09:32.020 I think that is a realproblem to be clear.
+00:09:34.280 I think we are all a productof the society we grew up in.
+00:09:37.300 And we all have biasesthat aren't our fault,
+00:09:39.460 but still have aresponsibility to counteract.
+00:09:42.760 But one thing I don't likeabout the discussion in Silicon
+00:09:46.870 Valley aboutunconscious bias and how
+00:09:48.460 that's the problem thatwe need to fix is I
+00:09:51.220 think it is notnearly sufficient.
+00:09:54.020 A good thing to fix,but it ignores the fact
+00:09:57.010 that, you know, decadesor centuries of society
+00:10:01.950 have built up a veryuneven playing field,
+00:10:06.120 and that is why we doneed programs to try
+00:10:09.810 to proactively counter that.
+00:10:11.790 So you know, I think it'sreally important we not
+00:10:15.600 lose sight of that.
+00:10:16.660 And that unconsciousbias training alone,
+00:10:18.649 although currently veryfashionable, will not fix that.
+00:10:20.940 That said, I do believeunconscious bias is a problem.
+00:10:24.930 We try to counteract it,A, by talking about it
+00:10:28.350 and doing training,which I think does help.
+00:10:31.440 But B, I think oneof the things that we
+00:10:35.089 have done that, unfortunately,other investors have not
+00:10:37.380 done as much is just havea very diverse partnership.
+00:10:42.420 You know, we have sixfemale GPs on our team.
+00:10:48.020 And that's probably a large partof the women in top investing
+00:10:52.570 roles in Silicon Valley.
+00:10:54.000 And that's really bad.
+00:10:55.050 We have the CEO of ourcorp program is black.
+00:10:58.680 And I hate to playthe kind of like,
+00:11:01.630 who's the mostdiscriminated stack game.
+00:11:03.320 But I think blackentrepreneurs in Silicon Valley
+00:11:05.800 have an exceptionally hard time.
+00:11:08.560 And I think by havinga more diverse team,
+00:11:11.650 it helps us havebroader networks
+00:11:14.500 and also think about our ownunconscious bias all the time.
+00:11:19.120 JORGE CUETO: And the issue ofpolitics or maybe even bringing
+00:11:22.870 these issues of in the workplaceis sometimes seen as a taboo.
+00:11:26.680 And yet, you've been prettyvocal about your views
+00:11:29.890 on current political eventsand also other issues
+00:11:32.789 that are coming upin Silicon Valley.
+00:11:34.330 So I wanted to askyou how you walk
+00:11:36.790 that fine line betweenexpressing your opinions,
+00:11:39.500 but also minimizingany repercussions
+00:11:41.510 that that could have on theday to day business of YC.
+00:11:44.770 SAM ALTMAN: Well, now it'snot even controversial.
+00:11:47.110 You know, like now,all the tech CEOs
+00:11:49.855 are talking about politics.
+00:11:50.980 
+00:11:53.560 When I started doingit a couple of years
+00:11:56.560 ago kind of at the beginningof the rise of Trump,
+00:11:59.770 it was controversial.
+00:12:01.680 Two things were going on.
+00:12:02.990 One is I think no onetook him seriously.
+00:12:07.920 So most people werelike, yeah, this
+00:12:09.420 is a ridiculous thingthat's going to go away.
+00:12:11.440 Two is that I thinkin normal times,
+00:12:16.290 it does make sense for businessleaders of large organizations
+00:12:20.880 to remain apolitical.
+00:12:23.290 You know, I think it actuallydoes make a lot of sense.
+00:12:27.510 It's a huge distraction.
+00:12:29.680 It's hugely time consuming.
+00:12:31.230 And it has all of these,like, weird negative effects,
+00:12:33.630 like you know, if youpiss off the president,
+00:12:36.090 he can do bad things to you.
+00:12:37.480 
+00:12:40.030 However, these arenot normal times.
+00:12:43.180 And I think when the futureof the republic is at risk,
+00:12:50.680 the duty to thecountry and our values
+00:12:53.590 transcends the duty toyour particular company.
+00:12:56.890 and your stock price.
+00:12:58.870 And I think I startedthat a little bit
+00:13:01.660 earlier than other people.
+00:13:03.107 But at this point, I'min very good company.
+00:13:04.940 And it doesn't seem to bethat controversial anymore.
+00:13:07.915 JORGE CUETO: Whatare some things
+00:13:09.290 that you wish peopleknew about you that they
+00:13:11.726 don't know about you?
+00:13:12.600 
+00:13:15.720 SAM ALTMAN: Youknow, at this point,
+00:13:17.220 I would just like to have my ownlittle quiet private life back.
+00:13:23.370 I'll say nothing at all.
+00:13:24.810 JORGE CUETO: OK.
+00:13:25.680 Fair answer.
+00:13:26.220 
+00:13:29.970 Moving on to talkinga little bit about YC
+00:13:32.160 and what you look forin companies, are there
+00:13:34.560 qualities in foundersthat you think
+00:13:37.530 are overrated or underrated?
+00:13:40.272 SAM ALTMAN: Yeah.
+00:13:40.980 I think the mostunderrated quality of all
+00:13:46.580 is being really determined.
+00:13:49.370 This is more importantthan being smart.
+00:13:51.410 This is more importantthan having a network.
+00:13:53.290 This is more importantthan a great idea.
+00:13:55.280 The hardest thing aboutstarting a company
+00:13:58.010 is the level and thefrequency of bad stuff
+00:14:03.150 that happens to you.
+00:14:04.320 And most people that aregood in really other ways
+00:14:07.110 eventually just getkilled, the company
+00:14:09.120 gets killed, bystuff going wrong.
+00:14:12.480 And you know, so much aboutbeing a successful entrepreneur
+00:14:16.680 is just not giving up.
+00:14:19.260 When we have fundedpeople who have
+00:14:21.540 a great idea, perfect backgroundon paper, and a great product
+00:14:27.690 and still failed, it hasusually been that they're
+00:14:30.450 insufficiently determined.
+00:14:31.740 So I think this is the mostimportant non-obvious skill
+00:14:34.650 of a founder.
+00:14:35.244 Of course, you need a goodproduct and a good market
+00:14:37.410 and to be smart.
+00:14:38.370 But that's really obvious.
+00:14:40.500 The degree to which beinglike a three or four
+00:14:44.670 standard deviationoutlier on determination
+00:14:47.250 is a required skillof a CEO is not
+00:14:50.190 something that was obviousto me when I started.
+00:14:54.450 That's also bad, becauseit's really hard to select.
+00:14:56.670 It's really hardto identify that.
+00:14:58.740 As we have said more publiclyhow important that is,
+00:15:02.790 people applying to YC havegotten better and better
+00:15:05.220 at telling us stories fromtheir past life about how
+00:15:08.010 they overcame these impossibleodds to get through something.
+00:15:12.330 And unlike intelligence, whichis very difficult to fake in a,
+00:15:17.730 you know, one hourmeeting, you can definitely
+00:15:19.890 fake determination ina one hour meeting.
+00:15:23.280 So that's one thingthat really matters.
+00:15:26.880 Another thing that reallymatters that is non-obvious
+00:15:30.630 is independent thought.
+00:15:32.400 And this I think is aneven more unusual skill
+00:15:37.290 than determination.
+00:15:38.862 I think both of these youcan make a conscious effort
+00:15:41.070 and build up.
+00:15:42.000 But I think independent thoughtis one of the hardest skills
+00:15:47.410 to build up.
+00:15:51.250 Because speaking of socialpressures from birth,
+00:15:56.080 we are all pushed tothink like other people.
+00:15:59.540 And if you thinkin your own lives
+00:16:01.270 about the number of people youspend time with that you would
+00:16:03.910 say are true independentthinkers that consistently have
+00:16:07.885 new ideas you haven'theard from other people
+00:16:09.760 and think about theworld in different ways,
+00:16:12.830 it's probably a very short list.
+00:16:15.554 And yet, these arethe people that start
+00:16:17.220 all the interesting companies.
+00:16:18.580 The consensus ideais everyone tries
+00:16:20.710 Google will eat your lunch at.
+00:16:23.390 And they're also not kindof the really big trends
+00:16:27.670 of the future.
+00:16:28.420 You want startup ideas--
+00:16:30.590 if you picture a Venndiagram, and here you
+00:16:32.620 have is a goodidea, and here you
+00:16:36.130 have sounds like a bad idea, youwant that tiny little overlap.
+00:16:41.370 And those are the kind ofideas that are the hardest
+00:16:44.940 to identify andthe ones that, even
+00:16:48.720 if you do manage to notice them,most people will talk you out
+00:16:51.510 of.
+00:16:52.110 So I'd say those are twonon-obvious skills that we
+00:16:54.630 look for.
+00:16:55.579 JORGE CUETO: Andwhat's one challenge
+00:16:57.120 that YC companies facerepeatedly that you notice?
+00:17:00.885 
+00:17:04.260 SAM ALTMAN: Hiring engineers,when Google can just sort of
+00:17:07.829 like throw unlimitedcash at anyone they want,
+00:17:10.126 has become veryproblematic for startups.
+00:17:11.834 
+00:17:15.020 I think the goodthing about that--
+00:17:16.848 I always try to find thegood in any bad situation.
+00:17:20.839 And the good thingabout this is it
+00:17:23.540 means that all of thereally good startups
+00:17:28.910 have really important missions.
+00:17:30.889 Eventually, they figure it out.
+00:17:32.180 They may not have it on dayone, but they eventually
+00:17:34.346 get to this, like,missionary mindset.
+00:17:37.700 And it used to be that evenif you didn't have that,
+00:17:41.059 you could just sort ofget a bunch of mercenaries
+00:17:43.100 to come work for you.
+00:17:44.120 And now you can't, becauseyou can't [INAUDIBLE] Google.
+00:17:46.453 And so one positive sideeffect of this thing
+00:17:49.700 has been that the importancenow of a startup having
+00:17:55.790 a really clear and reallyimportant mission on day three
+00:17:59.810 has gone up a lot.
+00:18:00.640 And I think that's leadingto better startups.
+00:18:02.030 Because, otherwise,you just can't recruit.
+00:18:03.821 
+00:18:06.240 Another common problemthat startups have--
+00:18:08.220 and this doesn't soundlike a great insight.
+00:18:11.580 But most startups stilldon't ever built a product
+00:18:14.790 that people want.
+00:18:17.230 And it doesn't seem to matterhow much we talk about this.
+00:18:21.912 It doesn't seem to matter howmuch anyone talks about this.
+00:18:24.370 People still keep tryingto do anything but this.
+00:18:27.370 And if there's one thing thata startup has to get right,
+00:18:31.772 it's build a product that peoplereally want, not a little.
+00:18:34.230 If they want it alittle bit, then you
+00:18:35.610 won't generate enough momentum.
+00:18:36.930 Like, you've gotto build something
+00:18:38.880 that some people really love.
+00:18:41.170 And after failing, becauseof insufficiently determined
+00:18:45.390 founders, this isthe number two reason
+00:18:47.850 that startups that seemreally good otherwise fail.
+00:18:51.285 JORGE CUETO: Movingon to talking
+00:18:52.660 about differenttechnologies, what
+00:18:54.420 would you say is thebiggest challenge
+00:18:56.710 that we're facing interms of making progress
+00:18:59.170 on artificialintelligence right now?
+00:19:00.790 
+00:19:02.530 SAM ALTMAN: Well, I don'tknow if any of you saw this,
+00:19:04.780 but OpenAI beat the bestsingle player DotA players
+00:19:11.410 in the world last Friday.
+00:19:15.580 And when we started that projectat the beginning of this year,
+00:19:18.495 I did not think that wasgoing to happen this year.
+00:19:20.620 And I wasn't even sure it wasgoing to happen next year.
+00:19:24.050 And it was very wildto watch that happen.
+00:19:29.170 Because it was almostpurely self-training.
+00:19:33.590 And it was this verycomplex environment.
+00:19:36.370 And the AI was justplaying itself and getting
+00:19:38.620 better and better and better.
+00:19:41.150 In fact, the final bot that wehad that beat all the humans
+00:19:45.310 handily, one day later, it lost60-40 to a one-day-more evolved
+00:19:51.190 version of itself,just to give you
+00:19:53.290 a sense for therate of improvement.
+00:19:55.010 
+00:19:59.030 And so I think people are kindof asleep at the wheel here.
+00:20:01.920 There are problems.
+00:20:03.364 But again, in the samespirit of always trying
+00:20:05.280 to figure out thegood, not the bad,
+00:20:09.374 we are making unbelievableprogress, maybe too
+00:20:11.290 much progress.
+00:20:13.330 But I think of all thethings I worry about with AI,
+00:20:20.344 the technicalbarriers to progress
+00:20:21.760 are not the top of the list.
+00:20:24.236 JORGE CUETO:There's another camp
+00:20:25.610 that says that maybe we'replacing too much emphasis
+00:20:28.760 on the threat of AI.
+00:20:30.590 What do you think about that?
+00:20:32.520 SAM ALTMAN: Yeah, I thinkwe don't talk enough
+00:20:35.720 about the benefits.
+00:20:38.480 I think that AIhas the potential
+00:20:40.280 to eliminate nearlyall human suffering
+00:20:44.270 in the next couple of decades.
+00:20:45.592 I think we can havea world of abundance.
+00:20:47.300 We can eliminatepoverty over time.
+00:20:49.100 We can probably cure awhole lot of diseases.
+00:20:52.100 There all these wonderfulthings that technology can do.
+00:20:54.985 I think we'realready seeing that
+00:20:56.360 in just how much better alot of consumer products
+00:20:58.700 we use everyday have gotten.
+00:21:02.720 People like disaster porn.
+00:21:05.000 People are moreinterested in talking
+00:21:06.650 about the end of the world thanthey are about life getting
+00:21:09.530 10% better every year andhaving that compound, which
+00:21:11.780 gets a lot better.
+00:21:13.580 So you know, ifyou're a journalist,
+00:21:18.314 you can write anarticle about how
+00:21:19.730 AI is going to end the worldand get a lot of clicks
+00:21:22.730 and, you know, a page viewbonus or whatever you get.
+00:21:25.250 Or, you can write an articleabout how AI is gradually
+00:21:28.580 making all theseproblems 10% better.
+00:21:30.650 And probably no one reads it.
+00:21:32.240 Certainly, no one shares it.
+00:21:34.250 And so I think, for whateverreason, the way we're wired
+00:21:38.742 is to talk much moreabout the downside of this
+00:21:40.700 than the upside.
+00:21:41.369 But the upside I thinkis going to be huge.
+00:21:43.160 It already is huge.
+00:21:46.260 JORGE CUETO: And what do youthink about cryptocurrencies?
+00:21:48.920 Do you see the same growth?
+00:21:52.062 SAM ALTMAN: Yeah.
+00:21:52.770 I mean, I think it'sgoing to go up and down.
+00:21:57.620 Like I bought mybitcoin a long time ago.
+00:22:00.849 I plan to hold themfor a really long time.
+00:22:02.640 I try not to watchthe price ticks,
+00:22:04.098 but it's so addictingthat I can't help myself.
+00:22:07.770 I think-- this is notinvestment advice.
+00:22:14.220 
+00:22:18.144 I think the only supercompelling proven use
+00:22:21.410 case we have seen sofar is store value.
+00:22:24.500 And as a replacementfor gold, I think
+00:22:26.630 we are seeing realadoption there
+00:22:28.310 and real collectivebelief that actually
+00:22:30.410 makes it have some value.
+00:22:33.060 However, if that's howit's going to play out,
+00:22:35.340 then I think bitcoinshould dominate--
+00:22:38.090 biggest network, first biggestbrand, most collective belief,
+00:22:41.360 whatever.
+00:22:42.860 And so I have been surprisedby the continual strength
+00:22:46.902 on all of the altcoins.
+00:22:47.860 
+00:22:50.700 I think there are potentialother truly valuable
+00:22:55.760 applications of the blockchain.
+00:22:59.349 Filecoin is a YC thing, soI know that one pretty well.
+00:23:01.640 And I can see that being big.
+00:23:03.120 But I think most of what'sgoing on, outside of bitcoin,
+00:23:08.150 feels like a completespeculative bubble.
+00:23:10.400 And I feel bad that a lot ofpeople are going to get burned.
+00:23:13.190 So I think probablythe right thing to do,
+00:23:15.560 if you believe in it,is to buy bitcoin,
+00:23:19.700 and then not think aboutit for another five years.
+00:23:23.161 JORGE CUETO: Is thereany specific product
+00:23:24.910 area or technology that youthink people are sleeping on?
+00:23:27.284 
+00:23:32.380 SAM ALTMAN: Sure, a lot.
+00:23:34.150 AI, as we mentioned,I think people
+00:23:36.730 are asleep at the wheelon a really big way on.
+00:23:39.490 Nuclear fusion, I think,is within some single digit
+00:23:43.810 number of years of working.
+00:23:46.780 And because it's beenso bad for so long,
+00:23:52.717 people are just kind of burnedout and not really taking
+00:23:55.050 a new look at new materialsand stronger magnets
+00:23:57.576 and better computermodels that's
+00:23:58.950 going to enable this to work.
+00:24:01.650 Synthetic biology-- again, it'slike people talked about it
+00:24:04.320 a lot a couple of years ago.
+00:24:05.550 It didn't quite work asfast as people were hoping.
+00:24:08.427 So we have like this hype cycle,and then it really falls off.
+00:24:11.010 And now, we're in the part whereI think the interesting work is
+00:24:12.660 happening.
+00:24:13.740 And people aren'tpaying enough attention.
+00:24:15.848 
+00:24:19.270 I guess, that's a topic Ican go on for a long time.
+00:24:22.060 But I'll limit it to three.
+00:24:23.220 JORGE CUETO: Sure.
+00:24:24.144 Is there any particularproblem that you
+00:24:25.810 think technology can't solve?
+00:24:29.090 SAM ALTMAN: How to make usnice to each other technology
+00:24:32.180 has clearly beenquite bad at solving.
+00:24:35.180 I won't say it can't.
+00:24:36.970 But I haven't seen ityet, and I certainly
+00:24:38.720 don't think technologycan by itself.
+00:24:40.880 And I think we are kindof in the situation,
+00:24:47.900 at least in thedeveloped world, where
+00:24:49.670 the world keeps getting better,and we keep getting unhappier.
+00:24:53.300 And you know, there's like adecent amount of data on this.
+00:24:55.910 And I think technologyis not entirely to blame,
+00:25:03.910 but it's certainlynot blameless.
+00:25:06.340 And I think 30 minutesleft, I couldn't even
+00:25:10.810 start the conversation.
+00:25:11.780 But I think the numberof things that technology
+00:25:15.880 has done to makeus more isolated,
+00:25:20.920 feeling relatively worse--
+00:25:24.780 a friend of minea little bit older
+00:25:27.560 said she neverused to be unhappy.
+00:25:30.680 Because she had no ideawhat she was missing.
+00:25:33.290 And now that shehas to watch, like--
+00:25:35.654 I'm very bad a popculture, I'm going
+00:25:37.195 to pick a name at random--
+00:25:38.278 Kim Kardashian fly aroundin private jets on Instagram
+00:25:41.120 all day, she's jealous.
+00:25:42.710 And it makes her very unhappy.
+00:25:44.240 And it didn't used to happen.
+00:25:45.448 
+00:25:47.135 And I've been thinkingabout that a lot
+00:25:48.760 in the last couple of weeks.
+00:25:50.320 And I don't have asolution to that.
+00:25:52.937 But I understand whythat's a problem.
+00:25:54.520 So I think figuring out howto make us happier and nicer
+00:25:58.830 to each other in particular, Ithink one thing that technology
+00:26:01.470 does that's really badis we have some probably
+00:26:07.050 long-standing evolutionarypressure that even if I really
+00:26:10.790 don't like you, I'mvery unlikely to come
+00:26:12.620 stand next to you andsay, I fucking hate you.
+00:26:14.710 You're a jerk,you know, whatever
+00:26:16.460 else people say on Twitter.
+00:26:18.012 JORGE CUETO: A lot of things.
+00:26:19.220 SAM ALTMAN: Because we'relike these pack animals.
+00:26:22.250 And we have to livewith each other
+00:26:24.620 and help each other survive.
+00:26:27.680 But somehow on Twitter,that goes away.
+00:26:32.240 And I think I'll save mywhole rant about Twitter.
+00:26:35.090 But I think that is aplatform in particular
+00:26:38.000 that rewards saying the mostaggressive snarky things.
+00:26:43.432 That's how you get likesand re-tweets and sort
+00:26:45.390 of value out of the platform.
+00:26:46.680 But a lot oftechnology does this.
+00:26:48.540 We don't have whateverkind of the human,
+00:26:51.430 being nice to each otherin person, instinct is.
+00:26:55.080 And we have these platformsthat reward being bad,
+00:26:58.590 reward being a jerk.
+00:27:00.610 And so I thinkI'm not optimistic
+00:27:04.872 that technology is goingto solve that problem.
+00:27:06.830 I think that's going to have tobe people solving that problem.
+00:27:10.750 JORGE CUETO: In an interviewwith "Vanity Fair" in 2015,
+00:27:14.020 you mentioned that you wereoptimistic about the future.
+00:27:16.910 And that was right before allof the election stuff happened
+00:27:20.540 and the situation thatwe find ourselves in.
+00:27:23.080 So would you saythat you're still
+00:27:25.360 optimistic about the future?
+00:27:26.600 SAM ALTMAN: Yeah, ofcourse, of course.
+00:27:28.225 Like, progress, it's not aperfectly exponential curve.
+00:27:35.140 It's not even a straight line.
+00:27:38.630 And you know, we are clearlyin a challenging period now.
+00:27:43.130 But I think if you look backat the last few hundred,
+00:27:48.530 and then few thousandyears, if you zoom out
+00:27:52.100 enough, the squiggles onthe curve kind of disappear.
+00:27:58.230 The world's gettingso much better.
+00:27:59.690 And I think that'sgoing to keep happening.
+00:28:02.380 And even with everythinggoing on right now,
+00:28:06.402 I'm delighted tobe alive right now
+00:28:07.860 and not 100 yearsago, and certainly
+00:28:09.359 not 200 or 2,000 years ago.
+00:28:13.012 And I think we do havetechnology to thank for a lot.
+00:28:15.220 And we have better governance.
+00:28:17.230 Like, the number of peopleliving in an democracy,
+00:28:21.290 you know, 200 years ago wasvery low, the percentage.
+00:28:24.900 And as horrible asthings are, the fact
+00:28:27.050 that we get to stand up andspeak our minds without fear
+00:28:30.830 of being thrown in jailfor political opposition
+00:28:33.830 and the fact that we get to voteagain in 3 and 1/2 more years,
+00:28:37.726 I think that's amazing.
+00:28:39.042 And I think it's easy totake that for granted.
+00:28:41.000 But yeah, I think the futureis going to be a lot better.
+00:28:45.610 I remain very optimistic.
+00:28:47.242 JORGE CUETO: What do yousee as being a big challenge
+00:28:49.450 that we're facing asa society right now?
+00:28:51.158 
+00:28:54.670 SAM ALTMAN: How wedeal with a world
+00:28:58.710 where the natural forces arefor wealth to concentrate
+00:29:01.530 into the hands of a smallerand smaller number of people.
+00:29:04.830 As I mentionedearlier, I think people
+00:29:07.350 are more sensitive torelative quality of life
+00:29:10.350 than absolute quality of life.
+00:29:11.920 And I think technologyis naturally a force.
+00:29:14.100 It's a giant leverthat tends to create
+00:29:16.905 way more wealth, butreally concentrated.
+00:29:19.860 So I think one of the mosttone deaf things people say
+00:29:22.110 in Silicon Valley is, you know,poor people should be happy.
+00:29:28.550 They get this Androidphone for not much money.
+00:29:30.710 They can accessanything in the world.
+00:29:33.356 And they wouldn'thave that without us,
+00:29:34.980 so why are they complaining?
+00:29:36.650 And OK, like there issome truth to that.
+00:29:39.150 I do think it iscool about the world
+00:29:41.240 that the richestperson and someone
+00:29:44.470 living in an absolute povertycarry around the same phone.
+00:29:49.660 There was no analogy tothat other than maybe
+00:29:52.960 like if you got areally bad disease.
+00:29:54.940 There was no likeequality like that,
+00:29:57.240 you know, 400, 500 years ago.
+00:29:59.830 However, that point,which is always
+00:30:01.990 what Silicon Valleyfalls back to, I think
+00:30:04.150 is like maybe not the mosttone deaf possible response,
+00:30:09.550 but up there.
+00:30:10.450 Like people want to feellike they have agency.
+00:30:12.419 They want to feel like theyhave a voice in the future.
+00:30:14.710 They want to feel likethey can participate.
+00:30:16.757 And they want tofeel like they're not
+00:30:18.340 just kind of like given thisbaseline, while like they
+00:30:23.200 toil in the provincesand Silicon Valley just
+00:30:25.960 gets all the money.
+00:30:28.480 And I think people who don'tsee that are just not thinking
+00:30:31.000 clearly.
+00:30:32.350 And so I think one ofthe greatest threats--
+00:30:34.810 something else I don't thinktechnology can fix on its own--
+00:30:37.450 is how we get toa more just world.
+00:30:40.240 I really, reallyfundamentally believe
+00:30:42.220 that economic justice isthe most important thing
+00:30:45.070 you can do for social justice.
+00:30:46.980 And if you have allof the resources going
+00:30:48.730 to a small set of people, evenif everybody else is having
+00:30:52.930 their absolute quality oflife raised very quickly,
+00:30:55.210 that's not enough.
+00:30:56.672 JORGE CUETO: You recentlyannounced The United Slate,
+00:30:58.880 which puts forth somepolicy proposals as well as
+00:31:01.850 an invitation for candidates.
+00:31:03.650 What would you say successlooks like for that?
+00:31:06.235 SAM ALTMAN: Youknow, if we could
+00:31:07.610 run five, six candidates inthe 2018 cycle on that platform
+00:31:14.780 and have two of themwin their elections,
+00:31:19.220 I think that'd bean incredible start.
+00:31:20.930 And you know, maybe itdoesn't work at all.
+00:31:22.910 Because maybe thoseissues, although I
+00:31:27.080 believe they'reimportant, are not yet
+00:31:28.910 ready to convincethe public at large.
+00:31:32.780 But I think it willbe a good start.
+00:31:34.310 And I think over timeit will be really good
+00:31:36.830 if people on theprogressive side
+00:31:39.560 built up a kind oflong-term organization
+00:31:43.520 focusing on winning electionsand shifting public perception
+00:31:46.580 at all levels.
+00:31:48.047 The right has done afabulous job with this.
+00:31:49.880 Congratulations to any ofyou who are on that side.
+00:31:53.270 But I would like the leftto do a better job at that.
+00:31:57.650 I don't think we're puttingforward our best game there.
+00:32:01.495 JORGE CUETO: In yourinvitation, you also mentioned
+00:32:03.620 that you would be willingto work with Democrats,
+00:32:05.661 Independents, and Republicans.
+00:32:07.430 Is there any issue in particularthat you see anyone, regardless
+00:32:11.660 of political ideology, comingtogether and agreeing on
+00:32:14.810 more so than other issues?
+00:32:17.714 SAM ALTMAN: I think thereare a lot of issues.
+00:32:19.630 Again, I think people agree onway more than they disagree on.
+00:32:23.950 You know, as we wentaround the state
+00:32:25.540 and talked to Californians,Republicans, Democrats,
+00:32:29.260 San Francisco, LA, Fresno,Shasta County, wherever you go,
+00:32:34.840 the price of housing is likethe biggest issue for most sort
+00:32:38.290 of regular people that arenot Google employees, maybe
+00:32:42.140 even for Google employees.
+00:32:44.281 It's really, really bad.
+00:32:45.280 I mean, this is if you couldfix I think one thing that
+00:32:49.750 would have hugely positivesecondary effects,
+00:32:54.250 it's bring the cost of housingdown by a factor of 10.
+00:32:57.550 It'd be transformativefor society.
+00:32:59.051 It's a--
+00:32:59.550 AUDIENCE: [INAUDIBLE]government regulation?
+00:33:01.370 SAM ALTMAN: What?
+00:33:01.650 AUDIENCE: Eliminategovernment regulations.
+00:33:02.920 SAM ALTMAN: Eliminategovernment regulations?
+00:33:04.794 AUDIENCE: Five stories.
+00:33:05.860 SAM ALTMAN: Yeah.
+00:33:06.568 Like, I think many regulationshave good elements.
+00:33:11.410 I'm not kind of thelibertarian, anarchist,
+00:33:13.552 all governmentregulations are bad.
+00:33:15.010 But I do think that the sort ofno more building, no building
+00:33:18.550 taller, has beendisastrous for the state.
+00:33:21.640 And I think it is theworst possible allocation
+00:33:26.080 of resources to have people tieup every free penny they can
+00:33:29.650 find into the place they live.
+00:33:32.139 Think about anything elsewe could spend that on.
+00:33:34.180 Think about whatit would be like
+00:33:35.080 if people could liveclose to where they
+00:33:36.520 work rather thancommuting an hour
+00:33:37.936 and a half to get here each day.
+00:33:41.350 And that is something thatDemocrats, Republicans,
+00:33:44.320 Independents, almosteverybody agrees on,
+00:33:47.190 or at least there are peoplein all of those camps that do.
+00:33:50.260 
+00:33:53.380 So I think like, again, easyto talk about the divisions.
+00:33:56.380 It's really good that whenyou talk to regular people,
+00:34:01.095 they all agree on what themost important issue is.
+00:34:03.220 And they all want tofix it in the state.
+00:34:05.114 JORGE CUETO: What do you thinkthe tech industries role is
+00:34:07.530 in government and politics?
+00:34:08.654 
+00:34:11.760 SAM ALTMAN: Look, I think we areall citizens of this country.
+00:34:14.969 And we all have, like--
+00:34:17.100 you know, there is aright to participate
+00:34:20.429 in the electoral process.
+00:34:23.610 And I think there'salso a duty to do that.
+00:34:26.650 And I think tech isgoing through such a boom
+00:34:32.639 right now it iseasy to say, hey,
+00:34:34.310 I'm just going to focuson, like, doing my thing,
+00:34:38.043 building products, makingmoney, and whatever.
+00:34:39.960 And I'm going to let someoneelse take care of the rest.
+00:34:44.770 One of the kind ofdisappointing things
+00:34:46.630 that I have learnedas I've gotten
+00:34:48.370 to spend more and more time withincreasingly influential people
+00:34:52.420 and kind of how the worldworks is that there is no plan.
+00:34:55.810 And there is no groupfiguring out everything.
+00:34:57.980 And it's kind ofup to all of us.
+00:34:59.710 Everyone hopes.
+00:35:00.780 Like, the reasonconspiracy theories
+00:35:02.440 are so appealingis that everybody
+00:35:05.140 wants there to be a conspiracy.
+00:35:07.210 You want to think that someonehas a plan, that, you know,
+00:35:11.230 there's all thisstuff happening.
+00:35:13.030 But someone's gota centralized plan,
+00:35:14.680 and it's all going to work out.
+00:35:16.270 And I think one of the sadrealizations of growing up
+00:35:20.590 is that there are no grownups.
+00:35:22.450 No one has this master plan.
+00:35:24.010 And if we don'tparticipate, the thing
+00:35:27.550 can just go off the rails.
+00:35:28.874 JORGE CUETO: Whatdo you think are
+00:35:30.290 some of the most effective waysfor employees at a large tech
+00:35:33.440 company, like Google,to get involved
+00:35:35.120 in government and politics?
+00:35:38.296 SAM ALTMAN: Everyone wants ananswer other than this one,
+00:35:40.670 because it wouldbe more convenient.
+00:35:42.840 But I think one of the answersis to just run for office.
+00:35:47.950 We have this process.
+00:35:49.390 We have this system,set of rules,
+00:35:51.220 that we've all agreed to.
+00:35:53.920 And everyone wants some way toact around the edges of that
+00:35:57.070 rather than justparticipate directly.
+00:36:00.960 And that's OK.
+00:36:01.860 There are good things to do.
+00:36:05.010 But I think just takingthe problem head on,
+00:36:07.145 not enough people try that.
+00:36:08.270 
+00:36:10.887 JORGE CUETO: And there'srumors going around
+00:36:12.720 that Mark Zuckerberg isgoing to run for office,
+00:36:14.719 like, every other week.
+00:36:15.845 And then there'salso been rumors
+00:36:17.220 about you running for governor.
+00:36:19.050 And we've seen tech peoplerun for office in the past.
+00:36:23.220 Meg Whitman ran for governorof California in 2010.
+00:36:26.730 But she lost by a significantmargin to Jerry Brown.
+00:36:30.120 So my question is, do youthink that it's actually
+00:36:32.280 feasible for someone in techto run for office and win?
+00:36:35.640 Or is there too much of thisperception of the tech industry
+00:36:39.330 as being elitist,such that people
+00:36:41.330 won't connect with voters?
+00:36:43.222 SAM ALTMAN: I think there is.
+00:36:44.430 I think, at least,people should try.
+00:36:45.971 I think the tech industry isthe most hated in the Bay Area.
+00:36:48.600 And if you go outthroughout the rest
+00:36:50.010 of the state or thecountry, there's
+00:36:51.330 a lot of people whothink it's really cool.
+00:36:52.620 They aspire to it.
+00:36:53.385 They want to participate in it.
+00:36:56.580 And I think it is easy to gettoo negative a view of how
+00:37:01.410 technology peopleare perceived here.
+00:37:03.090 I don't know if a tech personcan win the presidency.
+00:37:06.355 I have a feeling we'regoing to find out.
+00:37:08.470 But what I am confident about isthat people from the technology
+00:37:11.910 industry could start winninglocal school board and city
+00:37:15.210 council and, you know,congressional seats.
+00:37:18.460 And that would be a greatthing to start with.
+00:37:20.460 JORGE CUETO: Is thereany person currently
+00:37:21.990 living that you wouldwant to run for president?
+00:37:24.000 Who's your ideal candidate?
+00:37:25.530 
+00:37:31.680 SAM ALTMAN: Ideal?
+00:37:32.430 I can't answer that on the fly.
+00:37:35.250 That's a good questionto think about.
+00:37:37.180 When you said that,I was like, oh, I
+00:37:38.070 should figure out whothat person is and go
+00:37:39.861 try to convince them to run.
+00:37:42.097 But I don't have an answerready to go in my head.
+00:37:44.180 JORGE CUETO: OK.
+00:37:45.450 Well, with that, I'm going toopen up the floor for audience
+00:37:48.750 questions.
+00:37:49.611 So if you have aquestion, feel free to go
+00:37:51.360 to the mic in theback of the room,
+00:37:53.180 or also submit yourquestion to the Dory.
+00:37:57.580 AUDIENCE: [INAUDIBLE] Hi.
+00:38:00.640 You mentioned theanecdote about your friend
+00:38:02.650 being unhappy andKim Kardashian.
+00:38:05.120 And it reminded me of a quote.
+00:38:06.370 And it said, peoplearen't unhappy,
+00:38:10.490 because they want to be happy.
+00:38:12.150 They're unhappy, becausethey want to be happier
+00:38:14.150 than other people.
+00:38:15.800 And you mentioned thattechnology may or may not
+00:38:18.890 be able to solve this.
+00:38:19.850 So I'd like to hear some ofyour ideas or success strategies
+00:38:24.650 on how to solve this ona micro and macro level,
+00:38:28.370 whether it bedelete Twitter to--
+00:38:30.950 SAM ALTMAN: That'sa good thing to do.
+00:38:34.107 That's a good thing to do.
+00:38:35.190 Yeah.
+00:38:35.840 I deleted all the socialapps from my phone.
+00:38:39.490 And yeah, I can still checkthem on my computer when I want.
+00:38:41.990 But I don't havethat constant urge
+00:38:44.870 to push button fordopamine hit here.
+00:38:47.930 And that's been really good.
+00:38:50.930 You know, I think after talkingto a bunch of these people
+00:38:54.874 about the things thatmake people happy,
+00:38:56.540 there's the obviousstuff, which is
+00:38:58.040 like spend time withloved ones that everyone
+00:39:02.630 knows even if they don't do.
+00:39:04.094 But there's a bunchof things that
+00:39:05.510 are less obvious to me that seemto have huge measured effects.
+00:39:13.850 Like taking time to thinkabout the things that went
+00:39:16.865 well as opposed to thingsyou're upset about,
+00:39:18.740 or going for a walk outsideeveryday no matter what.
+00:39:24.230 And I think as we get sortof to abundance and unlimited
+00:39:29.950 resources, this is going tobe a more important topic.
+00:39:34.100 What I would encourage you to dois to just like start reading.
+00:39:38.759 There's a lot ofliterature on the subject.
+00:39:40.550 No one seems to care aboutit enough to spend time.
+00:39:42.950 But I would saystart reading it.
+00:39:44.510 And hopefully, I'll finishmy blog post on it soon.
+00:39:48.228 Thank you.
+00:39:51.149 AUDIENCE: Hey, Sam.
+00:39:51.940 Thanks for coming.
+00:39:52.780 I wanted to ask a questionabout the larger landscape of VC
+00:39:55.950 in general.
+00:39:56.880 I heard a rumor that YC islooking to a growth fund.
+00:39:59.584 I think it broke onTechCrunch like month ago,
+00:40:01.500 like potentiallyraising $1 billion fund.
+00:40:03.710 I wanted to get yourthoughts on growth
+00:40:06.000 versus venture and how you seegrowth evolving for the Bay
+00:40:10.680 Area in general.
+00:40:11.630 You see privatecompanies staying
+00:40:13.410 private longer and longer.
+00:40:15.070 SAM ALTMAN: So we alreadyhave a growth fund.
+00:40:17.100 It's called YC Continuity.
+00:40:19.660 We raised the first one in 2015.
+00:40:23.000 It's about halfway invested.
+00:40:25.140 And it basically follows onin capital in YC companies.
+00:40:30.030 One of the things that Iwanted to do after I joined
+00:40:32.670 YC was start to fundhard tech companies,
+00:40:37.260 nuclear fusion, something likebiology quantum computing,
+00:40:40.650 self-driving cars-- long list.
+00:40:41.940 
+00:40:44.950 And one of the goodthings that I realized
+00:40:47.490 is that nobody else wasfunding those companies.
+00:40:50.110 And so we could have our pick.
+00:40:51.879 One of the bad thingsthat I realized
+00:40:53.420 is nobody else wasfunding those companies.
+00:40:55.874 And so we could fundthem all we wanted,
+00:40:57.540 and there was nofollow on capital.
+00:40:58.998 
+00:41:01.344 So that was actually thegenesis for our growth fund
+00:41:03.510 is that there was thisclass of companies
+00:41:05.370 that I think are reallyimportant and really valuable.
+00:41:08.040 And they weren't getting funded.
+00:41:09.630 Since then, we'veexpanded it, and we
+00:41:11.310 fund lots of other companies.
+00:41:14.070 I will certainlysay that there is
+00:41:17.800 no shortage of growthcapital for software
+00:41:20.200 companies in Silicon Valley.
+00:41:22.402 You know, it mayhave gotten harder
+00:41:23.860 to raise a seed or an A round.
+00:41:25.360 It probably has somewhat.
+00:41:27.100 But if you have thingsworking, like when
+00:41:30.412 you want to goraise a B or C round
+00:41:31.870 and you have this beautifulexponential growth,
+00:41:34.057 you will not be able to keep upwith the number of term sheets
+00:41:36.640 you're getting.
+00:41:37.390 That is the stagethat I think just
+00:41:39.670 has a huge amount ofcapital allocated to it.
+00:41:42.640 As companies arestaying private longer,
+00:41:44.950 as public market investorshave a harder and harder time
+00:41:47.770 finding alpha, theyare more and more
+00:41:51.550 willing to do stuff like this.
+00:41:52.850 So that part ofthe market is not
+00:41:56.650 suffering, at least, not yet.
+00:41:57.973 AUDIENCE: Thanks.
+00:41:58.880 SAM ALTMAN: Sure.
+00:41:59.950 JORGE CUETO: Let me do aquestion from the Dory.
+00:42:03.130 We have a question aboutuniversal basic income
+00:42:06.190 and how Google has beensupporting GiveDirectly's
+00:42:11.640 research on UBI in Africa.
+00:42:14.350 And you're a proponenthere in the US.
+00:42:16.780 So what are yourthoughts on how,
+00:42:18.740 when, and where the universalbasic income approach
+00:42:21.790 might be most effective?
+00:42:23.240 SAM ALTMAN: Yeah.
+00:42:24.940 I don't think universalbasic income is
+00:42:26.590 the solution to all problems.
+00:42:28.296 I think, in fact, ofthe bigger problem
+00:42:29.920 that we were talkingabout earlier of what
+00:42:31.669 makes people happy and fulfilledand feel needed, and valued,
+00:42:34.960 and have meaningin their lives, it
+00:42:37.480 is not sufficient tosolve that problem.
+00:42:39.550 And I don't thinkit will replace
+00:42:41.050 the entire other social safetynet, like the people who
+00:42:43.341 are like eliminateeverything else, you know,
+00:42:45.250 no health care, no schools,no minimum wage, basic income.
+00:42:48.560 I don't believe in that either.
+00:42:50.140 But I do think that ifwe do all of our jobs,
+00:42:54.540 if we Silicon Valleydo all of our jobs,
+00:42:57.140 we will create more wealththan the world's ever
+00:43:00.100 seen before and less jobs.
+00:43:02.350 And in that world, I thinkthere is a moral obligation
+00:43:07.120 to eliminate poverty.
+00:43:08.650 I think poverty is a,obviously, very bad thing.
+00:43:11.260 But it is worse eventhan people realize.
+00:43:14.410 If you look at the studies onthe long-term psychological
+00:43:18.070 damage that living inpoverty does to people
+00:43:22.150 and how it means that you neverget a chance to really invest
+00:43:25.582 in your own future, becauseyou're always just trying
+00:43:27.790 to survive, I thinkthere's just a huge amount
+00:43:29.706 of wasted potential.
+00:43:31.160 And so you know, there are alot of arguments about UBI.
+00:43:34.902 This was another thing.
+00:43:35.860 Like, when we startedthis couple of years ago,
+00:43:38.150 I did not predictat all that this
+00:43:41.200 was going to ignite intothis big national debate.
+00:43:43.690 It was like, we were justtrying to hire a researcher.
+00:43:46.480 You know, like, maybethis is a good idea.
+00:43:49.120 Can we just do a project?
+00:43:50.329 And it's just been like--
+00:43:51.370 
+00:43:55.360 so I don't thinkI quite understand
+00:43:57.640 why it has become such anational issue so quickly.
+00:44:00.400 But I do think that longerterm, if we have the ability
+00:44:06.100 to eliminate poverty,we will get a lot more
+00:44:09.700 out of the world as a whole.
+00:44:11.290 JORGE CUETO: As you startedthe experiment in East Bay,
+00:44:14.484 have you noticedanything that maybe you
+00:44:16.150 didn't expect, or has itchanged your attitude towards it
+00:44:19.330 in any way?
+00:44:20.260 SAM ALTMAN: You know,we're like seven or eight
+00:44:22.218 months into a five year study.
+00:44:23.811 So not yet.
+00:44:24.310 JORGE CUETO: OK.
+00:44:26.780 AUDIENCE: Hi, Sam.
+00:44:27.530 I'm thinking more ingeneral of founders,
+00:44:29.480 but this could be general, too.
+00:44:31.280 But what advice doyou frequently give,
+00:44:33.860 but you find most people neveractually follow through on?
+00:44:38.645 SAM ALTMAN: I mean,no one ever listens
+00:44:40.270 to any advice of any sort.
+00:44:43.120 So, all of it.
+00:44:44.470 
+00:44:48.857 I think the thing that people--
+00:44:51.350 well, the piece ofadvice that people later
+00:44:54.890 say they wish theyhad listened to
+00:44:57.470 is that it is very easy to getsucked into a path in life.
+00:45:00.920 And you can do thingslike, say, oh, I want
+00:45:03.815 to start a startup someday.
+00:45:04.940 Or, oh, I want to be anAI researcher someday.
+00:45:08.120 But first, I'm going to go dothis other job to, you know,
+00:45:11.150 make money and gainexperience and whatever.
+00:45:13.700 And it's so easy toget sucked into a path
+00:45:16.270 where you spend your entirelife doing something that is not
+00:45:18.770 really what you want to do.
+00:45:19.895 
+00:45:23.332 That's probablythe piece of advice
+00:45:24.790 that I have given people thatthey have most often come
+00:45:27.400 to me, like, fiveyears later and said,
+00:45:29.590 I really wish I hadlistened to that.
+00:45:31.667 AUDIENCE: Thank you.
+00:45:32.500 SAM ALTMAN: Sure.
+00:45:34.509 AUDIENCE: I'm curiousto hear your thoughts
+00:45:36.300 on the relativerates of progress
+00:45:37.860 in AI between Chinaand everywhere else.
+00:45:40.932 So you mentionednobody has a plan,
+00:45:42.390 but China has a plan forstate level centralized
+00:45:45.780 investment in AI.
+00:45:46.770 Whereas, Elon Musk iscalling for regulation
+00:45:48.844 that would slow down--
+00:45:49.760 SAM ALTMAN: Yeah.
+00:45:50.468 AUDIENCE: ----[INAUDIBLE]everywhere else.
+00:45:52.752 SAM ALTMAN: China doesplan, that's true.
+00:45:54.460 
+00:45:57.652 It doesn't always work.
+00:45:58.610 They don't always haveglobal coordination.
+00:46:00.844 You know, like right nowwe're in this kind of world
+00:46:03.010 where it seems like youhave the internet in China,
+00:46:05.560 and the internet inthe rest of the world.
+00:46:07.870 Maybe they have a planfor their piece of it.
+00:46:09.850 
+00:46:14.850 I don't honestly know howfar along China is with AI.
+00:46:19.440 And I don't think anybody elsehonestly really does either.
+00:46:21.960 
+00:46:26.570 I think it would be badto get into an arms race
+00:46:28.780 with China over AI.
+00:46:29.660 I think that's somethingwe should try to avoid.
+00:46:31.660 
+00:46:34.180 And I think there isa real opportunity,
+00:46:37.720 although we may not have theleaders in place to do it
+00:46:43.070 right now, to make this a jointkind of worldwide project,
+00:46:48.830 rather than another spacerace or nuclear arms race.
+00:46:52.466 Thanks.
+00:46:55.250 AUDIENCE: Hi, Sam.
+00:46:56.000 I was wondering if youcould expand a little bit
+00:46:57.999 on funding hard tech.
+00:46:59.704 Because I think there's a bigproblem with private capital
+00:47:02.120 allocation.
+00:47:02.780 And you know, like, $70 billionwas put into VC last year,
+00:47:06.080 which is a drop in the bucket interms of worldwide investment.
+00:47:09.470 So do you see YC mayberaising an $100 billion
+00:47:12.500 fund in the future?
+00:47:13.610 SAM ALTMAN: Yeah, maybe.
+00:47:14.862 AUDIENCE: Like, yeah,how can we solve this?
+00:47:16.850 SAM ALTMAN: I think capitalis allocated really badly.
+00:47:21.140 And unfortunately,there are huge efforts--
+00:47:24.410 like if you have thisreally valuable thing which
+00:47:27.470 is you get access toinvest in great startups
+00:47:29.990 and most of the world doesn't,then there will obviously
+00:47:32.930 be a super return there.
+00:47:34.880 And you're going to workreally hard to protect that.
+00:47:37.340 And so I think expandingaccess to invest in startups--
+00:47:44.547 which is happening, but slowly--is a really good thing to do.
+00:47:47.130 And I think, you know,equity crowdfunding
+00:47:52.580 we're still in the early daysof, but is an important trend.
+00:47:56.130 And I think that will changethe capital allocation.
+00:48:00.560 I think you're seeing startupsin all these different ways
+00:48:03.110 go to non-traditional funders.
+00:48:06.354 And that's been really good.
+00:48:07.520 We first saw that withconsumer hardware.
+00:48:09.260 We're now seeing that ina lot of other places.
+00:48:12.625 You know, I think the otherthing that's happening,
+00:48:14.750 finally, is there's just--
+00:48:16.040 and there's bad to this, too.
+00:48:17.560 But there's just a hugeamount more capital coming in
+00:48:20.860 to fund early stageprivate companies
+00:48:22.750 or mid-stage private companies.
+00:48:24.670 And I expect that in a worldwhere interest rates stay
+00:48:29.110 even close to aslow as they are,
+00:48:31.542 we are in the very earlyinnings of that trend.
+00:48:33.500 So my general model is thatthe world's a very complex
+00:48:38.500 financial system.
+00:48:39.520 Capital sloshes aroundlooking for the best return.
+00:48:43.090 There are periods where there'sa really outperforming return,
+00:48:46.570 but then more capitalgets allocated there.
+00:48:48.362 And I think we'reseeing that now.
+00:48:49.778 AUDIENCE: But do you thinkthat a nuclear fusion
+00:48:51.880 company could raise$100 million in an ICO
+00:48:54.072 or something like that?
+00:48:55.030 SAM ALTMAN: Yeah.
+00:48:55.738 Or maybe I wouldn't suggestthat they do an ICO.
+00:48:59.720 But I do think theycan raise $100 million.
+00:49:02.200 And I don't think theycould have three years ago.
+00:49:04.697 And I think that's a reallypositive trend for the world
+00:49:07.030 that this stuff is now atleast somewhat possible.
+00:49:11.017 AUDIENCE: Awesome, thanks.
+00:49:12.100 SAM ALTMAN: Sure.
+00:49:12.550 JORGE CUETO: AnotherDory question--
+00:49:14.130 what are the most common reasonsthat qualified candidates get
+00:49:16.810 rejected from YC?
+00:49:17.920 
+00:49:24.368 SAM ALTMAN: Well, thereis one particular thing
+00:49:29.400 that happens a lot withsuper talented people
+00:49:31.770 from large tech companies.
+00:49:33.270 So since I'm here,I'll mention that one,
+00:49:35.730 which is you are a really greatperson, really talented, really
+00:49:39.270 smart, really driven.
+00:49:41.312 And you don't have a good idea,or you don't have any idea.
+00:49:43.770 So you make up a bad one.
+00:49:46.080 And there's this,like, myth about
+00:49:51.230 startups that the ideadoesn't matter at all.
+00:49:54.290 And I think there's existentialproof that that's not true.
+00:49:58.700 And I think there isthis particular failure
+00:50:02.680 mode of people fromthe big tech companies
+00:50:04.430 which is like, hey,I'm really talented.
+00:50:06.096 I'm like, yes, you are.
+00:50:07.250 So I'm going to start a company.
+00:50:08.600 And I'll figure outwhat to do later.
+00:50:10.502 And I think thatisn't usually what
+00:50:11.960 produces the great companies.
+00:50:13.650 And so we have learnedthat it's much, much better
+00:50:20.970 if you're otherwise a qualifiedcandidate to have a good idea.
+00:50:25.960 And I think that would be thecommon failure case for people
+00:50:28.500 coming out of Google.
+00:50:29.375 
+00:50:31.644 AUDIENCE: Hey, Sam.
+00:50:32.435 SAM ALTMAN: Hey.
+00:50:33.101 AUDIENCE: So what are yourthoughts about, you know,
+00:50:35.306 where you're going togo or what you're going
+00:50:37.180 to do with your life after YC?
+00:50:38.770 Or does that come across?
+00:50:39.930 Like, are you going to takea political office seriously?
+00:50:41.930 SAM ALTMAN: Youknow, I don't even
+00:50:43.346 know what I'm goingto do in three weeks.
+00:50:46.860 I plan to run YC fora really long time.
+00:50:52.970 I do plan to get continuallymore involved with politics.
+00:50:56.340 But I'd like to support others,not run for office myself,
+00:50:59.975 at least not any time soon.
+00:51:01.100 
+00:51:04.190 Like, I am a big believer indo the things that you think
+00:51:08.174 about in the showerin the morning
+00:51:09.590 when you can thinkabout anything
+00:51:10.460 you want and your kindof mind is just off.
+00:51:12.440 And the things I keepcoming back to are
+00:51:14.450 how can I make YClike 100 times bigger?
+00:51:16.820 How can I make sure thatthe arrival of AI goes well?
+00:51:20.090 And in the short term, how canI help our political system
+00:51:22.730 from going off the railsor any more off the rails
+00:51:26.490 than it already has?
+00:51:28.010 So you know, I kind of plan tokeep working on those things
+00:51:31.310 for, hopefully, youknow, a really long time.
+00:51:34.972 AUDIENCE: Good to hear.
+00:51:35.930 Thanks.
+00:51:37.400 AUDIENCE: Hi, thankyou for being here.
+00:51:40.200 I have a questionabout the general way
+00:51:44.010 Silicon Valley works.
+00:51:45.600 Because it seemslike it's a system
+00:51:47.250 in which you have the mosttalented minds dealing
+00:51:50.730 with maybe not themost important issues.
+00:51:52.854 Like, you have thesharpest mind working
+00:51:54.520 on social apps or mobile apps.
+00:51:56.610 But we still don'thave a cure for cancer,
+00:51:58.510 or we still don't haveanother way of having energy,
+00:52:02.730 or really important stuffthat the world should handle.
+00:52:06.370 And
+00:52:06.930 So my question is, doyou agree with that?
+00:52:08.916 What is yourperspective on that?
+00:52:10.290 And how do you think maybethis can be addressed?
+00:52:13.350 SAM ALTMAN: I don'tagree with that.
+00:52:14.850 I think I used to view myjob as a capital allocator.
+00:52:19.250 And now, I view my jobas a talent allocator.
+00:52:21.470 So most of my dayis spent meeting
+00:52:24.380 with really smart peopleand trying to convince them
+00:52:26.930 to work on important problems.
+00:52:28.850 And you know, Ithink in 2007, what
+00:52:34.680 everyone said is the bestminds of our generation used
+00:52:36.960 to build spaceships,and now they're
+00:52:39.900 like moving numbersaround on Wall Street.
+00:52:41.880 And in 2017, what peoplesay is the best minds
+00:52:44.580 of our generation usedto build spaceships.
+00:52:47.190 And now they getme to click on ads.
+00:52:49.080 And you know, there'salways some truth to that.
+00:52:51.830 And there's alwayssomeone to pick on there.
+00:52:54.420 But I think OpenAI hassome of the smartest
+00:52:57.790 minds in our world ofour generation working
+00:53:00.220 on having AI go well.
+00:53:01.404 I think Helion, which is thatfusion company I mentioned--
+00:53:03.820 some of the smartest mindsof our generation working
+00:53:05.986 on nuclear fusion.
+00:53:07.580 YC, I think, last time Icounted funded eight companies
+00:53:09.880 working on a cure for cancer,incredibly talented people--
+00:53:12.550 or cures for cancer--
+00:53:14.400 cancers.
+00:53:16.804 I think you canalways say there's
+00:53:18.220 all these people like workingon bad stuff or stuff that
+00:53:21.040 doesn't matter.
+00:53:22.049 But you know, Ithink Google is still
+00:53:23.590 like a really greatthing for the world.
+00:53:25.575 AUDIENCE: This iswhy we're here.
+00:53:26.950 SAM ALTMAN: Yeah.
+00:53:27.550 And I think it does matter.
+00:53:28.674 I think it's always easyto pick on people and say,
+00:53:30.910 you're not workingon a cure for cancer.
+00:53:32.830 You know, you'rewasting your time.
+00:53:34.760 But you're makingthis thing better
+00:53:37.490 that people use every day.
+00:53:38.780 And their lives would be alot worse if it went away.
+00:53:41.917 And you're makingit better every day.
+00:53:43.500 And I think it's reallyeasy to pick on people
+00:53:47.510 and say, you know, that person'snot spending her time right.
+00:53:51.352 And I think it always saysmore about the person that
+00:53:53.560 says that than the personthey're pointing to.
+00:53:56.269 And if you're doing somethinguseful for the world, if you're
+00:53:58.810 doing something youenjoy, even if you're
+00:54:01.140 having a small impact, but ona product that a lot of people
+00:54:03.640 really use and love, I thinkthat's really valuable.
+00:54:06.530 And I think the peoplewho say this generally
+00:54:08.620 have a lot ofinsecurity about how
+00:54:10.036 they're spending their time.
+00:54:11.270 AUDIENCE: So you don'tthink like Silicon Valley is
+00:54:13.395 avoiding the tough problems?
+00:54:17.300 SAM ALTMAN: I invite you tocome sit in my office for a day
+00:54:19.995 and listen to thepeople coming through
+00:54:21.620 and what they're working on.
+00:54:22.700 I really don't think that, no.
+00:54:23.910 AUDIENCE: OK.
+00:54:24.400 Cool.
+00:54:24.900 Thank you.
+00:54:27.260 AUDIENCE: Hey, Sam.
+00:54:28.530 Seeing that you're a largelyinfluential public figure,
+00:54:32.220 could you speakto the privileges
+00:54:33.600 that might have led to that andhelped you with your success
+00:54:36.870 and how you may begood or bad ally?
+00:54:42.000 And then also, seeing that alot of our consumer products
+00:54:45.360 are largely bias, specificallyto the people who create them,
+00:54:50.190 which is largely the SiliconValley engineers like myself
+00:54:53.670 and others in thisroom, how do you
+00:54:56.400 keep your ideas and thoughtsdiverse in addressing
+00:55:00.090 intersectional needs?
+00:55:02.470 SAM ALTMAN: Yeah,great question.
+00:55:03.950 I basically had like nearlyall of the possible privileges.
+00:55:07.970 I had wonderful, loving parents.
+00:55:10.310 I grew up in a safe house.
+00:55:12.200 I'm a white guy.
+00:55:14.360 We had enough money thatI was able to pursue
+00:55:16.790 the things that I was interestedin and go to great college.
+00:55:21.020 And it's neverlost on me how if I
+00:55:23.090 had been born a milein a different place
+00:55:26.880 to a different family, differentskin color, different gender,
+00:55:30.630 I wouldn't be where I am now.
+00:55:32.160 I view that as anobligation to try
+00:55:35.160 to make the world morejust going forward.
+00:55:38.550 I think anyone who is reallysuccessful and doesn't--
+00:55:43.394 I think anyone shouldtry to do the best
+00:55:45.060 they can with whateverhand they're dealt.
+00:55:46.810 But if you're dealt, you know,like four aces, and you win,
+00:55:50.580 then I think you havean extra obligation
+00:55:52.440 to try to sort of makethe world a little better.
+00:55:55.300 So I try to be really thankfulof what everyone's done
+00:55:58.530 that has allowed me to do this.
+00:56:02.890 I also try to figure outhow to pay that forward.
+00:56:07.480 And I think anyone whois really successful
+00:56:11.210 or almost anyone whois really successful
+00:56:13.220 has like privilege, luck,skill, and hard work.
+00:56:16.950 And I think peoplewho try to say
+00:56:18.800 it's just one or just theother all tend to be wrong.
+00:56:22.820 So I'm thankful for that.
+00:56:24.390 And I try to pay that forward.
+00:56:26.240 
+00:56:28.790 In terms of biasesin the product,
+00:56:31.610 I think this is one of thereasons that diverse teams are
+00:56:35.120 most important, themoral question aside.
+00:56:38.210 The consumerproducts, the teams,
+00:56:40.760 the companies that I think havedone the best job addressing
+00:56:44.540 this head on have hada very diverse set
+00:56:47.300 of voices around the table.
+00:56:48.710 And I think that is alwaysthe strategy I recommend,
+00:56:51.410 because that's the only oneI've seen consistently work.
+00:56:53.952 AUDIENCE: Cool, thank you.
+00:56:55.039 JORGE CUETO: We're on time now.
+00:56:56.330 But if you can do these lastthree questions quickly,
+00:56:58.901 we can get through them.
+00:56:59.900 SAM ALTMAN: Sure.
+00:57:00.830 AUDIENCE: Thank youfor coming, Sam.
+00:57:02.360 My question is onmachine learning
+00:57:03.800 and artificialintelligence companies.
+00:57:06.920 It seems to me that thescarce or valuable thing
+00:57:09.590 is data in those areasand less so the algorithm,
+00:57:12.320 because they'remostly open source.
+00:57:13.824 So I was wondering how you thinkabout that when getting pitches
+00:57:16.490 from companies.
+00:57:17.462 SAM ALTMAN: I usedto believe that.
+00:57:18.920 I now believe that it's goingto be compute, not data.
+00:57:22.330 I think data isimportant, but there
+00:57:24.410 will be a lot of it available.
+00:57:26.520 And just my ownexperience with OpenAI,
+00:57:30.752 to really be atthe forefront here,
+00:57:32.210 you just need massiveamounts of compute.
+00:57:34.910 And so I used to askcompanies how they're
+00:57:37.055 going to get a lot of data.
+00:57:38.180 Now, I ask them how they'regoing to get a lot of compute.
+00:57:40.520 AUDIENCE: OK.
+00:57:40.940 Thank you.
+00:57:41.439 SAM ALTMAN: Sure.
+00:57:42.299 AUDIENCE: Hey, Sam.
+00:57:43.090 Thanks for coming.
+00:57:43.980 I know you weretalking about people
+00:57:45.480 are becoming unhappierand the world [INAUDIBLE]
+00:57:47.370 problem, all thesekind of things
+00:57:48.745 that are kind of quantifiable,like physical needs of people.
+00:57:51.990 Have you or had companiesthat come to you kind of try
+00:57:54.300 to solve the spiritualneeds of people?
+00:57:55.925 Because we can identifythe physical needs,
+00:57:58.170 but what about like spiritualneeds or research or companies?
+00:58:00.720 SAM ALTMAN: We have had a few.
+00:58:02.580 None of them havereally worked yet.
+00:58:04.650 But you know, one thatstuck out of memory
+00:58:06.600 was a company cameto us and said,
+00:58:10.610 churches, you know,organized religion
+00:58:14.020 had this reallyimportant effect that
+00:58:17.290 was totally separatefrom the religion
+00:58:20.020 itself, which was thistight-knit community.
+00:58:23.080 And how do you buildthat in a world
+00:58:25.300 where most people or adeclining number of people
+00:58:27.370 believe in religionand go to church?
+00:58:29.392 And so I think there arepeople thinking about things
+00:58:31.600 like that, which are sortof these non-obvious attacks
+00:58:34.030 on the problem thatare interesting,
+00:58:35.600 but none that I couldyet point to as here's
+00:58:37.900 this thing that'sreally worked well.
+00:58:42.000 AUDIENCE: Hey, Sam.
+00:58:42.890 So you partnered with theACLU earlier this year,
+00:58:46.800 which you gotmixed reactions to.
+00:58:48.930 I'm wondering what you learnedfrom that whole experience,
+00:58:52.560 what successes you'vehad, and what partnerships
+00:58:54.560 you're looking forwardto with other non-profits
+00:58:56.570 in the future?
+00:58:59.520 SAM ALTMAN: I was reallyexcited about how that went.
+00:59:02.920 We had never doneanything like that before.
+00:59:04.950 We often try new things.
+00:59:05.979 Usually, they don't work.
+00:59:07.020 Sometimes they do.
+00:59:08.170 That's somethingwe would do again.
+00:59:10.020 We would do somethingmore like that.
+00:59:11.850 I think there are thesereally important organizations
+00:59:16.260 in the world that can use ourhelp to build better technology
+00:59:19.680 teams.
+00:59:20.712 And that was anexperiment that went well
+00:59:22.420 and that we'd love to try again.
+00:59:24.610 One of our software engineers,[INAUDIBLE],, went there for--
+00:59:28.167 I think she went forlike eight weeks,
+00:59:29.750 almost the whole program, satin their offices, helped them.
+00:59:32.249 We got a call from themlater about how well it went,
+00:59:34.760 being able to helpthem, you know,
+00:59:37.550 expand and supplementtheir team.
+00:59:39.350 And you know, I thinkthat's something
+00:59:41.180 we'd like to try again.
+00:59:42.561 JORGE CUETO: And one lastquestion, because it's
+00:59:44.560 gotten so many votes.
+00:59:45.490 SAM ALTMAN: Sure.
+00:59:45.790 JORGE CUETO: ElonMusk recently called
+00:59:47.373 for preemptive AI regulationat the National Governors
+00:59:50.260 Association.
+00:59:51.460 As a chair of OpenAI andfriend of Musk's, what
+00:59:53.830 is your opinion on this issue?
+00:59:55.420 And what specific actions canwe take to minimize future risk?
+00:59:58.294 SAM ALTMAN: The specificthing I would support today
+01:00:00.460 is just insight.
+01:00:02.510 I think the governmentshould understand
+01:00:05.210 where the edge of capabilitiesare and how it's evolving.
+01:00:09.470 Because I think no one,certainly not the government,
+01:00:12.200 knows what the regulation forAI should look like today.
+01:00:16.070 But I'd be in favor of startingthat education process.
+01:00:18.675 JORGE CUETO: Awesome.
+01:00:19.550 So, yeah, that wasour last question.
+01:00:21.060 SAM ALTMAN: Thank you all.
+01:00:21.600 JORGE CUETO: Thank you,everyone, for coming.
+01:00:23.475 [APPLAUSE]
+01:00:26.525 SAM ALTMAN: Thanksfor having me.
+01:00:27.900 JORGE CUETO: [INAUDIBLE]
+01:00:29.300 

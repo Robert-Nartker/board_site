@@ -1,0 +1,1580 @@
+# tactiq.io free youtube transcript
+# A conversation with NVIDIA’s Jensen Huang
+# https://www.youtube.com/watch/8Pfa8kPjUio
+
+00:00:08.650 [Music]
+00:00:12.400 welcome back to the stage Patrick
+00:00:17.270 [Music]
+00:00:27.760 Collison all right good afternoon folks
+00:00:30.640 um hope you've enjoyed the uh the
+00:00:32.439 sessions between now and when we last
+00:00:34.480 saw you uh this morning uh for this
+00:00:37.559 afternoon's keynote or fireside chat I
+00:00:40.239 suppose uh I'm about to introduce
+00:00:41.879 somebody who needs a little introduction
+00:00:44.120 uh although a fun fact uh that you may
+00:00:46.280 not know about Jensen hang is that he's
+00:00:48.399 been a CEO of Nvidia for 31 years this
+00:00:51.000 month making him the longest serving CEO
+00:00:54.399 in the technology industry and guess
+00:00:56.800 therefore logically NE
+00:01:03.480 so J John and I have only been doing for
+00:01:05.400 a mere 14 years so you know even if we
+00:01:08.040 even if we double that we'll still be uh
+00:01:09.720 second to him
+00:01:11.280 um uh Jensen uh well we'll talk about
+00:01:14.720 this on stage uh attended the onita
+00:01:17.560 Baptist Institute in Kentucky we'll
+00:01:20.920 definitely be asking him about it um
+00:01:23.799 Oregon State worked as a waiter at
+00:01:27.240 Denny's uh then
+00:01:30.520 so Denny's close to here actually um LSI
+00:01:33.360 logic and then AMD which is of course
+00:01:35.960 now uh run by his um first cousin once
+00:01:39.200 removed we'll definitely be asking about
+00:01:41.159 that uh before he founded Nvidia in
+00:01:45.000 1993 and um en nvidia's market cap was
+00:01:48.920 $8 billion uh when stripe launched in
+00:01:52.680 2011 um and it is now of course more
+00:01:55.240 than 200 times that um so he's been busy
+00:01:58.479 since please welcome to the stage Jensen
+00:02:01.710 [Applause]
+00:02:09.530 [Music]
+00:02:16.080 Hong hey
+00:02:19.200 everybody so you watched the keynote
+00:02:22.400 earlier I did I've never seen a duet
+00:02:25.400 before so well I've never seen a duet
+00:02:27.680 before you were you were you you were so
+00:02:30.400 synchronized it seemed like the two of
+00:02:32.599 you knew each other it's incredible some
+00:02:36.000 some some acquaintance um but okay
+00:02:38.319 you've been doing Keynotes uh you know a
+00:02:40.400 long time you are um you know the
+00:02:42.120 keynote goat uh
+00:02:44.519 so stop give us your uh like we don't
+00:02:47.720 have you know even a signature outfit
+00:02:49.560 yet we're just amateurs here um so give
+00:02:52.879 us it's because you're still
+00:02:55.959 young well give us give us your keynote
+00:02:58.239 performance review like what what' you
+00:02:59.560 think
+00:03:00.360 I thought it was A+ I thought it was A+
+00:03:03.280 I was uh really did
+00:03:06.080 you uh you you explained you explained
+00:03:10.080 perfectly uh the uh the the purpose of
+00:03:13.319 the company uh what inspires you guys uh
+00:03:16.040 what keeps you guys up what makes you
+00:03:17.680 work so hard uh the ecosystem that you
+00:03:20.080 serve uh the incredible platform you
+00:03:22.159 built uh the amazing contribution you
+00:03:24.560 make to the world's economy uh it's
+00:03:26.840 incredible I thought it was great and
+00:03:28.640 there was a whole bunch of techn ology
+00:03:30.080 stuff feature stuff money stuff I didn't
+00:03:32.560 understand any of that but but um
+00:03:35.640 something about a CK or something like
+00:03:37.799 what was
+00:03:38.920 that kyc kyc
+00:03:42.439 yeah I thought was it's a big deal in
+00:03:44.920 our world is that right Kentucky Fried
+00:03:47.560 Chicken we take care of kyc so that you
+00:03:50.599 can associate us with Kentucky Fried
+00:03:52.079 Chicken okay got it um did you um
+00:03:55.959 software Define financial services this
+00:03:58.159 this idea did that that make sense to
+00:04:00.239 you well first of all I think it's a
+00:04:01.959 giant
+00:04:02.840 idea do you do you know where it came
+00:04:06.519 from you're going to tell me um so um
+00:04:10.959 Jens and I were catching up maybe the
+00:04:12.439 part that I the part that I loved was
+00:04:15.040 how you realized in the very beginning
+00:04:17.880 that that uh uh Financial payments was
+00:04:21.519 about code not Finance I thought that
+00:04:23.520 was incredible and you explained that
+00:04:25.440 the first time we met so so the um gen
+00:04:28.280 time were catching up 18 months ago or
+00:04:29.520 so and you know I guess it was a couple
+00:04:31.800 years since we'd last spoken so he was
+00:04:33.199 kind of asking for the update on stripe
+00:04:34.880 and I was explaining um and uh and you
+00:04:38.440 said oh so it's like software to find
+00:04:41.479 networking but for money um and that was
+00:04:44.960 still ricocheting around in my mind and
+00:04:46.800 so that that that that's where we got to
+00:04:48.400 this idea um uh for software to find fin
+00:04:50.600 services so I hope we don't need to pay
+00:04:51.840 a licensing fee for that zero equity for
+00:04:53.960 that good idea all right um you guys do
+00:04:57.160 know okay I was thinking about this uh
+00:04:58.759 you know uh Tesla earnings were of
+00:05:00.240 course yesterday and uh and Elon um
+00:05:03.320 announced that I think Tesla is going to
+00:05:04.600 have 885,000 uh h100s uh by the end of
+00:05:08.560 this year and I was just reflecting on
+00:05:10.680 you know it's quite a success to sort of
+00:05:13.360 build a business where CEOs kind of
+00:05:15.400 compete with each other to announce you
+00:05:17.680 know who has spent more buying your
+00:05:19.759 product so I think you've um think
+00:05:21.759 you've done something quite impressive
+00:05:22.800 but anyway I actually want to start out
+00:05:24.160 talking a little bit about all of my CEO
+00:05:26.080 friends they they all have the most
+00:05:32.240 so I want to start out um talking a
+00:05:34.360 little bit about um a remark you made at
+00:05:38.080 a uh Stanford event uh recently speaking
+00:05:40.639 of GSB I think um and uh you uh you said
+00:05:44.520 um I wish upon you ample doses of pain
+00:05:48.520 and
+00:05:49.560 suffering
+00:05:53.240 elaborate well uh let's see there there
+00:05:57.440 is a misunderstanding
+00:06:00.440 um there's a phrase that said you should
+00:06:03.160 you should choose uh your career based
+00:06:06.440 on your
+00:06:07.840 passion and usually usually people
+00:06:10.880 connect passion with
+00:06:13.960 happiness and uh I think there's
+00:06:16.440 something missing in that that there
+00:06:18.319 nothing there is wrong but there's
+00:06:20.400 something missing and the reason for
+00:06:21.639 that is because if you want to do great
+00:06:23.599 things and I I know this to be true
+00:06:25.759 about you uh creating stripe and by the
+00:06:28.400 by the way this is this is one of the
+00:06:30.000 one of the world's finest CEOs young as
+00:06:33.240 he may be
+00:06:36.800 yep you guys know I've met a lot of CEOs
+00:06:39.720 I've I've heard about a lot of companies
+00:06:41.880 and this is genuinely one of the one of
+00:06:43.639 the world's great Visionary companies
+00:06:45.400 and and and so anyways I just want to
+00:06:47.080 say that um as as the reason why I I
+00:06:49.639 just I love no more compliments allowed
+00:06:51.800 makes me makes us terribly uncomfortable
+00:06:53.400 I know I could tell I could I could see
+00:06:55.240 him he's starting to
+00:06:57.360 sweat and and so so the thing is when
+00:06:59.879 you you want to build something
+00:07:01.319 something
+00:07:02.560 great uh it's not easy to do and when
+00:07:06.080 you're doing something that's not easy
+00:07:07.319 to do you're not always enjoying it I
+00:07:10.680 don't love every day of my job I don't
+00:07:13.599 think every day brings me joy nor does
+00:07:16.280 Joy have to be the definition of a good
+00:07:18.720 day and every day I'm not happy every
+00:07:21.520 year I'm not happy about the company um
+00:07:23.919 but I love the company every single
+00:07:26.960 second and so I think that that what
+00:07:29.759 people misunderstand is is somehow the
+00:07:33.120 best jobs are the one that brings you
+00:07:34.800 happiness all the time I I don't think
+00:07:36.720 that that's right you have to you have
+00:07:39.400 to you have to suffer you have to
+00:07:42.479 struggle you have to Endeavor you have
+00:07:45.479 to do those hard things and work through
+00:07:47.960 it in order to really appreciate what
+00:07:50.680 you've done and there are no such thing
+00:07:53.840 that are great that was easy to do and
+00:07:56.680 so by Def by definition I would I would
+00:07:58.919 say therefore for um I I wish upon you
+00:08:03.120 greatness which by my way of saying it I
+00:08:05.960 wish upon you plenty of plain and
+00:08:07.240 suffering and
+00:08:15.400 so anything in your upbringing that
+00:08:18.520 taught you that idea or is it just
+00:08:20.199 somehow you know innate to your
+00:08:28.240 makeup I realize I had to lay down for
+00:08:30.840 this
+00:08:35.120 uh I'm about to tell you things I've
+00:08:37.240 never told anyone not even my
+00:08:42.000 family I you know I I was an immigrant
+00:08:45.080 and when I came in 1973 um my I was nine
+00:08:48.360 my older brother was uh almost 11 and
+00:08:51.480 this was a foreign country and um I
+00:08:55.360 there it was there was nothing easy
+00:08:57.040 about that and um uh
+00:09:00.000 we also grew up in a really really
+00:09:03.839 terrific parents but but we weren't
+00:09:06.200 wealthy and so they worked hard they
+00:09:07.959 work hard today um and so they passed
+00:09:10.480 along a lot of a lot of Life Lessons by
+00:09:12.600 working hard now I I had I had all kinds
+00:09:15.640 of jobs you know and and um we went to a
+00:09:18.959 we went to a school that was that that
+00:09:21.600 included a lot of chores is in Kentucky
+00:09:24.680 yeah Kentucky onita Baptist
+00:09:27.360 Institute and um
+00:09:31.040 I don't think it's the same as MIT T
+00:09:33.000 that I is not the it's the same word but
+00:09:36.200 it's different it's a different type of
+00:09:38.440 Institute um but my Institute required
+00:09:41.440 you to go to school um and we it was a
+00:09:43.560 dormatory and so there were a lot of
+00:09:44.839 chores I was the youngest kid in school
+00:09:47.880 and so all of the other kids got the
+00:09:49.360 hard work they had to work in the
+00:09:51.040 tobacco farm and I got the easy job I
+00:09:53.839 was 9 years old and so after they left I
+00:09:56.320 had to clean all the
+00:09:57.640 bathrooms I I I never felt that I got
+00:10:00.600 the easy job you know because what they
+00:10:02.959 left behind was UN you can't unsee that
+00:10:06.200 kind of
+00:10:08.279 stuff but that was my job and that was
+00:10:10.720 my job and so I did it delightfully and
+00:10:12.440 then then um I had plenty of other jobs
+00:10:15.040 and uh Denny's was one of them and I I
+00:10:17.440 start started out as a dishwasher and
+00:10:19.279 became a bus boy and became a waiter and
+00:10:21.519 and I I loved every one of them I loved
+00:10:23.399 every one of them somehow somehow uh
+00:10:26.200 I've always found uh you know
+00:10:30.240 I want to say Joy but that's not quite
+00:10:31.839 right I've just I just everything that I
+00:10:34.320 was doing I I wanted to do do the best I
+00:10:36.560 could and and maybe that was kind of
+00:10:38.839 ingrained from the very beginning but uh
+00:10:41.000 I was definitely the best uh bathroom
+00:10:43.959 cleaner the world's ever seen I'm sure
+00:10:45.720 of it yeah so if we fast forward just a
+00:10:49.880 little bit um to uh the Nvidia of today
+00:10:53.200 go how large is your leadership team how
+00:10:55.839 large is your your leadership team
+00:10:59.639 nvidia's leadership team is 60 plus 60
+00:11:02.959 people yeah and they all report to you
+00:11:06.240 they yeah they all report to me 60
+00:11:07.920 direct reports 60 direct reports yeah
+00:11:10.160 which is not conventionally considered a
+00:11:12.519 best
+00:11:15.200 practice I agree that the best practice
+00:11:17.720 kind of I'm certain that's the best
+00:11:19.279 practice it's not conventional but I'm
+00:11:21.720 certain it's the best
+00:11:26.880 practice I'm going to and by the the end
+00:11:29.560 of this I'm going to convince all of you
+00:11:31.200 to have 60 people on your direct
+00:11:33.440 reports the floor is
+00:11:35.480 yours all the the reason the first of
+00:11:38.120 all first of all the reason is because
+00:11:39.959 the layer of hierarchy in your company
+00:11:42.880 really matters information uh really
+00:11:45.639 matters I I believe that I believe that
+00:11:48.519 your contribution to uh to the work
+00:11:52.079 should not be based on the privileged
+00:11:54.680 access to
+00:11:56.399 information I don't do one-on ones and I
+00:11:59.560 don't my my staff is quite large and
+00:12:03.320 almost everything that I say I say to
+00:12:04.800 everybody all at the same time and the
+00:12:06.880 reason for that is because I don't
+00:12:08.959 really believe there's any information
+00:12:10.440 that I operate on that uh somehow only
+00:12:13.639 one or two people should hear about and
+00:12:15.880 this is this is these are the challenges
+00:12:17.399 of the company or this is the problem
+00:12:18.600 I'm trying to solve or this is the
+00:12:19.600 direction we're trying to go into um
+00:12:22.000 these are the new Endeavors this isn't
+00:12:23.519 working that's working well I you know
+00:12:26.160 and so all of this type of information
+00:12:28.000 everybody should be able to hear
+00:12:30.120 uh I love that everybody's working off
+00:12:32.279 of the same song sheet I love that that
+00:12:35.199 there is no privileged access to
+00:12:36.760 information I love that we're able to
+00:12:38.760 all contribute to solving a problem and
+00:12:41.440 when when you have 60 people in a room
+00:12:43.760 and often times Well my staff my staff
+00:12:45.839 meetings are once every other week um uh
+00:12:48.560 it's it's all based on issues whatever
+00:12:50.560 issues we have uh everybody's there
+00:12:52.480 working on it at the same time uh
+00:12:54.600 everybody under everybody heard the
+00:12:56.639 reasoning of the problem everybody heard
+00:12:58.639 the reasoning of the solution everybody
+00:13:00.680 heard everything and so so that empowers
+00:13:04.160 people I believe that when you give
+00:13:06.120 everybody equal access to information it
+00:13:07.760 empowers people and so that's number one
+00:13:10.399 empowering number two uh uh the if the
+00:13:16.040 if the CEO's direct staff is 60 people
+00:13:19.120 the number of layers you've removed in a
+00:13:20.839 company is probably something like seven
+00:13:22.800 you know depending on how it is is it 60
+00:13:24.880 at every layer or only 60 as in like if
+00:13:27.680 I'm a director if I'm one of the
+00:13:30.040 fortunate 60 um do I also have 60 direct
+00:13:33.199 reports okay so I also don't think I
+00:13:35.560 don't think that that's scalable
+00:13:36.680 downward and the reason for that is
+00:13:38.320 because you need you need more and more
+00:13:41.399 supervision uh depending on depending on
+00:13:44.000 C certain levels and at at the eaff
+00:13:47.199 level at the eaff level if you're so
+00:13:49.320 unfortunate to be serving on invidious
+00:13:51.360 eaff uh it's very unlikely you need a
+00:13:54.199 lot of
+00:13:55.880 managerial you know and so I rarely find
+00:13:59.320 myself having to um you know stand up
+00:14:01.720 for conventional wisdom uh but uh if I
+00:14:03.880 were to kind of Steal man the other side
+00:14:05.399 I'd say well one-on ones are where you
+00:14:07.320 provide coaching where you maybe talk
+00:14:09.399 through goals together personal goals
+00:14:11.680 career advancement you know what have
+00:14:13.279 you um where maybe you give feedback on
+00:14:15.959 something that you see somebody
+00:14:17.120 systematically not doing so well and so
+00:14:18.759 forth and there's all these things that
+00:14:19.880 kind of one is again conventionally
+00:14:21.880 supposed to uh do in the one-on-one do
+00:14:24.160 you not do those things or do you do
+00:14:25.519 them in a different way really good
+00:14:27.600 question I do right
+00:14:31.920 there I give you feedback right there in
+00:14:34.480 front of
+00:14:35.639 everybody and in fact in fact this is
+00:14:38.279 really a big deal first of all feedback
+00:14:41.240 is learning feedback is learning for
+00:14:44.160 what reason are you the only person who
+00:14:45.880 should learn
+00:14:47.120 this now you created the
+00:14:50.519 conditions because of some mistake that
+00:14:54.600 you made or silliness that you you
+00:14:59.160 brought upon yourself
+00:15:03.920 um we should all learn from that
+00:15:06.880 opportunity so you created the
+00:15:08.959 conditions but we should all learn from
+00:15:10.399 it does that make sense and so so for me
+00:15:12.720 to explain to you um why that doesn't
+00:15:14.759 make sense or how I differ from it not
+00:15:17.320 as half the time I'm not right but but
+00:15:19.360 for me to reason through it in front of
+00:15:21.480 everybody helps everybody learn how to
+00:15:23.160 reason through it and so the issue the
+00:15:26.079 the the problem I have with 101's and
+00:15:27.920 taking feedback side is you deprive a
+00:15:30.759 whole bunch of people that same learning
+00:15:33.120 learning from mistakes other people's
+00:15:35.600 mistakes is the best way to learn why
+00:15:38.040 learn from your own
+00:15:40.000 mistakes you know why learn from your
+00:15:42.600 own embarrassment you got to learn from
+00:15:43.880 other people's embarrassment that's why
+00:15:45.319 we that's why we have case studies and
+00:15:47.560 isn't that right we're trying to read
+00:15:49.199 from other people's disasters other
+00:15:51.160 people's tragedies nothing makes us
+00:15:53.240 happier than
+00:15:55.560 that have you succeeded in getting other
+00:15:58.199 lead leaders Nvidia to adopt this
+00:16:00.360 practice or is that you know difficult I
+00:16:03.040 I give people the opportunity to
+00:16:04.319 decipher themselves but I really
+00:16:05.839 discourage 101's I really discourage one
+00:16:08.720 on nothing nothing is worse than uh uh
+00:16:12.120 the idea that somebody says oh Jensen
+00:16:14.000 wants us to do
+00:16:15.959 this why does that have to be said to
+00:16:18.079 anybody everybody should know and so um
+00:16:21.600 you know or somebody said you know that
+00:16:23.959 eaff said that nothing drives me nuttier
+00:16:26.920 than that you um you once told me that
+00:16:29.360 you really didn't like firing people and
+00:16:32.720 very seldom did it can you elaborate on
+00:16:36.199 that well I rather i' rather improve you
+00:16:39.279 than give up than give up on you you
+00:16:41.240 know when you fire somebody you're kind
+00:16:43.000 of saying you're kind of
+00:16:44.600 saying well you know a lot of people say
+00:16:47.360 Well it it wasn't your fault or or I
+00:16:49.839 made the wrong choice or um there are
+00:16:52.560 very few jobs look I used to clean
+00:16:54.800 bathrooms and now I'm the CEO of a
+00:16:56.079 company I I think you could learn it
+00:16:59.399 I'm pretty certain you can learn this
+00:17:01.639 and and there are a lot of things in
+00:17:03.160 life that I believe you can learn and
+00:17:04.559 you just have to be given the
+00:17:05.559 opportunity to learn it I had the
+00:17:07.000 benefit of watching a lot of smart
+00:17:08.559 people do a lot of things I'm surrounded
+00:17:10.119 by 60 people they're doing smart things
+00:17:11.720 all the time and they you know they
+00:17:13.720 probably don't realize it but I'm
+00:17:14.679 learning constantly from every single
+00:17:16.319 one of them and and so I I don't like
+00:17:19.439 giving up on people because I think they
+00:17:20.880 could they could improve and so there's
+00:17:22.439 a there's there's it's kind of tongue
+00:17:24.400 and cheek but but people know that I
+00:17:27.359 rather torture them into greatness
+00:17:30.080 that that that was the phrase that I was
+00:17:31.480 I was hoping to uncover yeah I remember
+00:17:32.880 I remember you mentioned that yeah so
+00:17:34.559 I'd rather torture you into greatness
+00:17:36.080 because I believe in
+00:17:37.240 you and I think I think coaches that
+00:17:40.440 that really believe in their in their in
+00:17:42.320 their uh in their team torture them into
+00:17:44.240 greatness uh and often times they're so
+00:17:46.880 close don't give up they're so close you
+00:17:49.400 know greatness kind of it comes all of a
+00:17:51.400 sudden one day he like I got it do you
+00:17:53.120 know what I'm saying that feeling that
+00:17:55.080 you didn't get it yesterday and all of a
+00:17:56.440 sudden one day something clicked you oh
+00:17:58.080 got it
+00:17:59.400 could you imagine you gave up that just
+00:18:01.280 that moment right before you got it you
+00:18:03.640 know so I don't want you to give up on
+00:18:04.880 that so I just just keep torturing
+00:18:08.440 you how
+00:18:11.120 um how's your work life
+00:18:20.720 balance well it depends on who you
+00:18:23.640 ask uh I I think my my work life balance
+00:18:26.440 is really great is really great
+00:18:29.600 um I work I work as as as as much as I
+00:18:33.080 can
+00:18:37.280 and I feel like he's judging
+00:18:41.520 me you know I I'm older than you I have
+00:18:45.000 more wisdom than you so what
+00:18:47.559 I these are all the highlights from our
+00:18:49.840 conversations that I think more people
+00:18:51.679 should get to hear
+00:18:54.120 so well I I work as I work from the
+00:18:57.440 moment I wake up to the moment when I go
+00:18:59.080 to bed and I I work 7 days a week uh
+00:19:02.280 when I'm not working I'm thinking about
+00:19:04.520 working and um when I'm working I'm
+00:19:07.520 working and
+00:19:09.440 so and I I sit through movies but I
+00:19:13.159 don't remember because I'm thinking
+00:19:14.480 about
+00:19:17.360 work you know uh and so that that's be
+00:19:22.320 but my work is not as you know it's not
+00:19:26.320 working as in uh there's this problem
+00:19:29.520 and you're trying to solve this problem
+00:19:31.919 you're thinking about what the company
+00:19:33.520 can be and um are there things that we
+00:19:36.120 could do even better or sometimes it's
+00:19:38.240 just trying to solve a problem you know
+00:19:40.520 but sometimes you're Imagining the
+00:19:42.039 future and and boy if we did this and
+00:19:44.360 that and it's working you're fantasizing
+00:19:47.640 you're dreaming you're right I mean
+00:19:49.720 that's incredible how well well so to
+00:19:51.919 yeah to concretize this a little bit and
+00:19:53.559 and we will get to talk about AI which I
+00:19:55.480 hear is a thing these days but um it's a
+00:19:58.400 thing
+00:19:59.280 yeah officially a thing TM uh but um to
+00:20:02.720 concret concretize this a bit like just
+00:20:04.679 what what's your what is a day in
+00:20:06.000 Jensen's life look like like I used to I
+00:20:09.360 used to wake up at 5 these days I wake
+00:20:10.919 up at six because of my
+00:20:12.600 dogs and and the reason why six is
+00:20:15.960 somehow we decided that 6 o' is when
+00:20:17.799 they should wake up and and um I don't
+00:20:21.039 know what it is I don't mind waking
+00:20:23.159 anybody up but I feel guilty When I Wake
+00:20:26.120 the puppies up
+00:20:29.320 and and it it actually burdens me you
+00:20:32.520 know and so I don't want to move it
+00:20:34.200 might you know they they they pick up on
+00:20:35.919 any vibration in the you know in the
+00:20:37.679 house and it wakes them up and and so we
+00:20:41.039 kind of stay we stay in bed and I I I
+00:20:44.080 just read in bed until 6 o'clock and
+00:20:46.640 it's time but you're but you're thinking
+00:20:47.880 about gpus oh yeah yeah yeah sure I'm
+00:20:52.039 obsessed about gpus I mean what can you
+00:20:53.840 do you know I'm
+00:20:55.600 constantly no I'm just and then the day
+00:20:58.360 is all I guess group meetings because it
+00:21:01.120 can't be one one meetings yeah I get my
+00:21:02.720 work done before I go to work and then
+00:21:04.919 when I get to work
+00:21:07.960 um and how how many meetings in a
+00:21:10.240 typical
+00:21:11.480 day uh pretty much all day long you know
+00:21:14.480 and so I select the meetings that are
+00:21:16.120 really important to me uh I try not to
+00:21:18.400 have I try not to have regular meetings
+00:21:21.880 regular operational meetings because
+00:21:24.480 I've got amazing people in the company
+00:21:25.880 who are you know doing regular
+00:21:27.200 operational meetings and so we should be
+00:21:29.559 we we're pinch you know CEOs
+00:21:31.559 are pinch we should be working
+00:21:33.000 on the things that nobody else can or no
+00:21:34.919 nobody else is so you're jumping into
+00:21:36.760 projects that are stuck or off track or
+00:21:39.480 or new ideas or wherever we can move to
+00:21:41.360 needle no reporting no reporting
+00:21:43.880 meetings I hate reporting meetings they
+00:21:45.720 don't to report to me and just problem
+00:21:47.559 meetings and so problem meetings or idea
+00:21:49.760 meetings or brainstorming meetings or
+00:21:51.799 creation meetings or whatever it is you
+00:21:53.760 know those are the meetings I go to and
+00:21:55.640 so usually I call them um I I tried
+00:21:59.279 really hard not to have Outlook manage
+00:22:00.880 my life and so we purposefully decide
+00:22:03.799 what kind of things that we want to do
+00:22:05.200 we want to work on and so I try to live
+00:22:07.320 a life of purpose and i i u manage my
+00:22:10.279 time accordingly yeah um you used the
+00:22:13.840 phrase um once uh Z billion doll markets
+00:22:18.200 that zero billion doll markets are your
+00:22:19.760 favorite markets yeah what do you mean I
+00:22:24.120 our if you if you take a step back our
+00:22:26.880 purpose almost all of our purposes
+00:22:28.880 should be to go and uh do something that
+00:22:34.520 has never been done
+00:22:36.080 before uh that is insanely hard to do
+00:22:39.559 that if you achieve it could make a real
+00:22:42.720 contribution I know your company does
+00:22:44.760 that uh I try to do that and if that's
+00:22:48.520 the case it hasn't been done before it's
+00:22:50.520 incredibly hard to do it's probably and
+00:22:53.200 it's never been done before that market
+00:22:55.760 is probably Z billion do in size
+00:22:59.159 because has never been done before I'd
+00:23:01.559 rather be a market maker Market Creator
+00:23:04.440 than a market
+00:23:07.080 taker you know to create something new
+00:23:09.440 that never existed before versus
+00:23:11.720 thinking about share I don't love
+00:23:13.720 thinking about share I don't like the
+00:23:15.279 concept of
+00:23:16.559 share and the reason for that is because
+00:23:19.360 if you think if you think about it in
+00:23:20.919 the big picture um uh stripe existed out
+00:23:24.840 of thin air you you vaporized you
+00:23:27.799 created something out of vapor it wasn't
+00:23:30.120 as if there was another you
+00:23:32.960 know something else and so so I I'd like
+00:23:36.520 to think that that we can come up with
+00:23:38.960 something that is a z billion dollar and
+00:23:42.640 a z billion dollar market is is a a good
+00:23:44.919 way to to cause the company to think
+00:23:46.960 about you know how to go create
+00:23:48.440 something for the first time so our
+00:23:50.559 mission is to grow the GDP of the
+00:23:52.360 internet and I mean the GDP of the
+00:23:54.400 internet kind of um um claws in that
+00:23:58.440 usually gets most of the attention but
+00:24:00.000 actually think the most important part
+00:24:01.480 is just the verb grow um uh because to
+00:24:06.279 your point we shouldn't be thinking
+00:24:07.799 about well you know which are the
+00:24:09.320 transactions that are already happening
+00:24:11.000 or which are the businesses that already
+00:24:12.520 exist we should be thinking about which
+00:24:14.240 are the transactions that don't exist
+00:24:15.840 and which are the businesses that don't
+00:24:17.039 exist you know the GDP of the world is
+00:24:19.919 you know around1 trillion doll but it
+00:24:21.799 doesn't have to be1 trillion it could be
+00:24:23.480 $200 trillion or a thousand trillion
+00:24:26.000 dollar that's exactly right that's
+00:24:27.679 exactly right and most most of the value
+00:24:29.720 we're going to create over the next
+00:24:31.799 several decades are likely not limited
+00:24:35.799 by physical things you know and so so
+00:24:39.919 this is a pretty extraordinary time and
+00:24:41.840 so with this concept of zero billion
+00:24:44.000 billion dollar markets if I'm again at
+00:24:46.120 Nvidia am I coming to you with some
+00:24:48.000 proposal for some project and maybe
+00:24:49.799 there's several billion dollars of capex
+00:24:52.480 involved or you know many uh it's a many
+00:24:55.039 year pursuit or something and there
+00:24:57.559 there are no there are no customers for
+00:24:59.799 it today there's no demand that I can
+00:25:01.440 demonstrate for it and you guys are just
+00:25:03.440 making a gut call at to say that yet yes
+00:25:07.640 nobody's doing this today we think they
+00:25:09.679 could we think they should and therefore
+00:25:11.600 we're going to pursue it really close
+00:25:13.679 yeah it's kind of like that and uh it's
+00:25:16.279 it's a gut call in the sense that that
+00:25:19.000 your intuition says something as a
+00:25:20.720 starting
+00:25:21.640 thesis but then you have to reason
+00:25:23.520 through it and the reasoning of it is
+00:25:26.600 much much more important to me than a
+00:25:27.919 spreadsheet
+00:25:29.399 I hate spreadsheets because you can make
+00:25:31.039 spreadsheets do whatever you want you
+00:25:33.039 can make any chart you want out of a
+00:25:34.600 spreadsheet you just got to type in some
+00:25:36.399 numbers and so I don't love spreadsheets
+00:25:38.760 for that reason I love words for that
+00:25:40.880 reason words are reasoning tell me how
+00:25:43.360 did you reason through this you know
+00:25:44.720 what's our intuition why do we be
+00:25:46.320 believe that matters why do we think
+00:25:48.159 it's hard I like hard things because it
+00:25:51.240 takes a long time to do and if it takes
+00:25:53.600 a long time to
+00:25:54.960 do a lot of people who are you know less
+00:25:58.520 committed probably won't do it um uh if
+00:26:01.559 it's really really hard to do it takes a
+00:26:03.080 long time to do uh it takes a really
+00:26:05.640 resilient and a really dedicated really
+00:26:07.960 committed person to go after it and um
+00:26:11.360 and if it also takes a long time to do
+00:26:13.399 you can kind of flounder around for a
+00:26:14.840 couple years nobody noticed you know and
+00:26:17.679 so so you could be I could be
+00:26:19.960 incompetent for for several years and
+00:26:22.440 everybody goes well who saw it you know
+00:26:25.399 um where did Cuda come from
+00:26:29.240 uh Cuda came originally from uh two
+00:26:32.720 ideas one is called uh
+00:26:35.919 um I hate to get technical but but uh we
+00:26:39.399 created we pioneered this idea called
+00:26:41.320 accelerated Computing accelerated
+00:26:43.440 Computing is like a um an IO device
+00:26:48.559 something that you sit on PCI Express if
+00:26:50.480 anybody's in the computer business an IO
+00:26:53.240 device that
+00:26:55.200 allows uh the application to interact
+00:26:57.960 with that IO device in such a way as to
+00:27:00.120 accelerate parts of the
+00:27:02.320 application and UDA is was an invention
+00:27:06.200 in 1993 and it's really profound
+00:27:08.000 invention allows the software programmer
+00:27:11.880 to directly program an IO device write
+00:27:16.600 an application directly to the io device
+00:27:18.840 because the io device is virtualized and
+00:27:21.559 it's uh uh and it's it it's um
+00:27:24.480 architecturally compatible across
+00:27:25.799 multiple Generations it's uh you know
+00:27:29.000 anyways we invented this idea called
+00:27:30.480 accelerated Computing and that was we
+00:27:32.640 called it unified driver architecture
+00:27:34.559 for whatever
+00:27:35.760 reason and then um uh several years
+00:27:38.840 later we thought we could make our gpus
+00:27:41.880 more programmable to high level
+00:27:43.200 programming languages and we invented
+00:27:44.880 this idea called
+00:27:46.480 CG C for graphics Okay C for gra for
+00:27:50.200 graphics processors and um uh that
+00:27:53.720 opened up some some really exciting uh
+00:27:56.760 uh opportunities and we we thought you
+00:27:58.440 know what this is this is going to work
+00:27:59.880 but CG the programming model wasn't
+00:28:02.440 exactly right and so we extended we
+00:28:05.039 invented Cuda which is compute with you
+00:28:08.720 know so anyways that's how it's a
+00:28:10.720 horrible story frankly anyways we
+00:28:13.360 invented this idea called accelerated
+00:28:14.919 computer we pioneered this approach was
+00:28:17.080 it was I guess the the real question is
+00:28:18.640 was it a Smash Hit
+00:28:20.399 overnight no it was it was a it was a um
+00:28:24.760 uh it was an incredible disaster
+00:28:26.679 overnight um and and it kind of went
+00:28:29.399 like this this is one of your Z billion
+00:28:31.000 dollar markets you went after yeah and
+00:28:34.039 it was a disaster yeah because it was a0
+00:28:36.720 billion dollar we went after but it cost
+00:28:39.360 so much to go after that Z billion do
+00:28:41.120 Market it actually crushed the $1
+00:28:44.240 billion Doll Market we were enjoying and
+00:28:46.640 so and the reason for that is because
+00:28:49.240 because uh uh
+00:28:51.600 Cuda added a ton of cost into our chips
+00:28:55.640 but there were no applications right and
+00:28:57.679 there no applications customers don't
+00:28:59.559 value the product and they won't pay you
+00:29:01.880 a premium for it and if people aren't
+00:29:04.039 willing to pay you for it but your cost
+00:29:05.600 went up then your gross margins get
+00:29:07.559 crushed and we got our market
+00:29:10.559 cap uh was low and it went down to
+00:29:14.279 really low it was like I think our
+00:29:16.320 market cap went down to like a billion
+00:29:17.880 dollars or something like that I wish I
+00:29:19.679 bought it but anyways okay and so
+00:29:22.960 therefore you immediately canceled Cuda
+00:29:25.039 and went back to the old strategy no no
+00:29:27.440 I believed in
+00:29:29.720 because you reasoned about it you reason
+00:29:31.159 about it look we really believe that
+00:29:33.600 that um accelerated Computing was going
+00:29:35.399 to be able to to solve problems that
+00:29:37.760 that normal computers couldn't and if we
+00:29:40.840 wanted to extend the architecture to be
+00:29:44.080 much more general purpose we had to make
+00:29:47.159 we had to make that we had to make that
+00:29:48.880 sacrifice and so I I um I deeply
+00:29:51.760 believed in in uh the the mission of of
+00:29:54.760 our company I deeply believed in in its
+00:29:57.159 opportunities and so we're anal I deeply
+00:29:59.480 deeply believe that people were wrong
+00:30:02.200 they just didn't appreciate what we
+00:30:04.080 built I deeply believed it and so
+00:30:06.440 weren't analysts and the board and
+00:30:08.120 employee like you you've you know
+00:30:09.720 torpedoed this existing Revenue stream
+00:30:11.679 you've this you know hyped thing that
+00:30:14.240 you know you're selling a lofty uh dream
+00:30:16.679 around that nobody seems to actually
+00:30:18.440 want the business is really suffering
+00:30:21.120 you
+00:30:22.159 know talk us through that you
+00:30:25.159 believed you just go something with this
+00:30:27.320 oh gosh they're so
+00:30:31.559 dumb something like that you know you
+00:30:34.360 you you denial no I'm just kidding no
+00:30:37.000 you you go back to what you believe and
+00:30:39.600 if you believe something did the board
+00:30:41.279 put put pressure on you during
+00:30:43.840 this they I start every conversation
+00:30:47.320 with what I deeply
+00:30:49.039 believed and and and uh and they
+00:30:51.640 believed it you know because they saw me
+00:30:53.679 deeply believe it and I reasoned about
+00:30:55.320 it there wasn't a it wasn't it wasn't
+00:30:58.200 like it was a spreadsheet and therefore
+00:31:00.120 you got to believe the spreadsheet they
+00:31:01.799 had to believe the reasoning the words
+00:31:03.639 how how long did it take it to start
+00:31:07.519 working um probably 10 years
+00:31:12.360 yeah yeah it wasn't that long yeah 10
+00:31:16.639 years it comes and
+00:31:18.080 goes 10 years less than a third of your
+00:31:20.399 tenure yeah it comes and goes it was I
+00:31:23.080 barely remembered it you know the
+00:31:24.559 suffering I barely remembered it could
+00:31:26.760 um could Nvidia be as successful in AI
+00:31:30.679 without Cuda no impossible it it was it
+00:31:33.960 it is it is potentially one of the most
+00:31:36.039 important inventions in modern Computing
+00:31:38.840 uh we invented this idea called
+00:31:40.240 accelerated Computing and and the idea
+00:31:44.440 is so simple but deeply profound it says
+00:31:48.440 the vast majority a small percentage of
+00:31:51.480 the code of
+00:31:53.519 programs occupies consumes
+00:31:56.840 99.999% % of the
+00:31:58.880 runtime and this is true for a lot of
+00:32:01.480 very important applications and that
+00:32:03.960 that small little kernel that small
+00:32:06.159 little kernel or you know some several
+00:32:08.440 kernels uh uh uh can be accelerated and
+00:32:13.240 they tend they you know it's not all
+00:32:15.080 just parallel processing it's not as
+00:32:16.480 simple as that but the idea is that we
+00:32:19.320 can take that kernel that piece of
+00:32:20.760 software that part of the software and
+00:32:22.320 accelerate The Living Daylights out of
+00:32:23.639 it and and today when mors law has run
+00:32:26.639 its course and CPUs scaling is is
+00:32:28.679 basically stopped and if we don't
+00:32:31.000 accelerate every software uh you're
+00:32:33.880 going to see extraordinary computation
+00:32:36.480 inflation because the amount of
+00:32:38.120 computation the world does is doubling
+00:32:39.960 every year still and yet if CPUs and
+00:32:42.799 general purpose computers are not
+00:32:44.159 increasing in performance because it's
+00:32:45.880 stopped then what's your alternative or
+00:32:48.200 your cost of computing is going to keep
+00:32:49.440 going up exponentially and so the time
+00:32:51.880 has come for us to do that and so
+00:32:53.880 everyone here runs a business uh and uh
+00:32:56.799 accelerate everything
+00:32:58.480 and you heard here first um and uh and
+00:33:00.720 probably everyone has you know some
+00:33:03.320 version of Cuda for you know or a thing
+00:33:06.639 that they think uh really makes sense
+00:33:08.480 for the sector makes sense for their
+00:33:09.919 technology or what have you um but where
+00:33:13.440 the market doesn't see it yet do you
+00:33:15.760 think it's possible to extract any kind
+00:33:17.480 of generalizable principles around when
+00:33:19.960 you should really doggedly trust that
+00:33:22.600 vision and when perhaps it's worth you
+00:33:25.080 know reconsidering in a fashion that
+00:33:26.960 yeah we could extrap from in the case of
+00:33:28.679 Cuda and other cudas that have existed
+00:33:30.880 over the course of nvidia's history yeah
+00:33:32.799 it's the question is uh determination
+00:33:35.480 and commitment versus
+00:33:37.240 stubbornness and that that that line is
+00:33:40.760 fuzzy um I look I I gut checked against
+00:33:46.080 my core beliefs every day I still do and
+00:33:49.000 you you gut check against it um the
+00:33:52.080 first principles by which you reasoned
+00:33:54.399 about your strategies the first
+00:33:56.600 principles by which you reason about
+00:33:58.039 your strategies those first principles
+00:33:59.720 are easy to
+00:34:01.240 remember and and it's not a long
+00:34:04.360 list and um uh now the question is are
+00:34:08.839 those those principles did they change
+00:34:10.879 in some fundamental way uh are external
+00:34:14.199 conditions such that they no longer
+00:34:16.239 matter as much as before did somebody
+00:34:18.760 else solve the problem and therefore
+00:34:20.918 that problem has now disappeared uh you
+00:34:23.719 know is is it is it uh there will never
+00:34:26.040 be any need um you you gut check it
+00:34:29.399 right constantly and and to the extent
+00:34:32.440 that that's number one gut check you
+00:34:34.879 have to first of all you really have to
+00:34:36.520 be careful to distill down the first
+00:34:37.918 principles instead of I want something
+00:34:40.320 that's
+00:34:42.000 stubbornness you can't reason about it I
+00:34:44.199 just want it you know we're not
+00:34:45.719 5-year-olds right and so and and uh and
+00:34:49.280 so you got to reason about it number one
+00:34:50.599 number two you have to be clever the
+00:34:53.079 fact of the matter is there are lot of
+00:34:54.760 new companies being created here it's
+00:34:56.280 amazing how many great compan
+00:34:58.160 you know are in the audience and and
+00:35:00.680 young companies in the audience uh you
+00:35:02.720 have to be clever and so we found ways
+00:35:05.960 to um monetize even even even even in a
+00:35:11.240 small way Cuda and so we we found uh we
+00:35:14.960 we looked everywhere for applications we
+00:35:16.960 found an application with CT
+00:35:18.359 reconstruction we found an application
+00:35:20.200 with seismic processing we found another
+00:35:22.599 application with molecular Dynamics uh
+00:35:25.119 you know and so we're constantly looking
+00:35:26.720 for applications they didn't they didn't
+00:35:29.320 make it a a home run but it sustained us
+00:35:33.000 just enough just enough and and uh
+00:35:35.480 bought us time for it to Really Happen
+00:35:38.079 yeah okay so let's talk about uh about
+00:35:40.960 AI um I may just to kind of do some math
+00:35:43.320 to ground things here uh let's just say
+00:35:45.280 that the total um sort of compute
+00:35:48.079 capacity uh of all gpus uh in the world
+00:35:50.839 today is X um what do you think uh what
+00:35:55.400 do you think what what multiple of x
+00:35:58.079 will we be at in 5
+00:36:03.599 years first of all you know that I'm
+00:36:06.359 going to regret saying
+00:36:08.839 this and this is beat I'm a public
+00:36:11.960 company you crazy
+00:36:15.240 person see this is here here's this is
+00:36:19.160 how how nice is it to be private
+00:36:29.400 safe to say considerably
+00:36:31.240 more well let's reason about it shall we
+00:36:34.680 okay so let's let's reason about it
+00:36:35.960 let's reason our way through okay so
+00:36:38.040 first of all it goes like this uh the
+00:36:40.200 world has installed about a trillion
+00:36:41.960 dollars wor the data centers those
+00:36:44.079 trillion dollars with the data centers
+00:36:45.359 use as general Pur general purpose
+00:36:47.079 Computing general purpose Computing is
+00:36:49.599 run his course we cannot continue to
+00:36:52.720 process that way and so the world is
+00:36:54.760 going to accelerate everything data
+00:36:56.359 processing you name it okay and so we're
+00:36:58.359 going to accelerate everything when we
+00:37:00.560 accelerate everything every single data
+00:37:02.200 center every single computer will be an
+00:37:03.760 accelerated server well there's about a
+00:37:07.359 trillion dollars worth of computers if
+00:37:09.000 we don't grow at all um over the next
+00:37:11.680 call it four years that we have to go
+00:37:12.960 replace four years six years pick your
+00:37:15.359 pick your number of years but if if the
+00:37:17.359 computer industry continues to grow at
+00:37:18.920 some 20% or so um we'll probably have to
+00:37:21.400 replace over the course of next you know
+00:37:23.280 pick your number of years about $2
+00:37:25.119 trillion worth of computers with
+00:37:27.079 accelerat
+00:37:28.040 Computing so just make that gpus okay um
+00:37:32.160 that's number one and this is the second
+00:37:34.079 part this is this is the reason
+00:37:35.960 why um all of you stripe you're on to
+00:37:39.200 something just absolutely Monumental
+00:37:42.240 this
+00:37:43.160 idea this idea called an you know you've
+00:37:46.520 heard me say an industrial revolution
+00:37:48.800 let me tell you why we are producing
+00:37:51.119 something for the very first time that
+00:37:52.839 has never been produced before and we're
+00:37:55.520 producing it in extremely high volume
+00:37:57.920 and the production of this thing
+00:38:00.800 requires a new instrument that never
+00:38:02.520 existed before it's a
+00:38:04.880 GPU and the thing that we're producing
+00:38:07.079 for the very first time for the
+00:38:08.920 mathematicians and all the computer
+00:38:10.480 scientists in the room for all of you
+00:38:12.160 you know that we're producing tokens
+00:38:14.839 we're producing floating Point numbers
+00:38:17.560 at high volume for the first time in
+00:38:19.800 history and the floating Point numbers
+00:38:21.800 have value the reason why they have
+00:38:23.160 value is because it's intelligence it's
+00:38:25.200 artificial intelligence you can take
+00:38:27.000 these sport floating Point numbers you
+00:38:28.720 reformulate it in such a way that it
+00:38:30.359 turns into English French proteins
+00:38:34.119 chemicals Graphics images
+00:38:37.480 videos Robotic articulation steering
+00:38:40.480 wheel articulation we're producing
+00:38:42.280 tokens at extraordinary scale now we've
+00:38:45.760 discovered a way through all of the work
+00:38:47.920 that we do with artificial intelligence
+00:38:49.599 to produce tokens of almost any
+00:38:51.800 kind so
+00:38:53.800 now the world is going to produce an
+00:38:56.720 enormous amount of tokens now these
+00:38:59.480 tokens are going to be be produced in
+00:39:01.400 new types of data centers we call them
+00:39:02.920 AI
+00:39:04.400 factories back in the last Industrial
+00:39:07.040 Revolution water comes into a a machine
+00:39:10.400 you light the water on fire right turn
+00:39:13.040 it into steam you know and then it turns
+00:39:16.000 into electrons atoms come in electrons
+00:39:18.920 go out in this new Industrial Revolution
+00:39:21.520 electrons come in and floating Point
+00:39:23.880 numbers come out and just like the last
+00:39:27.000 Industrial Revolution nobody understood
+00:39:28.960 why these electricity is so valuable and
+00:39:31.079 is now sold right marketed kilowatt
+00:39:33.680 kilowatt hours you know per dollar and
+00:39:36.040 so now we have you know million tokens
+00:39:38.880 per dollar and so that same logic is as
+00:39:43.839 incomprehensible to a lot of people as
+00:39:46.000 the last Industrial Revolution but it's
+00:39:47.480 going to be completely normal in the
+00:39:49.560 next 10 years well these these tokens
+00:39:53.760 these tokens are going to create new
+00:39:57.079 product new Services enhanced
+00:39:59.480 productivity on whole slew of Industries
+00:40:02.400 a hundred trillion dollar worth of
+00:40:03.760 Industries on top of us and so this
+00:40:06.119 industry is going to be gigantic and in
+00:40:08.520 order to to monetize that transact that
+00:40:11.720 you're going to need stripe and
+00:40:19.000 so I got tell you this is one of my
+00:40:21.160 favorite
+00:40:22.119 companies the first time I met Patrick
+00:40:24.760 he had to explain stripe to me I was
+00:40:27.040 first first of all it was so
+00:40:30.359 complicated tried to refine the uh the
+00:40:32.839 descriptions of our time but ear
+00:40:35.280 complicated business in no matter what
+00:40:37.240 uh but nonetheless I was I was uh so
+00:40:40.200 inspired by it it's incredible what you
+00:40:41.960 guys have built are we going to get you
+00:40:43.200 uh migrated to strip billing now that we
+00:40:45.040 have usage based billing and I wish I
+00:40:47.119 had a business that required
+00:40:49.920 billing I think your public filing
+00:40:52.440 suggests you're doing a lot of
+00:40:56.040 billing well fall up in it um all right
+00:40:59.000 so um it's only 10 transactions just so
+00:41:02.520 you
+00:41:03.800 know your your your economics serving us
+00:41:07.160 is like nothing it's like 10
+00:41:09.240 transactions we'd happily take the 2.9%
+00:41:11.720 but
+00:41:12.920 anyway we can discuss that separately um
+00:41:17.520 so so think done thinking about this to
+00:41:21.359 you can't say that you're public company
+00:41:22.800 um so um so thinking about these uh
+00:41:25.960 these you know token factories um I feel
+00:41:27.680 like a big question right now is uh
+00:41:29.800 whether the models saturate uh in the
+00:41:31.960 sense that you know we demoed the sigma
+00:41:33.640 assistant on stage earlier and know you
+00:41:35.800 can write them natural language and we
+00:41:36.920 convert that to SQL and going from you
+00:41:39.680 know a maybe a 7 billion parameter model
+00:41:41.720 to a 70 billion parameter model or
+00:41:43.319 something like that might you know there
+00:41:44.640 might be a significant kind of uh
+00:41:46.760 consequential Improvement in query
+00:41:48.839 accuracy for the user for the typical
+00:41:50.720 kinds of queries that people tend to
+00:41:51.880 construct but maybe going to a model
+00:41:54.000 that's 10x larger than that is sort of
+00:41:55.760 unnecessary like at some point you get
+00:41:56.880 to good enough you can reliably convert
+00:41:58.359 the natural language to equal I think
+00:42:00.359 there's a question of you know for the
+00:42:02.760 use cases for which llms are being
+00:42:04.160 deployed you know what what does that
+00:42:06.440 saturation curve look like and for how
+00:42:08.640 many use cases does one need a trillion
+00:42:10.800 parameter model or a 10 trillion
+00:42:12.119 parameter model or do we simply reach a
+00:42:13.760 point where you know some number that is
+00:42:15.880 say less than 100 TR 100 billion is
+00:42:18.839 sufficient do you have any point of view
+00:42:20.599 on that or is that even you know a
+00:42:23.440 reasonable way to look at the question
+00:42:25.440 um in the first place okay let's
+00:42:27.240 breaking down let's reason
+00:42:29.440 about in public almost everything every
+00:42:32.720 question I get okay let's break it down
+00:42:33.960 let's reason about uh so let's start
+00:42:36.079 with an
+00:42:36.880 example in 2012 Alex net was uh computer
+00:42:41.599 vision image net uh image recognition
+00:42:45.079 82% or something like that accuracy over
+00:42:48.200 the
+00:42:49.880 next almost not quite 10 years I think
+00:42:52.359 it was like seven years uh every single
+00:42:54.920 year the accuracy error reduced in half
+00:42:59.680 right every every year the error reduced
+00:43:01.880 in half or otherwise known as Mor's law
+00:43:04.800 okay so so you double the performance
+00:43:07.559 you double the
+00:43:08.800 accuracy um and you double its
+00:43:11.920 believability uh every single year over
+00:43:14.640 the course of seven years it's now
+00:43:16.640 superhuman same thing with speech
+00:43:18.520 recognition same things with with uh
+00:43:21.160 natural language understanding uh we
+00:43:23.839 want to know we want to believe not no
+00:43:27.440 we want to believe that the answer
+00:43:29.480 that's being predicted to us is accurate
+00:43:31.920 we want to believe that and so the
+00:43:34.000 industry is going to chase um that
+00:43:37.200 believability or that accuracy uh and
+00:43:40.800 and double its accuracy uh two act every
+00:43:46.079 year I believe that's going to same
+00:43:47.839 thing that's going to be the same thing
+00:43:49.160 with natural language understanding and
+00:43:50.800 of course the problem the problem space
+00:43:53.359 is a lot more complicated but I have
+00:43:55.839 every certainty that that we're going to
+00:43:57.800 double its accuracy every single year to
+00:44:00.480 the point where it is so accurate and
+00:44:02.920 we've we've largely tested across many
+00:44:04.720 of your examples when you interact with
+00:44:06.160 it that you go you know what this is
+00:44:08.119 really really good I believe the answer
+00:44:09.960 that it's producing for me that
+00:44:12.240 condition is very important the second
+00:44:13.720 thing is
+00:44:15.559 this
+00:44:17.400 um today's language models today's Ai
+00:44:20.520 and everything that we we've shown are
+00:44:22.040 one
+00:44:22.839 shot and yet you and I both know that
+00:44:25.559 there are many things that we think
+00:44:26.839 about that are not one shot you have to
+00:44:29.400 iterate and so how do you come up how do
+00:44:31.800 you reason about a plan how do you uh
+00:44:34.760 come up with a a strategy to solve a
+00:44:37.079 problem uh maybe you need to use tools
+00:44:39.200 maybe you have to look up some
+00:44:40.559 proprietary data maybe uh you have to do
+00:44:43.280 some research in fact maybe you have to
+00:44:45.200 ask another agent maybe you have another
+00:44:47.240 ask another AI maybe you have to be
+00:44:49.280 human in Loop ask a human uh trigger an
+00:44:51.680 event send an email to somebody or text
+00:44:53.359 to somebody get a response before you
+00:44:55.480 can move on to the next step of that
+00:44:57.119 that of that plan and so a large
+00:44:59.480 language model has to iterate and think
+00:45:01.319 of a
+00:45:02.160 plan that's not a One-Shot thing and
+00:45:05.160 once it comes up with the plan as it
+00:45:06.960 traverses that graph um there's a whole
+00:45:09.640 bunch of language models that are going
+00:45:10.800 to get instantiated in initiated and so
+00:45:13.800 I think your your future models are
+00:45:16.960 going to iterate and so instead of
+00:45:19.839 instead of just uh instead of a a
+00:45:22.359 oneshot model it's going to be a
+00:45:24.000 planning model with a whole bunch of
+00:45:25.760 other models around it that particular
+00:45:27.559 get a particular skills and so I think
+00:45:29.520 we have long ways to go um meta garnered
+00:45:33.200 a lot of attention last week for the
+00:45:34.800 release of llama 3 which seems to be the
+00:45:36.839 most impressive open source model as far
+00:45:39.079 yeah any thoughts on open source
+00:45:41.280 models if you ask me uh what are what
+00:45:44.880 are what are the top most important
+00:45:47.079 events in the last couple of years I
+00:45:48.800 would tell you of course chat GPT uh
+00:45:51.200 reinforcement learning human feedback
+00:45:52.800 grounding it to human values and having
+00:45:54.680 the technology necessary to do that uh
+00:45:57.119 obviously a breakthrough um and and uh
+00:46:01.000 democratized uh Computing it made it
+00:46:04.000 possible for everybody to be a
+00:46:05.160 programmer everybody's now doing amazing
+00:46:07.559 things with it uh Chad gbt um the work
+00:46:10.400 that open AI did you know Greg and Sam
+00:46:12.720 and the team really proud of them uh the
+00:46:15.640 second thing that I would say that it
+00:46:18.440 that is is uh just as important I would
+00:46:21.440 say is llama not not llama one but llama
+00:46:24.880 2 llama 2
+00:46:28.400 activated just about every industry to
+00:46:30.960 jump into uh working on generative Ai
+00:46:35.319 and it it U opened the floodgates of
+00:46:38.319 every industry being able to access this
+00:46:40.440 technology Health Care Financial
+00:46:42.520 Services you know you name it
+00:46:44.359 manufacturing you name it customer
+00:46:46.319 service retail you know all kinds I
+00:46:49.079 think llama 2 llama 2 and llama 3
+00:46:52.160 because it's open sourced it engaged
+00:46:54.520 research it engaged startups engaged
+00:46:56.599 industry
+00:46:57.400 it it made generative AI accessible I
+00:47:00.240 think that's a very big deal and so I
+00:47:02.599 think Chad gbt democratized
+00:47:05.119 Computing I think llama democratized
+00:47:07.880 gener to AI does that make sense and I I
+00:47:10.280 think I think without it it's very hard
+00:47:12.440 to have activated all of the research on
+00:47:15.079 safety and um all of the different ways
+00:47:17.640 of change of thought and you know all
+00:47:19.520 the reasoning technology that's that's
+00:47:21.319 now being developed and uh all the
+00:47:23.240 reinforcement learning stuff and you
+00:47:25.200 know that stuff would have been very
+00:47:27.440 hard to have activated without llama um
+00:47:30.200 Dario mode was on Ezra Klein's podcast
+00:47:33.079 um two weeks ago uh And he as many
+00:47:36.920 others have uh many others in particular
+00:47:39.280 who are you know involved with Frontier
+00:47:41.760 Labs um was uh was predicting AGI in the
+00:47:45.599 relatively near term conceivably the
+00:47:47.480 next couple of years you know years like
+00:47:49.319 2027 and so on are frequently thrown
+00:47:51.960 around
+00:47:53.800 thoughts uh if you def depending on how
+00:47:56.079 you define a GI now first of all as an
+00:47:59.960 engineer you know that we we can only
+00:48:03.800 solve a problem ultimately if you can
+00:48:06.280 measure
+00:48:07.359 it and so you have to express the
+00:48:10.240 problem statement the mission somehow in
+00:48:13.119 some some measurable way if you if you
+00:48:16.200 told me that AGI is uh the list of
+00:48:18.599 benchmarks we currently use they're math
+00:48:21.280 test and English UNC comprehension test
+00:48:23.920 and reasoning test and you know
+00:48:27.280 right you got medical exams and bars and
+00:48:30.480 you make your list of all of the tests
+00:48:32.520 that you want it doesn't matter what
+00:48:34.200 what it is just make your list if you
+00:48:36.559 make your list I am certain we will
+00:48:40.000 achieve excellent results in a very
+00:48:42.520 nominal amount of time and if that's the
+00:48:44.960 definition of AGI I will I I'll make a
+00:48:47.880 guess it's probably definitely within
+00:48:50.000 the next 5 years and so all of the tests
+00:48:52.559 that we currently measure measure these
+00:48:55.000 models with um they're they're improving
+00:48:57.799 their accuracy or their error rate is
+00:49:00.559 half is reducing in half every six
+00:49:02.799 months and so there's no no reason why
+00:49:05.920 we shouldn't expect it all to be
+00:49:07.359 superhuman pretty soon so again everyone
+00:49:09.599 in this Audi that doesn't that doesn't
+00:49:11.240 that doesn't meet the standard just be
+00:49:13.319 clear that doesn't meet the standard of
+00:49:15.359 a normal person thinking it's AGI does
+00:49:17.640 that make sense a a you know onest
+00:49:20.839 Street person uh you hey AGI that's
+00:49:23.640 probably not what they're thinking what
+00:49:25.200 I what I defined it as
+00:49:27.319 the way I defined it is simply an
+00:49:29.040 engineering way of defining it so that
+00:49:30.760 you can answer that question the second
+00:49:32.640 way of answering the question is when
+00:49:34.079 can you achieve AGI in an undefined way
+00:49:38.200 if it's undefinable then then how long
+00:49:40.599 would you know how long would it take
+00:49:42.760 undefinable and so everyone in this
+00:49:44.920 audience again runs a business uh and a
+00:49:47.240 practical question they slwe all face is
+00:49:50.520 um you know how do you how do you know
+00:49:53.960 if you're in in the face of the kinds of
+00:49:56.400 Chang you just depicted um how does one
+00:49:59.319 know how can one know whether one is
+00:50:01.720 responding appropriately sufficiently in
+00:50:04.520 the right ways
+00:50:06.040 Etc any advice if you're not engaging AI
+00:50:10.799 um actively and aggressively you're
+00:50:13.520 doing it
+00:50:14.559 wrong you're not going to lose your job
+00:50:17.200 to AI you're going to lose your job to
+00:50:18.720 somebody who uses
+00:50:20.119 AI your company is not going to go out
+00:50:22.720 of business because of AI your company
+00:50:24.319 is going to go out of business because
+00:50:26.119 another compy used AI there's no
+00:50:28.799 question about that and so you have to
+00:50:30.920 engage your AI as quickly as possible
+00:50:32.760 you have to engage AI as quickly as
+00:50:34.200 possible so that you could do um things
+00:50:36.240 that you uh think cost too much to do
+00:50:39.240 for example if the marginal cost of
+00:50:41.319 intelligence was uh practically zero
+00:50:45.480 there are a lot of things that you would
+00:50:46.720 do you would do now that you wouldn't
+00:50:48.559 have done otherwise and so notice how
+00:50:51.680 how often we do search and U these days
+00:50:54.640 no notice how often we ask questions you
+00:50:57.240 know Ian I don't any random question
+00:50:59.079 I'll be asking perplexity right and so
+00:51:02.000 why not just just gave a gave a talk
+00:51:04.280 here at sessions okay I I I love I love
+00:51:07.280 using it and even if I know the answer
+00:51:09.400 I'll just ask it
+00:51:11.079 anyways you know just to see what it
+00:51:13.040 comes up with and and so I I think um uh
+00:51:17.319 we we want that to happen we want the
+00:51:18.799 marginal cost of of these type of
+00:51:20.799 activities to be as low as possible so
+00:51:22.359 that you use it in abundance second if
+00:51:25.960 you could use to be productive
+00:51:29.000 uh you know that that productive
+00:51:32.400 companies leads to higher earnings
+00:51:34.400 higher earnings leads to more
+00:51:36.799 employment more employment leads to more
+00:51:39.160 social growth and so there's there's a
+00:51:41.480 lot of reasons to to want to drive
+00:51:43.160 productivity into companies um apart
+00:51:45.839 from just changing your um manufacturing
+00:51:48.200 plans and your capex plans how has AI
+00:51:50.760 changed how Nvidia Works
+00:51:53.119 internally we were one of the first
+00:51:55.079 technology companies to invest in our
+00:51:57.119 own AI
+00:51:58.440 supercomputers uh we can't design a chip
+00:52:01.280 anymore without
+00:52:02.599 AI at night our AIS are exploring design
+00:52:07.280 spaces uh vast and wide that we would
+00:52:09.680 never do ourselves because it cost too
+00:52:11.559 much money to explore it and and so we
+00:52:14.319 we we um uh our chips are so much better
+00:52:18.839 because of an AI we could reduce the
+00:52:20.680 amount of energy used for our chips as
+00:52:22.319 higher performance um uh our software we
+00:52:26.200 can't write software without without AI
+00:52:28.160 anymore we have to explore all the you
+00:52:29.760 know the the design space of of of
+00:52:32.240 optimizing compilers is too large uh we
+00:52:34.839 use AIS to uh uh uh file bugs so our bug
+00:52:39.200 you know our bugs database uh actually
+00:52:41.440 tells you uh who's you know what's wrong
+00:52:43.880 with the code who's likely involved and
+00:52:47.240 activates that person to go fix it you
+00:52:49.440 know so and so I I think uh we I want
+00:52:53.280 everybody every organization our company
+00:52:54.960 to use AI very aggressively I want I
+00:52:57.040 want to turn Nvidia into a one giant AI
+00:52:59.520 how great would that be and then I'll
+00:53:01.720 have work life
+00:53:04.520 bounds um are there any favorite
+00:53:06.640 examples you've heard of uh businesses
+00:53:08.880 and maybe in some kind of unexpected
+00:53:11.079 sector some unexpected use case where
+00:53:13.440 you feel that they kind of can can serve
+00:53:15.520 as a poster child for some of the
+00:53:17.000 Dynamics you're describing uh where
+00:53:18.640 they've they've really realized uh some
+00:53:20.839 of um some of this
+00:53:22.799 opportunity well the the biggest
+00:53:24.559 surprise of AI that that shouldn't be a
+00:53:27.280 surprise U for a lot of people is is um
+00:53:31.359 that that when we say it's a large
+00:53:34.119 language model the word language doesn't
+00:53:36.799 mean human language only and it doesn't
+00:53:39.359 mean English only or French only or you
+00:53:42.240 know or Irish only or that's a whole
+00:53:45.160 different language but but
+00:53:47.319 um is there a large language model for
+00:53:49.720 Irish um i' I've tried it the um the um
+00:53:53.359 yeah it works well um uh and I uh were
+00:53:58.000 uh were spent most of our education in
+00:54:00.040 Ireland being taught in Irish uh and so
+00:54:03.079 uh um these these models are some of the
+00:54:05.599 the first people um I've had the chance
+00:54:07.400 to you know have a dialogue with you
+00:54:09.000 know asela H in in you know very
+00:54:12.720 surprising many years they do well and
+00:54:15.400 actually I've enjoy have you played with
+00:54:17.359 suoo suoo is um is a an app for creating
+00:54:23.119 music um uh kind of synthetic music okay
+00:54:26.559 uh and uh I've been enjoying cre Irish
+00:54:28.839 music I I of course tested it on that
+00:54:31.359 and Celtic dubstep is a thing that it
+00:54:33.559 can
+00:54:34.520 do fantastic okay makes sense like if it
+00:54:37.920 could if it could do that then of course
+00:54:40.280 it could learn the the language of
+00:54:42.599 Life of course they can learn the and if
+00:54:45.359 you could if you if a language model can
+00:54:47.520 understand sound which is a sequence
+00:54:49.760 time series it's a sequence um why can't
+00:54:53.319 it learn uh robotics articulation which
+00:54:56.119 is a sequence you just have to you have
+00:54:58.000 to you have to figure out how to
+00:54:59.520 tokenize it and so the idea that that
+00:55:02.160 all of a sudden oh hey look listen I
+00:55:04.520 could also learn SQL I could learn abap
+00:55:07.160 I can learn lightning I can learn all
+00:55:08.799 these proprietary languages I can learn
+00:55:10.319 verog I can learn right so all of a
+00:55:12.559 sudden you realized hang on a second I
+00:55:15.200 can put a co-pilot on top of every tool
+00:55:17.520 on the planet well and to this point you
+00:55:19.599 you know invid being one big AI um like
+00:55:22.400 is the future one of a 100,000 models or
+00:55:24.880 100 million models or is the future one
+00:55:26.920 of one model and they're just like a
+00:55:28.640 model that does all the things I think
+00:55:31.039 that that it would be great to have um a
+00:55:35.160 to it would be great to have super
+00:55:37.039 models that help you reason about things
+00:55:39.119 in general
+00:55:40.920 but for us for all companies that that
+00:55:45.119 have very specific domain specific
+00:55:48.359 expertise we're going to have to train
+00:55:51.240 our own models and the reason for that
+00:55:52.799 is because we have a proprietary
+00:55:54.000 language that difference between 99% %
+00:55:56.520 and
+00:55:57.680 99.3% is the difference between life and
+00:55:59.960 death for us and so it's too valuable to
+00:56:02.920 us no different than fraud detection for
+00:56:04.799 you too important to you that that's
+00:56:06.920 been exactly our our experience yeah
+00:56:08.680 it's too important to you however good
+00:56:11.119 uh the general model is you're going to
+00:56:12.960 want to take that and fine-tune it and
+00:56:15.119 right improve it into Perfection because
+00:56:17.960 it's just too important to you yeah and
+00:56:19.839 so we're we're going to shortly run out
+00:56:21.480 of time here and there's a whole bunch
+00:56:23.119 of questions I haven't gotten to yet um
+00:56:25.240 I've um I've exerz poor discipline on
+00:56:27.599 the time management front so um there's
+00:56:29.559 a bunch that I think are I was told I
+00:56:31.559 definitely had to ask you um but then
+00:56:33.559 there's a couple that I really wanted to
+00:56:34.799 ask and it's only us up here so um so um
+00:56:40.200 Lisa Sue is your first cousin once
+00:56:41.960 removed yes yeah she's terrific she's
+00:56:44.319 amazing and um and AMD is now she's the
+00:56:47.079 CEO of AMD by the way yeah and AMD is
+00:56:49.640 now one of your competitors in the GPU
+00:56:51.680 space
+00:56:54.920 no we
+00:56:57.079 family okay we're all in the we're all
+00:56:59.640 in the industry we're all in the
+00:57:01.240 industry one of your partners in the
+00:57:02.359 industry yeah yeah okay we buy from AMD
+00:57:05.079 what what's going on in the water how
+00:57:06.680 did we end up with two of the arguably
+00:57:09.599 the two most important you know GPU
+00:57:11.720 companies being run by close relatives
+00:57:14.319 what's going
+00:57:16.640 on you got to keep it close to the
+00:57:19.760 family no I have no idea how it happened
+00:57:23.599 uh we we didn't grow up together and I
+00:57:25.839 we didn't makes more interesting right
+00:57:27.559 yeah yeah we didn't even know each other
+00:57:28.680 until until she was at IBM and and and
+00:57:32.079 uh her career is incredible and uh she's
+00:57:34.520 really quite an extraordinary
+00:57:37.520 yeah I think this question further study
+00:57:40.720 um so um okay you you've been operating
+00:57:43.880 in Silicon Valley since the early 90s
+00:57:46.000 yes um how has Silicon Valley culture
+00:57:48.799 changed in that
+00:57:51.119 time oh
+00:57:52.880 wow um I haven't thought about in a long
+00:57:56.720 time I I guess in a lot of ways in a lot
+00:57:58.920 of ways
+00:58:00.599 probably I okay here here's one I you
+00:58:04.960 know when I first started started Nvidia
+00:58:07.839 um I was 29 years old and uh you know I
+00:58:13.039 was 29 years old with with
+00:58:16.359 acne and and um and I you know you go
+00:58:20.359 talk to your talk to your go recruit you
+00:58:23.240 know law firms and and VCS and you know
+00:58:26.640 I got a big zit on my forehead and and
+00:58:29.799 uh I don't have one today so I I feel
+00:58:31.680 comfortable talking about it and but it
+00:58:34.079 could it could happen and so so
+00:58:36.520 anyways you feel rather insecure because
+00:58:39.359 most of CEOs back then wore suits and
+00:58:42.240 they're quite accomplished and they
+00:58:44.359 sound like adults and they use big words
+00:58:46.720 and they talk about business and things
+00:58:49.160 like that and and so when you're when
+00:58:50.920 you're young you feel rather intimidated
+00:58:53.640 you're surrounded by a bunch of adults
+00:58:56.240 well you know now if you don't have
+00:58:59.920 acne I don't think you deserve to start
+00:59:02.000 a
+00:59:05.799 company um I just that's one big
+00:59:09.039 difference um acne you know the take
+00:59:12.319 away the take away from gent spe I I
+00:59:14.599 just what it means is really it we've
+00:59:16.799 we've enabled younger people to to be
+00:59:19.480 extraordinary I I think that the Young
+00:59:21.480 Generation of CEOs uh the type of things
+00:59:24.119 that you guys know at such a such a
+00:59:26.160 young age is really quite extraordinary
+00:59:27.799 I mean it took me decades to learn it
+00:59:30.119 and so last question um that was a
+00:59:33.599 compliment see how he quickly changed
+00:59:36.960 the I wasn't saying you have acne I was
+00:59:39.359 just saying you were
+00:59:41.440 smart um Nvidia has a market cap of uh
+00:59:45.160 of roughly $2 trillion uh and uh uh
+00:59:49.200 you're um now within spitting distance
+00:59:51.720 of apple and Microsoft um and I just
+00:59:54.280 checked and they have um
+00:59:56.799 uh 220,000 and 160,000 uh employees
+01:00:01.200 respectively um uh Nvidia has 28,000
+01:00:05.480 employees so uh so you know less than a
+01:00:08.160 fifth of the smaller of the two there um
+01:00:12.720 and then you just said when we were
+01:00:14.760 chatting backstage and I um I jotted
+01:00:17.480 this down uh you can achieve operational
+01:00:21.079 excellence through process but craft can
+01:00:23.799 only be achieved with tenure
+01:00:26.720 and so Nvidia is considerably smaller
+01:00:29.559 than any of the um the other Giants and
+01:00:32.880 you seem to think that tenure really
+01:00:34.400 matters and I guess that craft really
+01:00:36.119 matters do you want to say a say a
+01:00:38.119 little bit more
+01:00:39.440 there
+01:00:41.240 um the I I think I think extraordinary I
+01:00:45.960 think a lot of good things could be made
+01:00:48.680 good things are made with operational
+01:00:51.880 excellence and uh but you can't make
+01:00:54.799 extraordinary things through just
+01:00:56.799 operational excellence and the reason
+01:00:58.960 for that is because a lot of the a lot
+01:01:00.920 of the great things in in um uh in your
+01:01:03.960 body of work and the products that you
+01:01:05.440 make the company you created uh the
+01:01:08.240 organizations you've nurtured uh it
+01:01:11.160 takes it takes loving
+01:01:13.119 care you and you can't even put it in
+01:01:15.640 words how do you put how do you put
+01:01:17.039 Loving Care in an email you know and for
+01:01:19.640 people to go oh I know exactly what to
+01:01:21.520 do uh you can't put that in in you know
+01:01:24.079 you can't put that in a business process
+01:01:26.200 love and care and is is is love and care
+01:01:29.319 kind of an Nvidia
+01:01:30.920 catchphrase well I I use I use I use
+01:01:33.559 love uh fairly fairly abundantly and um
+01:01:36.680 care I use abundantly uh that's right we
+01:01:39.599 talk a lot about craft and Beauty yeah
+01:01:41.680 right you have to use these words
+01:01:43.079 because because that in a lot of ways
+01:01:45.559 there there are no other words to
+01:01:47.000 describe it you can't put in numbers you
+01:01:49.799 can't write it in the product
+01:01:51.720 specification the product specification
+01:01:53.400 says I want you to build something great
+01:01:55.279 that's incredible beautiful that you
+01:01:57.160 know in Craig CRA craft you can't
+01:01:59.359 specify these things and so but I'm sure
+01:02:01.400 there's people at stripe who think you
+01:02:02.720 know Patrick's always yammering on about
+01:02:04.640 craft and beauty and it's this kind of I
+01:02:07.240 never Yammer I just want to let you know
+01:02:08.839 that I don't even know what that sounds
+01:02:10.799 like okay well yeah yammering on go
+01:02:13.160 ahead go ahead yeah you're you're you're
+01:02:14.200 more Lucid than than I am I just Babble
+01:02:16.680 but hey so Patrick is always going on
+01:02:18.680 about this craft and buauty stuff and
+01:02:20.319 you wants things to uh you know have
+01:02:22.279 this particular ineffable character but
+01:02:25.160 it doesn't Direct serve some customer
+01:02:27.119 need and so forth like customers aren't
+01:02:29.119 coming to us and saying I want the
+01:02:30.520 product to be more beautiful they're
+01:02:31.880 saying I want it to feature X or feature
+01:02:33.400 Y and yet you know we believe that the
+01:02:35.680 craft and Beauty really matters sounds
+01:02:37.760 like you're getting at something similar
+01:02:39.400 why do you think it
+01:02:40.680 matters actually actually uh your
+01:02:43.079 customers even though they didn't say it
+01:02:45.400 they might not have the words to say it
+01:02:47.359 but when they experience it they know
+01:02:49.720 it there's no question uh look look I
+01:02:55.000 Stripes work
+01:02:57.000 uh has Beauty has Elegance has has
+01:03:00.359 Simplicity um Simplicity is not simple
+01:03:02.920 as you guys know Simplicity and simple
+01:03:05.160 are not not the same thing and uh it has
+01:03:08.240 elegance and and is you know it solves
+01:03:11.200 the problem but just enough uh it
+01:03:13.839 burdens you but not too much you know
+01:03:15.799 and and so that right and that balance
+01:03:17.680 is hard to find and you can't specify
+01:03:20.079 that you just feel your way there and
+01:03:22.119 and when you have a team that are that's
+01:03:24.160 with you that feels the way there
+01:03:26.960 together in a lot of ways we've codified
+01:03:29.880 we've
+01:03:31.279 encoded the magic of the company in a
+01:03:35.079 way that no words can describe and you
+01:03:37.640 don't want to lose that you don't want
+01:03:39.400 to lose that you want to take that and
+01:03:41.319 take it to the next level next time and
+01:03:43.559 so I don't I don't want to reset I don't
+01:03:46.400 like working with new people for that
+01:03:49.160 reason because I've encoded I've
+01:03:51.440 embodied I've deposited so much pain
+01:03:54.480 suffering Joy
+01:03:56.319 knowledge right all that experience life
+01:03:58.760 experience you've encoded it in all the
+01:04:00.319 people that you've worked with you want
+01:04:01.839 to carry it on you want to take it to
+01:04:03.359 the next level and that's that's really
+01:04:05.520 the reason why I I really deeply believe
+01:04:07.599 in tenure uh and uh uh because of that
+01:04:11.359 small teams could do great things and
+01:04:13.920 Nvidia is kind of a small team we're
+01:04:15.319 28,000 people people think we punch well
+01:04:17.960 above our our our weight because of that
+01:04:20.359 reason you know and so it's amazing what
+01:04:23.640 you guys have done and how how incred
+01:04:25.680 incredibly small you are 7,000 people
+01:04:28.400 supporting a trillion dollars worth of
+01:04:31.640 ecosystem and and Industry and you know
+01:04:35.000 and economy and who who knows how far
+01:04:37.480 you guys can go so I'm very proud of you
+01:04:39.559 Jensen thank you
+01:04:44.840 [Music]
+01:04:45.420 [Applause]
+01:04:46.490 [Music]

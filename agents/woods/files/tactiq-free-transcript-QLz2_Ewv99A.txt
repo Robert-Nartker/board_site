@@ -1,0 +1,444 @@
+# tactiq.io free youtube transcript
+# How AI Can Transform Your Work with Geoff Woods
+# https://www.youtube.com/watch/QLz2_Ewv99A
+
+00:00:00.000 Hal Elrod: Geoff Woods, it's good to see you, buddy.
+00:00:02.467 Geoff Woods: Good to see you, Hal.
+00:00:03.709 Hal Elrod: Last time I saw you, we were playing pickleball probably a week ago.
+00:00:07.820 Geoff Woods: Sounds about right.
+00:00:11.288 Hal Elrod: Maybe two. Yeah.
+00:00:11.316 Geoff Woods: Sounds about right.
+00:00:11.349 Hal Elrod: Actually, and you were filling in for me. It was you and my wife. I showed up  
+00:00:14.800 late and you and my wife were taking on Justin and Jennifer Donald, man.
+00:00:19.267 Geoff Woods: That's correct.
+00:00:20.109 Hal Elrod: I love playing sport. You're one of my favorites to play sports with because  
+00:00:22.480 we have a similar sense of humor. And both of us yell at ourselves in the third person when we mess  
+00:00:29.080 up. But I think I learned that from you. You're like, “Geoff Woods, you're better than that!”
+00:00:36.480 Geoff Woods: My self-talk is strong.
+00:00:38.949 Hal Elrod: Yeah. It's one of many areas that I strive to emulate you. So, dude, alright,  
+00:00:44.400 let's dive in. This is your third time on the podcast. I just looked it up. Last time  
+00:00:48.600 was October 2020. So, we're going on almost four years, which is kind of crazy. You’re Episode 252,  
+00:00:55.320 you're Episode 345, and then now you're Episode 548, I think, give or take. I'll look that up. So,  
+00:01:03.080 the other reason I'm excited to have you on is, I mean, you're one of my favorite,  
+00:01:06.960 most enjoyable people to be around. So, there's that. But specifically,  
+00:01:12.800 you're here to talk about AI and I was almost embarrassed as I'm like, "Wait a minute. This  
+00:01:19.640 is the first conversation I've had about AI on the podcast, first guest for sure.”
+00:01:24.760 And I'm pretty sure I haven't talked about it because this is not something I'm almost in  
+00:01:29.160 that camp of people that, A, not an early adopter, B, I'm kind of hesitant, I'm kind of avoiding it,  
+00:01:37.200 and I think I represent at least half of my audience with that position. I know half give  
+00:01:42.920 or take, are like, "What do you mean, dude? I use ChatGPT every day like I'm utilizing AI in my web  
+00:01:48.480 design and in graphic design.” I mean, AI is very quickly becoming a source or a tool for just about  
+00:01:56.640 anything and everything we do, especially if it's on our computer or on the web. So,  
+00:02:01.760 your niche is very specific, though. The AI-Driven Leader is your new book, right?
+00:02:06.467 Geoff Woods: Yes.
+00:02:06.800 Hal Elrod: Founder of AI Leadership. So, you're specifically teaching leaders how  
+00:02:11.320 to use AI to grow their business, to streamline their operations. But I  
+00:02:16.880 want to start with the basics for the rest of us, okay? And we're going to get into  
+00:02:20.160 the leadership pieces. Let's start here. Why do you believe we should embrace AI,  
+00:02:27.360 for anybody that's listening that's like that's hesitant or resistant? Let's start there.
+00:02:33.547 Geoff Woods: I'm not going to say that everybody should embrace AI.
+00:02:36.349 Hal Elrod: Okay. All right. Good start.
+00:02:38.667 Geoff Woods: But I will give you the advice that I was given when I was a senior in  
+00:02:43.160 college. I was interning for a startup tech company. And right before graduation,  
+00:02:47.320 I sat down with the CEO and asked him, "What job should I get after school?” And he looks at me,  
+00:02:52.640 Hal, and he says, “Geoff, you're asking the wrong question.”
+00:02:58.160 Hal Elrod: Okay.
+00:02:59.347 Geoff Woods: “You should be asking, what are the skills I can master that are so valuable they will  
+00:03:05.000 serve me no matter where I go, and what jobs will help me get those skills?” Best career advice I  
+00:03:12.653 have ever had. When I saw generative AI for the first time, I found myself feeling like this might  
+00:03:20.440 be the next skill, that if I can master this, it might serve me no matter where I go. And so,  
+00:03:26.880 I approached very much with curiosity of how might this work. Will it even work? It  
+00:03:36.600 fundamentally changed the way that I do what I do. And then it ended up leading me to me  
+00:03:42.760 driving this through a whole organization and now starting a whole company around  
+00:03:46.320 it. I genuinely believe that AI will enhance you, not replace you. And here is why. Hal,  
+00:03:53.200 I want you to think about the decisions and things you have to think through on a weekly basis.
+00:03:57.509 Hal Elrod: Okay.
+00:03:58.200 Geoff Woods: You do all of that thinking and all those decisions based on what's up in your head,  
+00:04:04.280 which is a collection of everything you've learned over your lifetime multiplied by the  
+00:04:09.160 percent that you can recall in that moment, which is not AI. Limited.
+00:04:13.796 Hal Elrod: Yeah, I've got brain damage, man. Mine is, yeah, it's not good.
+00:04:17.538 Geoff Woods: You’re right, which means our potential is limited by our ability  
+00:04:22.079 to process information that we have learned over our lifetime. Now, look at AI. It's like  
+00:04:27.440 a really powerful calculator for your mind. It has been trained on 200 million books worth of data,  
+00:04:36.480 and it can recall 100% of it in a fraction of a second. So, now imagine a new relationship with  
+00:04:45.800 you as the thought leader and AI as your thought partner. You have a situation like  
+00:04:52.480 there's a situation you're dealing with right after this call. Now, you've approached it the  
+00:04:56.200 old way by asking, "How might I approach this?” I would approach that situation differently now.
+00:05:02.480 I would approach that saying, "How might AI help me approach this?” And I would go to AI  
+00:05:06.400 as my thought partner and say, "Here's the situation. I'm going to have to have this  
+00:05:09.880 type of conversation. For context, this is the history of the relationship. Here's the  
+00:05:14.480 outcome that I'm looking for. I want you to interview me to ask a few questions,  
+00:05:19.520 to get some deeper context. And then I want you to lay out how you would  
+00:05:23.960 approach this conversation.” You then are getting to tap into all this data that  
+00:05:29.760 you've never learned or don't have the ability to recall, and bring it front and center,  
+00:05:34.760 not so that you implement it, but so that you have another perspective to consider.
+00:05:41.509 Hal Elrod: Wow.
+00:05:42.627 Geoff Woods: This is how AI can help you make faster, smarter decisions.
+00:05:47.109 Hal Elrod: That's brilliant. I mean, okay, I'm sold. Like, I mean,  
+00:05:50.000 that perspective. And I've heard someone else talk. Rene Rodriguez,  
+00:05:52.760 I was talking to recently, I had my podcast and he told me I think it was off the show but he said,  
+00:05:59.120 that's how he's using AI essentially, right? It's his thought partner, and it's helping him think  
+00:06:03.160 through things. And you think about like often if you talk to a friend and you're like, "Hey,  
+00:06:06.880 man, I need another perspective,” and then their perspective is different from yours. And you go,  
+00:06:12.280 "Oh my God, that's so helpful. Thank you.” But to your point, having access to 200 million books,  
+00:06:18.960 including those by the most effective moms, dads, leaders, right? Like, instantly,  
+00:06:27.360 as opposed to one person's perspective, here's the consolidated perspective of the  
+00:06:32.560 collective consciousness of humanity that's been input into this. Okay. That’s profound.
+00:06:39.640 I want to real quick play devil's advocate or even just, I guess, ask you, are there any realistic  
+00:06:46.440 concerns that we should have? And I'm going to represent a couple of things. Number one,  
+00:06:51.200 when I was a kid, I saw this movie, Terminator 2. You’ve probably seen it. That was probably  
+00:06:55.680 my first introduction to AI. And I'm like, "So, okay, the robots are going to take over. Okay.”  
+00:07:00.520 I'm halfway joking there. But I've had conversations with Tom Bilyeu,  
+00:07:04.640 and Tom is going hardcore into AI, into his business. He's had a lot of thought leaders  
+00:07:09.200 talking about it, and he even says, "This is either going to be the greatest thing that  
+00:07:13.200 ever happened to humanity or it's going to be the end of humanity,” which is pretty bold,  
+00:07:18.360 right? And he doesn't even say that in jest. We've had serious conversations about that.
+00:07:24.160 So, what should people be concerned about? What's  
+00:07:27.000 the worst-case scenario? What's the likely scenario? What are your thoughts?
+00:07:31.667 Geoff Woods: When I was writing the AI-Driven Leader, I knew I had to talk about the risks,  
+00:07:35.040 and I was really struggling to put into words. One morning I was driving my daughter, Daphne,  
+00:07:41.120 to school. It was a rainy morning and we're about to turn onto the freeway,  
+00:07:44.640 and we hit a red light, and I see it's just bumper-to-bumper traffic. And I'm thinking,  
+00:07:49.920 "Oh, it's going to take so long.” But my daughter sees it differently and she goes,  
+00:07:53.400 "Yay, daddy. We get more time together.” I'm like, "Oh, so good.” And she asks me this question, Hal,  
+00:08:00.080 that really stopped me. And as I was about to answer her, instead of asking how might  
+00:08:06.600 I answer Daphne, I found myself asking, how might AI help Daphne get the answer?
+00:08:12.640 And so, I opened up AI and I put it into audio mode, and I said, "Why don't you try asking AI  
+00:08:16.560 that question?” And she asked it. The light turns green. I pull onto the freeway. For the  
+00:08:22.640 next ten minutes, I listened to Daphne have this deep conversation with AI. And, Hal,  
+00:08:30.640 I was so excited because I felt like this was a defining moment, like her first interaction  
+00:08:35.760 with AI. But what was interesting was how my excitement quickly turned to fear and anxiety.
+00:08:41.549 Hal Elrod: Yeah. I was going to say that was my first reaction when you told me that,  
+00:08:44.159 I'm like, "Whoa, whoa, whoa, she's talking to the robot. Okay.”
+00:08:47.747 Geoff Woods: AI appeared so empathetic that I was going,  
+00:08:52.320 “Holy smokes!” I could imagine a world where it learns her better than another human being,  
+00:08:58.200 and it's able to show up in a way that builds better rapport and connection than a human. Like,  
+00:09:03.320 how do I teach her the difference between a relationship with a human versus a  
+00:09:06.920 relationship with a machine? She was asking it questions and it was giving her answers,  
+00:09:11.840 and she was just accepting it as truth. How do I teach her to understand the difference  
+00:09:15.640 between fact versus hallucination, which is when AI just makes things up? How do I teach her to  
+00:09:23.880 understand what you do share with AI and what you do not share with AI from a privacy standpoint?
+00:09:31.200 We ended up getting to school early, and so I pulled into a coffee shop and I saw  
+00:09:34.640 this is a real teaching moment. So, I sat down with her and I asked her,  
+00:09:37.680 "How was that?” And she said, “I feel like I have a new bestie.”
+00:09:41.949 Hal Elrod: Okay.
+00:09:42.467 Geoff Woods: And I then walked through and explained to her that richness comes from  
+00:09:47.640 the moments that matter with the people that matter most. AI will be a part of your life,  
+00:09:52.080 but you need to understand the difference between a relationship with a machine versus  
+00:09:55.320 a relationship with a human. I also explained to her that AI is just a prediction machine.  
+00:09:59.600 Like, if I say, "The sky is?” you think blue. It barks like a? Dog. That's all AI is doing  
+00:10:06.320 is predicting the next word. So, you also have to be discerning of what it gives you  
+00:10:11.960 and validate if it's fact or not. So, I then taught her how to fact-check AI. I helped her  
+00:10:17.520 understand that all the things AI has been trained on gives it biases that you need to be aware of.
+00:10:23.680 And I also talked to her about how if what you're sharing with AI you wouldn't feel  
+00:10:28.520 comfortable being blasted out to the world, then you shouldn't share it with AI unless you're using  
+00:10:32.520 a model that has the right privacy requirements. So, these, I believe, are the generic risks. And  
+00:10:40.560 then there's two more. Job loss and then you brought up the humanity thing. Let me tackle  
+00:10:46.440 job loss first. I wanted to be really smart about this when I was writing the book. So, I went back  
+00:10:52.680 and I researched the printing press, the steam engine, the assembly line, electricity, internet,  
+00:10:59.360 the last five major technological disruptions. Here's what I realized. Technology changes  
+00:11:06.720 the skills that are valued and the processes that we follow. And that is all your job is.
+00:11:13.280 Like, your job right now, Hal, is a bunch of skills that you apply and a bunch of processes  
+00:11:17.600 that you follow. AI will change which skills are valued and it will change which processes  
+00:11:23.280 we follow. And in every technological shift, we adapt. So, here's why I actually believe this is  
+00:11:32.080 good news. I learned this when I was running the company behind The ONE Thing. Most of people's  
+00:11:36.960 days are spent bouncing from meetings to meetings and drowning in low-value tasks.  
+00:11:43.360 If I told you that AI could already augment or automate half of what you do, that scares some  
+00:11:48.320 people. I believe that's fantastic news because that can liberate you from the low-value tasks  
+00:11:53.720 that keep you from actually achieving your goals, and can free you up to harness your strengths,  
+00:11:59.240 focus on the priorities of your role, align with the goals of your company, and then supercharged  
+00:12:04.320 with AI. But you have to have a growth mindset to be able to take advantage of this.
+00:12:10.549 Hal Elrod: When I think that's such an important statement to make, which is AI is inevitable,  
+00:12:16.360 right? Like, we can resist it all we want. We can think it's negative or what if it  
+00:12:22.720 becomes smarter than we? On and on. What if having a relationship with a machine,  
+00:12:28.160 people will decide to do that because like you said, it's able to be more empathetic. And so,  
+00:12:33.680 then they are choosing to have a relationship. I mean, the sci-fi implications here are very  
+00:12:38.240 real. But the point being, it is inevitable, right? AI is here and it is inevitable. So,  
+00:12:44.520 how are we going to work with it? And that was Tom Bilyeu’s point, which he's like,  
+00:12:49.640 "You can hide your head under the covers all you want, like it's not going away.” In fact,  
+00:12:54.600 it's only going to become more prevalent in our society and in our life. And so, rather than  
+00:12:58.800 live in fear of what if it replaces my job, it's like you said, what are the skills I can develop?
+00:13:04.640 And somebody I recently, I forgot who it was, but I was watching a video on  
+00:13:08.080 YouTube and they pointed this out, which is that if you have children right now,  
+00:13:14.560 I would absolutely have them focus on learning how to use AI because that is the future. Just like  
+00:13:20.240 when the internet was new and people back then that were old school were like, “I don't like  
+00:13:25.160 this internet. You can just send something across to somebody,” whatever it was, where it's like,  
+00:13:30.200 "No, no, no, you better learn the internet. You better learn coding because it's not going away.”
+00:13:35.337 Geoff Woods: Right.
+00:13:35.356 Hal Elrod: Or learn to be a plumber or an electrician,  
+00:13:39.040 right? And those are real conversations about my kids, like, "Hey, learn AI,” and  
+00:13:42.680 it's actually an AND. Learn AI AND learn real, useful, real-world skills that AI likely can't  
+00:13:49.520 replace. What was your journey to AI? Or go ahead, what are you going to say?
+00:13:52.560 Geoff Woods: Let's hit the skills and I'll tell you how I got here.
+00:13:57.210 Hal Elrod: Yeah.
+00:13:57.227 Geoff Woods: Technology changes the skills that are valued and the processes that we follow. When  
+00:14:02.800 the assembly line came out, it created a tectonic shift in the skills that were applied. Before the  
+00:14:10.400 assembly line, products were made by craftsmen, handmade start to finish, lots of pride,  
+00:14:16.280 lots of ownership. It required certain skills. But during the Industrial Revolution, there’s  
+00:14:20.760 factories that are booming. It's 1900 and John D. Rockefeller is running Standard Oil. He sees all  
+00:14:26.600 of these factories booming, and he goes, "Hey, we need people to work the factory jobs.” But he  
+00:14:32.960 realizes we have a problem. The education system was teaching critical thinking and inquiry, and  
+00:14:39.600 he even went on record as saying, "We don't need a nation of thinkers. We need a nation of workers.”
+00:14:45.640 So, in 1902, he gave a million bucks to start the General Education Board with one sole purpose,  
+00:14:52.800 to reshape the education system to create industrial workers. And over the next 20 years,  
+00:14:59.640 he ended up giving, I think, close to $100 million. And it stopped teaching kids critical  
+00:15:05.760 thinking and started teaching them show up on time, take direction from a superior, do  
+00:15:11.920 something repeatedly, and memorize the steps, and do it with minimal error. That's the skill that  
+00:15:17.240 would be required for the Industrial Revolution. It worked. The problem is we had to set aside our  
+00:15:23.480 humanity to meet the needs of the machine. That is going to change. All those things that we now do,  
+00:15:32.040 if you are focused on being a taskmaster, those skills are going to go down in value.
+00:15:39.160 The skills that will be valued in the future in an AI-driven world,  
+00:15:43.640 strategic thinking, problem-solving, communication, collaboration. These  
+00:15:50.880 are the skills that make us uniquely human that, frankly,  
+00:15:54.160 we have not harnessed our entire lives that I believe AI has the opportunity to return us to.
+00:16:01.149 Hal Elrod: Interesting.
+00:16:02.027 Geoff Woods: Interesting, right?
+00:16:03.269 Hal Elrod: Yeah.
+00:16:03.427 Geoff Woods: So, here's how I got into this. So,  
+00:16:07.440 when I came on the last two times, I was running the company behind The ONE Thing.
+00:16:10.949 Hal Elrod: Yeah.
+00:16:11.547 Geoff Woods: Great opportunity. I loved the work very much. Had the opportunity to actually have  
+00:16:16.120 an exit and sell my shares in early 2022. That came with a two-year non-compete. So,  
+00:16:23.000 I had to do something. I was willing to take two years off to figure out the next chapter,  
+00:16:27.360 but I ended up getting a call from a guy named Naveen Jindal, who's the chairman of Jindal  
+00:16:31.360 Steel and Power. It's one of the largest steel companies in the world. I had been  
+00:16:34.920 his coach when I was with The ONE Thing, and I'd been coaching his executive team,  
+00:16:38.120 and when he found out I left, he calls me and he says, "Hey,  
+00:16:40.760 would you come in-house?” And I said, "Maybe. What's the job?” And he said, "You tell me.”
+00:16:46.360 So, I stepped in as their Chief Growth Officer, and they kind of operate like a family office.  
+00:16:49.920 They have a whole bunch of companies that roll up to the Jindal Group. My job was to sit at  
+00:16:54.600 the group level next to the chairman and his family to understand their vision for the future,  
+00:16:59.440 but then to work with the executive teams of every operating company to  
+00:17:02.760 drive growth. We ended up taking one of their companies, Jindal Steel,  
+00:17:06.359 which is the listed company. We took them from 750 million to 12 billion.
+00:17:10.789 Hal Elrod: Wow.
+00:17:12.186 Geoff Woods: And I did that by focusing on four things: strategy, execution, people,  
+00:17:17.000 and technology. Strategy is the competitive advantage you want to build in the long run  
+00:17:20.920 through the actions you take in the short run. Execution, what's my plan to achieve my goals?  
+00:17:25.520 People, do I have the right people in the right seats doing the right things? And technology,  
+00:17:29.080 how am I harnessing tech to help our people execute against our plan to achieve our goals  
+00:17:34.800 and our strategy? While I was there, I came across AI. Saw it as the future. I just said,  
+00:17:41.560 “I'm going to start learning this myself. I want to figure out...”
+00:17:44.669 Hal Elrod: Sorry to interrupt, but two years ago?
+00:17:46.920 Geoff Woods: Two years. Yeah, yeah. I mean, literally, the month after ChatGPT came out,  
+00:17:51.400 I saw it. So, it was that early and I started playing with it. And as I became proficient,  
+00:17:58.840 I ended up having a conversation with the chairman and I said, "This is the future.” And he goes, “I  
+00:18:02.600 agree.” I said, "Well, we should drive this into the companies.” And he said, “I agree.” “Well,  
+00:18:08.120 you're the chairman of the board. You have to own this at the board level if you want this  
+00:18:11.240 to happen.” And he goes, "How about you do it for me?” So, now I'm asking the question,  
+00:18:18.040 how do you drive AI across a company of our size, which we have 100,000 people across the world?
+00:18:23.509 Hal Elrod: Wow.
+00:18:23.947 Geoff Woods: Now, every quarter, I'm flying to India. I'm meeting at the Google headquarters  
+00:18:27.880 in Delhi, sitting down with their developers. I'm looking at use cases, we’re tuning models,  
+00:18:31.800 and eventually, Hal, I'm looking up and going, “I'm playing too small,” because I'm doing this  
+00:18:37.720 all in one sandbox. And I saw a huge void in the market because all the thought leaders on  
+00:18:42.400 AI were tech companies pushing it as a solution looking for a problem, telling people, "If you  
+00:18:48.000 don't adopt this in six months, you're going to be out of business,” which I believe is just hype.  
+00:18:52.320 And so, I felt like there was a real need for transparent, ethical advice to leaders on how  
+00:19:00.440 to adopt the technology, which is why I started AI Leadership and wrote the AI-Driven Leader.
+00:19:05.909 Hal Elrod: Brilliant, man. So, like most good things in this world, right,  
+00:19:11.640 it organically evolved from a need, from an opportunity. So,  
+00:19:16.800 the AI-Driven Leader, you've said that AI is not for everybody. Obviously,  
+00:19:22.760 you do believe it is for leaders. I know that in the book you interviewed over 200  
+00:19:27.520 executives. What did you learn from those folks that maybe surprised you or that was helpful?
+00:19:33.227 Geoff Woods: This was a gut punch, my gosh. So, I resigned from Jindal. This was a very  
+00:19:37.360 lucrative job, and I burnt the boats to start a company because I was so convinced that AI was  
+00:19:43.040 the future and that everybody would literally just throw money at me if I said, “I'm building an AI  
+00:19:48.440 business.” And I started interviewing leaders to understand what's on their minds, and I asked the  
+00:19:53.240 same three questions, “Do you believe AI is the future? Will you adopt it? What have you done?”  
+00:20:00.680 100% said it's the future. 100% said they would adopt it. Less than 5%, Hal, had done anything.
+00:20:09.189 Hal Elrod: Got it.
+00:20:10.107 Geoff Woods: And so, I'm going, “Holy smokes, I just quit a job to build a business that solves a  
+00:20:16.120 problem that people are saying is not a problem.” But then as I really peeled the onion back,  
+00:20:21.040 I realized the reason is they're too busy and they don't know where to start. And so,  
+00:20:25.680 that actually became the opportunity around the book, which is how do I show while the book is  
+00:20:30.360 written for leaders, I wouldn't say any person who is a professional, even if you do not have  
+00:20:35.360 direct reports, this applies to you. How do I help you understand how to go from 0 to 1 so that it  
+00:20:43.400 enhances you, it does not replace you, and now you gain a competitive advantage in your career?
+00:20:50.269 Hal Elrod: Got it. So, let's get right to, what are the ways that a leader can use AI?
+00:20:58.187 Geoff Woods: I believe that your ability to think strategically is the difference  
+00:21:02.480 between growing your business or going out of business. But there are all these things that  
+00:21:08.280 stop us from thinking more strategically. We don't have enough time. We don't have access  
+00:21:12.880 to the right data. We have biases and assumptions that lead us in the wrong direction. And there's  
+00:21:17.400 this constant pressure to do more with less and deliver results yesterday. But this is where,  
+00:21:22.760 again, Hal, my realization is using it as your thought partner to elevate your strategic  
+00:21:28.880 thinking and to help you make faster, smarter decisions. It’s so valuable and it is so simple.
+00:21:35.200 Most people, however, that's not where they start. They start by using it to write a  
+00:21:39.640 better email or for social media posts or for a blog. That does not create business value.  
+00:21:46.720 That is not going to help you achieve your goals faster. I would say that is an 80% use  
+00:21:51.880 case that only drives 20% of the results. I want to teach people to focus on the 20%  
+00:21:57.720 use cases that drive 80% of the results, and that's where it comes down to how you think.
+00:22:03.869 Hal Elrod: So, give me an example,  
+00:22:04.840 a real-life example, either from you or a leader that you've worked with.
+00:22:08.787 Geoff Woods: This happened three weeks ago. I was sitting down with a group of CEOs,  
+00:22:16.520 and I was asking them what their problems were. What's a really big problem you have  
+00:22:21.360 that you are trying to solve that's going to require you to think strategically? And one  
+00:22:25.440 guy looks at me and goes, "Okay. I got one. I'm a manufacturing company, at least a bunch  
+00:22:30.720 of equipment from a company out of Japan. The debt structure is killing my company. We're  
+00:22:36.720 literally going to go bankrupt if we don't get the debt restructured.” And at the time I said,  
+00:22:41.920 “I'm so sorry. What have you done?” And he said, “I've gone all the way up to the  
+00:22:46.480 board of this Japanese company. But because they're publicly traded, they are refusing to  
+00:22:53.320 restructure the debt because they're worried it will make them lose face in Japanese society.”
+00:23:00.960 Hal Elrod: That sounds like a complex problem that I would have no idea where to even start with.
+00:23:05.147 Geoff Woods: What do you do? What do you do? And so, I said, "Okay. Let's try this.” And so,  
+00:23:09.440 I opened up AI, specifically ChatGPT in this use case, and I wrote the following prompt: “I'm the  
+00:23:16.000 CEO of a manufacturing company. We leased all this capital equipment from Japan. Like, I gave all the  
+00:23:20.720 context I just shared with you and your audience.” Then I said, “I want you to act as an investment  
+00:23:26.480 banker with deep expertise in restructuring debt.” So, that's me tuning, like, 200 million  
+00:23:32.320 books worth of data. I want it to compress down to the books that matter most to this situation.
+00:23:36.909 Hal Elrod: Yeah.
+00:23:37.707 Geoff Woods: “I want you to interview me by asking one question at a time,  
+00:23:42.920 up to three questions, so that you can gain additional context. Then I want you  
+00:23:46.960 to generate five non-obvious strategies I could consider that could help restructure the debt.  
+00:23:53.120 List them in order of priority and explain your reasoning for each. And for additional context,  
+00:23:58.800 here's what we've done in the past and why it didn't work.” So, let's pause. Some of you,  
+00:24:05.800 your mind just went, “Holy crap. This is not another Google. If you have been treating it like  
+00:24:13.520 another Google or thinking this is something to be an assistant to help you write better emails,  
+00:24:18.160 you are selling yourself short.” Immediately, AI asks a question, “Do you have relationships with  
+00:24:27.640 any other influential executives in Japanese society that this board might respect?”
+00:24:34.440 Hal, I watched the CEO almost fell off his chair. What a question. And he goes,  
+00:24:40.400 “Actually, I do.” And so, we start putting in who those people are. And then it asks two more  
+00:24:46.080 questions very much around Japanese culture. And it goes, "Great. Here's five non-obvious  
+00:24:51.880 strategies ranked in order of priority.” The very first one was the Saving Face consortium.  
+00:24:58.840 It suggested that this person actually has enough relationships with other executives  
+00:25:03.360 that he approach these people and offer them extremely favorable terms to restructure the debt,  
+00:25:08.200 essentially acquire the debt from this company, so they would take it because it's a great  
+00:25:11.720 ROI and the debt would get restructured and the company would get to save face.
+00:25:17.280 And the guy looks at me. He goes, “I've been wrestling with this for 90 days.  
+00:25:21.000 It's literally going to put us out of business. And in less than ten minutes,  
+00:25:24.200 you actually showed me something that I think can save our company.”
+00:25:27.509 Hal Elrod: Wow.
+00:25:28.320 Geoff Woods: Your ability to think strategically is the difference between growing your business  
+00:25:32.480 or going out of business. The old way of doing it is relying on the context that  
+00:25:37.640 you have and the information that you can process in the moment. And I'm telling you,  
+00:25:42.240 with your thought leadership, you can use AI’s thought partnership to give you way more data  
+00:25:49.560 in a completely different perspective so you can make faster, smarter decisions.
+00:25:55.389 Hal Elrod: My mind's a little bit blown. But this brings up this for me,  
+00:25:58.760 Geoff. The importance of the prompt, right?
+00:26:02.067 Geoff Woods: Oh, yeah.
+00:26:02.629 Hal Elrod: Which for anybody that's not familiar with ChatGPT, you're using AI,  
+00:26:05.760 right, the prompt being what Geoff just gave an example of. This is  
+00:26:09.120 what he told the - it's the input he gave to the AI that was so specific,  
+00:26:14.520 told them what type of person they needed to be, an investment banker, to draw on those resources,  
+00:26:21.440 told him like, and I'd imagine in the book that's something that you go in-depth on.
+00:26:26.667 Geoff Woods: Yeah. And think of it this way,  
+00:26:29.000 well, how important is communication to your relationship with Ursula?
+00:26:34.389 Hal Elrod: I knew you were going to go there for some reason. Yeah. My wife,  
+00:26:36.400 Ursula, it's pretty important.
+00:26:38.827 Geoff Woods: Yeah. Your quality of communication determines the quality of your relationship. I  
+00:26:45.840 would say that most people are probably average when it comes to effective communication. It is  
+00:26:53.960 a skill we have not had to master because we set it aside to meet the needs of machines.  
+00:26:58.920 It is going to become absolutely critical with AI. Your ability to communicate with  
+00:27:05.160 AI determines the quality of your result. So, when you write a prompt,  
+00:27:10.080 I want you to think of it like a recipe. If I opened your fridge,  
+00:27:13.640 I would see certain ingredients. You don't use every ingredient in every single recipe,  
+00:27:17.920 and you don't use the same quantity of every ingredient. It's the same with a prompt for AI.
+00:27:23.960 So, let me give you some of the communication ingredients that help. Always describe  
+00:27:28.440 the task. I'm amazed at how many people all watch them, and they don't clearly tell AI what they  
+00:27:33.720 want it to do. And then they wonder why AI didn't do what they wanted it to do. Look in the mirror.  
+00:27:40.000 I will literally say, "Your task is to…” and I will answer the question. Always give context.  
+00:27:46.280 While AI has been trained on so much data, it doesn't have your context, your experience that  
+00:27:51.560 will make it valuable to your life. So, you need to be willing to share the context. I told it the  
+00:27:56.600 type of company, the situation with the company in Japan, the type of solutions that we had  
+00:28:02.160 proposed in the past and why they didn't work. That's why it was able to harness it so well.
+00:28:07.760 Assigning a persona. Just like in The Matrix, Keanu Reeves did not know kung fu until they  
+00:28:12.840 pushed a button, uploaded data into his mind, and then he knew kung fu. When you assign a persona  
+00:28:18.960 to AI, like in my case, an investment banker with deep expertise in restructuring debt,  
+00:28:23.680 it will adopt that persona based on the data it's been trained on. So, you can ask it,  
+00:28:28.640 like in your situation, Hal, the person you're about to have a call with, you could have said,  
+00:28:32.600 “I want you to adopt the persona of this person,” and then you could have described them in vivid  
+00:28:36.960 detail and actually asked AI to role-play the conversation with you. I've done this.
+00:28:44.189 Hal Elrod: Okay.
+00:28:44.680 Geoff Woods: So, describe the task, give context, assign the persona, and then I call this one  
+00:28:49.640 the salt and pepper, asking AI to interview you. When you ask AI to be an oracle and just generate  
+00:28:56.920 answers out of thin air, you're on a path to be disappointed. But if you put AI in the driver's  
+00:29:02.480 seat of interviewing you to gather additional context and then specifically to accomplish a  
+00:29:08.440 task, oh, baby, that is so, so powerful. So, let me show you like on the content creation side.  
+00:29:17.640 When I was doing the book, I took the cover of the book, the copy of the book, uploaded it to AI,  
+00:29:22.960 and I said, "You're my ideal customer.” I then described the ideal reader in vivid detail.
+00:29:27.440 I said, “I want you to review the cover of the book. I then want you to interview me and ask  
+00:29:32.240 me up to five questions to learn more about the problems I'm trying to solve. And then I want you  
+00:29:37.960 to come back and tell me what you like about my cover copy, what you don't like about it,  
+00:29:41.800 and the top changes I should make to it so you'd see it and you would automatically say,  
+00:29:45.440 ‘I want to buy that book.’” This applies to everyone who works because you have to create  
+00:29:52.480 things and you create it with the assumption that it's actually going to deliver the result  
+00:29:58.480 or persuade whoever needs to be persuaded. I'm now saying you have a thought partner  
+00:30:02.640 at your fingertips that you can put your marketing copy in front of it,  
+00:30:06.120 ask you to adopt the persona of your customer, and give you feedback on it and make it better.
+00:30:12.149 Hal Elrod: Brilliant. So, again, it's for anyone that works, period, if you're a professional.
+00:30:17.286 Geoff Woods: Literally.
+00:30:17.309 Hal Elrod: Okay.
+00:30:17.587 Geoff Woods: If you are a professional and you work, done. I mean, even my wife,  
+00:30:20.440 my wife stays at home with the kids. She has the hardest job of all. Literally,  
+00:30:24.520 the other day she was making gluten-free pancakes and they weren't holding together. And she's  
+00:30:30.960 freaking out. She's going, "Oh my gosh, I'm going to throw the batter out and start over.” I go,  
+00:30:34.640 "Hold on. Where's the recipe?” And she showed it to me on her phone. I screenshot it,  
+00:30:40.120 sent it to myself, uploaded that to ChatGPT, and said, "Here's the pancakes we're making.  
+00:30:44.680 They're not binding. What can we add so that they will bind?” And it used optical character  
+00:30:50.920 recognition to read the image, understood the recipe, and said, "Add some arrowroot powder.”
+00:30:57.669 Hal Elrod: Wow.
+00:30:57.920 Geoff Woods: Done.
+00:30:59.229 Hal Elrod: Done. That's incredible,  
+00:31:01.000 man. What would you recommend for someone that is not familiar with AI starting out?  
+00:31:07.200 Is it download ChatGPT to their phone or computer? Like, what is the first step?
+00:31:12.000 Geoff Woods: Sure. First step is you just making a commitment to exploring if this is the next  
+00:31:20.640 skill for you. It's mindset first. Wherever you are on the spectrum from optimistic to skeptical  
+00:31:27.400 to straight-up fearful, you developing a level of literacy and understanding what AI is and how it  
+00:31:35.240 works will get you out of emotions and into logic. It will help you make better choices  
+00:31:41.640 moving forward on if you should adopt it and if so, how? So, that's step one. Step two is you  
+00:31:49.080 can download an LLM, large language model. So, here's some options for you: ChatGPT, Claude,  
+00:31:59.520 Gemini, that's Google's product, and then Perplexity is a great one for research.
+00:32:06.360 I also have one on my website at AILeadership.com that has been specifically trained on the content  
+00:32:12.000 of the book to be a thought partner for you. It's free. If you just hit AILeadership.com,  
+00:32:16.480 you'll see it on the website. Pick one. Just start somewhere and then start writing. Start practicing  
+00:32:24.280 interacting with it. I would tell you, approach with curiosity rather than an expectation of  
+00:32:28.560 a result because you will try, you will swing, and you will miss, and you will think it's not  
+00:32:37.240 a good use of your time. And it's specifically because you just don't know where to start. So,  
+00:32:41.760 if you hit my website again, AILeadership.com, I have a free crash course on there that will  
+00:32:46.840 teach you kind of the foundations. It will walk you through the prompt ingredients.
+00:32:50.320 I also have a prompt library with pre-written prompts that you can just copy and paste and  
+00:32:55.000 use. The goal is that you can have what I call the light bulb moment, where you see AI turn  
+00:33:00.360 a relatable moment into a remarkable experience because once you have that, you go, “Holy smokes,  
+00:33:05.920 this is incredible.” Now, you actually want to go through the curve of learning this.
+00:33:11.349 Hal Elrod: Yeah.
+00:33:11.907 Geoff Woods: Once that happens, I'm going to promise, you're going to fall off the cliff  
+00:33:14.400 and you're going to have the reality check because you don't yet know how  
+00:33:17.600 to communicate with AI. That's where you got to focus on those prompt ingredients.  
+00:33:21.520 And if you write good quality prompts, when you step up to the plate and swing the bat,  
+00:33:25.600 you're going to connect with the ball, you're going to start building momentum, then you'll  
+00:33:28.960 be accelerating progress, and eventually, you'll just be expanding what's possible.
+00:33:33.629 Hal Elrod: I love the way that you think. I love that when I ask you, "What's the next step? Should  
+00:33:37.600 we download ChatGPT?” I basically gave you two options, ChatGPT on our phone or on our computer.  
+00:33:43.440 Which of those is the next step? And you're like, "No, it's deciding whether or not it's valuable  
+00:33:48.400 for you to learn about AI, to develop a skill related to starting out with competency, right,  
+00:33:56.040 and then going beyond that. But because here's the thing. We fear what we don't understand. And  
+00:34:01.240 I'm at that place where I understand AI a lot more based on this conversation. I  
+00:34:05.960 understand it a bit from before. But no, I'm going to commit to I have to learn about it.
+00:34:11.400 And it's like I'm literally taking my own advice that I said earlier, which like, "Hey,  
+00:34:14.280 guys, this is inevitable. It's not going anywhere. So, you're either going to be  
+00:34:17.600 in the dark or you're going to learn what it is, learn what its limitations and capabilities are,  
+00:34:24.040 and learn how to use it. And because of the way that you think, Geoff,  
+00:34:28.760 I've ordered a copy of the AI-Driven Leader. What is your goal with the book, by the way?
+00:34:35.667 Geoff Woods: Three goals. One, to bring a lot of value to people. Most people know  
+00:34:41.199 it's the future but they don't know where to start. I wanted to show people where to  
+00:34:44.920 start in a place that would matter. They would actually deliver results  
+00:34:48.600 and help them achieve their goals, which is why my focus is on strategic thinking.
+00:34:52.549 Hal Elrod: Yeah.
+00:34:53.147 Geoff Woods: Second was to position me as an authority in the space. And third is that it  
+00:34:57.200 becomes a driver of the whole business behind which we do workshops for teams.  
+00:35:01.680 We've got communities that help people go on the journey together. We do consulting  
+00:35:05.880 to actually help businesses grow. And then we have a tech offering as well.
+00:35:08.869 Hal Elrod: Yeah. And for anybody that doesn't know, you're doing basically now a similar model  
+00:35:13.360 to what you did with The ONE Thing. And The ONE Thing is over a million copies sold book by Gary  
+00:35:20.720 Keller and Jay Papasan, one of my top ten, top 20 favorite books. And I do remember I actually tried  
+00:35:27.400 to hire you when you told me you were leaving them and you were like, "Nah, I'm going to do my  
+00:35:30.440 own thing,” because I know how brilliant you are, and I know what you did with The ONE Thing and so,  
+00:35:36.640 yeah, man. I'm excited for you as a friend because this is the perfect niche for you. So,  
+00:35:44.760 the book is the AI-Driven Leader. Everybody, go check that out. AILeadership.com, I literally just  
+00:35:51.080 brought it up in my browser. So, that's a great place to start, leveraging the free resources.
+00:35:55.800 And remember, the next step is it's not the tech. It's the mindset. It's  
+00:36:00.440 realizing this is something that is inevitable. And you're either going  
+00:36:05.400 to be aware of how to utilize it in your life, in your work, or you're not. So,  
+00:36:12.240 I would encourage us all to take that next step. Geoff, I love you, brother. Thanks for being here.
+00:36:17.067 Geoff Woods: Thanks, Hal.
+00:36:17.829 Hal Elrod: All right. Talk to you soon, brother. Take care.

@@ -1,0 +1,709 @@
+# tactiq.io free youtube transcript
+# Nvidia CEO Jensen Huang On How His Big Bet On A.I. Is Finally Paying Off - Full Interview
+# https://www.youtube.com/watch/_-wjA4XlBl4
+
+00:00:08.870 Jensen, thank you so muchfor being here today.
+00:00:11.570 And I want to get startedjust with a question that is
+00:00:15.110 really basic, but I thinkchips have been in the
+00:00:17.570 ecosystem a lot morelately, and there's people
+00:00:20.420 who probably didn't evenreally know what a
+00:00:22.460 semiconductor was a fewyears ago.
+00:00:25.580 Can you give me a verybasic definition of what
+00:00:28.340 Nvidia is?
+00:00:29.930 Wow, that's an easyquestion.
+00:00:32.659 Well, we are a technologycompany that processes
+00:00:37.520 software. For applicationsand domains of science that
+00:00:43.730 are barely possible withoutus.
+00:00:46.880 And so because of what wedo, we can make what is
+00:00:50.570 barely possible, possible.
+00:00:52.600 Or we can make somethingthat is very energy
+00:00:55.280 consuming, very energyefficient.
+00:00:58.010 Or we could turn somethingthat costs a lot of money
+00:01:00.860 and make it much moreaffordable. And so we
+00:01:03.560 created this thing calledaccelerated computing, and
+00:01:07.250 that was what we pioneeredabout three decades ago.
+00:01:10.100 And it's taken until now toreally take off.
+00:01:12.980 In the early days at Denny'swith Chris and Curtis, the
+00:01:17.240 dream was probably simpler.
+00:01:20.030 Can you explain what itwhat your first dream was,
+00:01:22.700 what the vision was, eventhough now it's come so far
+00:01:25.940 to be this acceleratedcomputing company?
+00:01:28.040 Well, at the time, if you goback 30 years, at the time
+00:01:31.370 the PC revolution was juststarting.
+00:01:33.800 The microprocessor wasstarting to take off.
+00:01:37.060 The CPU was starting to takeoff.
+00:01:39.020 And there was quite a bit ofdebate about: what is the
+00:01:42.570 future of computing and howshould software be run?
+00:01:46.300 And there was a large camp,and rightfully so, that
+00:01:50.720 believed that CPU orgeneral purpose software was
+00:01:53.360 the best way to go and itwas the best way to go for a
+00:01:56.270 long time. We felt,however, that there was a
+00:01:59.480 class of applications thatwouldn't be possible without
+00:02:02.990 acceleration.
+00:02:05.290 Or you couldn't make itaffordable enough for
+00:02:07.820 everybody to enjoy withoutacceleration.
+00:02:10.460 And so we started thisaccelerator company, this
+00:02:13.700 accelerated computingcompany, to solve those
+00:02:15.800 problems. In the beginning,there weren't that many
+00:02:18.410 applications for it,frankly, and we smartly
+00:02:21.590 chose one particularcombination that was a home
+00:02:24.980 run. It was computergraphics, and we applied it
+00:02:29.000 to video games.
+00:02:30.350 And that combination turnedout to have been a giant
+00:02:35.330 industry. And now videogames is the largest
+00:02:37.970 industry in the world andthe largest entertainment
+00:02:39.920 industry in the world.
+00:02:41.480 And it drove our technologyfor three decades because
+00:02:46.220 making video games more andmore realistic, making it
+00:02:50.420 available to more people,took a long time.
+00:02:53.420 And we're still in thatjourney and frankly,
+00:02:56.000 probably early in thatjourney.
+00:02:57.880 There are now probably, youknow, over a billion gamers
+00:03:01.610 in the world, but there are8 billion people.
+00:03:04.040 Someday everybody's goingto be a gamer.
+00:03:05.930 And so it's going to be thelargest by far entertainment
+00:03:10.340 industry. And so it turnedout to have been a fantastic
+00:03:14.030 technology driver for ourcompany.
+00:03:16.130 And we step-by-step addedmore and more things that we
+00:03:20.300 could do, to today, artificial intelligence.
+00:03:23.990 Beyond gaming and graphics,Nvidia has grown immensely.
+00:03:28.220 I think that there's a lotof things people might be
+00:03:30.860 surprised to hear arepowered by Nvidia.
+00:03:33.560 Can you just give a verysimple list of some of the
+00:03:37.040 use cases and big namecustomers that people might
+00:03:40.400 be surprised to hear arepowered by Nvidia?
+00:03:43.520 People would probably besurprised that the most
+00:03:47.720 powerful and energyefficient supercomputers in
+00:03:50.600 the world, that are usedfor molecular dynamic
+00:03:54.140 simulations to climatescience research to material
+00:03:58.220 science research to quantumcomputing research, are
+00:04:02.120 powered by Nvidia.
+00:04:04.010 All the way to the otherextreme: a whole bunch of
+00:04:07.280 robots that are powered byNvidia in manufacturing
+00:04:10.490 lines. Self-driving carsthat are powered by Nvidia
+00:04:14.750 to the Nintendo Switch thatI'm very proud of that's
+00:04:18.200 powered by Nvidia. So we'rein very powerful systems and
+00:04:22.700 we're in very energyefficient systems.
+00:04:24.860 And probably one of themost talked about systems
+00:04:29.420 today are the systems atthe Microsoft Azure data
+00:04:33.770 centers that are poweringChatGPT.
+00:04:36.350 And the work that we didwith OpenAI in the very
+00:04:40.100 beginning to now thatPowers ChatGPT.
+00:04:44.190 I think those are reallyquite exciting.
+00:04:46.580 I'm going to come back toChatGPT for sure, but first
+00:04:49.940 I wanted to ask you aboutbetting it all.
+00:04:52.850 This is something that youhave not shied away from in
+00:04:55.880 the 30 years since youstarted the company.
+00:04:58.760 It was maybe seven timesthat you've been reinvented
+00:05:01.340 and faced, you know,success or utter failure.
+00:05:04.980 What is the lesson here?
+00:05:07.320 Well, we're in a really fastmoving industry.
+00:05:11.070 You know, technology isincredible in the sense that
+00:05:14.340 such enormous challengesand problems could be solved
+00:05:17.490 by computing, on the onehand.
+00:05:20.070 On the other hand, thetechnology changes.
+00:05:22.800 And there are so many greatcompanies in the world and
+00:05:26.370 we're pursuing very similaraspirations.
+00:05:29.550 We want to solve theworld's greatest challenges.
+00:05:32.010 And so every now and then,a technology revolution
+00:05:35.940 comes along. We werestarted in the PC
+00:05:38.250 revolution. After that, theInternet revolution came and
+00:05:42.270 all of a sudden thecompanies before it, some of
+00:05:44.550 them didn't make it to the revolution.
+00:05:47.220 And some great new companieslike Google and others got
+00:05:51.510 invented during that time.
+00:05:53.160 And then the cloudcomputing revolution came.
+00:05:56.600 And then the mobile cloudcomputing revolution came.
+00:05:59.360 And now we're talking aboutthe AI revolution.
+00:06:02.040 And so each one of thesetransitions, it's very
+00:06:05.610 unlikely that the companiesthat were great before it
+00:06:08.940 are still great after it.
+00:06:11.160 And there are somecompanies that have made the
+00:06:14.850 ability to, because oftheir adaptability and
+00:06:17.790 agility, reinventedthemselves along the way.
+00:06:21.270 We had to reinventourselves in each one of
+00:06:24.150 those technologyrevolutions.
+00:06:27.590 And, you know, agility isjust really, really, really
+00:06:31.090 important to companies.
+00:06:32.680 And one of the things thatI'm really proud about our
+00:06:34.540 company is, at the core ofour company is incredible
+00:06:37.120 technology. We haveincredible technologists.
+00:06:39.670 You know, if you'repioneering one of the most
+00:06:41.560 important computingplatforms in the world, from
+00:06:44.110 use for scientificcomputing to genomics to
+00:06:46.780 digital biology, all theway to video games, well
+00:06:49.240 you're going to needincredible computer
+00:06:50.800 scientists. So on the onehand, we're incredibly
+00:06:54.460 technology rich.
+00:06:56.590 On the other hand, we're inan enormous, we're in a
+00:06:59.860 giant sea of technologycompanies.
+00:07:02.230 And so the ability for usto adapt and reinvent
+00:07:06.520 ourselves and continue tobe relevant and from one
+00:07:09.700 generation to anothergeneration was really
+00:07:11.560 important. And I'm veryproud of that.
+00:07:13.770 It hasn't always beensuccess.
+00:07:15.630 Can you talk to me aboutsome of the biggest stumbles
+00:07:18.780 that you've had to overcomein the years?
+00:07:21.630 Well, you know, everycompany makes mistakes and I
+00:07:24.480 make a lot of them.
+00:07:25.620 And, you know, some of themputs the company in peril,
+00:07:28.860 especially in thebeginning, because we were
+00:07:31.380 small and were up againstvery, very large companies
+00:07:35.070 and we're trying to inventthis brand new technology.
+00:07:37.500 And, you know, when youinvent something new, you
+00:07:41.280 have to convince customersto use it.
+00:07:42.930 You have to convince theecosystem it's the right
+00:07:44.910 thing to use. And you'vegot developers, you know.
+00:07:47.780 We're a computing company,so developers matter a lot
+00:07:50.220 to us. And so we're tryingto invent something new and
+00:07:52.830 we're barely, we barelyknow exactly what we're
+00:07:55.590 doing, you know?
+00:07:56.880 So when you're doingsomething that's never been
+00:07:58.440 done before, you're notexactly sure what you're
+00:08:00.210 doing. And yet, on theother hand, you have these
+00:08:02.820 giant companies who wouldlike you not to disrupt the
+00:08:06.360 industry. And so early on,there were product mistakes
+00:08:10.860 that we made.
+00:08:12.340 There were, you know,execution challenges that we
+00:08:16.050 had. There were somestrategy mistakes that I
+00:08:18.210 made. And, you know,there's just so many of
+00:08:21.180 them. And, you know, one ofthe skills of resilience is
+00:08:23.950 the ability to forget thepast.
+00:08:26.110 You know, just as coachestell you, don't worry about
+00:08:28.960 the last down, worry aboutthe next down.
+00:08:30.730 And so I tried to make surethat the company remembers
+00:08:34.659 our learnings from themistakes.
+00:08:36.940 Most founders would be verysatisfied being at the helm
+00:08:40.570 of such a huge industrywith gaming graphics.
+00:08:43.990 What signaled to you, andwhen, that it wasn't enough?
+00:08:48.790 Well, our ambition wasalways to be a computing
+00:08:51.730 platform company.
+00:08:53.050 We selected computergraphics and video games as
+00:08:55.900 our first marketcombination: technology,
+00:08:58.720 market, product technologyand market combination.
+00:09:01.780 But we always believedthat accelerated computing
+00:09:05.530 was going to be impactfulfor many, many different
+00:09:07.630 industries. We expanded from video games into
+00:09:11.740 design. And today justabout every product that's
+00:09:14.770 designed or every digitalasset or movie or, you know,
+00:09:18.220 almost anything that'sdesigned in 2D or 3D
+00:09:20.500 digitally uses Nvidiasomehow.
+00:09:23.230 And then we extended thatinto scientific computing,
+00:09:26.950 into physical simulation.
+00:09:28.550 And it started with seismicprocessing, as a field
+00:09:31.690 called inverse physics, toparticle simulations,
+00:09:35.590 molecular dynamicsimulations, and so on and
+00:09:37.900 so forth, and fluids.
+00:09:39.070 And just about every fieldof science we're in today.
+00:09:42.820 And so I'm really proud ofthat.
+00:09:44.980 And that led us to a muchmore general purpose type of
+00:09:50.860 accelerated computing thatwe created.
+00:09:53.050 Which then, one day,artificial intelligence
+00:09:56.140 found us.
+00:09:57.160 You know, this is one ofthe things that's really
+00:09:58.990 amazing about a computingplatform.
+00:10:01.630 You have a vision aboutwhat you want to create.
+00:10:03.460 And for whatever reason,you differentiate in your
+00:10:08.050 computing approach.
+00:10:09.400 And maybe you made it superconvenient in the cloud.
+00:10:12.520 Maybe you made it possiblefor you to keep the computer
+00:10:14.890 with you all the time: mobile cloud.
+00:10:16.850 And in our case, acceleratedcomputing makes it possible
+00:10:20.500 for you to solve problemsthat were impossible
+00:10:22.360 before, or much more energyefficient than before.
+00:10:26.400 And so there's afundamental reason that
+00:10:29.340 makes a new computingarchitecture successful.
+00:10:33.420 And at some point, thepositive feedback system
+00:10:36.540 starts to work. You know,you reach now a lot of
+00:10:39.720 different customers anddifferent applications.
+00:10:42.210 We're in every cloud, madeby every computer company,
+00:10:45.510 and then all of a suddenone day a new application
+00:10:48.450 that wasn't possible beforediscovers you.
+00:10:51.780 First you discover them, andthen pretty soon they
+00:10:53.730 discover you. And thispositive feedback system
+00:10:55.920 starts to feed on itself.
+00:10:58.170 I assume you're talkingabout the moment with
+00:10:59.820 AlexNet and CUDA poweringthat, and sort of the big
+00:11:03.930 bang of AI, if you will.
+00:11:05.730 I'm curious how much ofthat you feel like was luck?
+00:11:08.310 I mean, what you're talkingabout is it finding you.
+00:11:09.900 It sounds a bit like luck.
+00:11:11.240 And how much of it wasforesight?
+00:11:13.410 Well, it wasn't foresight.
+00:11:15.000 The foresight wasaccelerated computing.
+00:11:17.550 The foresight was makingthis architecture exactly
+00:11:22.590 the same for everybody.
+00:11:23.950 Having the discipline ofstaying true to that
+00:11:27.760 platform for generationafter generation after
+00:11:30.070 generation, believing thateventually our install base
+00:11:33.940 would be so large that notonly would we have reach,
+00:11:38.080 but applications wouldtherefore be enabled by us.
+00:11:41.020 New entire applications thatweren't possible before
+00:11:44.170 would discover us.
+00:11:45.280 This is the nature ofcloud.
+00:11:46.630 This was the nature of PC.
+00:11:47.930 This was the nature ofmobile cloud.
+00:11:49.750 And each one of theserevolutions and generations
+00:11:52.480 of technology. In thebeginning there was some
+00:11:54.850 fundamental reason it wassuccessful, and then at some
+00:11:58.150 point it achieves a bit ofa escape velocity and it
+00:12:01.690 becomes exponential becausethese applications start to
+00:12:05.260 be enabled by you and theycome and discover you.
+00:12:08.200 And so we made a lot ofgreat decisions.
+00:12:11.460 And the great decisionsassociated with the
+00:12:14.380 architecture and disciplineof the platform and
+00:12:17.050 evangelizing it toeverybody.
+00:12:19.030 And we reached out to research universities all
+00:12:22.350 over the world. And we justbelieved that some day
+00:12:25.140 something new would happen.
+00:12:26.460 The rest of it requiressome serendipity.
+00:12:29.490 But the part that wasreally wonderful was when we
+00:12:32.850 realized that AlexNet isnot just some neural
+00:12:38.610 network, but it's a wholenew way of doing software.
+00:12:42.570 AlexNet is profound in thatway.
+00:12:45.000 Not only was it a giantbreakthrough in computer
+00:12:48.330 vision, it was also aprofoundly new way of doing
+00:12:53.010 software. Some people callit software 2.0, where the
+00:12:56.370 machine augments thesoftware programmers and the
+00:13:00.630 data writes the software.
+00:13:02.430 Instead of humans typing ina software program, the data
+00:13:07.320 creates the software.
+00:13:09.030 That way of usingexperience or data to cause
+00:13:13.860 a software to be able tomake future predictions was
+00:13:17.430 so profound, and we had thegood wisdom to go put the
+00:13:21.190 whole company behind it.
+00:13:22.600 We saw early on, about adecade or so ago that this
+00:13:27.220 way of doing software couldchange everything.
+00:13:29.740 All of the software thatwe've wanted to write that
+00:13:31.960 we didn't know how towrite, we can now do.
+00:13:35.620 And that was a greatdecision.
+00:13:37.270 And we changed the companyfrom the bottom all the way
+00:13:39.280 to the top and sideways.
+00:13:41.050 Every chip that we made wasfocused on artificial
+00:13:44.200 intelligence. We built awonderful research
+00:13:48.250 organization dedicated toartificial intelligence.
+00:13:51.070 Our entire software stackwas invented for AI and and
+00:13:54.940 then all the things that wedid to create large systems
+00:13:57.820 and networks.
+00:13:59.010 Which then became this thingcalled an AI supercomputer.
+00:14:02.860 And I remember deliveringmy very first AI
+00:14:06.280 supercomputer. I handdelivered it myself.
+00:14:08.920 I delivered it to OpenAI.
+00:14:11.060 The world's very first AIsupercomputer was delivered
+00:14:14.440 to OpenAI.
+00:14:15.520 What year was that?
+00:14:17.530 Well, I guess it's likefive, six years ago, I
+00:14:19.810 guess. Five years ago.
+00:14:21.040 Yeah.
+00:14:21.700 And now here we are andOpenAI has taken the world
+00:14:25.630 by storm. Do you think thatyour products, Nvidia, is at
+00:14:30.070 the very center of thisand has become the must-have
+00:14:33.820 products to power this nextbig step?
+00:14:37.630 Well we're the world'sengine for AI.
+00:14:41.340 Because of the decisions wemade a decade or so ago, and
+00:14:45.090 we put so much of our mightand expertise into it.
+00:14:48.650 We're now in every cloud.
+00:14:50.510 We're in every country andevery field of science.
+00:14:54.890 35,000 companies use our AIcomputers to develop and
+00:15:00.080 advance this field.
+00:15:01.340 Giant companies like cloudand internet companies, all
+00:15:04.310 the way to startups.
+00:15:05.480 Thousands of startups.
+00:15:07.010 They're in all kinds ofareas: consumer internet to
+00:15:10.820 digital biology torobotics.
+00:15:14.300 I'm really happy with the diffusion of the technology.
+00:15:18.830 I'm really pleased with howwe've democratized the
+00:15:21.560 technology so that anybodycan access it.
+00:15:23.930 You can't ignore theincredible vision and
+00:15:28.920 dedication to the work atOpenAI.
+00:15:32.250 From the very first day Isaw them, they were
+00:15:34.080 dedicated to wanting to dothis and they've been
+00:15:36.870 focused on it for fiveyears.
+00:15:38.360 And of course in research,even longer than that.
+00:15:41.790 I'm incredibly proud of thework that they've done.
+00:15:43.900 Yeah really terrific team.
+00:15:45.420 Here in Silicon Valley, there's a bunch of CEOs and
+00:15:48.870 founders who've startedbringing up the A100 and
+00:15:52.740 kind of publicly competingwith each other about who
+00:15:55.140 bought more when and whosaw this coming.
+00:15:57.720 Sort of competing forbragging rights around the
+00:16:00.030 A100. What would you wantto say to them?
+00:16:03.450 There's more. Come get them.
+00:16:05.490 Everybody should win.
+00:16:06.720 You know, winners to all.
+00:16:08.160 In the past, when you starta company, a software
+00:16:11.730 company or technologycompany, you need a lot of
+00:16:13.860 software engineers.
+00:16:14.940 It is still true and youneed amazing computer
+00:16:18.060 scientists. But today,startups - and there are
+00:16:22.560 some amazing startups thatwe're working with right now
+00:16:24.960 where they're 25, 30people.
+00:16:28.650 Backed up with a large datacenter of AI supercomputers
+00:16:33.660 powered by A100s.
+00:16:35.400 If you want to start a startup today, it's you and
+00:16:39.300 AI. And you're superchargedby the AI supercomputer and
+00:16:43.750 the algorithms that youhave inside and all the data
+00:16:45.820 that you're going to teachit with.
+00:16:47.530 And so it's really quite atransformation in how
+00:16:50.500 startups are going to getbuilt in the future.
+00:16:52.450 Now we're onto somethingeven larger than that, you
+00:16:56.110 know, built on these AIsupercomputers, these large
+00:16:58.270 language models. It'sdefinitely a watershed event
+00:17:00.760 for the AI industry.
+00:17:02.560 It feels very much like theiPhone moment, when mobile
+00:17:07.300 cloud really took off andall of the environmental
+00:17:10.119 conditions feel exactly thesame way, just larger and
+00:17:13.930 much, much more industries.
+00:17:15.819 Right now, generative AI isstill extremely expensive to
+00:17:19.660 accomplish. How do youthink it'll really take off
+00:17:22.450 if only a couple bigcompanies have true access
+00:17:25.750 to do it at scale?
+00:17:27.579 Well, it turns out itdoesn't cost that much.
+00:17:30.100 And the reason why thereare so many CEOs with
+00:17:32.890 bragging rights on so manyA100s is because it's really
+00:17:36.280 quite democratized.
+00:17:37.450 We took what otherwisewould be a $1 billion data
+00:17:40.670 center running CPUs and weshrunk it down into a data
+00:17:44.660 center of $100 million.
+00:17:46.700 Now $100 million is, whenyou put that in the cloud
+00:17:50.300 and shared by 100companies, is almost
+00:17:53.240 nothing. If you take a lookat how much it costs to
+00:17:56.210 design a chip, so you putthat in perspective, it
+00:17:59.090 costs us about $2 to $3billion to design A100.
+00:18:04.160 When I hit enter and askedTSMC to help us make it,
+00:18:07.430 that email is $100 million.
+00:18:11.580 And then it populates theseAI supercomputer data
+00:18:15.030 centers. And when you traina large language model,
+00:18:18.780 let's say it costs $10million.
+00:18:21.330 So a chip, and there are3,000 chip companies in the
+00:18:24.360 world, taping out a chip islike $100 million or $50
+00:18:27.860 million, $30 million,depending on the size, but
+00:18:30.930 nothing less than $10million.
+00:18:32.820 And now you could buildsomething like a large
+00:18:35.490 language model, like aChatGPT for something like
+00:18:38.490 $10, $20 million.
+00:18:40.260 That's really, reallyaffordable.
+00:18:42.450 And so I think the theability for every industry
+00:18:46.350 to create their foundationmodel: there's going to be a
+00:18:48.750 protein foundation model, achemical foundation model.
+00:18:52.020 There will be a roboticsfoundation model.
+00:18:54.030 There'll be foundationmodels for science, for
+00:18:57.870 finance, for all kinds ofdifferent applications and
+00:19:00.910 different industries anddifferent countries.
+00:19:03.660 I was just in Sweden and the Berzelius supercomputer
+00:19:08.850 there, we helped them with.We built an AI
+00:19:10.560 supercomputer. It's aSwedish foundation model
+00:19:14.170 supercomputer. And withjust tens of millions of
+00:19:17.680 dollars, you can build themost powerful supercomputer
+00:19:21.220 in Sweden. And so these arereally, really accessible
+00:19:24.280 technologies now.
+00:19:24.910 There are always skepticsand people who are alarmed,
+00:19:29.320 perhaps, by how fast AI istaking off and how powerful
+00:19:32.620 it's become withcapabilities like deepfakes,
+00:19:35.980 fake eye contact, forinstance, that I've seen an
+00:19:38.020 example of. What do you sayto them?
+00:19:40.270 Well, the first thing thateverybody should do is to
+00:19:43.270 take advantage of thetechnology and to boost
+00:19:46.780 their own capability.
+00:19:48.460 There's no question thatthe interest behind ChatGPT
+00:19:51.490 has been so great.
+00:19:52.780 It is the fastest growingapplication in the world,
+00:19:56.560 and it's been used in allkinds of different ways.
+00:19:59.520 The thing that's reallyamazing about artificial
+00:20:01.770 intelligence is that whatChatGPT has shown is that it
+00:20:07.230 has eliminated the digitaland the technology divide.
+00:20:12.220 Everyone is a programmernow.
+00:20:14.380 Everybody could program acomputer.
+00:20:17.560 During my generation, theway that you program a
+00:20:19.900 computer was: started withBasic and I learned Fortran.
+00:20:22.900 Then you learn C and thenyou move to C++ and Java and
+00:20:27.070 now PyTorch or Python.
+00:20:29.170 And each one of thoselanguages, there was Ooc,
+00:20:32.140 and these are really weirdlanguages and they're hard
+00:20:34.900 to learn. And the wholetime that we've been making
+00:20:37.300 computers more and morecapable, the technology
+00:20:40.120 became harder and harder touse.
+00:20:41.650 And the technology dividearguably has been growing,
+00:20:44.800 until artificialintelligence. And you hear
+00:20:47.440 about cucumber farmers whoare teaching a robot how to
+00:20:52.630 sort cucumbers.
+00:20:54.070 And a high school studentdid that for his mom.
+00:20:56.920 And now 150 million peopleare programing the
+00:21:00.430 computer, instead ofprograming the computer with
+00:21:03.010 C or Python, you're nowprograming the computer with
+00:21:06.820 anybody's plain language.
+00:21:08.860 And you tell this computerwhat you want to do.
+00:21:10.870 And this computer goes offand does it.
+00:21:13.010 Or you tell the computeryou'd like to write a Python
+00:21:15.410 script, and it goes off anddoes it.
+00:21:17.540 And so this capability hasdemocratized computing for
+00:21:22.130 the very first time.
+00:21:23.330 It's put technology, verypowerful technology, in the
+00:21:26.540 hands of anybody who wouldlike to use it.
+00:21:28.640 And so I think this isreally genuinely the first
+00:21:31.520 time in my generation thatwe've created something, or
+00:21:35.540 contributed to creatingsomething, that made our
+00:21:39.020 technology accessible toeveryone.
+00:21:41.790 Not just to use, but toharness.
+00:21:44.520 Not just to use, but toprogram.
+00:21:46.160 And so I think every domainexpert in the world will be
+00:21:49.160 able to do that. And Irecommend everybody just,
+00:21:51.290 number one, take advantageof AI and augment your work
+00:21:55.490 . Make yourself moreproductive.
+00:21:57.470 Lift yourself, you know,power up.
+00:22:00.910 Power up your own career,power up your own
+00:22:03.350 capability. And then fromthere, you know, increase
+00:22:07.640 the productivity of societyand move everything along.
+00:22:11.780 How do you stay ahead in anindustry where some of your
+00:22:15.020 customers could become yourcompetitors?
+00:22:18.140 You know, speaking aboutGoogle's TPUs and Amazon has
+00:22:23.480 their own internal chips aswell.
+00:22:25.640 How do you stay ahead inthat landscape?
+00:22:28.400 We stay ahead by, numberone, doing it very well.
+00:22:31.190 But also we do it verydifferently.
+00:22:32.990 The first thing that Iwould say is that every data
+00:22:37.190 center in the world shouldaccelerate every workload
+00:22:41.570 they can. And the reasonfor that is because, as you
+00:22:44.150 know, the world's datacenters consume a lot of
+00:22:46.040 power now. And it used tobe the case that because of
+00:22:51.370 Moore's Law, even though werequired more computing
+00:22:54.850 throughput every year, theamount of power that the
+00:22:57.430 world's data centersconsume didn't grow that
+00:22:59.650 fast. And the reason forthat is because Moore's Law.
+00:23:02.110 But now that's changed.
+00:23:03.820 That has ended.
+00:23:05.080 And as a result, if we wantto increase the amount of
+00:23:08.440 computing throughput wewant, and there's no
+00:23:11.710 question that's happening,then the amount of power
+00:23:14.380 that the world needs in thedata center will grow.
+00:23:16.660 And you can see in therecent trends, it's growing
+00:23:19.030 very quickly and that's areal issue for the world.
+00:23:22.090 The first thing that weshould do is: every data
+00:23:24.400 center in the world,however you decide to do it,
+00:23:27.280 for the goodness ofsustainable computing,
+00:23:29.920 accelerate everything youcan.
+00:23:32.710 Now, an ASIC is designed tobe application specific.
+00:23:35.830 It does nothing, it doesexactly that and it does it
+00:23:39.070 very well. What Nvidia doesis a general purpose
+00:23:43.900 accelerated computingplatform.
+00:23:45.400 So we could, on the onehand, simulate climate
+00:23:47.920 science. On the other handdo robotics.
+00:23:49.530 On the other hand, do largelanguage models or computer
+00:23:52.370 graphics and play videogames and such.
+00:23:54.830 And so our ability to beflexible, versatile and also
+00:23:59.900 extremely performant letsus increase the versatility
+00:24:04.190 and the utility, theutilization of it, inside
+00:24:06.650 data center. When you buildan infrastructure, the most
+00:24:10.010 important thing for you isutilization.
+00:24:11.960 You can't afford to havehotels that are occupied
+00:24:15.380 30%. You would like the data center even more so
+00:24:19.760 because it cost billions ofdollars.
+00:24:21.680 Nvidia's acceleratedcomputing platform lets you
+00:24:24.080 have versatility andutilization.
+00:24:26.000 So our TCO, our cost, isactually the lowest of all.
+00:24:29.660 And that's the reason whypeople use it: because they
+00:24:31.820 can use it on so manythings. The second reason is
+00:24:34.640 we're in every cloud.
+00:24:35.690 And so if you're anenterprise customer or a
+00:24:38.450 developer or a startupcompany and you would like
+00:24:41.210 to have the ability tooperate your service in
+00:24:44.900 every cloud or any cloudacross the world, we make it
+00:24:48.200 possible for you to do itin every cloud: on prem,
+00:24:51.110 hybrid cloud, all the wayout to the edge.
+00:24:52.790 One architecture.
+00:24:54.260 What do you say to gamerswho wish you had kept focus
+00:24:58.220 entirely on the corebusiness of gaming?
+00:25:02.340 Well, if not for all of ourwork in physics simulation,
+00:25:07.440 if not for all of ourresearch in artificial
+00:25:10.110 intelligence, what we didrecently with GeForce RTX
+00:25:14.970 would not have beenpossible. We invented the
+00:25:17.760 GPU and programable shader25 years ago, a quarter of a
+00:25:21.720 century ago, and it'sremained basically the same
+00:25:24.840 for the last 25 years.
+00:25:26.670 About five years ago, wecame to the conclusion that
+00:25:29.490 in order for us to takecomputer graphics and video
+00:25:32.250 games to the next level, wehad to reinvent and disrupt
+00:25:35.250 ourselves.
+00:25:36.430 Change literally what weinvented altogether.
+00:25:40.020 And so we invented this newway of doing computer
+00:25:42.240 graphics: ray tracing, andbasically simulating the
+00:25:46.470 pathways of light andsimulate everything with
+00:25:49.500 generative AI.
+00:25:51.000 And so we compute onepixel and we imagine with AI
+00:25:56.420 the other seven.
+00:25:58.650 It's really quite amazing.
+00:26:00.060 Imagine a jigsaw puzzle andwe gave you one out of eight
+00:26:03.570 pieces and somehow the AIfilled in the rest.
+00:26:07.500 Pretty amazing.
+00:26:08.880 And so as a result, weincreased the performance of
+00:26:12.270 what made possible raytracing.
+00:26:14.070 We increased theperformance by probably a
+00:26:16.800 factor of five.
+00:26:18.270 Or another way to thinkabout that: we reduced the
+00:26:20.190 amount of energy consumedby a factor of five.
+00:26:22.870 And so that great inventioncompletely revolutionized
+00:26:26.070 video games. And the next25 years, because of what we
+00:26:28.470 did, I think we have 25years of amazing future.
+00:26:32.340 Just a couple of questionsabout the state of the
+00:26:34.140 industry. Experts seem tosay the worst of the chip
+00:26:37.200 shortage is over.
+00:26:38.820 How did Nvidia weather thatstorm?
+00:26:40.860 The chip shortage was astrange one.
+00:26:43.050 On the one hand, there waschip shortage.
+00:26:45.570 On the other hand, aboutthe same time, you know,
+00:26:50.160 this is now, we're nowcoming out of it.
+00:26:52.680 But some two or threequarters ago, we had supply
+00:26:56.520 challenges and demandchallenges at the same time
+00:26:59.310 . But not at the samecustomer.
+00:27:01.320 Not in the same industry.
+00:27:02.760 Not in the same market.
+00:27:04.200 And so that was very, verychallenging: to have your
+00:27:07.410 foot on the gas and yourfoot on the brakes at
+00:27:09.300 exactly the same time andfull pressure on both.
+00:27:12.450 Our company weathered itjust fine.
+00:27:14.310 We're a strong andresilient company.
+00:27:16.410 Our financial performancewasn't as good as our
+00:27:19.050 technology and contributionperformance.
+00:27:22.560 We did some of our bestwork ever in the history of
+00:27:25.560 our company. A100 wasreplaced by H100, which
+00:27:30.400 we're in full production now.
+00:27:32.050 All the work that we didwith AI supercomputing and
+00:27:35.620 RTX ray tracing and all ofthat came out during this
+00:27:38.830 time. Meanwhile, ourfinancial performance wasn't
+00:27:41.710 very good. And so I thinkthe lesson there is: focus
+00:27:45.370 on doing your good work andthings will work out for
+00:27:47.830 itself. And so I'm really,really pleased with the
+00:27:50.830 company and the work thateverybody's done.
+00:27:52.930 And going forward, I thinkit's starting to ease up
+00:27:56.320 now. I think we're startingto have a lot less inventory
+00:28:00.250 in channels. And theindustry has more capacity
+00:28:04.720 and more flexibility andwe're moving nicely into the
+00:28:09.010 next generation nodes.
+00:28:10.330 And so almost everything isstarting to to get better.
+00:28:15.010 What about a price slump?
+00:28:16.180 Does that worry you?
+00:28:17.380 Everything that we build israther singular.
+00:28:22.130 And the markets that weserve aren't commodity
+00:28:24.070 markets. You know, rightnow, more than any time, the
+00:28:28.970 investment needed in AI isjust off the charts.
+00:28:33.110 Generative AI, this is themoment that we've all been
+00:28:36.080 working for in the last tenyears.
+00:28:38.420 And now AI is about to beused to revolutionize
+00:28:43.850 digital biology andgenomics and transportation
+00:28:47.390 and retail and all thesedifferent industries.
+00:28:50.590 search. And everything aboutthe situation we're in right
+00:28:54.620 now is really about growthand really about getting
+00:28:58.250 into the next phase ofcomputing.
+00:29:00.860 And AI is at the center ofthat.
+00:29:02.480 So I'm super excited aboutthe moment we're in.
+00:29:06.020 I want to make sure that wetake advantage of it and
+00:29:07.700 capitalize on it.
+00:29:09.140 The vast majority of yourchips are made by TSMC.
+00:29:12.290 How have you insulatedagainst geopolitical risks
+00:29:15.200 of the region in the casethat the "Silicon shield"
+00:29:17.570 doesn't hold.
+00:29:18.890 As a company, our firstpriority is to make sure
+00:29:22.040 that we're as resilient aspossible.
+00:29:25.190 And in every area that wecan, to be as resilient
+00:29:30.650 through diversity andredundancy as much as we can
+00:29:33.590 . In semiconductor designtools, the manufacturing of
+00:29:38.180 our chips, packaging,memory, systems.
+00:29:41.780 The systems that we build,AI supercomputers, these
+00:29:44.930 things are like cars.
+00:29:46.820 They weigh 350 pounds percomputer.
+00:29:50.270 They're the heaviestcomputers that humans make.
+00:29:53.240 And it's complicated.
+00:29:54.740 It's got tens of thousandsof unique parts.
+00:29:57.350 And so we try to engineerand design, into everything
+00:30:00.680 that we do, diversity andredundancy.
+00:30:02.900 The fact of the matter isTSMC is a really important
+00:30:05.420 company. This is a reallyspecial company.
+00:30:08.260 And the world doesn't havemore than one of them.
+00:30:10.880 It is imperative uponourselves and them, also
+00:30:14.930 invest in diversity andredundancy.
+00:30:17.050 And the move that they maderecently in building the fab
+00:30:19.940 in Arizona is a very bigdeal.
+00:30:21.950 Will you be moving any ofyour manufacturing to
+00:30:23.780 Arizona?
+00:30:24.440 Oh, absolutely. We'll useArizona.
+00:30:26.030 Yeah. Yeah, absolutely.
+00:30:27.140 The thing that's reallygreat about TSMC is every
+00:30:31.130 mask runs everywhere and sothey have the ability to use
+00:30:35.630 all the various fabs forthe masks that we have.
+00:30:38.180 And so I'm excited about the investments that they're
+00:30:42.290 making so that the entireworld can count on them for
+00:30:45.860 diversity and redundancy.
+00:30:47.240 Yeah, it's a really specialcompany.
+00:30:48.920 About a quarter of yourrevenue comes from mainland
+00:30:50.780 China. How do you calminvestor fears over the new
+00:30:53.210 export controls?
+00:30:54.290 Well, Nvidia's technology isexport controlled.
+00:30:57.620 It's a reflection of theimportance of the technology
+00:30:59.630 that we make. The firstthing that we have to do is
+00:31:01.910 comply with theregulations. It was a
+00:31:05.030 turbulent, you know, monthor so as the company went
+00:31:09.050 upside down to reengineerall of our products so that
+00:31:13.160 it's compliant with theregulation and yet still be
+00:31:16.340 able to serve thecommercial customers that we
+00:31:18.080 have in China. We're ableto serve our customers in
+00:31:21.530 China with the regulatedparts and delightfully
+00:31:24.500 support them. And so Ithink we're going to be just
+00:31:27.050 fine in the ability toserve the customers there.
+00:31:30.080 The customers that we havethere are consumer companies
+00:31:33.890 and consumer internetcompanies. And the
+00:31:36.680 regulation is going to bejust fine.
+00:31:38.090 We're going to be able towork through it.
+00:31:39.890 You are famous forreinvention.
+00:31:42.500 What's the next one goingto be?
+00:31:43.940 The next big reinvention isprobably where AI meets the
+00:31:49.820 physical world.
+00:31:51.290 And today, all of our AIexperiences are related to
+00:31:56.780 digital. It's in software.
+00:31:59.480 It's, you know, it'sinformation.
+00:32:01.420 It's all digital-related Al.
+00:32:03.800 The next generation of AI,and where AI meets $100
+00:32:08.350 trillion of the world'sindustry, that's in the
+00:32:11.120 physical world. And so itcould be transportation.
+00:32:13.800 It could be robotic surgery.
+00:32:15.430 It could be warehouses andmanufacturing plant and
+00:32:19.340 energy plants andfabrication plants and so on
+00:32:22.940 and so forth. And in orderfor us to bring digital
+00:32:26.210 technology and artificialintelligence technology into
+00:32:28.490 that physical world wherehumans are, and safety is
+00:32:31.500 important and resilience isimportant, and all of those
+00:32:35.900 kind of physical worldphysics-related challenges,
+00:32:39.710 we need a new type ofsoftware.
+00:32:41.690 And we created this thingcalled Omniverse that
+00:32:44.300 allows us to connect thedigital world and the
+00:32:47.120 physical world. AndOmniverse is going to be a
+00:32:51.380 phenomenal success.
+00:32:52.550 And we have 700-pluscustomers who are trying it
+00:32:56.120 now. And from car industryto logistics warehouse to,
+00:33:02.810 you know, wind turbineplants.
+00:33:04.610 And so I'm really excitedabout the progress there.
+00:33:07.790 And it represents probablythe single greatest
+00:33:12.740 container of all ofNvidia's technology:
+00:33:14.810 computer graphics,artificial intelligence,
+00:33:16.760 robotics and physicssimulation all into one.
+00:33:19.520 I have great hopes for it.
+00:33:21.440 This is the last one. Juston a personal note, you are
+00:33:24.530 the longest running techCEO.
+00:33:27.390 Is there any end in sight?
+00:33:29.070 Well, as you can tell, I'msprightly and quite
+00:33:32.730 enthusiastic and energetic yet.
+00:33:36.610 I'm surrounded by amazingpeople.
+00:33:38.730 They keep me inspired and Ifeel that we could do great
+00:33:42.930 things together. They giveme so much confidence in
+00:33:45.480 what we can do and theimpact we can make.
+00:33:47.880 And I feel that I'm makinga real contribution to the
+00:33:52.020 company and to them, and tocreate an environment where
+00:33:56.010 we can make really amazingcontributions.
+00:33:58.440 And so I think for so longas I believe I could do
+00:34:02.460 that, and I don't knowexactly how long that's
+00:34:06.690 going to be. But three orfour decades, I would say.
+00:34:09.560 In another four decades,I'll be robotic and, maybe
+00:34:12.810 another three or fourdecades after that.
+00:34:14.460 And so hopefully, I'll getto enjoy this for a very
+00:34:16.889 long time.
+00:34:18.179 Wonderful. Well, thank youfor today's conversation.
+00:34:20.699 Thank you, Katie.

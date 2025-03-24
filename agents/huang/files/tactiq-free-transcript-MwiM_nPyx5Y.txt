@@ -1,0 +1,970 @@
+# tactiq.io free youtube transcript
+# NVIDIA CEO Jensen Huang Reveals Keys to AI, Leadership
+# https://www.youtube.com/watch/MwiM_nPyx5Y
+
+00:00:01.560 I am the William v McLain professor ofbusiness in the decision and operations
+00:00:05.850 division here at theColumbia Business School.
+00:00:08.550 I want to thank you all for joiningus this evening for tonight's program,
+00:00:11.910 which features Jensen Wong, co-founderand c e O of Nvidia Corporation,
+00:00:16.500 as well as our own ris, the Deanof Columbia Business School,
+00:00:20.430 and David and Lynn Sip,the professor of business.
+00:00:23.940 Our two speakers tonighthave much in common. In fact,
+00:00:26.580 they both graduated from Stanford inelectrical engineering nearly the same
+00:00:30.120 time, maybe even not possiblyoverlapping. Jensen is the co-founder,
+00:00:34.590 president officer ofNvidia. He is a businessman,
+00:00:38.970 entrepreneur and electrical engineer.
+00:00:41.160 And over the last 30 yearsthrough his work at nvidia,
+00:00:44.280 he has revolutionized first the graphicsprocessing unit industry and now more
+00:00:49.230 recently, the artificialintelligence industry.
+00:00:52.110 He's been named the world's best,
+00:00:53.400 c e o by Harvard Business Review and BrandFinance as well as Fortune Magazine's
+00:00:57.780 business person of the year,and one of time magazine's,
+00:01:00.360 100 most influential people.
+00:01:03.570 Our fireside chat today has been madepossible through both the David and Lynn
+00:01:07.230 Discipline Leadership series, as well asthe digital finance, sorry, excuse me,
+00:01:11.610 the Digital FutureInitiative. And additionally,
+00:01:14.100 I serve on the leadership of theDigital Future Initiative, the D F I.
+00:01:17.280 Here at C V s,
+00:01:20.000 the Digital Future Initiativeis C V S'S new think tank,
+00:01:23.100 focusing on preparing students tolead for the next century of digital
+00:01:26.440 transformation,
+00:01:27.510 as well as helpingorganizations governances andcommunities better understand
+00:01:31.080 leverage and prosper fromfuture ways digital structure.
+00:01:34.920 Now I would like to hand it over to.
+00:01:44.310 Thank you.
+00:01:44.910 Very much. Thank you all for coming. So.
+00:01:50.050 This an exciting topic and atopic that is near and dear,
+00:01:54.970 certainly to my heart.
+00:01:59.250 And it's a topic where the school,
+00:02:01.080 everything that we do at the school ischanging so fast, trying to keep up,
+00:02:05.160 trying to change curricula,
+00:02:06.820 trying to create opportunitiesfor our students to actually
+00:02:12.150 learn about technologies and how they'rechanging the world and be honest,
+00:02:16.320 prepare for the future and thereis no better person to be having to
+00:02:21.150 talk about AI than Jensen Pond. Jensen,
+00:02:25.440 thank you so much for making thetime and coming here. Welcome.
+00:02:30.680 Sun. Sun. Yes. I just love hearing
+00:02:38.760 talk here. I think the expectation'sgoing to be pretty high,
+00:02:42.360 but say something smart. Well,
+00:02:47.310 good luck with you. So I want to start.
+00:02:53.360 By having you walk us through alittle bit the history of Nvidia
+00:02:58.260 and then I talk a little bit about thatleadership thing you just mentioned,
+00:03:01.720 but you launched thatcompany 30 years ago and
+00:03:06.490 you have led it through a transformation,
+00:03:10.900 different applications,different type of products.
+00:03:15.100 Walk us through a little bit that journey.
+00:03:18.550 Yeah, one of the most proud moments,I'll start with the proud moment,
+00:03:23.110 what happened recently,
+00:03:25.690 the c e O of Denny's wherewith my first company,
+00:03:30.820 and they learned that Vidia,not only was I dishwasher,
+00:03:36.610 bus boy and worked my way upcorporate ladder and became waiter
+00:03:42.010 at Denny's, and they were my first company
+00:03:48.040 that I still know how to take.I still done the menu well,
+00:03:53.370 super, by the way, anybodyknow what a superbird is?
+00:03:57.910 What kind of College Street were you?
+00:04:01.310 Denny's is America's Diner Go.
+00:04:05.260 And that Nvidia was founded by
+00:04:11.070 outside our home in San Jose there.
+00:04:16.630 And so they contacted me recentlyand the booth that I sat at is now
+00:04:22.380 in Nvidia Booth and my name is Nvidia.
+00:04:26.620 This is where a trilliondollar company was founded.
+00:04:31.420 And so
+00:04:34.450 Nvidia was founded during a time when
+00:04:39.300 the EC revolution and the microprocessor
+00:04:44.460 was capturing
+00:04:47.620 just above the entire industry and
+00:04:53.080 the world properly solvedthat the CPU of micro
+00:04:57.840 processor revolution. And itreally reshaped how the IT
+00:05:06.580 companies that were successful beforethe micro processor revolution,
+00:05:10.150 revolution and companies successful.
+00:05:14.680 We started with our company duringthat time and our perspective was that
+00:05:18.010 general purpose computing,
+00:05:20.410 as incredible as it's can'tsensibly be the solution for,
+00:05:25.300 we wanted to believe thata way of doing computing,
+00:05:28.640 we call accelerated computing,
+00:05:31.130 where you would add a specialistnext to the generalist.
+00:05:36.130 The CPU is a generalist. Ifyou well could do anything,
+00:05:38.420 it could do everything however you can.
+00:05:40.570 Obviously if you can doeverything and anything,
+00:05:43.120 then obviously you can'tdo anything very well.
+00:05:46.660 And so there are some problemswe felt that were not solvable,
+00:05:51.910 not good solutions or not theproblems to be solved by what we call.
+00:05:58.340 And so we started this acceleratedcomputing company. The problem is
+00:06:02.750 if you want to create acomputing platform company,
+00:06:07.060 you want to create a computingplatform one hasn't created since 1960,
+00:06:12.080 a year after I was the b m system 360
+00:06:17.660 beautifully described whatthe computer is in 1964,
+00:06:21.750 I B M described that the System360 had a central processing unit,
+00:06:27.140 IO subsystem, direct memoryaccess, virtual memory,
+00:06:33.260 binary compatibility acrossa scalable architecture.
+00:06:38.390 It described everything that we describedcomputers to this day 60 years later.
+00:06:43.130 And we felt that there was a new formof computing that could solve some
+00:06:47.150 problems At the time it wasn't completelypure what problems we could solve,
+00:06:51.890 but we felt that we felt thataccelerated comput. So nonetheless,
+00:06:56.600 we went out to start thiscompany and we made a great first
+00:07:01.550 decision that frankly is un to this day,
+00:07:06.440 if somebody were to comeup to you and said, one,
+00:07:09.800 we are going to invent a new technologythat the world doesn't have. Everybody
+00:07:14.390 wants to go build acomputer company around cpu.
+00:07:17.390 We want to build the computer companyaround something else connected to c p
+00:07:21.260 number one and the killer app.
+00:07:23.780 The killer app is a videothree D video game in
+00:07:28.040 1993
+00:07:31.770 and that application doesn't exist.And the companies who we built,
+00:07:35.570 this company doesn't existand the technology thatwe're trying to build doesn't
+00:07:38.270 exist.
+00:07:39.770 And so now you have a company that has a
+00:07:44.750 technology challenge anda market challenge and an
+00:07:49.730 ecosystem challenge.
+00:07:51.260 And so the odds of that companysucceeding is approximately 0%.
+00:07:55.580 But nonetheless,
+00:07:57.260 we were fortunate this becausetwo very important people frankly,
+00:08:03.380 that I had worked with and KristenCurtis, the three of us I've worked with
+00:08:10.160 were incredibly important people in thetechnology industry at the time called
+00:08:14.660 up the most importantship capital in the world,
+00:08:17.640 Valenti at the time andtold Don Don and his name
+00:08:22.610 was Gu, wanted to
+00:08:26.410 industry don give this kid money andthen figure out along the way what it's
+00:08:31.370 going to work. And fortunately they did.
+00:08:35.120 But that business plan,
+00:08:36.770 I wouldn't fund myselftoday and it just has too
+00:08:41.539 many dependencies and each one of themhas some profitability of success.
+00:08:45.680 And when you compound all of thesetogether, we multiply all these together.
+00:08:50.210 And so nonetheless,
+00:08:53.210 we imagined that there would be thismarket called video games and this
+00:08:58.200 market would be the largest entertainmentindustry in the world at the
+00:09:02.910 time it was zero
+00:09:05.340 and three D graphics weoscillated with would be
+00:09:10.080 used for telling the storiesof almost a sport any game.
+00:09:14.430 And so in virtual world, youcould have any game, any sport,
+00:09:19.020 and as a result everybody would be agamer. And so Don Valentine asked me,
+00:09:23.640 so how big is this marketgoing to be? And I said, well,
+00:09:27.210 every human will be a gamer someday.Every human would be a gamer. Someday.
+00:09:31.230 Also the wrong answer, quitefrankly for starting a company.
+00:09:35.310 So these are horrible habits,these are horrible skills.
+00:09:38.670 I'm not advocating themfor you, but nonetheless,
+00:09:42.330 it turned out to have been true videogames turned out to be the largest
+00:09:45.540 entertainment industryin three D graphics.
+00:09:48.780 And we've found firstPillar app for accelerating,
+00:09:52.800 which brought us the timeto use accelerated Computto solve a whole bunch of
+00:09:57.240 other problems, which eventually led to.
+00:10:02.070 This is fantastic. Sorry.So before we go to ai,
+00:10:07.320 I would like to ask a littlebit about the crypto period.
+00:10:12.180 So gaming was a huge
+00:10:16.620 obviously journey for Nvidia.
+00:10:19.500 And then at some point in time thekiller app became crypto and mining.
+00:10:24.990 What was that chapter?
+00:10:28.200 It's already computing can solveproblems that normal computers can,
+00:10:32.010 and all of our GPUs, even thoughyou use it for designing cars,
+00:10:35.940 designing buildings, designing,use it for molecular dynamics,
+00:10:39.270 use it for playing video games,
+00:10:41.220 it has this programming modelcalled Kuda that we invented.
+00:10:44.250 And Kuda is the only computingmodel sits that exists today
+00:10:49.590 that is as popular as an exit.It's used by the vault Boeing.
+00:10:54.420 And so anyways, one of the thingsthat Kuda can do is process
+00:11:00.810 parallel processing incredibly fast.
+00:11:02.430 And obviously one of the algorithmsthat we would do very nicely on is
+00:11:06.570 cryptography. And so whenBitcoin first came out,
+00:11:10.920 there were no Bitcoin asics.
+00:11:12.870 And the obvious thing is to go findthe fastest supercomputer in the world.
+00:11:17.970 And the fastest supercomputer that alsohas the highest volume is Nvidia you
+00:11:21.450 use,
+00:11:22.380 it's available in hundreds ofmillions of gamers' homes. And so
+00:11:27.360 by downloading an application,
+00:11:30.030 you could do some miningat your house. Well,
+00:11:36.840 the fact that you could buy oneof our GPUs, one of our computers,
+00:11:42.510 and you plug it into the walland money starts squirting out,
+00:11:49.140 that was a day that my mom figuredout what I did for a living.
+00:11:52.500 And so she called me oneday and she said, son,
+00:11:56.740 I thought you were doingsomething about video games.
+00:12:00.010 And I finally figured out whatyou do. You buy NVIDIA's products,
+00:12:02.950 you plug it in and money courts out.And I said, that's exactly what I do.
+00:12:06.520 And that's the reason why that'sthe, so many people bought it,
+00:12:12.320 Bitcoin works led to Ethereum.
+00:12:16.030 But the idea that youwould use a supercomputer,
+00:12:19.750 use a super processingsystem like via GPUs to
+00:12:24.940 either encode or compress ordo something to refine data and
+00:12:30.220 transfer it, transformit into a valuable token.
+00:12:35.980 You guys know what that soundslike to generate valuable tokens,
+00:12:39.670 Chad should bet. And so today, reallyone of the things that's happening,
+00:12:45.280 if you extend the sensibilityabout Ethereum and
+00:12:50.500 crypto mining,
+00:12:53.860 it's kind of sensible in the sense thatall of a sudden we created this new type
+00:12:57.430 of industry where raw data comes in,
+00:13:00.610 you apply energy to this computer andliterally money comes sporting out.
+00:13:06.160 And the currency is of course tokens.
+00:13:10.420 And that token is int intelligence tokens.
+00:13:14.020 This is one of the majorindustries of the future.
+00:13:16.690 Now I'll describe something else andit makes perfect sense to us today,
+00:13:21.250 but back then it looks strange. You takewater and you move it into a building,
+00:13:26.110 you apply fire to it.
+00:13:27.250 And what comes out is somethingincredibly valuable and invisible called
+00:13:31.480 electricity.
+00:13:33.010 And so today we're going to move datainto a data center that's going to refine
+00:13:37.030 it and it's going to work on it and it'sgoing to harness the capability of it
+00:13:41.240 and produce a whole bunch of digitaltokens that are going to be valuable
+00:13:44.680 digital biology, it'll be valuablein physics, it'll be valuable in it.
+00:13:49.060 All kinds of computing areas andsocial media and all kinds of things.
+00:13:52.390 Computer games and all kinds ofthings. And it comes out in tokens.
+00:13:56.440 So the future is going to be aboutAI factories and then video gear
+00:14:01.380 will be powering these AI factories.
+00:14:04.030 So we have jumped into theneural networks and I want to,
+00:14:08.110 and we talked about powercomputing, how we render graphics,
+00:14:12.610 let's say on a monitor, how we play games,
+00:14:16.960 how we solve cryptographicproblems for Bitcoin.
+00:14:23.740 Talk to us a little bit about howthe G P U is useful in training
+00:14:28.610 your own networks.
+00:14:30.250 But then what I wanted usto do for this audience,
+00:14:35.140 tell us a little bit about what ittakes to train a model like J G P T,
+00:14:39.760 what it takes in terms of hardware,what it takes in terms of data,
+00:14:42.610 what in terms of the size ofthe cluster that you're using,
+00:14:46.300 the amount of money that you need tospend. Because these are huge problems.
+00:14:50.530 And I think giving us aglimpse of the scale would be
+00:14:55.340 fun. Well,
+00:14:57.680 everybody wants you to think that it'sa huge problem. It's super expensive.
+00:15:01.590 It's not. It's not. Andlet me tell you why.
+00:15:08.030 It costs our company about five,
+00:15:12.290 6 billion of engineeringcosts to design a trip.
+00:15:17.930 And then at 1.2 years, three years later,
+00:15:20.630 I had enter and I sentan email to T SS M C
+00:15:26.210 and I F T P, basically a largepositive TS M C. And they fab it.
+00:15:30.560 And that process costs our companysomething along the lines of the half a
+00:15:34.400 billion dollars. So five and ahalf billion dollars, I get a chip.
+00:15:38.300 And that chip of course is valuableto us, but it's no big deal.
+00:15:41.870 I do it all the time. And so ifsomebody were to say, Hey Jensen,
+00:15:46.280 you need to build a billion dollardata center and once you plug it in,
+00:15:50.300 money will start squirting out theother side. I'll do it in a heartbeat.
+00:15:54.380 And apparently a lot of people do.
+00:15:56.780 And the reason for that is because whodoesn't want to build a factory for
+00:16:00.290 generating intelligence now? So abillion dollars is not that much money,
+00:16:03.770 frankly,
+00:16:05.960 the world spends about 250 billiona year in infrastructure computing
+00:16:10.160 infrastructure and none of it's generatingmoney. It's just storing our files,
+00:16:13.790 passing our email around. Andthat's already 250 billion.
+00:16:17.240 And so one of the reasons why our growthwe're growing so fast is because after
+00:16:21.920 60 years,
+00:16:24.230 general purpose computing is ondecline because it is not sensible to
+00:16:29.120 invest another 250 billion to buildanother general purpose computing data
+00:16:33.200 center. It's too through force in energy,
+00:16:37.190 it's too slow in computation. And sonow accelerated computing is here,
+00:16:42.170 that 250 billion goes to buildaccelerated computing data centers.
+00:16:45.920 And we're very, very happy to supportcustomers to do that. And in addition to
+00:16:51.550 that, accelerated computing,
+00:16:52.860 you now have an infrastructure can toAI for all of the things that we're just
+00:16:56.450 talking about.
+00:16:57.590 Basically the way it works is you takea whole lot of data and you compress
+00:17:02.540 it, you compress it.
+00:17:04.700 Deep learning is like a compressionalgorithm and you're trying to figure out,
+00:17:08.819 you're trying to learn the mathematicalrepresentation of mathematical
+00:17:13.069 representation, the patternsand relationships of thedata that you're studying,
+00:17:17.390 and you compress it into a neural network.
+00:17:19.609 So what goes in is say trillions of
+00:17:24.230 bytes, trillions of pokes.So let's say a few trillion,
+00:17:28.490 trillion bytes,
+00:17:29.540 what comes out of itis a hundred gigabytes.
+00:17:35.180 And so you've taken all of that data andyou've compressed it into this little
+00:17:38.430 tiny funnel. A hundredgigabytes is like two DVDs.
+00:17:41.550 Two DVDs you could download on yourphone and you can watch it. So you could
+00:17:45.860 download this giant neuralnetwork on your phone.
+00:17:48.960 And now that all of this datahas been compressed into it,
+00:17:52.800 the data that's compressed, yournetwork model is a semantic model,
+00:17:56.670 meaning you can interact with it,
+00:17:57.870 you could ask questions and it would goback into its memory and understand what
+00:18:02.520 you meant and generate text,read, have a conversation.
+00:18:06.270 So at the core is kind oflike that. It sounds magical,
+00:18:10.650 but for all the computer scientistsin a room, it's very sensible.
+00:18:15.660 And don't let anybody convinceyou it costs a lot of money.
+00:18:18.840 I'll give you a good break.Everybody go Bill aids. Go bill,
+00:18:23.700 as.
+00:18:27.900 The scale. If I press youa little bit on that scale,
+00:18:33.450 do you need a computer that isessentially a data center to estimate
+00:18:38.340 these models?
+00:18:39.180 16,000 GPUs is what ittook to build a g, PT four,
+00:18:43.620 which is the largest one thatanybody's using today. It's a billion,
+00:18:49.180 and that's a check. It'snot even a very big check.
+00:18:54.120 Don't be afraid. Don't let anybodytalk you how to building a company,
+00:19:00.690 build your.
+00:19:00.990 Dreams.
+00:19:01.980 Let me ask you a question aboutthe billion dollar check and the
+00:19:06.750 growth that you've been experiencing.
+00:19:11.190 I think you were namedthe best C e O by H B R.
+00:19:15.810 That's entertainment. That's.
+00:19:17.250 Entertainment.
+00:19:17.910 I'll keep repeating it and then eventuallyI appreciate that and then eventually
+00:19:22.470 we'll end with thatline. But in some sense,
+00:19:28.050 you are leading a company right nowthrough a period of extreme growth,
+00:19:32.670 hypergrowth,
+00:19:34.920 something that most companies havenot experienced in their life.
+00:19:39.900 And I want to perhaps.
+00:19:42.420 Tell us.
+00:19:42.780 A little bit about whatdoes it look like? I mean,
+00:19:48.450 doubling in size in under a year or
+00:19:52.980 managing supply chains,managing customers, managinggrowth, managing money.
+00:19:59.280 How do you actually add to that?
+00:20:03.510 I love the management money partof it. Just counting is fun.
+00:20:08.460 You just wake up in the morningand just roll around all the cash.
+00:20:15.180 Isn't that what you guys are allhere to do? My understanding is.
+00:20:21.330 That's the end goal.
+00:20:23.370 That's the end goal, yeah.
+00:20:31.440 Let's see. Building companies hard,
+00:20:37.620 there's nothing easy about it.There's a lot of pain and sufferings,
+00:20:40.920 a lot of hard work. If it waseasy, everybody would do it.
+00:20:45.330 And the truth about allcompanies, big or small,
+00:20:48.580 ours or others in technology,you're always dying.
+00:20:55.140 And the reason for that is becausesomebody's always trying to leapfrog you.
+00:20:57.800 So you're always on the wave of business.
+00:21:01.390 And if you don't internalizethat sensibility,
+00:21:05.830 don't internalize that belief.You will go out of business.
+00:21:10.390 So I started at Denny's, as you guys know,
+00:21:14.170 and Nvidia was built outof very unlikely odds.
+00:21:19.390 And it took us a long time to be here.I mean, we're a 30 year old company,
+00:21:23.140 and when Nvidia first found it,
+00:21:27.430 the PC Windows ninefive had come out 1993,
+00:21:32.020 and that was the first usablepc. We didn't have email.
+00:21:37.750 And so there were no suchlaptops or smartphones,
+00:21:42.370 none of that stuff existed.
+00:21:43.620 And so you could just imagine the worldthat we were started in and the world,
+00:21:48.370 we didn't have cd, everything wasCRTs. And so the world was very,
+00:21:53.320 very different. Cd ROS didn't exist.We just to put it in perspective,
+00:21:57.470 all this stuff,
+00:21:57.830 that was the era we were founded inand it took this long for our company
+00:22:03.260 to be recognized as heavy reinventedfor the first time in 60 years
+00:22:09.550 growing fast. Growingfast is all about people.
+00:22:13.060 Obviously companies is allabout people. Whether you,
+00:22:16.540 if the right systems inplace, you get right,
+00:22:18.460 your surrounded byamazing people like I am
+00:22:22.630 and the company has craft skills.
+00:22:25.300 It doesn't really matter whether youship a hundred billion dollars or 200
+00:22:29.590 billion. Now the truth is that thesupply chain is not easy. People think,
+00:22:34.390 does anybody know what a GForcegraphics card looks like?
+00:22:36.850 And just show me as a hand, anybody knowswhat Nvidia graphics card looks like.
+00:22:42.250 And so you have a feeling that thegraphics card is like a cartridge that you
+00:22:45.970 put into a pc, PC express slide pc.
+00:22:50.560 But our graphics chips these days,
+00:22:53.320 what is used in these deeplining systems is 35,000
+00:22:57.760 parts. It weighs 70 pounds.
+00:23:00.970 It takes robots to build 'embecause they're so heavy.
+00:23:04.630 It takes a supercomputer to test itbecause it's a supercomputer itself
+00:23:10.240 and it costs $200,000. And for $200,000,
+00:23:14.290 you buy one of these computers,
+00:23:15.730 you replace several hundredgeneral purpose processorsthat cost several million
+00:23:20.440 dollars. And so forevery $200,000 you save,
+00:23:23.830 you say for every $200,000you spent with Nvidia,
+00:23:27.700 you save two and a halfmillion dollars in computing.
+00:23:31.780 And that's the reason why I tell you,the more you buy, the more you save
+00:23:38.180 and early, it's working out reallywell. People are really lining up.
+00:23:44.820 So that's it. That'swhat we do for a living.
+00:23:47.060 And the supply chain is complicated.
+00:23:49.580 We build the most complicatedcomputers the world's ever seen,
+00:23:52.820 but hard can it be really? And
+00:23:58.190 it's really hard. It's really hard.
+00:24:04.130 But at the core of it, ifyou're surrounded by amazing,
+00:24:06.590 the simple truth is thatit's all about people.
+00:24:10.130 And I'm lucky to be surroundedby a great management team.
+00:24:15.230 You have.
+00:24:16.940 And then the CEO E O says thingslike, make a So number one, something.
+00:24:20.870 Like that. Yeah, make it work.
+00:24:21.980 Make it work, make it. So.
+00:24:26.540 I want to go back to AI trendsand what you think about the
+00:24:30.900 future, but you mentionedthe word platform earlier on.
+00:24:36.860 You mentioned your software environment.
+00:24:41.540 So you have the hardware infrastructure,
+00:24:44.120 you have a software environment that isactually pervasive in training neural
+00:24:47.940 networks. Right now
+00:24:51.470 you're building in data centers oryou're creating environments within data
+00:24:54.740 centers that are sort ofclusters of Nvidia hardware,
+00:24:59.570 software and
+00:25:03.170 public communicationbetween these resources,
+00:25:07.160 how important it is to be sort ofa whole platform solution versus a
+00:25:12.230 hardware play.
+00:25:13.910 And how core is that into Nvidia Drive?
+00:25:20.480 Unlike first of all, beforeyou could build something,
+00:25:22.970 you have to know what you're building and
+00:25:26.720 what is the reason the firstprinciples for its existence.
+00:25:30.590 Accelerated computing is not a chip,that's why it's not called an accelerator.
+00:25:35.600 Accelerated computing isabout understanding how canyou accelerate everything
+00:25:40.280 in life? If you canaccelerate everything in life,
+00:25:42.770 if you can accelerate every application,that's called really fast computing.
+00:25:47.450 And so accelerated computing is firstunderstanding what are the domains,
+00:25:51.080 what are the applicationsthat matter to you?
+00:25:53.960 And to understand the algorithms and thecomputing systems and the architecture
+00:25:57.830 necessary to accelerate that application.
+00:26:00.740 So it turns out that generalpurpose computing is a sensible
+00:26:05.330 idea. Accelerating anapplication is a sensible idea.
+00:26:09.530 So we'll give you an example.There's, you have DVD decoders,
+00:26:13.160 you play DVDs or H two sixtyfour decoders on your phone.
+00:26:18.590 It does one job and one job only,
+00:26:20.480 and it does it incredibly well.Nobody knows how to do it better.
+00:26:23.900 Accelerated computing iskind of this weird middle.
+00:26:27.020 There are many applications thatyou can accelerate. So for example,
+00:26:31.640 we can accelerate all kinds of imageprocessing stuff, particle physics stuff.
+00:26:35.270 We can accelerate all kinds of things.That includes literary algebra.
+00:26:38.990 We can accelerate, we can accelerate many,
+00:26:41.420 many domains of applications.That's a hard problem.
+00:26:47.220 Accelerating one thing is easy.
+00:26:49.530 Generally runningeverything under A is easy.
+00:26:52.620 Accelerating enough domains suchthat if you accelerate too many
+00:26:57.520 domains, so those of youaccelerate every domain,
+00:26:59.940 then you're back to ageneral purpose processor.
+00:27:01.710 What makes them so dumb that theycan't build just a faster chip?
+00:27:05.850 And so on the one hand, on the other hand,
+00:27:09.270 if you only accelerate one application,
+00:27:11.520 then the market size is notbig enough to fund your r d.
+00:27:16.200 And so we had to find thatslippery middle. And that is the
+00:27:21.330 strategic journey of our company.This is where strategy meets reality.
+00:27:26.280 And that's the part that Nvidia got right,
+00:27:29.220 that no other company in the historyof computing ever got, right?
+00:27:33.060 To find a way to have a sufficientlylarge domain of applications that we can
+00:27:37.230 accelerate that is still a hundredtimes, 500 times faster than the C P U
+00:27:43.320 and such that the economics, the flywheel,
+00:27:46.350 the flywheel of number of domainsexpanding the number of customers,
+00:27:51.390 expanding the number ofmarkets, expanding the sales,
+00:27:55.200 which creates larger r d, which allowsus to create even more amazing things,
+00:27:59.640 which allows us to stay well aheadof the c p. Does that make sense?
+00:28:03.210 That flywheel is insanely hardto create. Nobody's ever done it.
+00:28:07.590 It's only been done just one time.
+00:28:09.780 And so that is the capability.And in order to do that,
+00:28:14.580 you have to understand the algorithms,
+00:28:15.900 you have to understand a lot about thedomains of applications. You have to
+00:28:20.130 select it, right? You have to createthe right architecture for it.
+00:28:23.580 And then the last thing that we did right,
+00:28:25.350 was that we realized that in orderfor you to have a computing platform,
+00:28:29.700 the applications you develop forNvidia should run on all of video.
+00:28:33.000 You should have to think,does it run on this chip?
+00:28:35.370 Is it going to run on that chip?It should run on every chip.
+00:28:38.370 It should run on everycomputer with Nvidia in it.
+00:28:40.560 That's the reason why every single G pthat's ever been created in our company,
+00:28:44.130 even though we had no customersfrom Kudo a long time ago,
+00:28:46.860 we stayed committed to it.
+00:28:48.750 We were determined to createthis computing platformsince the very beginning.
+00:28:52.650 Customers were not. And thatwas the pain and suffering.
+00:28:56.460 It cost the company decades andbillions of dollars getting here. And if
+00:29:01.410 not for all the video gamers inthe room here, we would be here.
+00:29:05.490 You were our day jobs.
+00:29:07.410 And then at night we cango solve digital biology.
+00:29:11.550 Those help people with quantum chemistry.
+00:29:14.220 They'll help people with artificialintelligence and robotics and such.
+00:29:18.060 And so we realized, number one,
+00:29:19.570 that we were acceleratingcomputing a software problem.
+00:29:22.770 The second thing is AI is a data center,data center infrastructure problem.
+00:29:27.510 And it's a very obvious, because youcan't train an AI model on a laptop,
+00:29:32.160 you can't train it on a cell phone.It's not big enough of a computer.
+00:29:35.280 The amount of data is measuredin trillions of bytes,
+00:29:39.240 and you have to process thattrillions bytes billions of times.
+00:29:43.630 And so obviously that's going to be alarge scale computer distributing the
+00:29:47.830 problem across millions of GPUs.
+00:29:50.620 The reason why I say millions is16,000 inside the 16,000 or thousands.
+00:29:56.800 And so we're distributing the workloadacross millions of processors.
+00:30:00.520 There are no applications in the worldtoday that can be distributed across
+00:30:04.330 millions of processors.Excel works on one processor.
+00:30:08.140 And so that computer scienceproblem was a giant breakthrough,
+00:30:13.570 utterly giant breakthrough.
+00:30:14.920 And this reason why it enabled generativeAI enabled large language models.
+00:30:18.970 So we observed two things.One, accelerated computingis a software problem,
+00:30:22.750 algorithm problem, and AIis a data center problem.
+00:30:26.140 And so we're the only company thatwent out and built all of that stuff.
+00:30:30.300 And the last part that we didwas a business model choice.
+00:30:34.060 We could have been a data center companyourselves and be completely vertically
+00:30:38.050 integrated. However, we wouldrecognize that no computer company,
+00:30:42.880 no matter how successful will be the onlycomputer company in the world and it's
+00:30:47.170 better to be a platform computingcompany because we love developers. It's
+00:30:52.090 better to be a platform computing companythat serves every computing company in
+00:30:55.510 the world than to be a computingcompany all by ourselves.
+00:30:58.420 And so we took this data center,which is the size of this room,
+00:31:01.750 whole bunch of wires and a whole bunchof switches and networking and a bunch of
+00:31:04.610 software.
+00:31:04.990 We disaggregated all of that and weintegrated into everybody else's data
+00:31:09.940 centers that are all completely different.
+00:31:12.040 So a w Ss and G C P and Azureand Meta and so on and so forth,
+00:31:17.170 data centers all over the world,that's an insane complexity problem.
+00:31:21.340 And we figured out a way to have enoughstandardization where it was necessary
+00:31:26.440 enough flexibility so that we couldaccommodate enough collaboration with all
+00:31:30.580 the world's computercompanies. As a result,
+00:31:33.520 N v's architecture hasnow graft, if you will,
+00:31:37.330 into every single computercompany in the world.
+00:31:40.060 And that has created alarge footprint, larger,
+00:31:43.720 larger install base, moredevelopers, better applications,
+00:31:48.790 which makes customer happiercustomers provide them more chips,
+00:31:53.140 which increases the install base,which increases our r d budget,
+00:31:57.070 so on and so forth. The flywheel,the positive feedback system.
+00:32:00.850 And so that's how it works. Nice andeasy. So one thing you haven't done.
+00:32:06.100 And I wanted you explain to uswhy if you haven't invested in
+00:32:10.510 fabricating your own chips
+00:32:14.770 and why.
+00:32:15.730 Is that? That's an excellent question.
+00:32:19.570 The reason for that is
+00:32:22.900 as a matter of strategic choice,the core values of our company,
+00:32:27.880 my own core values, the core valuesof our company is about choosing.
+00:32:33.400 The most important thing in lifeis choosing. How do you choose?
+00:32:38.920 How do you choose? Well, everything.How do you choose what to do tonight?
+00:32:43.280 How do you choose? Well,
+00:32:45.260 our company decides to chooseprojects for one fundamental goal.
+00:32:52.040 My goal is to create theenvironment and environment by which
+00:32:56.660 amazing people in theworld will come and work.
+00:33:01.820 Amazing environment for the best peoplein the world who want to pursue this
+00:33:06.690 field of computing and computer scienceand artificial intelligence to create
+00:33:10.610 the conditions by which they willcome and do their lives work. Well,
+00:33:16.250 if I say that then now the questionis how do you achieve that?
+00:33:21.050 So lemme give you an exampleof how not to achieve that.
+00:33:25.250 Nobody that I know wakes up in themorning and say, you know what?
+00:33:30.320 My neighbor is doing that, andyou know what I want to do?
+00:33:33.650 I want to take it fromthem. I can do it too.
+00:33:38.570 I want to take it from them.I want to capture their share.
+00:33:44.570 I want to pumble them onprice. I want to kick 'em in.
+00:33:50.150 I want to take their share. It turns out,
+00:33:54.590 no great people do that.
+00:33:58.220 Everybody wakes up inthe morning and says,
+00:33:59.690 I want to do something thathas never been done before.
+00:34:01.980 That's incredibly hard to do that ifsuccessful makes it great impact in the
+00:34:06.170 world. And that's what greatest corevalues are. One, how do we choose,
+00:34:10.850 do something that theworld's never done before?
+00:34:13.100 Let's hope that's insanely hard to do.
+00:34:16.010 The reason why you choose somethinginsanely hard to do by the way,
+00:34:18.650 so that you have lotsof time to go learn it.
+00:34:20.960 If something is insanely easyto do, like tic-tac dough,
+00:34:26.270 I wouldn't buss over it.
+00:34:28.850 And the reason for that obviously ishighly competitive. And so you got to
+00:34:32.210 choose something that's incredibly hardto do and that thing that's hard to do
+00:34:36.980 discourages a whole bunch of all byitself because the person who's willing to
+00:34:41.780 suffer the longest wins. And so we choosethings that are incredibly hard to do,
+00:34:46.730 and you've heard me say,
+00:34:47.630 pain is suffering a lot and it'sactually a positive attribute.
+00:34:52.429 People who can suffer are ultimatelythe ones that are the most successful,
+00:34:57.350 number one. Number two,
+00:34:58.670 you should choose something that'ssomehow you're destined to do.
+00:35:02.450 Either a set of qualitiesabout your personality oryour expertise or the people
+00:35:07.160 you're surrounded by, yourscale, whatever your perspective,
+00:35:10.110 whatever you're somehow destinedto do. The number three,
+00:35:13.650 you better love working on thatthing so much because unless so,
+00:35:17.870 the pain and suffering is toogreat. Now, I just described to you,
+00:35:22.550 I just described to you Invidia'score values. It's that simple as that.
+00:35:26.570 And if that's the case, what am Idoing? Making a cell phone check.
+00:35:31.640 How many companies in the worldcan make a cell phone a lie?
+00:35:34.910 Why am I making a C P U? Howmany more CPUs do we need?
+00:35:39.060 Does that make sense? Wedon't need all those things.
+00:35:42.330 And so we naturally selectedourselves out of commodity markets.
+00:35:47.430 We naturally selected ourselvesout of commodity markets.
+00:35:51.270 And because we selected amazingmarkets, amazingly hard to do things,
+00:35:56.160 amazing people joined us.
+00:35:58.380 And because amazing people joined usand because we had the patience and let
+00:36:02.400 them go succeed to goand do something amazing,
+00:36:06.960 have the patience to let 'em do somethingamazing, they do something amazing.
+00:36:11.490 The equation is that simple. Theequation is literally that simple.
+00:36:15.630 It turns out it's simple to say, ittakes incredible character to do.
+00:36:20.610 Does that make sense? That's why it'sthe most important thing to learn.
+00:36:25.420 It turns out great success andgreatness is all about character.
+00:36:28.620 And no fabrication.
+00:36:30.870 The reason why we don't do fabricationis because T SS m C does it so well,
+00:36:34.470 and they're already doing it. Forwhat reason do I go take their work?
+00:36:38.100 I like the people at t c,they're great friends of mine.
+00:36:40.360 Cc's a great friend of mine,
+00:36:41.370 Mark's a great friend of minejust because I've got business,
+00:36:43.690 I can drive into it. So what,they're doing a great job for me.
+00:36:46.950 Let's not squander my time to gorepeat what they've already done.
+00:36:50.790 Let's go squander my time onsomething that nobody has done.
+00:36:54.300 Does that make sense? Nobody has done,that's how you build something special.
+00:36:59.430 Otherwise you're onlytalking about market share.
+00:37:02.250 Thinking about thefuture, what do you think
+00:37:07.230 when we're thinking about these decade.
+00:37:09.120 Are these right answers? By the way,
+00:37:14.310 I don't have an M B A and Ididn't get a finance degree.
+00:37:17.280 I read some books and I watched alot of YouTubes. I got to tell you,
+00:37:22.170 nobody watches morebusiness YouTubes than I do.
+00:37:26.010 And so you guys have nothing on me.
+00:37:29.580 Are these right answers professor
+00:37:34.270 version?
+00:37:39.060 But yes, they're the right answers.And best, c e o. Yeah, right?
+00:37:44.190 And what.
+00:37:47.160 Do you think about ai?
+00:37:48.990 What are you thinking about AIapplications and where we're going to
+00:37:53.820 see change in our lives, let'ssay over the next 3, 5, 7 years?
+00:37:57.750 Where do you see that goingand in places where we
+00:38:02.650 will all potentially be affectedin our daily experience?
+00:38:08.040 Yeah, first of all, I'mgoing to go to the punchline.
+00:38:10.860 AI is not going to take your jobs.
+00:38:15.330 The person who used AI is going to takeyour job. You guys agree with that?
+00:38:20.640 Okay?
+00:38:21.390 So use AI as fast as you can so thenyou can stay gainfully employed.
+00:38:26.730 Let me ask you a second thing.When productivity increases,
+00:38:32.250 when productivity increases,meaning we embed AI all over Nvidia,
+00:38:37.120 Nvidia is going to become one giant ai.We already use AI to design our chips.
+00:38:40.690 We can't design our chips, we can't writeour optimizing compilers without ai.
+00:38:44.230 So we use AI all over the place.
+00:38:46.240 When AI increases the productivityof your company, what happens next?
+00:38:51.220 Layoffs Or you hire more people,
+00:38:57.010 you hire more people.
+00:38:57.910 And the reason for that is give me anexample of one company that had earnings
+00:39:01.900 growth because of productivitygains that said, guess what?
+00:39:06.070 My gross margins justwent up time for a layoff.
+00:39:11.830 So why is it that peoplethink about losing jobs?
+00:39:15.700 If you think you have no new ideas,then that's the logical thing.
+00:39:19.720 Does that make sense?
+00:39:20.950 If you don't have any more ideas toinvest your incremental earnings,
+00:39:25.900 then what are you going to do? Whenthe work is replaced? It's automated.
+00:39:30.550 You lay people off.
+00:39:32.890 And so join companies where theyhave more ideas than they can
+00:39:37.840 afford to fund so that whenAI automates their work,
+00:39:42.850 it's going to shift. Of course, it'sgoing to change the style of working,
+00:39:46.330 AI's going to come after CEOsright away. Deans and CEOs
+00:39:51.370 we're so toast.
+00:39:56.410 I think CEOs first needsecond, but you're close.
+00:40:02.500 So you join companieswhere they have more ideas,
+00:40:05.470 more ideas than they have moneyto invest. And so naturally,
+00:40:09.640 when earnings improve, you'regoing to hire more people. Ai.
+00:40:14.380 So first of all, this isthe giant breakthrough.
+00:40:16.750 Somehow we've taughtcomputers how to learn to
+00:40:21.130 represent informationin numerical ways. Okay,
+00:40:25.300 so you guys, has anybody heard ofthis thing called word to back?
+00:40:28.360 It's one of the best thingsI've ever word to back a word.
+00:40:32.080 You take words and you learn fromthe words studying every single word.
+00:40:35.860 It's relationship to everyother word. And you learn,
+00:40:39.250 read a whole lot sentences of paragraphs,
+00:40:41.020 and you try to figure outwhat's the best number vector,
+00:40:45.400 what's the best number toassociate with that word?
+00:40:48.670 So mother and father areclose together numerically,
+00:40:52.840 oranges and apples are close together.Numerically,
+00:40:56.080 they're far from mom and dad. Dogsand cats are far from mom and dad,
+00:41:00.400 but closer probably to momand dad than they are from
+00:41:04.840 oranges and apples chairand tables and chair.
+00:41:08.890 Hard to say exactly where they lie,
+00:41:10.870 but those two numbers are close toeach other, far away from mom and dad,
+00:41:13.990 king and queen, close to momand dad. Does it make sense?
+00:41:17.020 Imagine doing this for every singlenumber and every time you test it, you go,
+00:41:20.590 son, a gun. That's pretty good.
+00:41:23.710 And when you subtract something fromsomething else, it makes sense. Okay?
+00:41:26.830 That's basically learning therepresentation of information.
+00:41:30.820 Imagine doing this for English. Imaginedoing this for every single language.
+00:41:34.940 Imagine doing this foranything with structure,
+00:41:36.920 meaning anything with predictability.Images have structure.
+00:41:41.300 Because if there are nostructure, it'd be white noise.
+00:41:43.400 Physically it'd be white noise.And so there must be structure.
+00:41:46.310 That's the reason why you see a cat, Isee a cat, you see a tree, I see a tree.
+00:41:50.270 You can identify where the tree is, youcan identify where the coastline is,
+00:41:54.830 where the mountains are where.And so we could learn all of that.
+00:41:58.550 So obviously you could take thatimage and turn it into a vector.
+00:42:02.180 You could take videos and turninto vector three D into vectors,
+00:42:05.180 proteins into vectors, because there'sobviously structure and protein,
+00:42:09.350 chemicals into vectors. Geneseventually into vectors.
+00:42:13.580 We can learn the vectorsof everything. Well,
+00:42:15.650 if you can learn everythinginto numbers and its meaning,
+00:42:18.890 then obviously you cantake ca word, c a t,
+00:42:24.200 translated to the image c a t image of ca.
+00:42:27.770 Obviously this is the same meaningif you can go from words to images,
+00:42:32.060 that's called mid journeystaple diffusion. If youcan go from images to words,
+00:42:36.320 that's called captioning video,
+00:42:39.140 YouTube videos to words underneathvideos. And so one of you went from,
+00:42:45.890 what do you call it, if you go from say,
+00:42:49.370 amino acids to proteins,that's called the Nobel Price.
+00:42:54.500 And the reason for that is becausethat's alpha alcohol. Incredible.
+00:42:57.710 Isn't that right? And sothis is the amazing time,
+00:43:01.220 the amazing time in computer sciencewhere we can literally take information
+00:43:06.080 one kind and convert it, transfer it
+00:43:11.420 generated into informationof another kind.
+00:43:14.600 And so you can go text to texta large body of text, P D F,
+00:43:20.270 small body of text, a summarization ofarchive, which I really enjoy, right?
+00:43:24.890 And so instead of readingevery single paper,
+00:43:27.020 I can ask it to summarize the paper.
+00:43:30.140 And it has to understandimages because in the archive,
+00:43:33.980 the papers have a lot of images and chartsand things like that. So you can take
+00:43:37.100 all of that to summarize it.
+00:43:38.720 And so you can now imagine all of theproductivity benefits and in fact the
+00:43:43.100 capabilities you can't possibly dowithout it. So in the near future,
+00:43:47.090 you do something like this, yousay, hi, I would like to design,
+00:43:52.640 give you some options of a wholebunch of cars. I work for Mercedes,
+00:43:56.000 I really care about the brand.This is the style of the brand.
+00:43:58.580 Lemme give you a couple of sketches andmaybe a couple of photographs of the
+00:44:01.970 type of car I like tobuild. It's a four wheel,
+00:44:05.030 s u v four wheel drive, SS u v,let's say, so on and so forth.
+00:44:09.590 And all of a sudden itcomes up with 20 10,
+00:44:13.370 200 completely fully three D design
+00:44:16.250 cab.
+00:44:17.750 Now the reason why you want that insteadof just finishing the car is because
+00:44:20.870 you might want to selectone of them and you say,
+00:44:22.970 iterate on this one another 10 times,
+00:44:24.800 and you might find select one and thenmodify it yourself. And so the future of
+00:44:29.240 design is going to be very different.
+00:44:31.170 The future of everythingwill be very different. Now,
+00:44:34.800 if you gave that capability todesigners, they would go in the same,
+00:44:38.670 they would love you so much.They would love you so much.
+00:44:41.880 And that's the reason whywe're doing this. Now,
+00:44:43.620 what's the long-term impact of this?
+00:44:46.140 One of my favorite areas is if youcould use language to describe a
+00:44:51.000 protein and you could use language tofigure out a way to synthesize protein in
+00:44:55.620 the future of protein engineeringis near us. And protein engineering,
+00:44:59.160 as you know, creatingenzymes to eat plastic,
+00:45:01.830 creating enzymes to catch a carbon,
+00:45:03.450 creating enzymes of all kindsto grow vegetables better,
+00:45:07.680 all kinds of different enzymes couldbe created during your generation.
+00:45:11.220 And so the next 10 years is going tobe unbelievable. We were the computer,
+00:45:15.570 the chip engineering generation. You'llbe a protein engineering generation.
+00:45:19.830 Something that we couldn't imaginedoing just a few years ago.
+00:45:28.360 I think we're going to open itup for q and a to the audience.
+00:45:31.230 So questions,
+00:45:33.400 and maybe I'll point and we havesome mics that will be running okay
+00:45:38.370 over there. We'll start there.
+00:45:48.050 Thank you for coming tonight. Thank you.
+00:45:52.200 So are you worried that Moore's lawbusiness schools are students are so
+00:45:56.700 serious,
+00:46:01.560 I understand that the graduatesof Columbia ends up being
+00:46:06.060 investment bankers and stock traders.I'm actually, look, computer science,
+00:46:09.820 is that right? Is that right? Andone computer science, you'll be,
+00:46:15.600 and so that's what I understand.So I'm here selling stock
+00:46:20.460 in the future. In the future, if somebodyasks you what stock to buy and video,
+00:46:26.010 go ahead. A question for you is,
+00:46:28.620 are you worried that Moore's law mightactually catch up to GP industry as it
+00:46:33.030 did for companies like,
+00:46:35.610 and can you also explain the differencebetween Moore's law and CO's law?
+00:46:40.110 I didn't phrase Wong's law and itwouldn't be likely me to do so.
+00:46:45.210 The very simple thing is this,
+00:46:50.670 Moore's Law was twice the performanceevery year and a half approximately.
+00:46:55.950 The easier math to do is10 times every five years.
+00:46:58.890 So every 10 years is about ahundred times, if that's the case.
+00:47:03.840 In general, purposecomputing microprocessors,
+00:47:05.790 the general purposecomputing was increasing inperformance at 10 times every
+00:47:09.430 five years, a hundredtimes every 10 years.
+00:47:12.000 Why change the computing methoda hundred times every 10 years?
+00:47:16.590 Not fast enough. Are you kidding me?
+00:47:18.180 If cars would go a hundred timesevery five years when life be good?
+00:47:21.840 And so the answer is it's infact, Moore's law is very good,
+00:47:25.650 and I benefited from it. Thewhole industry benefited from it.
+00:47:28.380 The computer industrieshere because of it,
+00:47:30.430 but eventually set generalpurpose computing. Moore's law.
+00:47:34.660 It is not about the numberof transistors in computing,
+00:47:37.400 it's about the number oftransistors, how you use it for CPUs,
+00:47:40.190 how you translate itultimately to performance.
+00:47:42.910 That curve is no longer 10 timesevery five years. That curve,
+00:47:47.860 if you're lucky, is two orfour times every 10 years.
+00:47:52.870 Well, the problem is if that curveis two or four times every 10
+00:47:57.730 years,
+00:47:58.780 the demand for computing and ouraspirations of using computers to solve
+00:48:02.960 problems, our aspirations,
+00:48:06.370 our imagination for usingcomputers to solve problem,
+00:48:09.100 it's greater than four timesevery 10 years. Isn't that right?
+00:48:12.610 And so our imagination, our demand,
+00:48:15.820 the world's consumptionof all exceeds that. Well,
+00:48:20.410 you could solve that problem by justbuying more CPUs. You could buy more.
+00:48:23.860 But the problem is these CPUs consume somuch power because of general purpose.
+00:48:28.960 It's like a generalist. Ageneralist is not as efficient.
+00:48:33.340 The craft is not as great.
+00:48:35.680 They're not as productive as a specialist.
+00:48:39.160 If I'm ever going to have an open chestwound, I don't send me a generalist.
+00:48:44.800 You guys know what I'm saying? If youguys are around, just call a specialist.
+00:48:49.690 Alright? Yeah,
+00:48:54.250 he's a vet, he's a generalist.
+00:48:59.290 Look or do wrong specialist.
+00:49:03.220 So generalist is too brute forced.
+00:49:07.240 And so today it costs theworld too much energy.
+00:49:10.420 It costs too much to just bruteforce general purpose computing. Now,
+00:49:13.990 thankfully, we've been working onaccelerating computing for a long time,
+00:49:16.870 and accelerating computing,as I mentioned, is notjust about the processor,
+00:49:20.470 it's really about understanding theapplication domain and then creating the
+00:49:25.030 necessary software and algorithmsand architecture and chips.
+00:49:29.770 And somehow we figured out a wayto do it behind one architecture.
+00:49:33.760 That's the genius of thework that we've done,
+00:49:37.330 that we somehow found thisarchitecture that is both incredibly
+00:49:42.190 fast. It has to accelerate the CP U a hundred times, 500 times,
+00:49:46.610 sometimes a thousand times.
+00:49:50.080 And yet it is not so specificthat it's only used for
+00:49:54.970 one singular activity.Does that make sense?
+00:49:58.810 And so you need to be sufficientlybroad so that you have large markets,
+00:50:03.940 but you need to be sufficiently narrowso you can accelerate the application.
+00:50:08.710 That fine line,
+00:50:10.540 that razor's edge is whatcaused the video to be here.
+00:50:14.590 It's almost impossible, if Ican explain the 30 years ago,
+00:50:17.800 nobody would've believed it. Andin fact, if you did, to be honest,
+00:50:22.150 it took a long time and we just stuckwith it and stuck with it and stuck with
+00:50:24.820 it. And we started witha seismic processing,
+00:50:29.360 molecular dynamics, image processing,of course, computer graphics.
+00:50:33.800 And we just kept working on and workingon and working on weather simulation,
+00:50:37.700 fluid dynamics, particlephysics, quantum chemistry,
+00:50:41.000 and then all of a suddenone day and deep learning
+00:50:44.930 and then transformers,
+00:50:47.330 and then the next will be some form ofreinforcement learning transformers,
+00:50:51.050 and then there'll be some multi-stepreasoning systems. And so all of these
+00:50:55.700 things are we just one application,
+00:50:58.460 somehow we figured out a way tocreate an architecture and solve all.
+00:51:01.820 And so will this new law end.
+00:51:06.710 And I don't think so. Andthe reason for that is this.
+00:51:09.290 It doesn't replace the CP U, it augments the cpu.
+00:51:14.600 And so the question is, whatcomes next to augment us?
+00:51:17.240 We'll just connect it next to it.We're just connect it next to it.
+00:51:20.900 And so when the time comes, we'll know,
+00:51:22.820 we'll know that there's another toolthat we should be using to solve the
+00:51:26.750 problem because we are in service ofthe problems we're trying to solve.
+00:51:30.410 We're not trying to build aknife and make everybody use it.
+00:51:33.020 We're not trying to build aacquire, make everybody use it.
+00:51:35.120 We're in service of acceleratedcomputings in service of the problem.
+00:51:39.500 And so this is one of thethings that all of you learn.
+00:51:41.840 Make sure your mission is right.
+00:51:44.570 Make sure that your missionis not build trains,
+00:51:48.530 but enable transportation.Does that make sense?
+00:51:51.980 Our mission is not build GPUs.
+00:51:56.390 Our mission is to accelerate applications,
+00:51:59.060 solve problems thatnormal computers cannot.
+00:52:01.550 If your mission is articulated rightand you're focused on the right thing,
+00:52:04.670 it'll last forever. Thank you. Okay.
+00:52:10.010 Up there. Someone? Yes,
+00:52:14.240 that guy right there isTony. Go ahead. Tony.
+00:52:17.090 Am I, Tony? What's Tony say?
+00:52:21.560 Where's Tony? Tony was that guyin the middle, right? Yeah. See,
+00:52:27.260 I met him just now. I'mjust kidding. Straight.
+00:52:31.220 My memory.
+00:52:34.010 Take my chance.
+00:52:34.950 I wasn't, I wasn't tryingto give Tony the mic.
+00:52:38.180 I was just demonstrating myincredible memory for Tony.
+00:52:43.700 Go ahead.
+00:52:45.140 Thanks again.
+00:52:46.910 Now there's a push for onshoring,
+00:52:50.540 the supply chains for semiconductors.
+00:52:54.170 Then there are also restrictionson the export supply countries.
+00:52:58.460 How do you think that wouldaffect Nvidia in the short term,
+00:53:02.210 but also how would that affectus as consumers in the long term?
+00:53:06.380 Yeah, really excellent question.You guys all heard a question.
+00:53:09.650 It's all repeated relates to geopoliticsand geopolitical tension and such.
+00:53:14.570 The geopolitical tension,
+00:53:16.190 the geopolitical challenges will affectevery industry will affect every human.
+00:53:22.220 We deeply, we the company deeplybelieved in national security.
+00:53:27.210 We are all here because ourcountries are known for security.
+00:53:31.380 We believe in national security,
+00:53:32.670 but we also simultaneouslybelieve in economic security.
+00:53:36.160 The fact of the matter is most familiesdon't wake up in the morning and say,
+00:53:40.380 good gosh, I feel so vulnerablebecause of the lack of military.
+00:53:44.970 They feel vulnerable becauseof economic survivability.
+00:53:48.300 And so we also believein human rights and the
+00:53:52.980 ability to be able to create aprosperous life is part of human rights.
+00:53:57.540 And as you know,
+00:53:58.140 the United States believe in the humanrights of the people that live here as
+00:54:00.570 well as the people that don't live here.And so the country believes in all of
+00:54:05.430 those things simultaneously.And we do too.
+00:54:08.910 The challenge with thegeopolitical tensions,
+00:54:11.940 the immediate challenge is that ifwe're too unilateral about deciding
+00:54:16.740 that we decide on the prosperity ofothers, then there will be backlash.
+00:54:21.390 There'll be unintendedconsequences. But I am optimistic.
+00:54:26.430 I want to be hopeful that the people whoare thinking through this are thinking
+00:54:29.610 through all the consequencesand unintended consequences.
+00:54:33.420 But one of the things that has doneis that it has caused every country to
+00:54:37.950 believe to deeply internalize
+00:54:41.640 its sovereign rights.
+00:54:44.670 Every country is talking abouttheir own sovereign rights.
+00:54:47.520 And that's another way of sayingeverybody's thinking about themselves and
+00:54:52.890 as it applies to us. On the one hand,
+00:54:55.350 it might restrict the use of ourtechnology in China and the export control
+00:54:59.610 there. On the other hand,
+00:55:01.740 because of sovereignty and every countrywanting to build its own sovereign AI
+00:55:05.790 infrastructure, and not all of themare enemies of the United States,
+00:55:09.240 and not all of 'em have a difficultrelationship with the United States,
+00:55:14.130 we would help 'em build AI infrastructureeverywhere. And so in a lot of ways,
+00:55:18.330 this weird thing about geopolitical,
+00:55:20.220 it limits the marketopportunities for us in some way.
+00:55:24.090 It opens the market opportunitiesin other ways. But for people,
+00:55:28.740 for people, I am just really hopeful.
+00:55:33.540 I really hope not hopeful.I really hope that
+00:55:39.020 we don't allow ourtension with China result
+00:55:43.920 into tension with Chinese.
+00:55:47.010 That we don't allow our tension withthe Middle East turn into tension with
+00:55:51.180 Muslims. Does that make sense? Weare more sophisticated than that.
+00:55:56.400 We can't allow ourselves tofall into that trap. And so
+00:56:02.610 a little bit about that. I worryabout that as a slippery slope.
+00:56:05.970 One of our greatest sources ofintellectual property for our country as
+00:56:11.400 foreign students. I see many of 'emhere. I hope that you stay here.
+00:56:17.490 It is one of our country'ssingle greatest advantage.
+00:56:21.780 If we don't allow foreign students inthe brightest minds in the world to come
+00:56:24.880 to Columbia and keep youhere in New York City,
+00:56:29.410 we're not going to be able to retainthe great intellectual property of the
+00:56:31.840 world. And so this is ourfundamental core advantage.
+00:56:35.620 And I really do hope that we don'truin that. So as you can see,
+00:56:40.000 the geopolitical challenges are realand national security concerns are real.
+00:56:44.890 So are all of the other economic market.Social technology matters, technology,
+00:56:49.690 leadership matters, market leadershipmatters. All that stuff matters.
+00:56:53.380 The world's just a complicated place.
+00:56:55.090 And so I don't have a simple answerfor that. We will all be affected.
+00:57:02.020 So we'll take one more question there.
+00:57:08.410 But in the meantime, stay focusedon your school. Do a good job,
+00:57:14.980 just study.
+00:57:17.080 Hi there.
+00:57:17.470 So I actually started off working as anengineer at a semiconductor company at
+00:57:22.180 Houston in entrepreneurship.
+00:57:24.190 And now I'm here as someone like yourselfthat is fundamentally technologist,
+00:57:28.360 an engineer, started a company,
+00:57:29.740 very successfully learnedfinance from YouTube videos.
+00:57:33.160 What do you think of MBAs?
+00:57:36.060 Oh, I think it's terrific.You should be, first of all,
+00:57:41.830 you'll likely live until you're ahundred. And so that's the problem.
+00:57:48.490 What are you going to do forthe last 70 years or 60 years?
+00:57:52.210 And this isn't something I'm telling you,
+00:57:54.730 it's something I tell everybody careabout. Look to the best of your ability.
+00:58:00.010 Education. When you come here,you're forced by education.
+00:58:02.530 How good can that beafter you leave? Like me?
+00:58:05.170 I got to go scour the planet for knowledge
+00:58:09.670 and I've got to go through a lot of junk.
+00:58:13.240 That gets to some goodstuff. You're in school,
+00:58:16.000 you've got all these amazing professorswho are curating the knowledge for you
+00:58:19.000 and present it to you ina platter. My goodness,
+00:58:21.850 I would stay here and pig out onknowledge for as long as I can.
+00:58:27.820 If I could do it again, I'd still be here.
+00:58:31.240 Dean and me sitting next to eachother. I'm the oldest student here.
+00:58:36.310 I'm just preparing for that bigstep function when I graduate,
+00:58:39.790 just go instantaneously. Success.
+00:58:44.590 I'm just a little kidding about that.
+00:58:45.820 You have to leave at some point andyour parents won't appreciate it.
+00:58:50.710 But don't be in a hurry, Ithink. Learn as much as you can.
+00:58:54.250 There's no one rightanswer to getting there.
+00:58:56.900 Obviously I have friends who nevergraduated from college and they're
+00:59:01.870 insanely successful. And so thereare multiple ways to get there.
+00:59:05.640 But statistically, I still thinkthis is the best way to get there,
+00:59:09.310 statistically. And so if you believein stat in math and statistics,
+00:59:14.650 stay school. Yeah, gothrough the whole thing.
+00:59:19.270 And so I got a.
+00:59:20.770 Virtual b a by working throughit, not because of choice.
+00:59:25.670 When I first graduated from school, Ithought I was going to be an engineer.
+00:59:28.700 Nobody says, Hey, Jensen, here's yourdiploma. You're going to be a c e O.
+00:59:33.380 And so I didn't know that. Sowhen I got there, I learned
+00:59:39.590 M B A. And there's a lot of differentways to learn. Business strategy matters.
+00:59:43.790 Obviously. Business matters are verydifferent things. Finance matters,
+00:59:47.180 very different things.
+00:59:48.350 And so you got to learn allthese different things inorder to build a company.
+00:59:51.770 But if you're surrounded byamazing people like I am,
+00:59:54.290 they end up teaching you along the way.
+00:59:55.880 And so there's some things thatdepending on what role you want to play,
+01:00:01.460 that's critical. Yours,okay? And so for a C e O,
+01:00:07.220 there are some things that arecritically, it's not only my job,
+01:00:11.900 but it's critical that I lead with it.And that's character.
+01:00:16.670 There's something about your character,about the choices that you make,
+01:00:21.020 how you deal with success,how you deal with failure.
+01:00:24.620 And Norma said that how you make choices,
+01:00:28.040 those kind of things matter a lot. Now,
+01:00:31.230 from a skill and craft perspective,
+01:00:33.530 the most important thing fora C is strategic thinking.
+01:00:36.560 There's just no alternative. Thecompany needs you to be strategic.
+01:00:40.820 And the reason for that isbecause you see the most.
+01:00:43.010 You should be able to look aroundcorners better than anybody.
+01:00:45.980 You should be able to connectdots better than anybody.
+01:00:49.100 And you should be able to mobilize.Remember what a strategy is, action.
+01:00:52.940 It doesn't matter what the rhetoricsays, it matters what you do.
+01:00:55.850 And so nobody can mobilize the companybetter than the CEO O. And so therefore,
+01:00:59.780 the CEO's uniquely,
+01:01:01.820 uniquely in the right place to be thechief strategy officer, if you'll,
+01:01:05.990 and so those two things, Iwould say, from my perspective,
+01:01:10.010 two of the most important things.
+01:01:12.380 The rest of it has a lot ofskills and things like that.
+01:01:15.080 And you'll learn the skills. And maybeif I could just add one more thing.
+01:01:20.780 I do believe that a company is about some
+01:01:25.470 particular craft. You make someunique contribution to society.
+01:01:29.420 You make something and you makesomething. You ought to be good at it.
+01:01:36.200 You should appreciate the craft.You should love the craft.
+01:01:38.810 You should know something aboutthe craft, where it came from,
+01:01:42.740 where it is today, and whereit's going to go. Someday.
+01:01:45.410 You should try to embodythe passion for that craft.
+01:01:50.000 And I hope today I get a little bitembodying the passion and the expertise of
+01:01:54.900 that craft. I know a lotabout the space that I'm in,
+01:01:58.790 and so if it is possible,
+01:02:02.660 the CEO should know the craft. Youdon't have to have founded the craft,
+01:02:07.100 but it's good that you know the craft.There's a lot of crap that you can learn.
+01:02:10.110 And so you want to bean expert in that field.
+01:02:14.420 But those are some of the thingsyou can learn that here. Ideally,
+01:02:18.560 you can learn on the job, youcan learn that from friends.
+01:02:20.640 You can learn that a lot of differentways to do it. But stay in school.
+01:02:25.740 So before I thank the best c e o,
+01:02:30.690 I want to thank the DigitalFuture Initiative, theDavid Hilton Speaker Series,
+01:02:35.670 but mostly thank you gentlemen for coming.
+01:02:38.280 We all understand why you were votedthe best, c e o now. Thank you.

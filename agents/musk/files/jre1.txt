@@ -1,0 +1,538 @@
+# tactiq.io free youtube transcript
+# Joe Rogan - Elon Musk on Artificial Intelligence
+# https://www.youtube.com/watch/Ra3fv8gl6NE
+
+00:00:00.030 my question is like I know how much time
+00:00:02.190 you must be spending on your Tesla
+00:00:04.200 factory I know how much time you must be
+00:00:06.629 spending on SpaceX and you still have
+00:00:08.849 time to dig holes under the ground in LA
+00:00:11.490 and come up with these ideas and then
+00:00:13.080 implement I'm like I had a million ideas
+00:00:14.849 I'm sure you did no shortage of that
+00:00:17.090 yeah I just don't know how you manage
+00:00:19.619 your time I don't understand it it
+00:00:21.090 doesn't seem it it doesn't even seem
+00:00:22.710 humanly possible you know I do basically
+00:00:27.570 I think we all duck don't totally
+00:00:29.220 understand what I do with my time they
+00:00:32.250 think like I'm a business guy or
+00:00:33.930 something like that like my Wikipedia
+00:00:36.420 page says business magnate what would
+00:00:38.969 you call yourself a business magnate
+00:00:42.350 please change my Wikipedia page to
+00:00:44.700 magnet probably it's locked
+00:00:48.149 so somebody has to be able to unlock it
+00:00:49.950 and change it to magnets I'm gonna go
+00:00:51.510 what do we have magnets no I do
+00:00:55.710 engineering and you know and
+00:00:58.050 manufacturing and that kind of thing
+00:00:59.640 that's like 80% more more of my time
+00:01:01.640 ideas and then the implementation of
+00:01:04.080 those ideas that's like hard core
+00:01:06.150 engineering like you know designing
+00:01:08.369 things you know right
+00:01:11.900 structural mechanical electrical
+00:01:14.040 software user interface engineering
+00:01:19.320 aerospace engineering but you must
+00:01:21.689 understand there's not a whole lot of
+00:01:22.860 human beings like you you know that
+00:01:24.390 right - you're an odyssey UM's yes -
+00:01:27.780 chimps like me we're all chimps yeah we
+00:01:31.020 are we're one not one notch above a
+00:01:32.520 chimp some of us are a little more
+00:01:33.840 confused when I watch you doing all
+00:01:35.579 these things I'm like how is this
+00:01:36.840 [ __ ] have all this time and all
+00:01:39.900 this energy and all these ideas and then
+00:01:42.450 people just let him do these things
+00:01:44.299 because I'm an alien that's what I've
+00:01:46.890 speculated yes I'm on record saying this
+00:01:50.310 in the past
+00:01:50.909 I wonder it's true if there was one I
+00:01:53.640 was like if there was like maybe an
+00:01:55.079 intelligent being that we created you
+00:01:57.840 know like some AI creature that's a
+00:02:00.270 superior to people maybe they just hang
+00:02:02.670 around with us for a little while like
+00:02:03.630 you've been doing and then fix a bunch
+00:02:05.040 of [ __ ] maybe that's the way I might
+00:02:08.729 have a mutation or something like that
+00:02:10.229 you might do you think you do probably
+00:02:12.330 do you wonder
+00:02:12.990 like we around normal people you like
+00:02:14.640 hmm like what's up with these boring
+00:02:18.870 dumb [ __ ] ever not bad for a
+00:02:21.630 human but I think I will not be able to
+00:02:27.780 hold a candle to AI hmm
+00:02:30.030 you scared the [ __ ] out of me when you
+00:02:31.620 talk about AI between you and Sam Harris
+00:02:33.690 oh you're considerate until at a podcast
+00:02:35.910 with Sam wants everything right he made
+00:02:38.130 me [ __ ] my pants I talking about AI I
+00:02:40.890 realized like oh well this is a genie
+00:02:43.170 that once it's out of the bottle you're
+00:02:44.460 never getting it back in that's true
+00:02:47.540 there was a video that you tweeted about
+00:02:50.390 one of those Boston dynamic robots you
+00:02:54.090 know like in the future it'll be moving
+00:02:57.450 so fast you can't see without a strobe
+00:02:58.890 light yeah you could probably do that
+00:03:01.260 right now and no one's really paying
+00:03:05.310 attention to much other than people like
+00:03:06.750 you or people that are really obsessed
+00:03:08.010 with technology all these things are
+00:03:09.900 happening and these robots are do you
+00:03:12.330 see the one where it Peeta
+00:03:13.950 I'll put our statement that you
+00:03:15.540 shouldn't kick robots probably not wise
+00:03:18.000 for retribution if their memory is
+00:03:21.720 pretty good I bet it's really good it's
+00:03:24.000 really good I bet it is yes and getting
+00:03:26.040 better every day
+00:03:26.670 this is really good are you honestly
+00:03:28.860 legitimately concerned about this are
+00:03:30.630 you is like AI one of your main worries
+00:03:34.400 in regards to the future yes it it's
+00:03:42.630 less of a worry than it used to be
+00:03:44.210 mostly due to taking more of a
+00:03:48.630 fatalistic attitude hmm so you used to
+00:03:52.530 have more hope and you gave up some of
+00:03:56.190 it and now you don't work as much about
+00:03:57.960 AI you're like this is just what it is
+00:04:02.750 yeah pretty much
+00:04:05.480 it's no it's not necessarily bad it's
+00:04:11.180 just it's definitely gonna be outside of
+00:04:14.010 human control not necessarily bad right
+00:04:17.430 yes not it's not necessarily bad it's
+00:04:19.170 just it's just outside of human control
+00:04:21.870 now the thing that's going to be tricky
+00:04:24.810 here is the
+00:04:26.360 it's going to be very tempting to use AI
+00:04:28.980 as a weapon it's gonna be very tempting
+00:04:31.860 in fact will be used as weapon so the
+00:04:37.890 the the the on ramp to serious AI the
+00:04:43.470 danger is going to be more humans using
+00:04:47.100 it against each other I think most
+00:04:49.140 likely that'll be the danger
+00:04:51.990 yeah how far do you think we are from
+00:04:55.440 something that can make its own mind up
+00:04:58.080 whether or not something's ethically or
+00:04:59.580 morally correct or whether or not it
+00:05:01.320 wants to do something or whether or not
+00:05:02.670 it wants to improve itself whether or
+00:05:04.560 not it wants to protect itself from
+00:05:06.450 people or from other AI how far away we
+00:05:09.240 something from something that's really
+00:05:10.440 truly sentient well I mean you could not
+00:05:17.760 argue about any group of people like it
+00:05:22.410 like a company is essentially a
+00:05:25.100 cybernetic collective of people and
+00:05:28.290 machines that's what a company is and
+00:05:33.320 then there are different there's
+00:05:38.100 different levels of complexity and the
+00:05:40.440 way these companies are formed and then
+00:05:43.800 there are sort of is this like a
+00:05:46.170 collective AI in in the Google sort of
+00:05:50.370 search Google search you know the where
+00:05:54.150 we're also plugged in is like like nodes
+00:05:57.000 on the network like leaves on a big tree
+00:05:59.880 and we're all feeding this network
+00:06:04.490 without questions and answers we're all
+00:06:08.610 collectively programming Vai and the the
+00:06:13.110 and Google+ the older humans that
+00:06:15.750 connect to it are one giant cybernetic
+00:06:18.990 collective this is also true of Facebook
+00:06:21.420 and Twitter and Instagram and all these
+00:06:24.870 social networks
+00:06:26.660 they're giant cybernetic collectives
+00:06:30.800 humans and electronics all interfacing
+00:06:33.480 and constantly now constantly connected
+00:06:35.910 yes constantly
+00:06:39.270 one of the things that I've been
+00:06:40.949 thinking about a lot over the last few
+00:06:42.930 years is that one of the things that
+00:06:45.630 drives a lot of people crazy is how how
+00:06:48.270 many people are obsessed with
+00:06:49.139 materialism and getting the latest
+00:06:50.639 greatest thing and I wonder how much of
+00:06:52.889 that is well a lot of it is most
+00:06:56.310 certainly fueling technology and
+00:06:58.050 innovation and it almost seems like it's
+00:07:00.120 built into us it's like what we like and
+00:07:02.430 what we want that we're fueling this
+00:07:04.319 thing that's constantly around us all
+00:07:06.180 the time and it doesn't seem possible
+00:07:07.770 that people are going to pump the brakes
+00:07:09.150 it doesn't seem possible at this stage
+00:07:11.370 where we're constantly expecting the
+00:07:13.349 newest cell phone the latest Tesla
+00:07:15.360 update the newest MacBook Pro everything
+00:07:17.820 has to be newer and better and that's
+00:07:20.280 going to lead to some incredible point
+00:07:24.990 and it seems like it's built into us it
+00:07:28.919 almost seems like it's an instinct that
+00:07:31.349 we were working towards this that we'd
+00:07:33.060 like it mm-hmm
+00:07:34.169 our job just like the ants build the
+00:07:36.570 anthill our job is to somehow know the
+00:07:38.729 fuel this yes I mean I mean those
+00:07:45.930 comments um some years ago but it feels
+00:07:48.419 like we are the biological bootloader
+00:07:50.639 for AI effectively we are building it
+00:07:54.120 and then we're building progressively
+00:07:58.770 greater intelligence and the percentage
+00:08:03.150 of intelligence that is not human is
+00:08:05.360 increasing and eventually we will
+00:08:09.210 represent a very small percentage of
+00:08:11.039 intelligence but the the AI is informed
+00:08:16.789 strangely by the human limbic system it
+00:08:22.979 is in large part our it'd writ large how
+00:08:28.440 so we mentioned all those things the
+00:08:31.259 sort of primal drives mm-hmm
+00:08:34.500 there's all old things that we like and
+00:08:39.870 hate and fear
+00:08:44.340 they're all there on the Internet the
+00:08:46.980 projection of a limbic system no it
+00:08:58.230 makes sense and the thinking of it as a
+00:09:00.330 I mean think of thinking of corporations
+00:09:03.390 and just thinking of just human beings
+00:09:04.800 communicating online through these
+00:09:06.060 social media networks as some sort of an
+00:09:07.710 organism that's a it's a cyborg it's a
+00:09:11.250 it's a combination it's a combination of
+00:09:13.410 electronics and biology yeah this is in
+00:09:18.540 some it's a measure like is the success
+00:09:20.220 of these online systems is the is a is
+00:09:24.270 sort of a function of of how much limbic
+00:09:28.860 resonance they're able to achieve with
+00:09:32.339 people the more limbic resonance the
+00:09:36.210 more engagement hmm whereas like one of
+00:09:41.730 the reasons why I probably Instagram is
+00:09:43.440 more enticing than Twitter Olympic
+00:09:46.470 residence yeah you get more images more
+00:09:49.620 video yes tweaking your system more yes
+00:09:52.680 do you worry about what we're wonder in
+00:09:54.630 fact about what the next step is a lot
+00:09:57.930 of people didn't see Twitter coming that
+00:09:59.460 you know communicate with 140 characters
+00:10:01.470 or 280 now would be a thing that people
+00:10:04.170 would be interested in like it's gonna
+00:10:08.250 Excel it's gonna become more connected
+00:10:10.350 to us right yes things are getting more
+00:10:15.270 more connected there at this point
+00:10:17.130 constrained by bandwidth our input
+00:10:20.339 output is low particularly output
+00:10:22.530 awkward got worse with thumbs you know
+00:10:25.020 we use have input with 10 10 fingers and
+00:10:27.089 now we have thumbs
+00:10:29.810 but images are just are also are there a
+00:10:32.550 way of communicating at high bandwidth
+00:10:35.250 take pictures and you send pictures
+00:10:37.320 people what sends that's that
+00:10:39.839 communicates far more information than
+00:10:41.459 you can communicate with your thumbs so
+00:10:43.470 what happened with you where you decided
+00:10:44.880 or you took on a more fatalistic
+00:10:48.060 attitude like what was there any
+00:10:49.890 specific thing or was it just the
+00:10:51.420 inevitability of our future
+00:10:55.910 I try to convince people to slow down
+00:11:05.050 slow down
+00:11:06.290 AI to regulate AI this was futile I
+00:11:12.970 tried for years this you nobody seen in
+00:11:16.850 a movie over this robots take over it
+00:11:19.700 you're freaking me out
+00:11:20.810 nobody listened nobody listened no one
+00:11:22.940 are people more inclined to listen today
+00:11:25.190 it seems like an issue that's brought up
+00:11:27.290 more often over the last few years than
+00:11:29.630 it was maybe five ten years ago it
+00:11:31.550 seemed like science fiction maybe they
+00:11:35.810 will so far they haven't I think people
+00:11:41.840 don't be like the normally of the way
+00:11:43.070 that regulations work it's very slow
+00:11:45.590 very slow indeed so usually will be
+00:11:52.550 something some new technology it will
+00:11:55.910 cause damage or death there will be an
+00:12:00.080 outcry there will be an investigation
+00:12:03.100 years will pass there will be some sort
+00:12:07.460 of insight committee they will be
+00:12:09.380 rulemaking then there will be oversight
+00:12:11.660 eventually regulations this all takes
+00:12:14.900 many years this is the normal course of
+00:12:17.570 things if you look at say automotive
+00:12:20.450 regulations how long did it take for
+00:12:21.920 seatbelts to be to be implemented to be
+00:12:25.640 required you know the order industry
+00:12:28.040 fort seatbelts I think for more than a
+00:12:30.290 decade successfully fought any
+00:12:33.590 regulations on seatbelts even though the
+00:12:37.310 numbers were extremely obvious if you
+00:12:39.920 had a seatbelts on
+00:12:41.690 you would be far less likely to die will
+00:12:45.140 be seriously injured unequivocal and the
+00:12:49.460 industry fought this for years
+00:12:51.500 successfully eventually after many many
+00:12:56.990 people died regulators insisted on
+00:13:00.980 seatbelts
+00:13:03.600 if this is a this timeframe is not
+00:13:06.840 relevant to AI
+00:13:07.920 you can't take 10 years from the point
+00:13:10.290 of which is dangerous it's too late and
+00:13:16.190 you feel like this is decades away or
+00:13:20.280 years away from being too late if you
+00:13:24.240 have this fatalistic attitude and you
+00:13:26.310 feel like it's going we're in a almost
+00:13:29.730 like a doomsday countdown it's not
+00:13:32.640 necessarily a doomsday countdown it's
+00:13:34.140 it's a out-of-control countdown out of
+00:13:37.020 control yeah people call it the
+00:13:39.030 singularity and that's that's probably
+00:13:42.630 gonna be the thing about it it's a
+00:13:43.740 single error it's hard to predict like a
+00:13:45.600 black hole what happens past the event
+00:13:47.640 horizon right so once it's implemented
+00:13:50.370 it's very different cuz it what do you
+00:13:52.020 get out of the bottle what's gonna
+00:13:53.130 happen and it will be able to improve
+00:13:55.070 itself yes that's where it gets spooky
+00:13:59.790 right the idea that it can do thousands
+00:14:02.190 of years of innovation we're very very
+00:14:04.530 quickly yeah and then we'll be just
+00:14:08.010 ridiculous ridiculous we will be like
+00:14:10.350 this ridiculous
+00:14:11.510 biological [ __ ] pissing thing trying
+00:14:14.190 to stop the gods no stop we like we like
+00:14:17.070 living with a finite lifespan and and
+00:14:19.110 watching you know Norman Rockwell
+00:14:21.030 paintings it could be terrible and it
+00:14:25.590 could be great it's not clear right but
+00:14:29.130 what one thing is for sure we will not
+00:14:31.320 control it do you think that it's likely
+00:14:34.350 that we will merge somehow or another
+00:14:36.600 with this sort of technology and it'll
+00:14:39.930 augment what we are now or do you think
+00:14:42.180 it will replace us well that's the snart
+00:14:49.850 emerge scenario with AI is the one that
+00:14:54.000 seems like probably the best like for us
+00:14:58.170 yes like if you if you can't beat it
+00:15:01.800 join it that's yeah you know
+00:15:08.660 so from a long-term existential
+00:15:13.040 standpoint that's like the purpose of
+00:15:16.680 neuro-link is to create a high bandwidth
+00:15:20.460 interface to the brain such that we can
+00:15:23.880 be symbolic with AI because we have a
+00:15:28.110 bandwidth problem
+00:15:28.920 you just can't communicate through your
+00:15:30.690 fingers it's too slow and where's neural
+00:15:34.200 link at right now I think we'll have
+00:15:38.460 something interesting to announce in a
+00:15:39.810 few months that's at least an order of
+00:15:42.570 magnitude better than anything else
+00:15:44.180 probably I think better than probably
+00:15:46.140 anyone thinks as possible how much can
+00:15:48.390 you talk about that right now I don't
+00:15:50.580 jump the gun on that but what's like the
+00:15:53.280 ultimate what's what's the idea behind
+00:15:56.700 like what are you trying to accomplish
+00:15:57.960 with it what would you like best-case
+00:16:00.180 scenario I think this case scenario we
+00:16:04.310 effectively merge with AI where we AI
+00:16:09.480 serves as a tertiary cognition layer
+00:16:12.920 where we've got the limbic system kind
+00:16:16.710 of the primitive brain essentially
+00:16:18.030 you've got the cortex so you're
+00:16:20.490 currently in a symbiotic relationship
+00:16:23.040 with your cortex and limbic system are
+00:16:25.140 in a somatic relationship and generally
+00:16:27.000 people like their cortex and they like
+00:16:29.250 the Olympic system I haven't met anyone
+00:16:30.690 who wants to delete their limbic system
+00:16:32.940 or delete their cortex everybody seems
+00:16:34.890 sort of like both and the cortex is
+00:16:38.880 mostly in service to the limbic system
+00:16:40.530 people may think that that that their
+00:16:44.460 that the thinking part of themselves is
+00:16:46.770 in charge but it's mostly their limbic
+00:16:48.450 system that's in charge and the cortex
+00:16:50.730 is trying to make the limbic system
+00:16:52.140 happy that's what most of that computing
+00:16:55.350 power is aren't towards how can I make
+00:16:58.710 the limbic system happy that's what it's
+00:17:01.170 trying to do now if we do have a third
+00:17:05.520 layer which is the AI extension of
+00:17:07.770 yourself that is also somatic and
+00:17:11.730 there's enough bandwidth between the
+00:17:13.589 cortex and the AI extension of yourself
+00:17:17.510 such that the AI doesn't if
+00:17:20.439 facto separate then that could be a good
+00:17:25.059 outcome that could be quite a positive
+00:17:27.069 outcome for the future so instead of
+00:17:28.779 replacing us it will radically change
+00:17:31.179 our capabilities yes it will enable
+00:17:37.269 anyone who wants to have super human
+00:17:40.330 cognition anyone who wants this is not a
+00:17:45.940 matter of earning power because your
+00:17:47.169 earning power would be vastly greater
+00:17:49.120 after you do it so it's just like anyone
+00:17:53.139 who once can just do it in theory that's
+00:17:56.950 the theory and and if that's the case
+00:18:00.309 then and let's say billions of people do
+00:18:04.809 it then the outcome for Humanity will be
+00:18:09.179 the sum of of human will the sum of
+00:18:15.669 billions of people's desire for the
+00:18:18.759 future and that billions of people with
+00:18:22.210 enhanced cognitive ability radically
+00:18:24.610 enhance yes and that which would be it
+00:18:27.549 but how much different than people today
+00:18:29.980 look if you if you had to explain it to
+00:18:32.710 a person who didn't really not
+00:18:36.039 understand what you're saying
+00:18:36.909 how much different are you talking about
+00:18:38.889 when you say radically improved like
+00:18:40.750 what do you mean you mean mine read when
+00:18:44.620 read it will be difficult to to really
+00:18:46.419 appreciate the difference it's kind like
+00:18:51.460 how much smarter are you with a phone or
+00:18:53.860 computer than without it's your vastly
+00:18:56.259 smarter actually you know you can answer
+00:18:59.350 any question which if you're connected
+00:19:01.720 to the internet you know answer any
+00:19:03.519 question pretty much instantly any
+00:19:05.500 calculation the that your phone's memory
+00:19:08.769 is essentially perfect
+00:19:09.909 you can remember flawlessly go for your
+00:19:12.549 phone can remember videos pictures and
+00:19:16.330 everything perfectly
+00:19:18.450 that's the that your phone is already an
+00:19:21.340 extension of you you're already a cyborg
+00:19:24.700 you don't even almost will in rise they
+00:19:26.409 are already a cyborg it that phone is an
+00:19:29.940 extension of yourself it's just that
+00:19:33.140 the the data rate the rate at which the
+00:19:37.580 communication rate between you and the
+00:19:39.650 cybernetic extension of yourself that is
+00:19:41.600 your phone and computer is slow it's
+00:19:44.540 very slow and that that it's like a tiny
+00:19:50.270 straw of information flow between your
+00:19:54.980 biological self and your digital self
+00:19:57.560 and we need to make that tiny straw like
+00:20:01.940 a giant river a huge high bandwidth
+00:20:05.780 interface it's an interface problem data
+00:20:09.710 rate problem so the data rate problem
+00:20:13.210 that I think I think we can hang on to
+00:20:17.770 human-machine symbiosis through the long
+00:20:20.840 term and then people may decide that
+00:20:24.430 they want to retain their biological
+00:20:26.690 self or not I think they'll probably
+00:20:29.390 choose to retain develop biological self
+00:20:31.900 versus some sort of Ray Kurzweil
+00:20:34.550 scenario where they download themselves
+00:20:36.020 into a computer you will be essentially
+00:20:38.060 snapshot it into a computer at any time
+00:20:39.650 if your biological self dies you could
+00:20:41.090 just probably just upload into a new
+00:20:43.340 unit literally that down the rabbit hole
+00:20:52.790 grab that sucker give me some of that
+00:20:55.210 this is too freaky see if I was thinking
+00:20:58.850 about this for a long time by the way I
+00:21:00.410 believe yeah if I was talking to one
+00:21:02.090 line cheers by the way chairs yeah this
+00:21:04.070 is great whiskey thank you
+00:21:06.820 Underwood's came from who brought this
+00:21:09.080 to us trying to remember somebody gave
+00:21:10.700 it to us old camp whoever goes Thanks
+00:21:12.920 good yeah it is good um this is just
+00:21:16.850 inevitable again going back to your when
+00:21:18.920 you decided to be half of this
+00:21:20.210 fatalistic viewpoints so you weren't you
+00:21:22.490 tried to warn people you talked about
+00:21:23.900 this pretty extensively I've read
+00:21:25.700 several interviews where you talked
+00:21:26.780 about this and then you just sort of
+00:21:28.310 just said okay it just is well it's just
+00:21:30.440 and you in a way you're by communicating
+00:21:34.190 the potential fear I mean for sure
+00:21:36.770 you're you're getting the warning out to
+00:21:38.570 some people yeah yeah I mean if I was
+00:21:43.910 really going on
+00:21:45.830 the warning quite quite loud morning
+00:21:51.080 everyone I could you've met with Obama
+00:21:54.410 and just for one reason look just about
+00:21:58.040 AI yes and what did he say so what about
+00:22:00.920 Hillary worry about her first
+00:22:03.940 no I he listened he certainly listened
+00:22:08.360 I met with Congress I met with I was out
+00:22:12.920 of meeting of all 50 governors and
+00:22:16.520 talked about just a AI danger and I
+00:22:20.360 talked to everyone I could no one seemed
+00:22:26.150 to realize where this was going
+00:22:28.870 is it that or do they just assume that
+00:22:31.970 someone smarter than them was already
+00:22:33.020 taking care of it because when people
+00:22:35.900 hear about something like AI thought
+00:22:37.250 it's almost abstract it's almost it's
+00:22:40.130 almost like it's so it's so hard to wrap
+00:22:42.260 your head around it by the time it
+00:22:43.460 already happens it'll be too late
+00:22:46.090 yeah I think they didn't quite her to
+00:22:51.290 understand it or didn't think it was
+00:22:52.820 near term or not sure what to do about
+00:22:56.930 it
+00:22:57.400 and I said like you know an obvious
+00:22:59.150 thing to do is to just establish a
+00:23:02.710 committee government committee to gain
+00:23:05.840 insight you know before before you
+00:23:08.900 oversight before you do make regulations
+00:23:11.060 you should like to try to understand
+00:23:12.650 what's going on and then if you have a
+00:23:15.920 insight committee then the once they
+00:23:19.970 learn what's going on get up to speed
+00:23:21.590 then they can make maybe some rules will
+00:23:24.680 propose some rules and and that would be
+00:23:27.950 probably a safer way to go about things
+00:23:30.250 it seems I mean I know that it's
+00:23:33.230 probably something that the government's
+00:23:34.910 supposed to handle but it seems like I
+00:23:37.010 wouldn't want the I don't want the
+00:23:38.480 government to handle this who do you
+00:23:40.490 want - I want you to handle oh geez yeah
+00:23:42.410 I feel like you're the one who could
+00:23:44.450 ring the bell better cuz if if Mike
+00:23:46.580 Pence starts talking about a I'm like
+00:23:47.990 shut up [ __ ] you don't know anything
+00:23:49.850 about AI come on man he hasn't always
+00:23:52.340 talking about me but I don't have the
+00:23:53.990 power to regulate other companies right
+00:23:57.050 maybe companies could agree maybe
+00:23:59.420 there could be some sort of a I mean
+00:24:00.950 there's we have agreements where you're
+00:24:03.590 not supposed to dump toxic waste into
+00:24:05.270 the ocean you're not supposed to do
+00:24:06.770 certain things that could be terribly
+00:24:09.190 damaging even though they'll be
+00:24:10.910 profitable maybe this is one of those
+00:24:12.950 things maybe we should realize that you
+00:24:14.330 can't hit the switch on something that's
+00:24:15.680 going to be able to think for itself and
+00:24:17.390 make up its own mind as to whether or
+00:24:18.650 not it wants to survive or not
+00:24:19.850 and whether or not thinks you're a
+00:24:21.020 threat and whether I think you're
+00:24:24.200 useless like why do I keep this dumb
+00:24:27.100 finite life-form alive why why keep this
+00:24:31.070 thing around it's just stupid it just
+00:24:32.990 keeps polluting everything [ __ ]
+00:24:34.610 everywhere it goes lighting everything
+00:24:36.380 on fire and shooting each other why
+00:24:38.360 would I keep this stupid thing alive
+00:24:39.500 because sometimes it makes good music
+00:24:41.240 you know sometimes it makes great movies
+00:24:43.460 sometimes it makes beautiful art and
+00:24:45.080 sometimes you know sometimes it's cool
+00:24:47.210 to hang out with yeah all those reasons
+00:24:49.760 yeah for us those are great reasons yes
+00:24:52.100 but for anything objectives standing
+00:24:53.690 outside like oh this is definitely a
+00:24:55.010 flawed system this

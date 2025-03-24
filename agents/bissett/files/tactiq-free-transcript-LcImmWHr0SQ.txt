@@ -1,0 +1,857 @@
+# tactiq.io free youtube transcript
+# Accounting Generations, Changes & Predictions with MARTIN BISSETT | Accounting Influencers Podcast
+# https://www.youtube.com/watch/LcImmWHr0SQ
+
+00:00:00.760 [Applause]
+00:00:07.359 and so i'm here with my partner in crime
+00:00:09.440 and colleague and co-host on the
+00:00:10.800 accounting influencers podcast for this
+00:00:12.480 special guest interview it's the
+00:00:13.840 wonderful martin bisic good day to you
+00:00:15.519 sir good day to you rob i am all of
+00:00:17.520 those things aren't i you're all of
+00:00:19.119 those you're the guru you're the cliche
+00:00:20.880 of amazon you've graced so many stages
+00:00:23.359 and you've been that go-to expert for so
+00:00:25.279 many years and it's good to do a deep
+00:00:27.039 dive with you on a few things now rather
+00:00:28.720 than the occasional little rants and
+00:00:31.199 news updates and here's what works so
+00:00:33.360 are you ready for that oh i'm ready for
+00:00:34.960 that good but don't call me not a guru
+00:00:36.559 guru no cliche yes but not guru that's
+00:00:39.120 for sure you know it's weird to be on
+00:00:41.040 the side of the desk this time and be
+00:00:42.800 the the subjects rather than the the
+00:00:45.600 interrogators so yep i'm ready to go rob
+00:00:47.840 you fire ahead and it is a strange one
+00:00:49.600 isn't it because you've appeared on many
+00:00:50.960 podcasts and been asked things martin
+00:00:53.280 likewise i appear on a number of
+00:00:54.879 podcasts to talk about various topics
+00:00:57.360 like uh talent and succession and
+00:00:59.440 business development and growth for
+00:01:00.719 accounting firms so we've got expertise
+00:01:02.800 in our own right that people don't often
+00:01:04.959 see and hear about in the accounting
+00:01:06.479 influencers podcast so it's a chance for
+00:01:08.640 you to shine a little bit more
+00:01:10.560 my goodness i've waited my whole life
+00:01:12.159 for this moment this has been exciting
+00:01:14.799 well let's just start off for the
+00:01:15.840 benefit of people that don't probably
+00:01:17.439 know what you do
+00:01:18.960 just give them a 30-second background
+00:01:21.040 martin of what you've been doing for 24
+00:01:23.119 years in the accounting and fintech
+00:01:24.640 world
+00:01:25.520 so a 24-year veteran of working in the
+00:01:27.840 profession but not being of the
+00:01:29.119 profession so i'm not a qualified
+00:01:31.040 accountant and i never will be
+00:01:32.799 but i have had perhaps more exposure
+00:01:34.799 than most to
+00:01:36.479 what is said and thought about in a
+00:01:38.479 managing partner's office at eight
+00:01:39.600 o'clock at night once the staff have
+00:01:40.720 gone home
+00:01:41.759 uh and all the concerns political
+00:01:43.680 operational uh and growth related of
+00:01:46.399 accounting firms uh throughout the world
+00:01:49.119 in fact 44 different countries in total
+00:01:51.520 um and six of the seven continents as
+00:01:54.000 well so
+00:01:55.360 i like to think that i bring
+00:01:58.079 first of all one of the few independent
+00:02:00.079 perspectives
+00:02:01.759 um to the table and also one that is
+00:02:04.399 perhaps more qualified by experience
+00:02:07.680 than a lot of the voices that are out
+00:02:10.479 there so you know it's all about track
+00:02:12.000 record for me um so uh
+00:02:15.200 developed as a director of another of
+00:02:17.840 somebody else's organization delivering
+00:02:20.239 lead gen for accountants graduated to my
+00:02:22.959 own organization of being a consultant
+00:02:24.800 speaker author internet marketing cliche
+00:02:28.319 and then developed from 2018 onwards
+00:02:31.920 assets
+00:02:33.040 for the accounting profession so here i
+00:02:34.640 am today as the owner or co-owner of
+00:02:37.040 several assets serving the profession
+00:02:39.200 all designed to deliver the mission of
+00:02:41.440 bringing financial literacy to business
+00:02:43.200 owners via the accountants because it's
+00:02:45.280 the accountants that have the financial
+00:02:47.200 intimacy with the business owner nicely
+00:02:50.560 said but way more than 30 seconds sorry
+00:02:52.720 about that but that's okay
+00:02:54.720 so you've seen you've got longevity in
+00:02:57.360 this game you've seen a certain amount
+00:02:59.599 of change i won't say a lot of change
+00:03:01.280 over the years because the accounting
+00:03:02.560 profession is not known for its ability
+00:03:04.640 to change but
+00:03:05.920 talk to us about the
+00:03:07.760 generations that you've often mentioned
+00:03:10.000 to me privately about these waves of
+00:03:12.720 accountants that have come through
+00:03:14.720 and what that looks like for the
+00:03:16.319 outsider or even someone in the
+00:03:17.680 profession
+00:03:18.959 yeah i did a video a while back called
+00:03:20.560 generation three and the point of the
+00:03:22.159 video was will this be the generation
+00:03:23.920 that gets its finger out yeah yeah uh
+00:03:26.239 and what i meant by that typically you
+00:03:28.080 know uh provoking as usual but but what
+00:03:30.720 i meant by that was that
+00:03:33.200 i
+00:03:34.000 sat in all these offices that i talked
+00:03:35.280 about i was managing partners offices
+00:03:36.560 and listening to plans and dreams and
+00:03:38.319 goals and we're going to do this next
+00:03:39.519 year and so on and i've seen two
+00:03:41.519 generations there of of managing
+00:03:43.440 partners or sole practitioners
+00:03:46.560 retire having achieved nothing that they
+00:03:49.920 said they were going to so basically
+00:03:51.440 what their career can be summed up like
+00:03:53.120 this they weren't too many hours for too
+00:03:54.799 little money got enough in the pension
+00:03:56.239 and left
+00:03:57.599 and that's the sum total of somebody's
+00:03:59.040 professional life
+00:04:00.720 you know and
+00:04:01.840 anybody listening to this i would hope
+00:04:03.200 would push back and say ah but what
+00:04:04.480 about all the clients what about all the
+00:04:06.319 stories
+00:04:07.280 well yeah that's exactly right
+00:04:09.760 those people did help a huge number of
+00:04:12.239 businesses they have got a lot of
+00:04:14.400 stories and exactly none of them are
+00:04:16.880 recorded with posterity so we don't know
+00:04:19.680 about them so what was the point of them
+00:04:21.040 happening
+00:04:21.918 you know so
+00:04:24.080 what i see now
+00:04:26.240 is i see
+00:04:27.680 a
+00:04:28.560 a generation of accountants who've been
+00:04:30.080 trained the same as all the rest
+00:04:32.400 but have a different different level of
+00:04:33.759 aspiration so rather than i'll work 25
+00:04:35.919 years off the firm become a partner and
+00:04:37.360 then become rich and then that's me
+00:04:38.479 sorted
+00:04:39.600 i have a different level of aspirations
+00:04:41.120 where the vision or mission of an
+00:04:43.520 accounting firm that they work for
+00:04:44.880 actually matters to them is actually
+00:04:46.160 part of the decision making behavior a
+00:04:48.240 commercial desire exists to understand
+00:04:50.560 how to run a business not be an
+00:04:52.479 accountant in the accounting practice
+00:04:54.560 there is a much greater grip on
+00:04:56.960 technology
+00:04:58.479 than there was in generations gone by
+00:05:00.560 where there was a resistance to change
+00:05:02.720 in technology so i see a difference now
+00:05:05.680 i see a younger hungrier
+00:05:08.800 more open-minded
+00:05:11.039 more ambitious and more diverse
+00:05:13.919 accounting um
+00:05:16.160 cohort shall we say than i have seen in
+00:05:18.479 generations gone by we're not just
+00:05:19.680 talking about
+00:05:20.800 uh 55 year old uh fat white rich people
+00:05:23.520 anymore
+00:05:25.120 but is that symptomatic of the evolution
+00:05:27.520 of the profession and how they've
+00:05:28.960 adapted to change and become more
+00:05:30.560 commercial or is that symptomatic of
+00:05:32.800 generations generally the millennials
+00:05:34.800 the gen zeds
+00:05:36.240 they are more like that they do push
+00:05:38.080 back a lot more they do have hopefully
+00:05:39.840 better critical thinking skills they
+00:05:41.840 won't just be chained to a desk for 10
+00:05:43.600 to 15 years and expect to make partner
+00:05:45.840 they want more and they want to give
+00:05:47.440 more
+00:05:48.639 two things i think it's the latter i
+00:05:50.479 think it's far more generational
+00:05:52.720 behavioral difference yeah but the other
+00:05:55.039 thing that it is that you didn't mention
+00:05:56.639 there um is that university has become
+00:05:59.520 more available to more people and more
+00:06:02.240 social economic subsets over the last 25
+00:06:04.479 years which has brought a different mix
+00:06:06.560 of people
+00:06:07.759 into the profession and qualified far
+00:06:10.160 more female leaders far more minority
+00:06:12.960 professionals and so on who have shown
+00:06:15.680 their abilities then in practice and
+00:06:18.479 been promoted or built their own firms
+00:06:20.720 accordingly so i think it's a mixture of
+00:06:23.520 a generational change and also the
+00:06:26.479 further education being available and
+00:06:28.960 being seen as achievable and desirable
+00:06:32.560 by far more than the
+00:06:35.280 normal perhaps again middle class of
+00:06:38.000 england that we've seen previously in
+00:06:39.600 the middle class of the us or anywhere
+00:06:41.280 so i don't think accountants is
+00:06:42.639 necessarily a middle class game anymore
+00:06:45.440 and i think practice technology has
+00:06:48.080 allowed people to become far more
+00:06:51.280 i'm gonna say digital in their thinking
+00:06:53.120 so it's broken geographical boundaries
+00:06:55.440 you don't have a client base that's
+00:06:56.639 within 25 miles of your office anymore
+00:06:59.520 it's changed the way pricing worked it's
+00:07:01.599 changed the way interaction with the
+00:07:02.880 client works and as a result you've got
+00:07:05.199 different people delivering it on that
+00:07:06.560 basis the typical
+00:07:08.319 traditional words that we use accounting
+00:07:10.800 firm
+00:07:11.840 perhaps is less prevalent these days
+00:07:14.639 than it was certainly when i first came
+00:07:16.319 in
+00:07:17.120 but going back to the accounting
+00:07:18.400 qualification that you touched on that's
+00:07:20.080 not changed much double entry
+00:07:21.599 bookkeeping is double entry bookkeeping
+00:07:23.680 we could almost ask is that fit for
+00:07:26.160 purpose because if nothing's changed
+00:07:28.560 you're churning out the same kind of
+00:07:30.319 accountants with the same kind of
+00:07:31.759 qualifications and the same kind of
+00:07:33.919 thinking into a world that has changed
+00:07:35.919 drastically from what it was 30 50 100
+00:07:38.800 years ago absolutely depends on the
+00:07:40.720 purpose if the purpose is to prepare
+00:07:42.240 someone to work into a cubicle for 30
+00:07:44.319 years it is fit for purpose yeah
+00:07:47.199 but it doesn't teach commercial
+00:07:49.360 um
+00:07:50.560 commercial awareness
+00:07:52.720 it it doesn't teach business development
+00:07:55.199 it doesn't teach marketing all of which
+00:07:57.039 have become far more
+00:07:58.720 forefront skills
+00:08:00.319 in the 21st century practice
+00:08:02.639 so
+00:08:03.840 does it build a commercial business
+00:08:06.000 owner that happens to be in the
+00:08:08.639 accounting profession no the
+00:08:10.080 qualifications don't do that they're a
+00:08:11.440 technical qualification they show you
+00:08:13.360 how to do the job and as such
+00:08:15.759 it hasn't changed much and it's only fit
+00:08:18.319 for purpose if your intention is to
+00:08:20.080 simply
+00:08:21.039 practice the profession of accounting
+00:08:23.759 your entire career if you want to build
+00:08:25.120 a business that's a different set of
+00:08:26.160 skills
+00:08:27.039 we've touched in previous podcasts on
+00:08:29.199 the problem with the labor shortage in
+00:08:31.440 the accounting and finance profession
+00:08:33.679 we've talked about the baby boomers
+00:08:35.440 retiring the older people moving on less
+00:08:38.799 people coming into the profession
+00:08:41.039 so whilst there may be different kinds
+00:08:43.599 of new generational accountants coming
+00:08:46.160 through there are certainly less of them
+00:08:48.959 is a trend over the generations you've
+00:08:50.959 seen that accountancy is less attractive
+00:08:54.000 to people coming in than it perhaps once
+00:08:56.160 was
+00:08:57.279 no the talent shortage has been going on
+00:08:59.519 forever okay um i remember talking about
+00:09:02.480 talent shortages over 15 years ago
+00:09:05.200 um and there are there's two major
+00:09:07.360 factors for that there's a difference to
+00:09:08.720 be made there's a
+00:09:10.320 a distinguished
+00:09:12.160 uh distinction to be made between
+00:09:14.640 a being able to hire someone and be able
+00:09:17.680 to hire someone who's any good
+00:09:20.240 you know those two things are different
+00:09:21.519 and i think just about any business
+00:09:23.040 would tell you that it's not difficult
+00:09:24.800 to find people it's difficult to find
+00:09:26.399 good people right uh according to that
+00:09:28.480 criteria so i think that's the first
+00:09:30.320 thing
+00:09:31.360 um
+00:09:32.480 and i think the other thing was that
+00:09:34.160 certainly in the case of university
+00:09:36.320 graduates the big four in any given
+00:09:38.880 territory have always
+00:09:40.320 cast a big fishing net
+00:09:42.720 and sweeps everybody up long before a
+00:09:45.120 mid-sized practice would get anywhere
+00:09:46.480 near knowing about them
+00:09:48.640 and then spat out the ones they don't
+00:09:50.080 like and kept the ones that they wanted
+00:09:52.800 therefore the labour market becomes the
+00:09:54.320 ones that the big four didn't want or it
+00:09:56.080 wasn't a fit for the big four
+00:09:58.160 so i think there's that to consider the
+00:09:59.839 other thing i think i would consider
+00:10:02.000 is that the recruitment processes and
+00:10:05.040 behaviors of accounting firms haven't
+00:10:07.519 changed
+00:10:09.120 so if you're going fishing in a dead
+00:10:10.640 pool
+00:10:12.000 then the next time you go fishing in
+00:10:13.279 that pool it'll still be dead
+00:10:15.440 and as such they haven't changed how
+00:10:18.399 they go about attracting talent
+00:10:20.399 significantly so an advert goes in a
+00:10:22.959 particular paper
+00:10:24.560 or on a particular website
+00:10:26.560 or they ask the staff again
+00:10:29.360 whether they've got any friends or
+00:10:30.320 family that should join the firm and i
+00:10:32.720 don't see too many firms having a
+00:10:34.480 diverse approach
+00:10:36.399 something that i always did in my
+00:10:37.440 consulting career
+00:10:38.720 was asked accounting firms to run a
+00:10:41.040 pipeline of people
+00:10:43.360 just like even a pipeline of prospects
+00:10:45.680 so you have a pipeline prospect so you
+00:10:46.880 know where the new business is coming
+00:10:47.920 from well how about a pipeline of
+00:10:49.279 relationships so you know where the
+00:10:50.320 people are coming from yes okay they're
+00:10:52.399 not ready to join you now what about
+00:10:53.839 next year what about the year after okay
+00:10:55.440 they're happy where they are now what
+00:10:57.120 about next year what about the year
+00:10:58.839 after and again
+00:11:01.440 commercially organizationally
+00:11:04.000 firms were never
+00:11:05.600 that bothered
+00:11:06.880 or that well geared up to go yeah that's
+00:11:08.880 right we'll actually run a database of
+00:11:10.720 people so we'll build our people
+00:11:13.440 uh crm and we'll know which people are
+00:11:15.680 around we'll know who's qualified over
+00:11:17.200 there we'll know who's unhappy we'll
+00:11:18.800 know who's moved into the area since
+00:11:20.000 taking a job over there
+00:11:21.519 because accountants aren't necessarily
+00:11:24.160 um
+00:11:25.200 extroverts they're introverts who don't
+00:11:26.880 normally build relationships and
+00:11:29.200 networks like that so it was very
+00:11:30.480 difficult for them to have a network
+00:11:31.760 like that but for me
+00:11:34.240 what is what causes the talent shortage
+00:11:36.800 well it's those things we mentioned plus
+00:11:38.880 the lack of innovation in recruitment
+00:11:41.519 techniques by the firms themselves
+00:11:44.079 but when we talk about innovation the
+00:11:46.240 word change does come up
+00:11:48.480 we've seen no change really in the
+00:11:50.000 accounting qualifications the process to
+00:11:52.160 become a qualified professional in this
+00:11:54.639 game have accounting firms changed much
+00:11:57.680 their business models their approach
+00:12:00.720 the things that they do in the ways that
+00:12:02.320 they do them
+00:12:04.000 again it comes down to definition of
+00:12:05.519 terms change can also mean for the worse
+00:12:08.320 yes and we've assumed for the better in
+00:12:09.920 the question uh so have accounting firms
+00:12:12.480 improved
+00:12:13.600 um
+00:12:14.560 yes
+00:12:15.440 is it marginal yes is it normally
+00:12:17.920 mandated by legislative changes yes
+00:12:20.959 is there a lot of proactive change where
+00:12:22.720 firm's gone we're not prepared to deal
+00:12:23.920 with this anymore we're gonna make
+00:12:24.880 change it's gonna be better next year
+00:12:27.279 not tremendously not on mass no you find
+00:12:30.639 them in pockets of course
+00:12:32.320 there's a firm you know there are firms
+00:12:34.079 that take a great initiative to say
+00:12:35.279 we're going to stand ourselves out from
+00:12:36.560 the rest of the crowd but you don't see
+00:12:38.160 it as a norm of course
+00:12:40.000 so um
+00:12:41.360 so for me has they been improved hasn't
+00:12:43.519 been changed or yes it's been changed
+00:12:45.360 say what one thing hasn't changed and
+00:12:47.360 that's the average fee
+00:12:49.519 that accounting phone gets for
+00:12:50.720 compliance work that's been static
+00:12:52.240 regardless of inflation over the years
+00:12:53.839 from many many firms they are charging
+00:12:55.760 the same
+00:12:56.800 business
+00:12:58.079 um 1800 of their currency 1800 pounds or
+00:13:01.680 euros or whatever now and they were
+00:13:04.079 charging 1800 five years ago as well
+00:13:06.720 so that hasn't changed um but i think
+00:13:10.480 technology has changed we know that for
+00:13:12.320 sure technology has changed um and the
+00:13:15.360 thing that really got me in the first
+00:13:17.680 colby lockdown rob was the
+00:13:20.959 the common refrain that we heard from
+00:13:24.000 accountants where they say we're so much
+00:13:25.920 closer to our account to our clients now
+00:13:28.959 we know what they're all about we know
+00:13:30.639 what they're trying to achieve we
+00:13:32.000 understand their business
+00:13:33.760 and they were
+00:13:35.120 promoting that as a positives and
+00:13:36.480 trumpeting that as a positive and i was
+00:13:37.519 thinking to myself
+00:13:38.720 so does that mean that before this
+00:13:40.320 global pandemic
+00:13:42.160 you didn't know what your clients did
+00:13:44.000 you didn't know what they wanted and you
+00:13:45.360 didn't understand the business
+00:13:47.279 so that's changed but that took a global
+00:13:48.959 pandemic to do
+00:13:50.560 well why hasn't there been change if you
+00:13:53.040 look at other industries or sectors
+00:13:56.160 technology making cars
+00:13:58.639 restaurants have changed
+00:14:00.800 bars and clubs have changed the leisure
+00:14:03.440 industry's change i could pick out any
+00:14:05.440 number of sectors here
+00:14:07.440 professional services maybe even the
+00:14:09.199 legal market the consulting market has
+00:14:11.440 changed in its approach but is it a
+00:14:13.600 complacency around the monthly recurring
+00:14:16.959 revenues that elegantly turn up every
+00:14:18.959 month what is it that is stopping the
+00:14:20.800 accountants from any kind of radical
+00:14:22.880 change well it's partly that yeah i mean
+00:14:25.519 if you look at the drivers for change in
+00:14:27.040 accounting firm what were the drivers
+00:14:28.320 for change one would be intense
+00:14:30.079 competition
+00:14:31.760 but there isn't intense competition
+00:14:33.120 there's a lot of accounting firms but
+00:14:34.399 there's a lot of businesses and they're
+00:14:36.160 extremely loyal right you don't
+00:14:37.760 generally change your account unless you
+00:14:39.360 really want to you don't do it on a whim
+00:14:41.920 you don't do it the first time something
+00:14:43.519 goes wrong the first time they drop the
+00:14:44.800 ball you stick around because they know
+00:14:46.240 a lot about you
+00:14:47.680 so competition while it's a factor it's
+00:14:51.120 not top of the list so it's not the
+00:14:53.040 competition that necessarily drives
+00:14:54.399 change significantly
+00:14:56.639 is it apathy well there's a big argument
+00:14:58.639 for that
+00:14:59.600 because as you say lifestyle goals are
+00:15:01.839 reached by by firm owners
+00:15:04.079 by recurring fees
+00:15:05.760 so yes it can be that but absolutely
+00:15:09.760 we then look at okay so apathy yes
+00:15:13.279 because of the recurring fee model
+00:15:15.199 competition not so much
+00:15:17.839 legislative change that's the other
+00:15:19.199 thing that would drive change
+00:15:20.959 when there is a law change now there
+00:15:23.760 have been lots of law changes but that
+00:15:26.079 generally creates a stimulus package
+00:15:28.480 for accountants it generally gives them
+00:15:29.920 more work to do because there's more
+00:15:31.360 things the clients have to do to be
+00:15:32.560 compliant
+00:15:34.320 so because
+00:15:36.720 the government's
+00:15:38.399 and and any changes in law typically
+00:15:40.880 help the accountant
+00:15:42.480 because recurring fees come in and
+00:15:44.720 there's very high retention rates of
+00:15:46.240 clients year in year out
+00:15:48.399 and because competition from other firms
+00:15:50.560 isn't necessarily fierce
+00:15:53.279 that's why nothing really changes
+00:15:55.920 if you look at some of the
+00:15:58.000 big areas that haven't changed you
+00:15:59.839 touched on the average fee is very
+00:16:01.680 similar we would put pricing in there
+00:16:03.519 wouldn't we yeah we would put maybe
+00:16:06.320 culture maybe the accounting firm
+00:16:08.560 website has not changed in the last 10
+00:16:11.279 20 years the marketing the way they
+00:16:13.279 present themselves talk to us about some
+00:16:15.680 of these things that have remained
+00:16:17.680 largely static well if we pick up on the
+00:16:19.759 website you find trends
+00:16:22.480 somebody comes up with some gurus
+00:16:24.560 back when gurus ruled the world
+00:16:26.560 some guru would say something
+00:16:29.199 some firm would back it up and then it
+00:16:31.040 became a trend so i remember
+00:16:33.279 when the term business advisors first
+00:16:35.600 became like a buzzword there you go so
+00:16:37.759 so all of a sudden all websites change
+00:16:40.000 from so-and-so chartered accountants to
+00:16:41.759 sorts of traffic accounts and business
+00:16:43.680 advisors
+00:16:45.040 and then some firms went absolutely
+00:16:46.639 crazy about them when business advisors
+00:16:49.360 and chartered accountants
+00:16:51.440 and then it well the globs came off at
+00:16:53.199 that point that was incredible you know
+00:16:54.800 and then there was this quirky phase
+00:16:57.360 where we took american australian
+00:16:58.959 initiatives and influences and we said
+00:17:01.279 hey it's not a receptionist it's a
+00:17:03.040 director of first impressions
+00:17:05.599 this person is our chief wow officer
+00:17:08.959 and moronic things like that that any
+00:17:11.760 clear thinking business owner sees right
+00:17:13.520 through when he's not swayed by any in
+00:17:15.520 any way whatsoever and it's just like
+00:17:16.880 whatever you know lipstick on a pig as
+00:17:19.520 it were as the phrase goes um so
+00:17:22.720 so
+00:17:23.599 we they've tried all those things but
+00:17:25.199 it's all surface level stuff
+00:17:28.240 you know you come in and you get a drink
+00:17:29.679 at reception
+00:17:31.840 but what's going on in the back room
+00:17:33.280 well tax department's still miserable
+00:17:35.200 audit department still doesn't talk to
+00:17:36.640 them or trust them
+00:17:38.160 nothing changes all the shirts are still
+00:17:40.080 grey
+00:17:40.960 the ties have come off and it's now open
+00:17:43.039 neck wow
+00:17:44.960 but very little has changed the
+00:17:46.720 wallpaper hasn't changed so
+00:17:49.200 so
+00:17:50.640 various initiatives have come into the
+00:17:52.080 profession starting with the boot camp
+00:17:54.400 avm being the master class here in the
+00:17:57.039 in the uk
+00:17:58.640 round one in the us uh root works in the
+00:18:02.160 u.s rainmaker in the us growth
+00:18:05.200 partnership in the u.s all these ways
+00:18:07.440 have have come forward to
+00:18:09.440 to try and get a firm to think
+00:18:11.280 differently act differently behave
+00:18:12.799 differently
+00:18:14.400 the leopard doesn't change its spots too
+00:18:15.919 much unless it's made to
+00:18:18.320 and you talk often about
+00:18:20.960 things like value pricing there are new
+00:18:22.960 initiatives and great opportunities for
+00:18:24.799 accountants but you often say that
+00:18:27.120 nothing's changed in pricing ron baker
+00:18:29.360 the the godfather if you like of the
+00:18:31.200 pricing conversation in the accounting
+00:18:33.120 world has been saying the same things
+00:18:35.039 for many years with respect to him
+00:18:37.120 because of the lack of implementation of
+00:18:40.000 these new initiatives
+00:18:42.160 ron's an exceptionally sharp intellect
+00:18:44.080 and he has written
+00:18:45.840 the cutting edge on these topics in
+00:18:47.679 terms of books
+00:18:48.880 you ask accountants who's heard of ron
+00:18:50.640 baker and a lot of people have heard of
+00:18:52.400 ron baker
+00:18:53.679 you asking what ron baker writes about
+00:18:56.320 and they'll tell you exactly what ron
+00:18:57.679 baker writes about
+00:18:59.520 you asking if they've got the wrong
+00:19:00.720 baker book
+00:19:02.400 any one of them implementing value
+00:19:04.080 pricing or whatever it happens to be or
+00:19:05.360 firm in the future or so on they've got
+00:19:07.440 the book you asked them if they've read
+00:19:09.440 it
+00:19:10.880 i've done anything with it well they
+00:19:12.880 haven't read it so they can't do
+00:19:13.840 anything with it no
+00:19:15.280 it never gets to that point haven't read
+00:19:16.880 it sat there on the bookshelf with all
+00:19:18.080 the rest of them never looked at why
+00:19:20.320 because change isn't an imperative
+00:19:22.480 so generally when it comes to pricing we
+00:19:24.720 look at pricing next
+00:19:26.960 why hasn't pricing changed well because
+00:19:29.679 of self-esteem predominantly
+00:19:31.760 that little voice in the mind
+00:19:34.480 says the client will never pay it
+00:19:37.039 there's no evidence for that there's no
+00:19:38.320 statistical evidence
+00:19:39.919 but that's what the lack of self-esteem
+00:19:41.360 says lack of self-esteem also says
+00:19:45.039 uh you're not worth that
+00:19:47.280 you know and we believe it so
+00:19:49.760 pricing
+00:19:51.280 increases
+00:19:52.559 very rarely again i'm talking generally
+00:19:54.480 not specifically so don't write in
+00:19:56.320 listeners to say well i changed my
+00:19:57.520 prices yeah i know you did the rest of
+00:19:58.880 them didn't
+00:19:59.760 okay
+00:20:00.960 pricing doesn't generally change not
+00:20:02.880 because the market won't stand it or not
+00:20:05.679 because the market rejects it and not
+00:20:07.760 because the market have looked at it
+00:20:09.360 thought about it i'm not sure about it
+00:20:12.159 but the accountant has never taken it to
+00:20:13.919 market in the first place because
+00:20:15.520 they're scared
+00:20:16.880 that the client will say
+00:20:18.559 that's a disgrace you're ripping me off
+00:20:20.559 i'm leaving
+00:20:22.480 but let's just go look at a firm's
+00:20:23.840 retention rate 90 95 they don't leave
+00:20:27.840 that's not what they do generally
+00:20:29.360 speaking so
+00:20:31.039 so pricing will only
+00:20:33.120 increase when the accountant decides
+00:20:35.520 that they're worth it the accountant
+00:20:36.640 will only decide that they're worth it
+00:20:38.640 when they start to collect and publish
+00:20:41.440 and promote stories of the profound
+00:20:43.679 impact they've had in business owners
+00:20:45.039 lives
+00:20:46.320 the firms that do that start to
+00:20:48.159 recognize their own value and start to
+00:20:49.679 increase their prices something else
+00:20:51.440 that hasn't changed is the accounting
+00:20:53.120 firm business model
+00:20:54.799 the hierarchical structure equity
+00:20:57.440 partners taking the value out of the
+00:20:59.280 firm
+00:21:00.640 why is that uh what another part of that
+00:21:03.760 is is what members uh what accountants
+00:21:05.919 could and couldn't do if you were a
+00:21:07.039 member of icaw or certain u.s
+00:21:09.120 institutions
+00:21:10.400 up until november 2001 you couldn't
+00:21:12.559 market on very many things you could
+00:21:14.880 advertise and say we we exist and we're
+00:21:17.760 over here
+00:21:19.039 but you couldn't say why you might want
+00:21:20.400 to go and talk to us on that basis
+00:21:23.120 so it was very very difficult
+00:21:25.840 for a firm to innovate up until 20 years
+00:21:28.880 ago it was very difficult for a firm
+00:21:32.320 to
+00:21:33.679 um
+00:21:35.360 educate a market
+00:21:36.960 up until 20 years ago and because
+00:21:40.080 that's that 20 years gap is relatively
+00:21:43.039 new and because the owners of accounting
+00:21:46.240 firms today weren't trained or
+00:21:48.320 understood how to market how to sell
+00:21:51.440 or to be commercial in that regard
+00:21:53.760 and because recurring fees
+00:21:56.799 meet the requirements of many firm
+00:21:58.880 owners who aren't all that ambitious
+00:22:00.240 they don't want to have an empire they
+00:22:01.679 want to have a business working for
+00:22:02.799 themselves
+00:22:04.720 that's why things don't change because
+00:22:06.640 again
+00:22:07.440 the the market isn't asking for anything
+00:22:09.600 new
+00:22:11.120 the accounting firm owners don't know
+00:22:12.559 how to provide anything new
+00:22:16.080 and they get money
+00:22:18.000 whether they work at 100 miles an hour
+00:22:20.000 at 50 miles an hour it doesn't change so
+00:22:22.400 there's very very little incentive
+00:22:25.120 for anything to change there's no
+00:22:26.720 economic imperative for change and as a
+00:22:29.679 result the business model stays the same
+00:22:32.559 so as we draw too close listeners will
+00:22:35.039 be
+00:22:35.919 thinking about what seems to be a
+00:22:38.080 cynical view of the profession but i
+00:22:39.919 know you love it dearly and you are very
+00:22:41.760 passionate about
+00:22:43.039 changing it where you can so give us
+00:22:45.200 some hope
+00:22:46.559 as we draw to an end here with some
+00:22:49.039 predictions or what you would like to
+00:22:50.880 see happen as we emerge from coving and
+00:22:53.200 hopefully get back to
+00:22:55.039 something like we did before where the
+00:22:57.280 accountant held sway with the business
+00:23:00.159 owner
+00:23:01.840 this relatively new phenomena
+00:23:04.240 of
+00:23:05.360 venture capital or private equity funds
+00:23:08.400 coming in
+00:23:09.679 and funding the acquisition of
+00:23:11.200 accounting firms
+00:23:12.880 is wonderful
+00:23:14.320 is that a game changer
+00:23:16.080 it's a game improver okay um
+00:23:19.120 and the reason why it's good is that it
+00:23:20.960 forces firms to be commercial
+00:23:24.159 and when you force a phone to be
+00:23:25.600 commercial then you have to go out and
+00:23:28.640 tell your story
+00:23:30.159 when you have to go out and tell your
+00:23:31.520 story you don't have to rely in an
+00:23:33.679 accounting firm on hype and false claims
+00:23:37.039 you can legitimately
+00:23:38.960 delve into the treasure chest of your
+00:23:40.799 client stories and bring out the most
+00:23:42.960 wonderful the most true the most
+00:23:45.200 accurate examples of improvement
+00:23:48.240 in a business owner's life and so many
+00:23:51.039 people rob say to me i got into
+00:23:52.640 accounting to help people
+00:23:55.600 and i've ended up becoming compliant
+00:23:58.159 slaves nothing more than that
+00:24:00.720 well commercialization of the profession
+00:24:03.600 which is my little
+00:24:04.960 trademark phrase for 20-22
+00:24:07.520 that's that's
+00:24:09.679 what's going to happen
+00:24:11.120 when you commercialize an accounting
+00:24:12.960 firm and turn it into an accounting
+00:24:14.080 business and will farnell talks about
+00:24:15.440 the difference between accounting
+00:24:16.480 practice and the accounting business
+00:24:18.480 when you become an accounting business
+00:24:20.159 you become like every other business
+00:24:22.000 that just so happens to be
+00:24:24.159 in the in the market of accounting but
+00:24:26.799 the beauty is that you've got something
+00:24:28.799 of genuine true intrinsic value to offer
+00:24:31.600 that really does
+00:24:33.120 specifically
+00:24:34.559 demonstrably
+00:24:36.400 improve
+00:24:37.600 human beings lives
+00:24:39.279 and you can show it you can show how you
+00:24:40.720 take the headaches away you can show how
+00:24:42.799 you make the dream holiday come true how
+00:24:45.039 you made the dream house come true how
+00:24:47.840 you made the business empire expansion
+00:24:49.760 plan come true
+00:24:51.520 how you dug someone out of a hole how
+00:24:54.159 you stop the marriage from breaking up
+00:24:55.919 all of these outcomes are accounting
+00:24:57.840 related outcomes financial literacy
+00:25:00.400 related outcomes yeah and with more
+00:25:02.720 money coming into that center than
+00:25:04.640 northern didn't it with more money
+00:25:06.640 coming into the accounting profession
+00:25:10.240 more money will be spent on marketing
+00:25:12.960 which means education which means
+00:25:14.880 message and storytelling which means
+00:25:16.720 we're going to find out as a business
+00:25:18.320 owner community
+00:25:19.600 just how incredible and unique this
+00:25:22.720 accounting profession really is
+00:25:24.880 well martin it's so fascinating to hear
+00:25:26.480 you
+00:25:27.200 talk about your passion for the
+00:25:28.960 profession you've said it faithfully
+00:25:31.120 over many years and you've got a few
+00:25:32.720 still to go what would be your part in
+00:25:34.559 words as a postcard to the profession if
+00:25:37.279 you like
+00:25:38.400 to give them some sagely words of advice
+00:25:40.960 and encouragement for the
+00:25:42.960 let's face it probably a tough year
+00:25:44.960 coming up
+00:25:46.480 give yourself some credit and then get
+00:25:48.159 out of your own way
+00:25:50.320 and what i mean by that is that i would
+00:25:52.640 love for every accountant listening to
+00:25:54.400 this
+00:25:55.200 to review
+00:25:56.400 their career and their firm's career
+00:25:59.360 and if you're brand new to accounting if
+00:26:00.960 you're in your first second year
+00:26:02.240 qualified look at your firm and look at
+00:26:04.720 what they've done
+00:26:06.320 and if you're experienced veteran look
+00:26:08.080 at what you've done and start to recall
+00:26:11.279 exactly what you've done for people they
+00:26:13.760 happen to be clients but it's still
+00:26:15.440 people
+00:26:16.640 and i would
+00:26:18.720 celebrate this year end
+00:26:20.720 and celebrate yourself by giving
+00:26:22.720 yourself the gift of validation
+00:26:25.760 you're good you're really good but you
+00:26:28.080 refuse to acknowledge it and you refuse
+00:26:30.080 to broadcast it
+00:26:31.600 so let's take some time to actually
+00:26:33.200 celebrate the hard work you worked hard
+00:26:35.440 to get your qualification but then you
+00:26:36.799 delivered on it
+00:26:38.559 let's celebrate you
+00:26:40.320 and then let's understand that all these
+00:26:42.000 reservations and fears and scarcity
+00:26:44.320 mentalities and
+00:26:46.000 conservative outlooks that you've got
+00:26:47.679 are stopping you from realizing your
+00:26:49.120 full potential
+00:26:50.640 it's such a strong measure to end with
+00:26:52.159 and that's why on the podcast we've been
+00:26:53.679 focusing on mental resilience and
+00:26:55.520 self-confidence and affirmation and
+00:26:57.200 building your reputation getting your
+00:26:59.279 mindset right so that you can truly
+00:27:01.600 serve the clients and have a fulfilling
+00:27:03.600 career
+00:27:05.279 yes i mean
+00:27:06.640 you know i've been speaking generalities
+00:27:08.480 throughout this entire uh segment here
+00:27:11.679 and i'm sure there's listeners going no
+00:27:13.840 that's not right i'm different
+00:27:16.640 and you may be
+00:27:17.919 maybe you are but your colleagues aren't
+00:27:20.720 really for to speak to a whole audience
+00:27:22.720 to speak on mass
+00:27:24.399 to speak in generalities you're not
+00:27:26.960 you will not allow yourself to be as
+00:27:28.799 successful as you could be
+00:27:30.559 and and
+00:27:31.840 i would like to see a lot more ambition
+00:27:33.600 a lot more verve a lot more guts a lot
+00:27:35.919 more hot spa
+00:27:37.840 from the accounting profession to really
+00:27:40.240 impact business owners lives and reap
+00:27:42.159 the rewards as a result
+00:27:43.840 well let's raise a glass to that that's
+00:27:45.440 a great source martin bisic thanks so
+00:27:47.039 much for your time and your inspiration
+00:27:48.720 today that's been great thank you
+00:27:51.510 [Music]
+00:27:53.360 you've been watching or listening to the
+00:27:55.200 accounting influencers podcast featuring
+00:27:57.200 hosts rob brown and martin bisset with
+00:27:59.600 key interviews
+00:28:01.120 what's working in the accounting
+00:28:02.720 profession and news from the accounting
+00:28:04.880 and fintech world that helps you do your
+00:28:06.559 jobs better we go out to 144 countries
+00:28:09.120 over 20 000 unique listeners with a
+00:28:11.520 hundred thousand downloads and it is
+00:28:13.520 accredited for continued professional
+00:28:15.360 education and development thank you for
+00:28:17.520 tuning in

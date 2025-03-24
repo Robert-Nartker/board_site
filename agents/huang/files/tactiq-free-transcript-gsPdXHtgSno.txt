@@ -1,0 +1,481 @@
+# tactiq.io free youtube transcript
+# Nvidia Founder and CEO Jensen Huang on the AI revolution
+# https://www.youtube.com/watch/gsPdXHtgSno
+
+00:00:00.000 Jensen Huang: I think it’s fun to be inventing the next 
+00:00:02.720 computer era. It’s fun to see all these amazing applications 
+00:00:06.480 being created. The part of it that is just really intense is 
+00:00:10.360 just, you know, the world on our shoulders.David Solomon: I hope everybody’s been  
+00:00:23.680 enjoying the 
+00:00:24.200 conference. It’s a fantastic event. Lots of great companies. 
+00:00:28.360 Couple thousand people here. It’s really, really terrific. 
+00:00:31.280 And obviously a real highlight and a real privilege to have 
+00:00:35.160 Jensen, the president and CEO of Nvidia, here.Since you founded Nvidia in 1993, you’ve pioneered 
+00:00:42.880 accelerating computing. The company’s invention of the 
+00:00:45.840 GPU in 1999 sparked the growth of the PC gaming market, 
+00:00:50.440 redefining computers, and igniting the era of modern AI. 
+00:00:55.200 Jensen holds a BSE degree from Oregon State University 
+00:00:58.160 and an MSE degree from Stanford. And so I want to start 
+00:01:01.560 by welcoming you, Jensen. Everybody, please welcome 
+00:01:03.720 2Jensen to the stage. 
+00:01:04.706 Jensen Huang: Thank you. Thank you. Thank you.David Solomon: Thirty-one years ago, founded the 
+00:01:13.240 company. You’ve transformed yourself from a gamingcentered GPU company to  
+00:01:18.640 one that offers a broad range ofhardware, software, to the data  
+00:01:22.000 center industry. And I’djust like you to start  
+00:01:23.720 by talking a little bit about thejourney. You know, when you started, what were you 
+00:01:27.320 thinking, how has it evolved? Because it’s been a pretty 
+00:01:30.360 extraordinary journey.Jensen Huang: Yeah. David,  
+00:01:32.960 it’s great to be here. Thething that we got right, I would say,  
+00:01:39.360 is our vision that therewould be another form  
+00:01:44.640 of computing that could augmentgeneral purpose computing to solve problems that a 
+00:01:51.360 general purpose instrument won’t ever be good at. And 
+00:01:57.680 that processor would start out doing something that was 
+00:02:02.960 insanely hard for CPUs to do, and it was computergraphics. 
+00:02:07.400 But that we would expand that over time to do other 
+00:02:11.560 things. The first thing that we chose, of course, was image 
+00:02:14.040 3processing,  
+00:02:15.760 which is complementary to computer graphics.We extended it to physics simulation because,  
+00:02:21.720 in thedomain,  
+00:02:22.440 the application domain that we selected, videogames, you want it to be beautiful,  
+00:02:26.040 but you also want it tobe dynamic to create virtual worlds. 
+00:02:29.520 We took it step by step by step, and we took it into 
+00:02:31.680 scientific computing beyond that. One of the firstapplications was molecular dynamic  
+00:02:36.480 simulation. Anotherwas seismic processing,  
+00:02:39.440 which is basically inverse physics.Seismic processing is very  
+00:02:44.400 similar to CT reconstruction,another form of inverse physics. 
+00:02:49.680 And so we just took it step by step by step, reasoned about 
+00:02:53.200 complementary types of algorithms, adjacent industries, 
+00:02:58.200 kind of solved our way here, if you will. But the common 
+00:03:01.440 vision at the time was that accelerated computing would be 
+00:03:04.520 able to solve problems that are interesting. And that, if we 
+00:03:08.240 were able to keep the architecture consistent – meaning, 
+00:03:13.520 have an architecture where software that you develop today 
+00:03:18.360 could run on a large install base that you’ve left behind, 
+00:03:21.800 and the softer that you created in the past would be 
+00:03:24.600 accelerated even further by new technology – this way of 
+00:03:28.680 thinking about architecture compatibility, creating large 
+00:03:31.480 4install base,  
+00:03:32.800 taking the software investment of theecosystem along with us,  
+00:03:37.280 that psychology started in 1993.And we carry it to this day,  
+00:03:43.120 which is the reason whyNvidia’s CUDA has such a massive  
+00:03:46.200 install base because wealways protected it. 
+00:03:49.840 Protecting the investment of software developers has been 
+00:03:52.920 the number one priority of our company since the very 
+00:03:55.400 beginning. And going forward, some of the things that we 
+00:03:59.360 solved along the way, of course, you know, learning how to 
+00:04:03.160 be a founder, learning how to be a CEO, learning how to 
+00:04:05.680 conduct a business, learning how to build a company. 
+00:04:07.945 David Solomon: Not easy stuff.Jensen Huang: These are all, you know, new skills. 
+00:04:10.560 And we’re just kind of, like, learning how to invent the 
+00:04:14.720 modern computer gaming industry, you know? Nvidia – 
+00:04:19.320 people don’t know this, but Nvidia’s the largest install base 
+00:04:22.960 of video game architecture in the world. GeForce is some 
+00:04:26.840 300 million gamers in the world, still growing incredibly 
+00:04:30.880 well, super vibrant.And so I think every single time  
+00:04:35.520 we had to go and enter into5 
+00:04:37.800 a new market, we had to learn new algorithms, new market 
+00:04:41.240 dynamics, create new ecosystems. And the reason why we 
+00:04:45.320 have to do that is because, unlike a general purpose 
+00:04:47.720 computer, if you built that processor then everything 
+00:04:52.120 eventually just kind of works. But we’re an accelerated 
+00:04:55.280 computer, which means the question you have to askyourself is: What do you accelerate? 
+00:04:59.840 There’s no such thing as a universal accelerator. Because 
+00:05:03.200 yeah?David Solomon: Dig  
+00:05:03.720 down on this a little bit. Just talkabout the differences between general purpose and 
+00:05:07.080 accelerated computing.Jensen Huang: If you look  
+00:05:08.960 at software, out of your bodyof software that you wrote,  
+00:05:13.080 there’s a part of the softwareinside which has some of the  
+00:05:16.520 magic kernels, you know, themagic algorithms. And these  
+00:05:19.800 algorithms are differentdepending on whether  
+00:05:22.680 it’s computer graphics or imageprocessing or whatever it happens  
+00:05:25.200 to be. It could be fluids.It could be particles.  
+00:05:27.600 It could be inverse physics, as Imentioned. It could be image domain type stuff. 
+00:05:31.960 6And so all these  
+00:05:33.040 different algorithms are different. And ifyou create a processor that is somehow  
+00:05:40.440 really, really goodat those algorithms  
+00:05:43.480 and you complement the CPU wherethe CPU does whatever it’s good at,  
+00:05:51.200 theoretically, you couldtake an application and speed  
+00:05:54.520 it up tremendously. And thereason for that is because  
+00:05:57.560 usually some 5-10% of the coderepresents 99.999% of the runtime. 
+00:06:06.840 And so if you take that 5% of the code and you offloaded it 
+00:06:11.040 on our accelerator then, technically, you should be able to 
+00:06:15.600 speed up the application 100 times. And it’s not abnormal 
+00:06:20.200 that we do that. It’s not unusual. And so we’ll speed up 
+00:06:24.120 image processing by 500 times.And now we do data processing.  
+00:06:28.840 Data processing is one ofmy favorite applications  
+00:06:31.040 because almost everything relatedto machine learning, which is a  
+00:06:35.040 data-driven way of doingsoftware, data processing  
+00:06:37.560 is involved. And we acceleratethe living daylights out of that.  
+00:06:41.880 But in order to do that, youhave to create that library. 
+00:06:44.560 And so we just did it one domain after another domain 
+00:06:47.680 after another domain. We have a rich library for selfdriving cars. We have a fantastic library for  
+00:06:54.320 robotics.7 
+00:06:55.720 Incredible library for virtual screening, whether it’s 
+00:06:59.800 physics-based virtual screening or neural network-based 
+00:07:02.600 virtual screening. Incredible library for climate tech. And 
+00:07:07.200 so one domain after another domain.David Solomon: After another. 
+00:07:10.266 Jensen Huang: And so we have to go meet friends and 
+00:07:13.080 create the market. And so what Nvidia is really good at, as 
+00:07:15.560 it turns out, is creating new markets. And we’ve done it for 
+00:07:20.040 now so long that it seems like Nvidia’s accelerated 
+00:07:22.840 computing is everywhere, but we really had to do it one at a 
+00:07:26.440 time. One industry at a time.David Solomon: So  
+00:07:29.880 I know that many investors in theaudience are super focused on the  
+00:07:33.920 data center market, andit would be interesting  
+00:07:36.320 to kind of get your perspective, thecompany’s perspective on the medium- and long-term 
+00:07:41.880 opportunity set. You know, obviously your industry’s 
+00:07:45.240 enabling – your term – the next industrial revolution. What 
+00:07:49.960 are the challenges the industry faces? Talk a little bit 
+00:07:52.400 about how you view the data center market as we sit here 
+00:07:55.240 today.8 
+00:07:56.146 Jensen Huang: You know, these giant data centers are 
+00:07:58.120 super inefficient because it’s filled with air, and air is a 
+00:08:01.440 lousy conductor of electricity. And so what we want to do 
+00:08:04.720 is take that few, you know, call it 50-, 100-, 200-megawatt 
+00:08:10.040 data center, which is sprawling, and you densify it into a 
+00:08:14.240 really, really small data center.And so if you look at one of our  
+00:08:17.120 server racks, you know,Nvidia server racks look  
+00:08:20.160 expensive and it could be a couplemillion dollars per rack. But  
+00:08:24.400 it replaces thousands ofnodes. The amazing thing is  
+00:08:29.640 just the cables of connectingold general purpose computing  
+00:08:33.799 systems cost more thanreplacing all of those  
+00:08:37.799 and densifying into one rack.The benefit of densifying,  
+00:08:40.960 also, is, now that you’vedensified, you can liquid  
+00:08:43.039 cool it because it’s hard to liquidcool a data center that’s very large,  
+00:08:46.400 but you can liquid coola data center that’s very  
+00:08:48.280 small. And so the first thing we’redoing is modernizing data centers,  
+00:08:52.320 accelerating it,densifying it,  
+00:08:54.520 making it more energy efficient. You savemoney. You save power. You save – you know,  
+00:08:58.800 much moreefficient. 
+00:09:00.400 If we just focused on that, that’s the next ten years. We’ll 
+00:09:05.240 9just accelerate that. Now,  
+00:09:07.800 of course, there’s a seconddynamic. Because of Nvidia’s  
+00:09:11.880 accelerating computingbrought such enormous cost  
+00:09:15.640 reductions to computing, it’slike in the last ten years,  
+00:09:19.440 instead of Moore’s law being100x, we scaled computing  
+00:09:23.120 by 1,000,000x in the last tenyears. And so the question is: What would you do 
+00:09:27.440 different if your plane traveled a million times faster? What 
+00:09:32.680 would you do different?And so all of a sudden,  
+00:09:35.240 people said, hey, listen, why don’twe just use computers to write  
+00:09:38.360 software instead of ustrying to figure out  
+00:09:41.320 what the features are, instead of ustrying to figure out what the algorithms  
+00:09:44.160 are. We’ll just givethe all the data,  
+00:09:47.360 all the predictive data to the computer andlet it figure out what the algorithm is.  
+00:09:50.400 Machine learning.Generative AI. 
+00:09:52.200 And so we did it in such large scale on so many data 
+00:09:56.720 domains that now computers understand not just how to 
+00:10:02.400 process the data but the meaning of the data. And because 
+00:10:05.920 it understands multiple modalities at the same time, it can 
+00:10:09.000 translate data. And so it can go from English to images, 
+00:10:12.040 images to English, English to proteins, proteins to 
+00:10:14.920 chemicals.10 
+00:10:15.840 And so because it understood all of the data at one time, it 
+00:10:21.200 can now do all this translation we call generative AI. Large 
+00:10:24.880 amount of text into small amount of text. Small amount of 
+00:10:27.000 text into large amount of text, you know? So on and so 
+00:10:29.960 forth. We’re now in this computer revolution.Now, what’s amazing is the first  
+00:10:35.680 trillion dollars of datacenters is going to get  
+00:10:37.680 accelerated and invented this newtype of software called generative  
+00:10:41.560 AI. This generative AI isnot just a tool, it’s a skill.  
+00:10:49.320 And so this is the interestingthing. This s why a new industry  
+00:10:53.320 has been created. Andthe reason for that is,  
+00:10:55.760 if you look at the whole IT industryup until now, we’ve been making  
+00:11:00.200 instruments and toolsthat people use. 
+00:11:03.640 For the very first time, we’re going to create skills that 
+00:11:06.920 augment people. And so that’s why people think that AI is 
+00:11:13.080 going to expand beyond the trillion dollars of data centers 
+00:11:16.400 and IT and into the world of skills.So what’s a skill? A digital chauffeur is a skill. 
+00:11:22.680 Autonomous, you know? A digital assembly line worker, 
+00:11:29.400 robot. You know, digital customer service, chatbot. Digital 
+00:11:36.120 11employee for  
+00:11:38.600 planning an Nvidia supply chain. We use alot of service now in our company,  
+00:11:43.320 and we have digitalemployee service.  
+00:11:46.280 And so now we have all these digitalhumans essentially, and that’s the wave  
+00:11:50.600 of AI that we arein now. 
+00:11:52.425 David Solomon: So now step back. Shift a little based 
+00:11:55.640 on everything you just said. There’s definitely an ongoing 
+00:11:58.640 debate in financial markets as to whether or not, as we 
+00:12:02.120 continue to build this AI infrastructure, there is an 
+00:12:06.200 adequate return on investment. How would you assess 
+00:12:10.400 customer ROI at this point in the cycle? And if you look 
+00:12:14.320 back and you kind of think about PCs, cloud computing 
+00:12:17.800 when they were at similar points in their adoption cycles, 
+00:12:21.360 how did the ROIs look then compared to where we are now 
+00:12:25.440 as we continue to scale?Jensen Huang: Yeah,  
+00:12:26.920 so let’s take a look. Before cloud,the major trend was virtualization,  
+00:12:30.680 if you guys rememberthat. And virtualization  
+00:12:32.840 basically said let’s take all of thehardware we have in the data center,  
+00:12:37.280 let’s virtualize it intoessentially virtual data  
+00:12:40.440 center and then we could moveworkload across the data  
+00:12:44.560 center instead of associating itdirectly to a particular computer. As a result,  
+00:12:49.720 the tendency12 
+00:12:51.600 and the utilization of that data center improved, and we 
+00:12:55.240 saw essentially a 2 to 1, you know, 2.5 to 1, if you will, cost 
+00:13:00.400 reduction in data centers overnight. Virtualization. 
+00:13:03.960 The second thing that we then said was, after wevirtualized it, we put those virtual computers  
+00:13:09.760 right into thecloud. As a result,  
+00:13:12.320 multiple companies, not just onecompany’s many applications,  
+00:13:15.760 multiple companies canshare the same resource.  
+00:13:18.440 Another cost reduction. Theutilization again went up. 
+00:13:22.800 By the way, this last ten years of all this – 15 years of all 
+00:13:26.320 this stuff happening, masked the fundamental dynamic 
+00:13:30.560 which was happening underneath, which is Moore’s Law 
+00:13:32.360 ending. We found a 2x, another 2x in cost reduction, and 
+00:13:38.480 it hid the end of the transistor scaling. It hid the 
+00:13:41.920 transistor, the CPU scaling. Then all of a sudden, we 
+00:13:45.520 already got the utilization cost reductions out of both of 
+00:13:48.680 these things. We’re now out. And that’s the reason why we 
+00:13:52.280 see data center and computer inflation happening right 
+00:13:56.120 now.And so the  
+00:13:57.440 first thing that’s happening is acceleratedcomputing. And so it’s not uncommon for you  
+00:14:02.280 to take your13 
+00:14:03.280 data processing work – and there’s this thing called Spark. 
+00:14:08.160 For any one of you, Spark is probably the most used data 
+00:14:11.880 processing engine in the world today. If you use Spark and 
+00:14:14.880 you accelerate it with Nvidia in the cloud, it’s not unusual 
+00:14:18.240 to see a 20 to 1 speed up. And so you’re going to save ten – 
+00:14:23.400 of course, Nvidia’s GPU augments the CPU, so thecomputing cost goes up a little  
+00:14:28.720 bit. Maybe it doubles. Butyou reduce the computing time  
+00:14:32.200 by about 20 times, and soyou get a 10x savings. 
+00:14:36.665 David Solomon: Sure.Jensen Huang: And it’s  
+00:14:37.400 not unusual to see this kind ofROI for accelerating computing,  
+00:14:41.160 so I would encourage all ofyou, everything that you can  
+00:14:45.320 accelerate, to accelerate. Andthen once you accelerate it,  
+00:14:48.920 run it with GPUs. And sothat’s the instant ROI  
+00:14:53.360 that you get by acceleration.Now beyond that, the generative  
+00:14:59.640 AI conversation is in thefirst wave of gen AI, which  
+00:15:05.320 is where the infrastructureplayers like ourselves and  
+00:15:08.440 all the cloud service providersput the infrastructure in the cloud  
+00:15:12.640 so that developers coulduse these machines to  
+00:15:16.000 train the models and fine tune themodels, guardrail the models, so on,  
+00:15:19.040 so forth. And the14 
+00:15:20.800 return on that is fantastic because the demand is so great 
+00:15:25.040 that, for every dollar that they spend with us translates to 
+00:15:29.840 $5 worth of rentals. And that’s happening all over the 
+00:15:33.280 world, and everything is all sold out.And so the demand for this is just  
+00:15:37.720 incredible. Some of theapplications that we  
+00:15:41.520 already know about, of course thefamous ones, OpenAI’s ChatGPT or  
+00:15:46.800 GitHub Co-Pilot or cogenerators that we use in our company, the productivity 
+00:15:52.800 gains are just incredible. You know, there’s not one 
+00:15:55.760 software engineer in our company today who doesn’t use 
+00:15:58.560 co-generators, either the ones that we built ourselves for 
+00:16:02.560 CUDA or USD, which is another language that we use in 
+00:16:06.360 the company or Verilog or C and C++ and co-generation. 
+00:16:12.680 And so I think the days of every line of code being written 
+00:16:16.520 by a software engineer, those are completely over. And the 
+00:16:21.240 idea that every one of our software engineers would 
+00:16:26.040 essentially have companion digital engineers working with 
+00:16:30.520 them 24/7, that’s the future. And so the way I look at 
+00:16:35.080 Nvidia, we have 32,000 employees, but those 32,000employees are surrounded by hopefully 100x  
+00:16:43.160 more digitalengineers. 
+00:16:44.343 15David Solomon: Sure, sure. Lots of industries 
+00:16:46.920 embracing this. What use cases/industries are you most 
+00:16:51.320 excited about?Jensen Huang: Well, in our company, we use it for 
+00:16:55.160 computer graphics. We can’t do computer graphicsanymore without artificial intelligence. We  
+00:16:59.120 compute onepixel. We infer the other  
+00:17:01.920 32. I mean, it’s incredible. Andso we hallucinate, if you will,  
+00:17:07.359 the other 32, and it lookstemporally stable. It looks  
+00:17:11.240 photorealistic. And the imagequality is incredible. The  
+00:17:15.520 performance is incredible. Theamount of energy we save –  
+00:17:19.560 computing one pixel takes a lotof energy. That’s, you know,  
+00:17:22.920 computation. Inferencing theother 32 takes very little energy,  
+00:17:27.400 and you can do itincredibly fast. 
+00:17:29.160 So one of the takeaways there is AI isn’t just about training 
+00:17:33.160 the model. Of course, that’s just the first step. It’s about 
+00:17:35.760 using the model. And so when you use the model, you 
+00:17:38.480 save enormous amounts of energy. You save an enormous 
+00:17:40.880 amount of time, processing time. So we use it for computer 
+00:17:43.640 graphics. If not for AI, we wouldn’t be able to serve the 
+00:17:47.960 autonomous vehicle industry. If not for AI, the work that 
+00:17:51.120 we’re doing in robotics, digital biology, just about every 
+00:17:54.660 16tech bio company that  
+00:17:55.880 I meet these days are built on top ofNvidia. And so they’re using  
+00:17:58.920 it for data processing orgenerating proteins or for – 
+00:18:04.345 David Solomon: That seems like a super exciting space. 
+00:18:06.102 Jensen Huang: Oh, it’s incredible. Yeah. Smallmolecule generation. Virtual screening.  
+00:18:11.240 I mean, just thatwhole space is going  
+00:18:13.040 to get reinvented for the very first timewith computer-aided drug discovery because  
+00:18:18.240 of artificialintelligence.  
+00:18:19.680 And so incredible work being done there.David Solomon: Yeah. Talk about competition. Talk 
+00:18:25.640 about your competitive moat. There’s certainly public and 
+00:18:29.400 private companies looking to disrupt your leadership 
+00:18:31.480 position. How do you think about your competitive moat? 
+00:18:33.626 Jensen Huang: Well, first of all, I think there are several 
+00:18:35.240 things that are very different about us. The first thing is to 
+00:18:37.800 remember that AI is not about a chip. AI is about an 
+00:18:43.120 infrastructure. Today’s computing is not build a chip and 
+00:18:46.440 people come buy your chips, put it into a computer. That’s 
+00:18:49.880 really kind of 1990s.17 
+00:18:54.320 The way that computers are built today, if you look at our 
+00:18:58.200 new Blackwell system, we designed seven different types of 
+00:19:01.760 chips to create the system. Blackwell is one of them. So 
+00:19:06.040 the amazing thing is, when you want to build this AI 
+00:19:08.800 computer, people say words like “supercluster,”“infrastructure,” “supercomputer” for good  
+00:19:16.400 reason becauseit's not a chip,  
+00:19:18.160 it’s not a computer per se. And so we’rebuilding entire data centers. 
+00:19:23.160 By building the entire data center, if you just ever look at 
+00:19:26.640 one of these superclusters, imagine the software that has 
+00:19:29.560 to go into it to run it. All the software that’s inside that 
+00:19:32.400 computer is completely bespoke. Somebody has to go write 
+00:19:34.760 that. So the person who designs the chip and the company 
+00:19:37.560 that designs that supercomputer, that supercluster, and all 
+00:19:41.640 the software that goes into it, it makes sense that it’s the 
+00:19:44.560 same company because it’ll be more optimized, it’ll be more 
+00:19:47.440 performant, more energy efficient, more cost effective. And 
+00:19:50.800 so that’s the first thing.The second thing is AI is  
+00:19:54.800 about algorithms, and we’rereally, really good at  
+00:19:59.000 understanding what is the algorithm?What’s the implication to  
+00:20:01.160 the computing stack underneath?And how do I distribute this computation  
+00:20:06.800 across millions of18 
+00:20:08.240 processors, run it for days on end with the computer being 
+00:20:13.480 as resilient as possible, achieving great energy efficiency, 
+00:20:18.000 getting the job done as fast as possible, so on, so forth? 
+00:20:20.440 And so we’re really, really good at that.And then lastly, in the end,  
+00:20:27.080 AI is computing. AI is softwarerunning on computers. And we know that the most 
+00:20:33.920 important thing for computers is install base, having the 
+00:20:37.160 same architecture across every cloud, across on prem the 
+00:20:41.720 cloud, and having the same architecture available whether 
+00:20:45.240 you’re building it in the cloud in your own supercomputer 
+00:20:48.480 or trying to run it in your car or some robot or some PC. 
+00:20:52.080 That having that same identical architecture that runs all 
+00:20:54.840 the same software is a big deal. It’s called install base. 
+00:20:58.160 And so the discipline that we’ve had for the last 30 years 
+00:21:02.440 has really led to today and is the reason why the most 
+00:21:06.360 obvious architecture to use, if you were to start a company, 
+00:21:09.440 is to use Nvidia’s architecture because we’re in every cloud. 
+00:21:13.240 We’re anywhere you’d like to buy it. And whatever 
+00:21:16.440 computer you pick up, so long as it says Nvidia inside, you 
+00:21:20.800 know you can take the software and run it.David Solomon: Yeah. You’re innovating at an  
+00:21:24.200 incredibly19 
+00:21:25.240 fast pace. I want you to talk a little bit more about 
+00:21:27.120 Blackwell. Four times faster on training. Thirty times 
+00:21:30.640 faster inference than its predecessor, Hopper. You know, it 
+00:21:35.240 just seems like you’re innovating at such a quick pace. 
+00:21:37.600 Can you keep up this rapid pace of innovation? And when 
+00:21:41.440 you think about your partners, how do your partners keep 
+00:21:44.240 up with the pace of innovation you’re delivering?Jensen Huang: The pace of innovation, our basis 
+00:21:50.360 methodology is to take – because, remember, we’re building 
+00:21:53.720 an infrastructure, there’s seven different chips. Each 
+00:21:57.880 chip’s rhythm is probably, at best, two years. At best, two 
+00:22:04.960 years. We could give it a midlife kicker every year, but 
+00:22:10.160 architecturally, if you’re coming up with a new architecture 
+00:22:13.200 every two years, you’re running at the speed of light, okay? 
+00:22:16.160 You’re running insanely fast.Now, we have seven different chips,  
+00:22:20.440 and they all contributeto the performance. And  
+00:22:22.800 so we could innovate and bring anew AI cluster, a supercluster,  
+00:22:28.640 to the market every singleyear that’s better than the  
+00:22:31.200 last generation because we haveso many different pieces to work  
+00:22:34.400 around. And so whenBlackwell is three  
+00:22:37.880 times the performance, for somebodywho has a given amount of power – say,  
+00:22:42.760 1 gigawatt – that’s20 
+00:22:44.880 three times more revenues. That performance translates to 
+00:22:48.760 throughput. That throughput translates to revenues. And 
+00:22:51.840 so for somebody who has a gigawatt of power to use, you 
+00:22:54.800 get three times the revenues. There’s no way you can give 
+00:22:58.640 somebody a cost reduction or discount on chips to make 
+00:23:02.280 up for three times the revenues. And so the ability for us 
+00:23:06.600 to deliver that much more performance through theintegration of all these different parts and  
+00:23:11.960 optimizing acrossthe whole stack and  
+00:23:13.960 optimizing across the whole cluster,we can now deliver better and better  
+00:23:17.840 value at much higherrates. 
+00:23:20.320 The opposite of that is equally true. For any amount of 
+00:23:23.920 money you want to spend – so for iso power, you get three 
+00:23:26.960 times the revenues. For iso spend, you get three times the 
+00:23:32.400 performance, which is another way of saying costreduction. And so we have the best perf  
+00:23:38.040 per watt, which isyour revenues. We  
+00:23:40.160 have the best perf per TCO, whichmeans your gross margins. And so  
+00:23:44.720 if we keep pushing thisout to the marketplace,  
+00:23:47.080 customers get to benefit from that,not once every two years and it’s architecturally 
+00:23:52.120 compatible. And so the software you developed yesterday 
+00:23:55.160 will run tomorrow. The software you develop today will run 
+00:23:58.080 across your entire install base. So we can run incredibly 
+00:24:01.360 21fast. 
+00:24:02.320 If every single architecture was different then you can’t do 
+00:24:05.800 this. It takes a year just to cobble together a system. 
+00:24:11.480 Because we built everything together, the day we ship it to 
+00:24:14.800 you – and, you know, it’s pretty famous. Somebodytweeted out that in 19 days after we  
+00:24:19.480 shipped systems tothem, they had a  
+00:24:21.360 supercluster up and running. Nineteendays! You can’t do that if you were  
+00:24:25.680 cobbling together allthese different chips  
+00:24:27.280 and writing this software. You’ll belucky if you can do it in a year. 
+00:24:30.640 So I think our ability to transfer our innovation pace to 
+00:24:35.520 customers getting more revenues, getting better gross 
+00:24:38.560 margins, that’s a fantastic thing.David Solomon: The majority of your supply chain 
+00:24:42.880 partners operate out of Asia, particularly Taiwan. Given 
+00:24:46.440 what’s going on geopolitically, how are you thinking about 
+00:24:49.080 that as you look forward?Jensen Huang: Yeah, the Asia  
+00:24:51.800 supply chain, as youknow, is really,  
+00:24:54.000 really sprawling and interconnected.People think that when we say GPUs,  
+00:24:59.680 you know, because a22 
+00:25:01.220 long time ago when I announced a new chip, a newgeneration of chips, I would hold up the  
+00:25:06.360 chip. And so thatwas a new GPU. 
+00:25:09.480 Nvidia’s new GPUs are 35,000 parts, weighs 80 pounds, 
+00:25:17.480 consumes 10,000 amps. When you rack it up, it weighs 
+00:25:22.080 3,000 pounds. And so these GPUs are so complex, it’s 
+00:25:26.560 built like an electric car. Components like an electric car. 
+00:25:32.240 And so the ecosystem is really diverse and reallyinterconnected in Asia. 
+00:25:37.760 We try to design diversity and redundancy into every aspect 
+00:25:42.120 wherever we can. And then the last part of it is to have 
+00:25:47.720 enough intellectual property in our company in the event 
+00:25:51.240 that we have to shift from one fab to another, we have the 
+00:25:54.320 ability to do it. Maybe the process technology is not as 
+00:25:57.320 great. Maybe we won’t be able to get the same level of 
+00:26:02.120 performance or cost. But we will be able to provide the 
+00:26:05.080 supply. And so I think in the event anything were to 
+00:26:09.800 happen, we should be able to pick up and fab it somewhere 
+00:26:13.120 else.We’re fabbing  
+00:26:15.120 out of TSMC because it’s the world’s best,and it’s the world’s best not by a small  
+00:26:20.440 margin. It’s the23 
+00:26:21.260 world’s best –David Solomon: It’s a lot. 
+00:26:22.546 Jensen Huang: Yes, incredible margin. And so not only 
+00:26:25.840 just the long history of working with them, the great 
+00:26:28.920 chemistry, their agility, the fact that they could scale. 
+00:26:33.360 Remember, Nvidia, last year’s revenue had a major hockey 
+00:26:38.360 stick. That major hockey stick wouldn’t have been possible 
+00:26:42.160 if not for the supply chain responding. And so the agility of 
+00:26:45.960 that supply chain, including TSMC, is incredible.And in just less than a year,  
+00:26:51.720 we’ve scaled up COA capacitytremendously. And we’re going  
+00:26:56.120 to have to scale it up evenmore next year and scale it up  
+00:26:58.480 even more the year afterthat. But nonetheless,  
+00:27:01.120 the agility and their capability torespond to our needs is just  
+00:27:06.040 incredible. And so we usethem because they’re great,  
+00:27:10.400 but, if necessary, of course wecan always bring up others. 
+00:27:13.425 David Solomon: Yeah. Company is incredibly wellpositioned. A lot of great stuff we’ve talked  
+00:27:19.520 about. What doyou worry about? 
+00:27:21.224 24Jensen Huang: Our company works with every AI 
+00:27:23.800 company in the world today. We’re working with every 
+00:27:26.880 single data center in the world today. I don’t know one 
+00:27:29.800 data center, one cloud service provider, one computer 
+00:27:32.400 maker we’re not working with. And so what comes with 
+00:27:36.760 that is an enormous responsibility, and we have a lot of 
+00:27:41.000 people on our shoulders and everybody’s counting on us. 
+00:27:45.600 Demand is so great that delivery of our components and 
+00:27:49.960 our technology and our infrastructure and software is 
+00:27:52.520 really emotional for people because it directly affects their 
+00:27:55.640 revenues, it directly affects their competitiveness. And so 
+00:27:59.600 we probably have more emotional customers today than – 
+00:28:04.680 and deservedly so.You know, if we could  
+00:28:08.160 fulfill everybody’s needs then theemotion would go away, but it’s  
+00:28:12.720 very emotional. It’s reallytense. We’ve got a lot of  
+00:28:16.440 responsibility on our shoulders,and we’re trying to do the best  
+00:28:18.840 we can. And here we areramping Blackwell, and it’s  
+00:28:23.120 in full production. We’ll ship inQ4 and start scaling in Q4 and  
+00:28:29.680 into next year. And thedemand on it is so great,  
+00:28:33.280 and everybody wants to be firstand everybody wants to be  
+00:28:36.720 most and everybody wants to be– and so the intensity is really,  
+00:28:41.520 really quite extraordinary,you know? 
+00:28:43.580 25And so I think it’s fun  
+00:28:45.040 to be inventing the next computerera. It’s fun to see all these  
+00:28:49.800 amazing applications beingcreated. It’s incredible  
+00:28:53.480 to see robots walking around. Youknow, it’s incredible to have these  
+00:28:58.200 digital agents comingtogether as a team,  
+00:29:01.840 solving problems in your computer. It’samazing to see the AI’s that we’re  
+00:29:06.640 using to design the chipsthat will run our AI’s. All  
+00:29:10.400 of that stuff is incredible to see.The part of it that is just really  
+00:29:15.160 intense is just, you know,the world on our shoulders.  
+00:29:18.120 And so less sleep is fine, and,you know, we’re going – three solid  
+00:29:23.680 hours. That’s all weneed. 
+00:29:24.945 David Solomon: Well, good for you. I need more than 
+00:29:26.560 that. I could spend another half hour. Unfortunately, 
+00:29:29.560 we’ve got to stop. Jensen, thank you very much. Thank 
+00:29:31.480 you for being here and sharing with us today.Jensen Huang: Thank you.
