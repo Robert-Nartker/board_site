@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 30
+  key: board_meeting_auth
+  name: board_meeting_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$vhx6VNF.wvv1H3ig/dcEeOm67msRtdf33ArIAbWKsHn3y01k7TEJ2

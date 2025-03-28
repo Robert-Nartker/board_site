@@ -1,4 +1,6 @@
-# Environment variables
+# Virtual Environment
+venv/
+env/
 .env
 
 # Python
@@ -7,7 +9,6 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -24,26 +25,16 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
-env/
-venv/
-ENV/
+# Knowledge Base and Vector IDs
+knowledge_base/
+vector_ids.json
 
-# IDE
+# IDE specific files
 .idea/
 .vscode/
 *.swp
 *.swo
+
+# OS specific files
 .DS_Store
-
-# Streamlit
-.streamlit/
-
-# Project specific
-auth_config.yaml
-*.log
-.pytest_cache/
-
-# Knowledge Base and Vector IDs
-knowledge_base/
-vector_ids.json 
+Thumbs.db 
