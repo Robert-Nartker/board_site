@@ -1,5 +1,4 @@
-# requirements.txt
-
 streamlit
-openai>=1.0.0 # Need version 1+ for AsyncOpenAI and FileSearchTool features
+openai
 nest_asyncio
+agents
