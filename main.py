@@ -2,18 +2,12 @@
 import os
 import streamlit as st
 import json # Needed for vector ID parsing early
-from dotenv import find_dotenv, load_dotenv # Needed early
 
 # --- Page Configuration (MUST be the first st command) ---
 st.set_page_config(
     page_title="Board Meeting Simulation",
     initial_sidebar_state="collapsed"
 )
-
-# --- Load Environment Variables ---
-# This loads OPENAI_API_KEY, VECTOR_IDS, and APP_PASSWORD from your .env file
-env_location = find_dotenv()
-load_dotenv(env_location)
 
 # --- Password Authentication State Initialization ---
 if "password_correct" not in st.session_state:
@@ -34,7 +28,7 @@ if not st.session_state.password_correct:
 
     # --- Load and Validate APP_PASSWORD ---
     # Load the password from environment variable *here* when needed for login
-    CORRECT_PASSWORD = os.getenv('APP_PASSWORD')
+    CORRECT_PASSWORD = st.secrets['APP_PASSWORD']
     if not CORRECT_PASSWORD:
         st.error("🚨 Critical Error: The `APP_PASSWORD` environment variable is not set in the `.env` file or system environment. Authentication cannot proceed.")
         st.stop()
@@ -89,8 +83,8 @@ else:
 
     # --- Setup --- (Load env vars needed by main app)
     # Env vars like OPENAI_API_KEY were loaded globally but re-get if needed or preferred
-    OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-    VECTOR_IDS_RAW = os.getenv('VECTOR_IDS') # Re-get or assume available
+    OPENAI_API_KEY = st.secrets['OPENAI_API_KEY']
+    VECTOR_IDS_RAW = st.secrets['VECTOR_IDS'] # Re-get or assume available
 
     if not OPENAI_API_KEY:
         st.error("OpenAI API Key not found after login. Please check environment configuration.")

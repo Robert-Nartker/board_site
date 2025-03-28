@@ -1,8 +1,5 @@
-streamlit==1.38.0
-openai==1.15.0
-python-dotenv==1.0.0
-openai-agents==0.1.0
-langchain==0.1.12
-langchain-openai==0.0.8
-chromadb==0.4.24
-tiktoken==0.6.0
+# requirements.txt
+
+streamlit
+openai>=1.0.0 # Need version 1+ for AsyncOpenAI and FileSearchTool features
+nest_asyncio
