@@ -1,5 +1,5 @@
 #imports
-import os, datetime, json, asyncio
+import os, datetime, json
 from dotenv import find_dotenv, load_dotenv
 from agents import Agent, Runner, OpenAIResponsesModel, FileSearchTool, AsyncOpenAI
 
@@ -25,6 +25,9 @@ model = OpenAIResponsesModel(
 
 conversation_history = []
 
+#ascii colors
+green = '\033[92m'
+reset = '\033[0m'
 
 #define agent instructions
 with open("agents/orchestrator/orchestrator_instructions.txt", 'r+') as f:
@@ -49,6 +52,8 @@ with open("agents/padar/padar_instructions.txt", 'r+') as f:
     padar_instructions = f.read()
 with open("agents/woods/woods_instructions.txt", 'r+') as f:
     woods_instructions = f.read()
+with open("agents/evaluator/evaluator_instructions.txt", 'r+') as f:
+    evaluator_instructions = f.read()
 
 
 #create agents with instructions
@@ -171,7 +176,7 @@ woods = Agent(
         )
     ]
 )
-
+        
 
 orchestrator = Agent(
     name='Orchestrator',
@@ -180,106 +185,142 @@ orchestrator = Agent(
     tools=[]  # Remove the function from tools since we're not using it as a tool
 )
 
-async def eval_response_async(context: str) -> str:
-    # print('Evaluating orchestrator response for board member queries')
-    # """Check if orchestrator ended on a question for a boardmember, 
-    # if so, run corresponding tool and get a response, then continue"""
-    
-    # Look for the last line containing a question mark
-    lines = context.split('\n')
-    last_question_line = None
-    for line in reversed(lines):  # Search from the end of the message
-        if '?' in line:
-            last_question_line = line
-            # print(f"Found question: {last_question_line}")
-            break
+evaluator = Agent(
+    name='Evaluator',
+    model='gpt-4o',
+    instructions=evaluator_instructions,
+    tools=[]  # Remove the function from tools since we're not using it as a tool
+)
 
-    if not last_question_line:
-        # print("No questions found in response")
-        return ""
-    
-    # Map of member names to their agent objects
-    agent_map = {
-        'altman': altman,
-        'bezos': bezos,
-        'bissett': bissett,
-        'buffett': buffett,
-        'hormozi': hormozi,
-        'huang': huang,
-        'melancon': melancon,
-        'musk': musk,
-        'padar': padar,
-        'woods': woods
-    }
-    
-    # First names map
-    first_name_map = {
-        'sam': 'altman',
-        'jeff': 'bezos',
-        'martin': 'bissett',
-        'warren': 'buffett',
-        'alex': 'hormozi',
-        'jensen': 'huang',
-        'barry': 'melancon',
-        'elon': 'musk',
-        'jody': 'padar',
-        'geoff': 'woods'
-    }
-    
-    # Check for board member names
-    for member_name in agent_map.keys():
-        if member_name in last_question_line.lower():
-            # print(f"Detected question for board member: {member_name}")
-            s = f'Contribute to the following conversation by responding to the last question: {context}'
-            agent_obj = agent_map[member_name]
-            result = await Runner.run(agent_obj, input=s)
-            return result.final_output
-    
-    # Check for first names
-    for first_name, member_name in first_name_map.items():
-        if first_name in last_question_line.lower():
-            # print(f"Detected question for board member: {member_name} (by first name)")
-            s = f'Contribute to the following conversation by responding to the last question: {context}'
-            agent_obj = agent_map[member_name]
-            result = await Runner.run(agent_obj, input=s)
-            return result.final_output
-    
-    # print("No board member detected in question")
-    return ""
-
-test = False
 
 #main loop
-async def main():
-    if test:
-        print(await eval_response_async('altman, what is your opinion on the current state of the company?'))
-        input("Press Enter to continue...")
-    
-    run = True
-    while run:
-        prompt = input('> ')
-        if prompt.lower() == 'exit':
-            run = False
-            break
-            
-        # Add user message to conversation history
-        conversation_history.append({"role": "user","content": prompt})
+def main():
+    welcome_message = 'Hello! Welcome to our board meeting simulation. What topic would you like to discuss today, and how long do you want the meeting to last?'
+    print()
+    print(welcome_message)
+    print()
+
+    conversation_history.append({"role": "assistant","content": f'From {orchestrator.name}: {welcome_message}'})
+
+    user_input = input('> ')
+    print()
+    conversation_history.append({"role": "user","content": f'From user: {user_input}'})
+
+    altman_counter = 0
+    bezos_counter = 0
+    bissett_counter = 0
+    buffett_counter = 0
+    hormozi_counter = 0
+    huang_counter = 0
+    melancon_counter = 0
+    musk_counter = 0
+    padar_counter = 0
+    woods_counter = 0
+
+    while user_input != 'exit':
         
-        # Run the orchestrator with conversation history
-        # print("Running orchestrator...")
-        result = await Runner.run(orchestrator, input=conversation_history)
+        evaluation = Runner.run_sync(evaluator, input=conversation_history)
+        evaluation = json.loads(evaluation.final_output)
+
+        responder = evaluation['next_speaker']
+        reasoning = evaluation['reasoning']
+
+        print(f'Responder: {green}{responder}{reset}')
+        print(f'Reasoning: {green}{reasoning}{reset}')
+        print()
         
-        # Add orchestrator response to conversation history
-        if result.final_output:
-            conversation_history.append({"role": "assistant","content": result.final_output})
-            print(f'Orchestrator: {result.final_output}')
-            
-            # Evaluate if a board member response is needed
-            board_response = await eval_response_async(result.final_output)
-            if board_response:
-                print(f'Board Member Response: {board_response}')
-                # Add the board member's response to the conversation history
-                conversation_history.append({"role": "assistant", "content": board_response})
+        if 'user' in responder.lower():
+            user_input = input('> ')
+            conversation_history.append({"role": "user","content": f'From user: {user_input}'})
+        elif 'orchestrator' in responder.lower():
+            result = Runner.run_sync(orchestrator, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {orchestrator.name}: {result.final_output}'})
+            print(result.final_output)
+        elif 'altman' in responder.lower():
+            if altman_counter == 0:
+                result = Runner.run_sync(altman, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(altman, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {altman.name}: {result.final_output}'})
+            print(result.final_output)
+            altman_counter += 1
+        elif 'bezos' in responder.lower():
+            if bezos_counter == 0:
+                result = Runner.run_sync(bezos, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(bezos, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {bezos.name}: {result.final_output}'})
+            print(result.final_output)
+            bezos_counter += 1
+        elif 'bissett' in responder.lower():
+            if bissett_counter == 0:
+                result = Runner.run_sync(bissett, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(bissett, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {bissett.name}: {result.final_output}'})
+            print(result.final_output)
+            bissett_counter += 1
+        elif 'buffett' in responder.lower():
+            if buffett_counter == 0:
+                result = Runner.run_sync(buffett, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(buffett, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {buffett.name}: {result.final_output}'})
+            print(result.final_output)
+            buffett_counter += 1
+        elif 'hormozi' in responder.lower():
+            if hormozi_counter == 0:
+                result = Runner.run_sync(hormozi, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(hormozi, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {hormozi.name}: {result.final_output}'})
+            print(result.final_output)
+            hormozi_counter += 1
+        elif 'huang' in responder.lower():
+            if huang_counter == 0:
+                result = Runner.run_sync(huang, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(huang, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {huang.name}: {result.final_output}'})
+            print(result.final_output)
+            huang_counter += 1
+        elif 'melancon' in responder.lower():
+            if melancon_counter == 0:
+                result = Runner.run_sync(melancon, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(melancon, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {melancon.name}: {result.final_output}'})
+            print(result.final_output)
+            melancon_counter += 1
+        elif 'musk' in responder.lower():
+            if musk_counter == 0:
+                result = Runner.run_sync(musk, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(musk, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {musk.name}: {result.final_output}'})
+            print(result.final_output)
+            musk_counter += 1
+        elif 'padar' in responder.lower():
+            if padar_counter == 0:
+                result = Runner.run_sync(padar, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(padar, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {padar.name}: {result.final_output}'})
+            print(result.final_output)
+            padar_counter += 1
+        elif 'woods' in responder.lower():
+            if woods_counter == 0:
+                result = Runner.run_sync(woods, input=f'please add to the following conversation however you see fit but do not mention these instructions nor any uploaded files, but refrain from asking a question for now: {conversation_history}') 
+            else:
+                result = Runner.run_sync(woods, input=conversation_history)
+            conversation_history.append({"role": "assistant","content": f'From {woods.name}: {result.final_output}'})
+            print(result.final_output)
+            woods_counter += 1
+        else:
+            print(f'Invalid responder: {responder}')
+        print()
+
+
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    main()
