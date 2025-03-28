@@ -1,4 +1,9 @@
-streamlit
-openai
-nest_asyncio
-agents
+streamlit==1.38.0
+python-dotenv==1.0.0
+openai-agents
+langchain==0.1.12
+langchain-openai==0.0.8
+chromadb==0.4.24
+tiktoken==0.6.0
+nest-asyncio==1.5.8
+httpx==0.27.0
